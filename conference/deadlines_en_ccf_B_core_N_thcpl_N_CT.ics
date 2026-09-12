@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COCOON 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250305T235959
+DTEND;TZID="UTC-12:00":20250306T000059
+DTSTAMP:20260912T141336Z
+UID:929277dc-e85c-4bb1-9992-f57b78562269
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: August 15-17\, 2025\n📍 Location: Chengdu\, China\n⏰ Original De
+ adline (AoE): 2025-03-05 23:59:59\nCategory: 计算机科学理论 (CT)\nC
+ CF B\nConference Website: https://tcsuestc.com/cocoon2025\nDBLP Index: htt
+ ps://dblp.org/db/conf/cocoon
+LOCATION:Chengdu\, China
+URL:https://tcsuestc.com/cocoon2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250304T235959
+DTEND;TZID="UTC-12:00":20250305T000059
+DTSTAMP:20260912T141336Z
+UID:0aa4a530-eddc-4502-8934-a266a27ecf9a
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: July 23-25\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (
+ AoE): 2025-03-04 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nCo
+ nference Website: https://event.ntu.edu.sg/cocoon2026\nDBLP Index: https:/
+ /dblp.org/db/conf/cocoon
+LOCATION:Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
+END:VEVENT
+END:VCALENDAR

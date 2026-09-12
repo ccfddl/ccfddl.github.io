@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDM 2021 截稿日期
+DTSTART;TZID="UTC+08:00":20210612T145900
+DTEND;TZID="UTC+08:00":20210612T150000
+DTSTAMP:20260912T141306Z
+UID:9e92c1e0-8d5a-457a-9542-55cbda708808
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: December 7-10\, 2021\n📍 会议地点: Auckland\, New Zealand\n
+ ⏰ 原始截止时间 (UTC+8): 2021-06-12 14:59:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http
+ s://icdm2021.auckland.ac.nz/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Auckland\, New Zealand
+URL:https://icdm2021.auckland.ac.nz/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDM 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20220610T235900
+DTEND;TZID="UTC-07:00":20220611T000000
+DTSTAMP:20260912T141306Z
+UID:2871316b-1f40-4deb-89d0-cd0327cba868
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 30 - December 3\n📍 会议地点: Orlando\, FL\, USA\n
+ ⏰ 原始截止时间 (UTC-7): 2022-06-10 23:59:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http
+ s://icdm22.cse.usf.edu/key-dates.html\nDBLP索引: https://dblp.org/db/con
+ f/icdm
+LOCATION:Orlando\, FL\, USA
+URL:https://icdm22.cse.usf.edu/key-dates.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2023 截稿日期
+DTSTART;TZID="UTC+08:00":20230701T235959
+DTEND;TZID="UTC+08:00":20230702T000059
+DTSTAMP:20260912T141306Z
+UID:9eb1521c-3373-4dc9-99b7-e92f69fd93a0
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: December 1-4\, 2023\n📍 会议地点: Shanghai\, China\n⏰ 原
+ 始截止时间 (UTC+8): 2023-07-01 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http://clo
+ ud-conf.net/icdm2023/index.html\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Shanghai\, China
+URL:http://cloud-conf.net/icdm2023/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDM 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240614T235959
+DTEND;TZID="UTC-12:00":20240615T000059
+DTSTAMP:20260912T141306Z
+UID:8f19b3ee-9d50-4ed9-be82-a1cb1c1e7272
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: December 9-12\, 2024\n📍 会议地点: Abu Dhabi\, UAE\n⏰ 原
+ 始截止时间 (AoE): 2024-06-14 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: https://icdm2
+ 024.org/dates/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Abu Dhabi\, UAE
+URL:https://icdm2024.org/dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250606T235959
+DTEND;TZID="UTC-12:00":20250607T000059
+DTSTAMP:20260912T141306Z
+UID:6be0f234-eb1e-4d20-866f-9574c734a862
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 12-15\, 2025\n📍 会议地点: Washington DC\, USA\n⏰
+  原始截止时间 (AoE): 2025-06-06 23:59:59\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: https:/
+ /www3.cs.stonybrook.edu/~icdm2025/cfp.html\nDBLP索引: https://dblp.org/d
+ b/conf/icdm
+LOCATION:Washington DC\, USA
+URL:https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260530T235959
+DTEND;TZID="UTC-12:00":20260531T000059
+DTSTAMP:20260912T141306Z
+UID:5f06b449-4e67-4678-bc37-e54d3cb42b36
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 12-15\, 2026\n📍 会议地点: Shenyang\, China\n⏰ 
+ 原始截止时间 (AoE): 2026-05-30 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http://icd
+ m2026.neu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Shenyang\, China
+URL:http://icdm2026.neu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260606T235959
+DTEND;TZID="UTC-12:00":20260607T000059
+DTSTAMP:20260912T141306Z
+UID:d4289bab-34b8-4ae5-b157-ac8da70dc81e
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 12-15\, 2026\n📍 会议地点: Shenyang\, China\n⏰ 
+ 原始截止时间 (AoE): 2026-06-06 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http://icd
+ m2026.neu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Shenyang\, China
+URL:http://icdm2026.neu.edu.cn/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230901T235959
+DTEND;TZID="UTC-12:00":20230902T000059
+DTSTAMP:20260912T141346Z
+UID:852d3e84-2e5c-4762-b856-c368e30ad63a
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 10-13\, 2023\n📍 Location: BITS Pilani Goa\, India\n⏰ Origin
+ al Deadline (UTC-12): 2023-09-01 23:59:59\nCategory: 网络与信息安全
+  (SC)\nConference Website: https://crsind.in/indocrypt2023/\nDBLP Index: h
+ ttps://dblp.org/db/conf/indocrypt
+LOCATION:BITS Pilani Goa\, India
+URL:https://crsind.in/indocrypt2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250901T235959
+DTEND;TZID="UTC-12:00":20250902T000059
+DTSTAMP:20260912T141346Z
+UID:b7c54f60-99d0-4594-8a7d-7380824d8ca6
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 14-17\, 2025\n📍 Location: IIIT Bhubaneswar\, Odisha\, India\n
+ ⏰ Original Deadline (UTC-12): 2025-09-01 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nConference Website: https://www.indocrypt2025.in/\nDBLP
+  Index: https://dblp.org/db/conf/indocrypt
+LOCATION:IIIT Bhubaneswar\, Odisha\, India
+URL:https://www.indocrypt2025.in/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260929T235959
+DTEND;TZID="UTC-12:00":20260930T000059
+DTSTAMP:20260912T141346Z
+UID:28f5ee7a-8be9-4f87-8ba0-20566c52db3d
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: May 2027 (exact dates TBD)\n📍 Location: Reykjavik\, Icela
+ nd\n⏰ Original Deadline (UTC-12): 2026-09-29 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nConference Website: https://satml.org/\nDBLP Index: 
+ https://dblp.org/db/conf/satml
+LOCATION:Reykjavik\, Iceland
+URL:https://satml.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250924T235959
+DTEND;TZID="UTC-12:00":20250925T000059
+DTSTAMP:20260912T141346Z
+UID:7244ed84-e762-4fc9-8301-4ee7662a6a5c
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: March 23-25\, 2026\n📍 Location: Munich\, Germany\n⏰ Ori
+ ginal Deadline (UTC-12): 2025-09-24 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nConference Website: https://www.satml.org\nDBLP Index: https://d
+ blp.org/db/conf/satml
+LOCATION:Munich\, Germany
+URL:https://www.satml.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240927T235959
+DTEND;TZID="UTC-12:00":20240928T000059
+DTSTAMP:20260912T141346Z
+UID:6e9f941d-f76f-494a-b0bf-1cd63fa76522
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: April 9-11\, 2025\n📍 Location: Copenhagen\, Denmark\n⏰ 
+ Original Deadline (UTC-12): 2024-09-27 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nConference Website: https://satml.org/2025/\nDBLP Index: http
+ s://dblp.org/db/conf/satml
+LOCATION:Copenhagen\, Denmark
+URL:https://satml.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231011T235959
+DTEND;TZID="UTC-12:00":20231012T000059
+DTSTAMP:20260912T141346Z
+UID:bb46f00a-35f3-4c3f-afa4-cedd15439947
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: April 9-11\, 2024\n📍 Location: Toronto\, Canada\n⏰ Orig
+ inal Deadline (UTC-12): 2023-10-11 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nConference Website: https://satml.org/2024/\nDBLP Index: https:/
+ /dblp.org/db/conf/satml
+LOCATION:Toronto\, Canada
+URL:https://satml.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2023 Deadline
+DTSTART;TZID="UTC-12:00":20220901T235959
+DTEND;TZID="UTC-12:00":20220902T000059
+DTSTAMP:20260912T141346Z
+UID:dd434f28-332a-434f-a808-928ba7a629c2
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: February 8-10\, 2023\n📍 Location: Raleigh\, North Carolin
+ a\, USA\n⏰ Original Deadline (UTC-12): 2022-09-01 23:59:59\nCategory: 
+ 网络与信息安全 (SC)\nConference Website: https://satml.org/2023/\nD
+ BLP Index: https://dblp.org/db/conf/satml
+LOCATION:Raleigh\, North Carolina\, USA
+URL:https://satml.org/2023/
+END:VEVENT
+END:VCALENDAR

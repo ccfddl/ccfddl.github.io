@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NAACL 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220115T235959
+DTEND;TZID="UTC-12:00":20220116T000059
+DTSTAMP:20260912T141301Z
+UID:e394b0c7-c058-4320-8bec-d57e743920a3
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ 会议时间: July 10-15\,
+  2022\n📍 会议地点: Washington DC\, USA\n⏰ 原始截止时间 (UTC
+ -12): 2022-01-15 23:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://2022.naacl.org/\nDBLP索引: https://dblp.org/
+ db/conf/naacl
+LOCATION:Washington DC\, USA
+URL:https://2022.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAACL 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20231215T235959
+DTEND;TZID="UTC-12:00":20231216T000059
+DTSTAMP:20260912T141301Z
+UID:a9f06943-d96c-4da6-b650-c9d439978401
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ 会议时间: June 16-21\,
+  2024\n📍 会议地点: Mexico City\, Mexico\n⏰ 原始截止时间 (UT
+ C-12): 2023-12-15 23:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A\, TH
+ CPL B\n会议官网: https://2024.naacl.org/\nDBLP索引: https://dblp.org
+ /db/conf/naacl
+LOCATION:Mexico City\, Mexico
+URL:https://2024.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAACL 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241015T235959
+DTEND;TZID="UTC-12:00":20241016T000059
+DTSTAMP:20260912T141301Z
+UID:6df562e8-35e9-4d65-a509-6fb583e9580f
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ 会议时间: April 29-May
+  4\, 2025\n📍 会议地点: Albuquerque\, New Mexico\, USA\n⏰ 原始
+ 截止时间 (UTC-12): 2024-10-15 23:59:59\n分类: 人工智能 (AI)\nCCF
+  B\, CORE A\, THCPL B\n会议官网: https://2025.naacl.org/\nDBLP索引: 
+ https://dblp.org/db/conf/naacl
+LOCATION:Albuquerque\, New Mexico\, USA
+URL:https://2025.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAACL 2027 截稿日期 [ARR Submission]
+DTSTART;TZID="UTC-12:00":20261012T235959
+DTEND;TZID="UTC-12:00":20261013T000059
+DTSTAMP:20260912T141301Z
+UID:de173791-2b00-4f1a-a751-8a502a0b7ecb
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ 会议时间: June 1-5\, 2
+ 027\n📍 会议地点: San Francisco\, California\, USA\n⏰ 原始截止
+ 时间 (UTC-12): 2026-10-12 23:59:59\n分类: 人工智能 (AI)\nCCF B\, C
+ ORE A\, THCPL B\n会议官网: https://2027.naacl.org/\nDBLP索引: https:
+ //dblp.org/db/conf/naacl
+LOCATION:San Francisco\, California\, USA
+URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:UAI 2021 截稿日期
+DTSTART:20210219T235959Z
+DTEND:20210220T000059Z
+DTSTAMP:20260912T141301Z
+UID:f5c46893-add8-45da-a109-53c7acad70cf
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ 会议时间: July 27-29\, 2021\n📍 会议地点: Virtual\n⏰ 原始截
+ 止时间 (UTC+0): 2021-02-19 23:59:59\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A\, THCPL B\n会议官网: http://auai.org/uai2021/\nDBLP索引: htt
+ ps://dblp.org/db/conf/uai
+LOCATION:Virtual
+URL:http://auai.org/uai2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230217T235959
+DTEND;TZID="UTC-12:00":20230218T000059
+DTSTAMP:20260912T141301Z
+UID:38f6f7c8-a130-43fa-ad12-0ea422f78eac
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ 会议时间: August 1-3\, 2023\n📍 会议地点: Pittsburgh\, PA\, USA
+ \n⏰ 原始截止时间 (AoE): 2023-02-17 23:59:59\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A\, THCPL B\n会议官网: http://auai.org/uai2023/\nDB
+ LP索引: https://dblp.org/db/conf/uai
+LOCATION:Pittsburgh\, PA\, USA
+URL:http://auai.org/uai2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240209T235959
+DTEND;TZID="UTC-12:00":20240210T000059
+DTSTAMP:20260912T141301Z
+UID:9ad9e49b-9a07-44e5-8578-45f570937655
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ 会议时间: July 15-19\, 2024\n📍 会议地点: Barcelona\, Spain\n⏰
+  原始截止时间 (AoE): 2024-02-09 23:59:59\n分类: 人工智能 (AI)
+ \nCCF B\, CORE A\, THCPL B\n会议官网: http://auai.org/uai2024/\nDBLP
+ 索引: https://dblp.org/db/conf/uai
+LOCATION:Barcelona\, Spain
+URL:http://auai.org/uai2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250210T235959
+DTEND;TZID="UTC-12:00":20250211T000059
+DTSTAMP:20260912T141301Z
+UID:5eb2cbed-ed42-4997-b75f-c5878838713a
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ 会议时间: July 21-25\, 2025\n📍 会议地点: Rio de Janeiro\, Brazi
+ l\n⏰ 原始截止时间 (AoE): 2025-02-10 23:59:59\n分类: 人工智能
+  (AI)\nCCF B\, CORE A\, THCPL B\n会议官网: https://www.auai.org/uai202
+ 5/\nDBLP索引: https://dblp.org/db/conf/uai
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://www.auai.org/uai2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260225T235959
+DTEND;TZID="UTC-12:00":20260226T000059
+DTSTAMP:20260912T141301Z
+UID:1958efe7-39ba-4f0f-b4da-709a174c5e0a
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ 会议时间: August 17-21\, 2026\n📍 会议地点: Amsterdam\, Netherla
+ nds\n⏰ 原始截止时间 (AoE): 2026-02-25 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF B\, CORE A\, THCPL B\n会议官网: https://www.auai.org/uai
+ 2026/\nDBLP索引: https://dblp.org/db/conf/uai
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.auai.org/uai2026/
+END:VEVENT
+END:VCALENDAR

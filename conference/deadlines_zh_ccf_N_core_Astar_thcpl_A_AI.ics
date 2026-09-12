@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:RSS 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230203T235959
+DTEND;TZID="UTC-12:00":20230204T000059
+DTSTAMP:20260912T141301Z
+UID:570f649f-1b81-4226-960d-d7d86f2f826d
+DESCRIPTION:Robotics Science and Systems\n🗓️ 会议时间: July 10-14
+ \, 2023\n📍 会议地点: Daegu\, Republic of Korea\n⏰ 原始截止时
+ 间 (AoE): 2023-02-03 23:59:59\n分类: 人工智能 (AI)\nCORE A*\, THCPL
+  A\n会议官网: https://roboticsconference.org/\nDBLP索引: https://dbl
+ p.org/db/conf/rss
+LOCATION:Daegu\, Republic of Korea
+URL:https://roboticsconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240202T235900
+DTEND;TZID="UTC-12:00":20240203T000000
+DTSTAMP:20260912T141301Z
+UID:2a641f40-cd7f-4ce5-a5fe-2b9f21374563
+DESCRIPTION:Robotics Science and Systems\n🗓️ 会议时间: July 15-19
+ \, 2024\n📍 会议地点: Delft\, Netherlands\n⏰ 原始截止时间 (A
+ oE): 2024-02-02 23:59:00\n分类: 人工智能 (AI)\nCORE A*\, THCPL A\n
+ 会议官网: https://roboticsconference.org/\nDBLP索引: https://dblp.or
+ g/db/conf/rss
+LOCATION:Delft\, Netherlands
+URL:https://roboticsconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250117T235900
+DTEND;TZID="UTC-12:00":20250118T000000
+DTSTAMP:20260912T141301Z
+UID:0bf5cd77-4315-4296-bba0-a9f0a90f1d77
+DESCRIPTION:Robotics Science and Systems\n🗓️ 会议时间: June 21-25
+ \, 2025\n📍 会议地点: Los Angeles\, California\, USA\n⏰ 原始截
+ 止时间 (AoE): 2025-01-17 23:59:00\n分类: 人工智能 (AI)\nCORE A*\,
+  THCPL A\n会议官网: https://roboticsconference.org\nDBLP索引: https:
+ //dblp.org/db/conf/rss
+LOCATION:Los Angeles\, California\, USA
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250124T235900
+DTEND;TZID="UTC-12:00":20250125T000000
+DTSTAMP:20260912T141301Z
+UID:7ffd8ee3-951c-4dfe-9883-adef50232fe2
+DESCRIPTION:Robotics Science and Systems\n🗓️ 会议时间: June 21-25
+ \, 2025\n📍 会议地点: Los Angeles\, California\, USA\n⏰ 原始截
+ 止时间 (AoE): 2025-01-24 23:59:00\n分类: 人工智能 (AI)\nCORE A*\,
+  THCPL A\n会议官网: https://roboticsconference.org\nDBLP索引: https:
+ //dblp.org/db/conf/rss
+LOCATION:Los Angeles\, California\, USA
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260123T235900
+DTEND;TZID="UTC-12:00":20260124T000000
+DTSTAMP:20260912T141301Z
+UID:21e95181-d1c9-4a92-a8c3-3b29875a0a62
+DESCRIPTION:Robotics Science and Systems\n🗓️ 会议时间: July 13-17
+ \, 2026\n📍 会议地点: Sydney\, Australia\n⏰ 原始截止时间 (Ao
+ E): 2026-01-23 23:59:00\n分类: 人工智能 (AI)\nCORE A*\, THCPL A\n会
+ 议官网: https://roboticsconference.org\nDBLP索引: https://dblp.org/db
+ /conf/rss
+LOCATION:Sydney\, Australia
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260130T235900
+DTEND;TZID="UTC-12:00":20260131T000000
+DTSTAMP:20260912T141301Z
+UID:38cb5dc8-0793-4095-bfe4-03731e69df3f
+DESCRIPTION:Robotics Science and Systems\n🗓️ 会议时间: July 13-17
+ \, 2026\n📍 会议地点: Sydney\, Australia\n⏰ 原始截止时间 (Ao
+ E): 2026-01-30 23:59:00\n分类: 人工智能 (AI)\nCORE A*\, THCPL A\n会
+ 议官网: https://roboticsconference.org\nDBLP索引: https://dblp.org/db
+ /conf/rss
+LOCATION:Sydney\, Australia
+URL:https://roboticsconference.org
+END:VEVENT
+END:VCALENDAR

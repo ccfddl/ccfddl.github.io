@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 Abstract Deadline
+DTSTART;TZID="UTC+10:00":20240907T195959
+DTEND;TZID="UTC+10:00":20240907T200059
+DTSTAMP:20260912T141346Z
+UID:59207709-0b0e-4980-9047-9fca3197f506
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 12-16\, 2025\n📍 Location: Honolulu\, HI\, USA\n⏰ Original 
+ Deadline (UTC+10): 2024-09-07 19:59:59\nCategory: 网络与信息安全 (S
+ C)\nCORE B\, THCPL B\nConference Website: https://noms2025.ieee-noms.org/
+ \nDBLP Index: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 Deadline
+DTSTART;TZID="UTC+10:00":20240914T195959
+DTEND;TZID="UTC+10:00":20240914T200059
+DTSTAMP:20260912T141346Z
+UID:9b3eed8e-3eb5-4572-b8ed-bb9572991b96
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 12-16\, 2025\n📍 Location: Honolulu\, HI\, USA\n⏰ Original 
+ Deadline (UTC+10): 2024-09-14 19:59:59\nCategory: 网络与信息安全 (S
+ C)\nCORE B\, THCPL B\nConference Website: https://noms2025.ieee-noms.org/
+ \nDBLP Index: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2026 Deadline
+DTSTART;TZID="UTC+10:00":20251013T195959
+DTEND;TZID="UTC+10:00":20251013T200059
+DTSTAMP:20260912T141346Z
+UID:f933d319-330c-4735-a1ad-5f50764603bb
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 18-22\, 2026\n📍 Location: Rome\, Italy\n⏰ Original Deadlin
+ e (UTC+10): 2025-10-13 19:59:59\nCategory: 网络与信息安全 (SC)\nCOR
+ E B\, THCPL B\nConference Website: https://noms2026.ieee-noms.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/noms
+LOCATION:Rome\, Italy
+URL:https://noms2026.ieee-noms.org/
+END:VEVENT
+END:VCALENDAR

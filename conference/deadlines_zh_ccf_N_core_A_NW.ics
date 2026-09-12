@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MMSys 2026 摘要截稿 [Round 2 deadline]
+DTSTART;TZID="UTC-12:00":20251114T235959
+DTEND;TZID="UTC-12:00":20251115T000059
+DTSTAMP:20260912T141312Z
+UID:0158418b-b313-4429-b1ca-03bc7e16366b
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ 
+ 会议时间: April 4 - 8\, 2026\n📍 会议地点: Hong Kong SAR\n⏰ 
+ 原始截止时间 (AoE): 2025-11-14 23:59:59\n分类: 计算机网络 (NW
+ )\nCORE A\n会议官网: https://2026.acmmmsys.org\nDBLP索引: https://db
+ lp.org/db/conf/mmsys
+LOCATION:Hong Kong SAR
+URL:https://2026.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMSys 2026 截稿日期 [Round 2 deadline]
+DTSTART;TZID="UTC-12:00":20251121T235959
+DTEND;TZID="UTC-12:00":20251122T000059
+DTSTAMP:20260912T141312Z
+UID:03509d89-4239-4c34-90d8-6c9b9b865a56
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ 
+ 会议时间: April 4 - 8\, 2026\n📍 会议地点: Hong Kong SAR\n⏰ 
+ 原始截止时间 (AoE): 2025-11-21 23:59:59\n分类: 计算机网络 (NW
+ )\nCORE A\n会议官网: https://2026.acmmmsys.org\nDBLP索引: https://db
+ lp.org/db/conf/mmsys
+LOCATION:Hong Kong SAR
+URL:https://2026.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMSys 2027 摘要截稿
+DTSTART;TZID="UTC-12:00":20260910T235959
+DTEND;TZID="UTC-12:00":20260911T000059
+DTSTAMP:20260912T141312Z
+UID:73b80299-805a-4afc-9f9d-a6aaa02779b7
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ 
+ 会议时间: March 30 - April 2\, 2027\n📍 会议地点: Ghent\, Belgiu
+ m\n⏰ 原始截止时间 (AoE): 2026-09-10 23:59:59\n分类: 计算机网
+ 络 (NW)\nCORE A\n会议官网: https://2027.acmmmsys.org\nDBLP索引: htt
+ ps://dblp.org/db/conf/mmsys
+LOCATION:Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMSys 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20260917T235959
+DTEND;TZID="UTC-12:00":20260918T000059
+DTSTAMP:20260912T141312Z
+UID:601c804e-a553-4139-9dad-7f5594991983
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ 
+ 会议时间: March 30 - April 2\, 2027\n📍 会议地点: Ghent\, Belgiu
+ m\n⏰ 原始截止时间 (AoE): 2026-09-17 23:59:59\n分类: 计算机网
+ 络 (NW)\nCORE A\n会议官网: https://2027.acmmmsys.org\nDBLP索引: htt
+ ps://dblp.org/db/conf/mmsys
+LOCATION:Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MMSys 2026 Abstract Deadline [Round 2 deadline]
+DTSTART;TZID="UTC-12:00":20251114T235959
+DTEND;TZID="UTC-12:00":20251115T000059
+DTSTAMP:20260912T141343Z
+UID:3cfd9d86-a442-4489-ad2d-5e6238da388a
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ Da
+ te: April 4 - 8\, 2026\n📍 Location: Hong Kong SAR\n⏰ Original Deadlin
+ e (AoE): 2025-11-14 23:59:59\nCategory: 计算机网络 (NW)\nCORE A\nConf
+ erence Website: https://2026.acmmmsys.org\nDBLP Index: https://dblp.org/db
+ /conf/mmsys
+LOCATION:Hong Kong SAR
+URL:https://2026.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMSys 2026 Deadline [Round 2 deadline]
+DTSTART;TZID="UTC-12:00":20251121T235959
+DTEND;TZID="UTC-12:00":20251122T000059
+DTSTAMP:20260912T141343Z
+UID:aba9d440-f5cb-42fc-be07-3fa1560f28bf
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ Da
+ te: April 4 - 8\, 2026\n📍 Location: Hong Kong SAR\n⏰ Original Deadlin
+ e (AoE): 2025-11-21 23:59:59\nCategory: 计算机网络 (NW)\nCORE A\nConf
+ erence Website: https://2026.acmmmsys.org\nDBLP Index: https://dblp.org/db
+ /conf/mmsys
+LOCATION:Hong Kong SAR
+URL:https://2026.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMSys 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260910T235959
+DTEND;TZID="UTC-12:00":20260911T000059
+DTSTAMP:20260912T141343Z
+UID:45a70898-0025-4969-84e3-527e101b4a5b
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ Da
+ te: March 30 - April 2\, 2027\n📍 Location: Ghent\, Belgium\n⏰ Origina
+ l Deadline (AoE): 2026-09-10 23:59:59\nCategory: 计算机网络 (NW)\nCOR
+ E A\nConference Website: https://2027.acmmmsys.org\nDBLP Index: https://db
+ lp.org/db/conf/mmsys
+LOCATION:Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMSys 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260917T235959
+DTEND;TZID="UTC-12:00":20260918T000059
+DTSTAMP:20260912T141343Z
+UID:a1b5f30e-0f91-43f7-a907-5690dbd68177
+DESCRIPTION:ACM International Conference on Multimedia Systems\n🗓️ Da
+ te: March 30 - April 2\, 2027\n📍 Location: Ghent\, Belgium\n⏰ Origina
+ l Deadline (AoE): 2026-09-17 23:59:59\nCategory: 计算机网络 (NW)\nCOR
+ E A\nConference Website: https://2027.acmmmsys.org\nDBLP Index: https://db
+ lp.org/db/conf/mmsys
+LOCATION:Ghent\, Belgium
+URL:https://2027.acmmmsys.org
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+03:00
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2025 Deadline
+DTSTART;TZID="UTC+03:00":20251020T235959
+DTEND;TZID="UTC+03:00":20251021T000059
+DTSTAMP:20260912T141343Z
+UID:3a1d1709-3385-4dad-8867-c76dc621e0a9
+DESCRIPTION:International Wireless Internet Conference\n🗓️ Date: Dece
+ mber 19\, 2025\n📍 Location: Istanbul\, Turkey (Online)\n⏰ Original De
+ adline (UTC+3): 2025-10-20 23:59:59\nCategory: 计算机网络 (NW)\nConfe
+ rence Website: https://wicon.eai-conferences.org/2025/\nDBLP Index: https:
+ //dblp.org/db/conf/wicon
+LOCATION:Istanbul\, Turkey (Online)
+URL:https://wicon.eai-conferences.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2026 Deadline
+DTSTART;TZID="UTC+03:00":20260601T235959
+DTEND;TZID="UTC+03:00":20260602T000059
+DTSTAMP:20260912T141343Z
+UID:a3badf2f-1663-420f-9e6b-43e7768edd5c
+DESCRIPTION:International Wireless Internet Conference\n🗓️ Date: Dece
+ mber 2-4\, 2026\n📍 Location: Bratislava\, Slovakia\n⏰ Original Deadli
+ ne (UTC+3): 2026-06-01 23:59:59\nCategory: 计算机网络 (NW)\nConferenc
+ e Website: https://wicon.eai-conferences.org/2026/\nDBLP Index: https://db
+ lp.org/db/conf/wicon
+LOCATION:Bratislava\, Slovakia
+URL:https://wicon.eai-conferences.org/2026/
+END:VEVENT
+END:VCALENDAR

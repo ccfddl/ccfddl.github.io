@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-06:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-06:00
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 Deadline [Early Submission]
+DTSTART;TZID="UTC-06:00":20240226T000000
+DTEND;TZID="UTC-06:00":20240226T000100
+DTSTAMP:20260912T141332Z
+UID:cbc05323-9dff-4c7c-b795-3fb61dea28cc
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : June 1-4\, 2024\n📍 Location: Merida\, Yucatan\, Mexico\n⏰ Original 
+ Deadline (UTC-6): 2024-02-26 00:00:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE C\nConference Website: https://www.iccbr2024.org/\nDBLP Index: htt
+ ps://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://www.iccbr2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 Deadline [Late Submission]
+DTSTART;TZID="UTC-06:00":20240402T000000
+DTEND;TZID="UTC-06:00":20240402T000100
+DTSTAMP:20260912T141332Z
+UID:6606df4d-d1f6-47d6-9b41-ceec3940ec6b
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : June 1-4\, 2024\n📍 Location: Merida\, Yucatan\, Mexico\n⏰ Original 
+ Deadline (UTC-6): 2024-04-02 00:00:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE C\nConference Website: https://www.iccbr2024.org/\nDBLP Index: htt
+ ps://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://www.iccbr2024.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20260912T141332Z
+UID:1919fb1d-152a-4045-96c2-31d18319594b
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : August 13-16\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadl
+ ine (AoE): 2026-03-20 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ C\nConference Website: https://2026.iccbr.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+END:VCALENDAR

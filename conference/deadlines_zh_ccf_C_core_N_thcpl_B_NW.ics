@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HotNets 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260716T235959
+DTEND;TZID="UTC-12:00":20260717T000059
+DTSTAMP:20260912T141311Z
+UID:14ce9c6b-35c8-465d-83d4-5b2e8830649e
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 16-17\, 2026\n📍 会议地点: Salt Lake City\, Utah\, USA\n⏰
+  原始截止时间 (UTC-12): 2026-07-16 23:59:59\n分类: 计算机网络
+  (NW)\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotn
+ ets/2026/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://conferences.sigcomm.org/hotnets/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241011T235959
+DTEND;TZID="UTC-12:00":20241012T000059
+DTSTAMP:20260912T141311Z
+UID:c2cefd2f-b568-44cc-8614-f136d67647c6
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: June 8-12\, 2025\n📍 会议地点: Palais des congrès de Mon
+ tréal in Montreal\, Quebec\, Canada\n⏰ 原始截止时间 (AoE): 2024-1
+ 0-11 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, THCPL B\n会议官网
+ : https://icc2025.ieee-icc.org\nDBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Palais des congrès de Montréal in Montreal\, Quebec\, Canada
+URL:https://icc2025.ieee-icc.org
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICC 2026 截稿日期
+DTSTART;TZID="UTC-04:00":20251031T005959
+DTEND;TZID="UTC-04:00":20251031T010059
+DTSTAMP:20260912T141311Z
+UID:277e5065-637a-4630-938f-c26f8b74724b
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 24-28\, 2026\n📍 会议地点: Glasgow\, Scotland\, UK\n
+ ⏰ 原始截止时间 (UTC-4): 2025-10-31 00:59:59\n分类: 计算机网
+ 络 (NW)\nCCF C\, THCPL B\n会议官网: https://icc2026.ieee-icc.org\nDBL
+ P索引: https://dblp.org/db/conf/icc
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://icc2026.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2027 截稿日期
+DTSTART;TZID="UTC-04:00":20261002T235959
+DTEND;TZID="UTC-04:00":20261003T000059
+DTSTAMP:20260912T141311Z
+UID:1f3385cd-ed29-42cc-84f7-9a91666fb3a4
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 30 - June 3\, 2027\n📍 会议地点: Washington\, DC\, US
+ A\n⏰ 原始截止时间 (UTC-4): 2026-10-02 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF C\, THCPL B\n会议官网: https://icc2027.ieee-icc.org\n
+ DBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Washington\, DC\, USA
+URL:https://icc2027.ieee-icc.org
+END:VEVENT
+END:VCALENDAR

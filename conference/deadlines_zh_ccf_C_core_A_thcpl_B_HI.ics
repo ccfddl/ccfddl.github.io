@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ASSETS 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250416T235959
+DTEND;TZID="UTC-12:00":20250417T000059
+DTSTAMP:20260912T141309Z
+UID:8775484a-a6b2-4afe-81bf-9e6b9a57fc95
+DESCRIPTION:ACM SIGACCESS Conference on Computers and Accessibility\n🗓
+ ️ 会议时间: Oct 26 - 29\, 2025\n📍 会议地点: Denver\, Colorado
+ \n⏰ 原始截止时间 (AoE): 2025-04-16 23:59:59\n分类: 人机交互
+ 与普适计算 (HI)\nCCF C\, CORE A\, THCPL B\n会议官网: https://asse
+ ts25.sigaccess.org/\nDBLP索引: https://dblp.org/db/conf/assets
+LOCATION:Denver\, Colorado
+URL:https://assets25.sigaccess.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250113T235959
+DTEND;TZID="UTC-12:00":20250114T000059
+DTSTAMP:20260912T141309Z
+UID:c7013658-c7ef-481a-8864-a755e30bb7c7
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ 会
+ 议时间: July 5 - 9\, 2025\n📍 会议地点: Funchal\, Madeira\, Portu
+ gal\n⏰ 原始截止时间 (AoE): 2025-01-13 23:59:59\n分类: 人机交
+ 互与普适计算 (HI)\nCCF C\, CORE A\, THCPL B\n会议官网: https://d
+ is.acm.org/2025/\nDBLP索引: https://dblp.org/db/conf/ACMdis
+LOCATION:Funchal\, Madeira\, Portugal
+URL:https://dis.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250120T235959
+DTEND;TZID="UTC-12:00":20250121T000059
+DTSTAMP:20260912T141309Z
+UID:1725cf2a-c49d-4dbe-92a4-f39357631c6e
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ 会
+ 议时间: July 5 - 9\, 2025\n📍 会议地点: Funchal\, Madeira\, Portu
+ gal\n⏰ 原始截止时间 (AoE): 2025-01-20 23:59:59\n分类: 人机交
+ 互与普适计算 (HI)\nCCF C\, CORE A\, THCPL B\n会议官网: https://d
+ is.acm.org/2025/\nDBLP索引: https://dblp.org/db/conf/ACMdis
+LOCATION:Funchal\, Madeira\, Portugal
+URL:https://dis.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260109T235959
+DTEND;TZID="UTC-12:00":20260110T000059
+DTSTAMP:20260912T141309Z
+UID:50373285-e340-4e33-bcfc-db0ee6ff9067
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ 会
+ 议时间: June 13 - 17\, 2026\n📍 会议地点: Singapore\n⏰ 原始
+ 截止时间 (AoE): 2026-01-09 23:59:59\n分类: 人机交互与普适计
+ 算 (HI)\nCCF C\, CORE A\, THCPL B\n会议官网: https://dis.acm.org/2026
+ /\nDBLP索引: https://dblp.org/db/conf/ACMdis
+LOCATION:Singapore
+URL:https://dis.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20260912T141309Z
+UID:409b9d44-edba-43c3-9b8b-e0e1dc7c7de9
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ 会
+ 议时间: June 13 - 17\, 2026\n📍 会议地点: Singapore\n⏰ 原始
+ 截止时间 (AoE): 2026-01-19 23:59:59\n分类: 人机交互与普适计
+ 算 (HI)\nCCF C\, CORE A\, THCPL B\n会议官网: https://dis.acm.org/2026
+ /\nDBLP索引: https://dblp.org/db/conf/ACMdis
+LOCATION:Singapore
+URL:https://dis.acm.org/2026/
+END:VEVENT
+END:VCALENDAR

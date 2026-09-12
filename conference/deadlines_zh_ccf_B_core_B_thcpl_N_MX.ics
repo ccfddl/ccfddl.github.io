@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2023 截稿日期
+DTSTART;TZID="UTC+08:00":20230201T235959
+DTEND;TZID="UTC+08:00":20230202T000059
+DTSTAMP:20260912T141311Z
+UID:cfcd4050-adb0-41f9-b5ef-4349bb157738
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ 会
+ 议时间: July 26-29\, 2023\n📍 会议地点: Sydney\, Australia\n⏰ 
+ 原始截止时间 (UTC+8): 2023-02-01 23:59:59\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF B\, CORE B\n会议官网: https://cognitivesciencesociety.or
+ g/cogsci-2023/\nDBLP索引: https://dblp.org/db/conf/cogsci
+LOCATION:Sydney\, Australia
+URL:https://cognitivesciencesociety.org/cogsci-2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2024 截稿日期
+DTSTART;TZID="UTC+08:00":20240201T235959
+DTEND;TZID="UTC+08:00":20240202T000059
+DTSTAMP:20260912T141311Z
+UID:f1a6ccec-3f99-4727-ae15-171a17f2ec54
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ 会
+ 议时间: July 24-27\, 2024\n📍 会议地点: Rotterdam\, Netherlands\n
+ ⏰ 原始截止时间 (UTC+8): 2024-02-01 23:59:59\n分类: 交叉/综合
+ /新兴 (MX)\nCCF B\, CORE B\n会议官网: https://cognitivesciencesociet
+ y.org/cogsci-2024/\nDBLP索引: https://dblp.org/db/conf/cogsci
+LOCATION:Rotterdam\, Netherlands
+URL:https://cognitivesciencesociety.org/cogsci-2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2025 截稿日期
+DTSTART;TZID="UTC+08:00":20250201T235959
+DTEND;TZID="UTC+08:00":20250202T000059
+DTSTAMP:20260912T141311Z
+UID:9b3d3962-122e-4439-80bb-57f65cc5ac16
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ 会
+ 议时间: July 30-August 2\, 2025\n📍 会议地点: Marriott Marquis\, 
+ San Francisco\n⏰ 原始截止时间 (UTC+8): 2025-02-01 23:59:59\n分类
+ : 交叉/综合/新兴 (MX)\nCCF B\, CORE B\n会议官网: https://cogniti
+ vesciencesociety.org/cogsci-2025/\nDBLP索引: https://dblp.org/db/conf/co
+ gsci
+LOCATION:Marriott Marquis\, San Francisco
+URL:https://cognitivesciencesociety.org/cogsci-2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260202T235959
+DTEND;TZID="UTC-12:00":20260203T000059
+DTSTAMP:20260912T141311Z
+UID:6d518586-a32f-4d78-a5ff-8f899133ad30
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ 会
+ 议时间: July 22-25\, 2026\n📍 会议地点: Rio de Janeiro\, Brazil\n
+ ⏰ 原始截止时间 (AoE): 2026-02-02 23:59:59\n分类: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\n会议官网: https://cognitivesciencesociety
+ .org/cogsci-2026/\nDBLP索引: https://dblp.org/db/conf/cogsci
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://cognitivesciencesociety.org/cogsci-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:RTSS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220526T235959
+DTEND;TZID="UTC-12:00":20220527T000059
+DTSTAMP:20260912T141342Z
+UID:c01f937a-6147-4468-a854-b96a3c371e00
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ Date: December 5
+ -8\, 2022\n📍 Location: Houston\, USA\n⏰ Original Deadline (AoE): 2022
+ -05-26 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, TH
+ CPL B\nConference Website: http://2022.rtss.org/\nDBLP Index: https://dblp
+ .org/db/conf/rtss
+LOCATION:Houston\, USA
+URL:http://2022.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250522T235959
+DTEND;TZID="UTC-12:00":20250523T000059
+DTSTAMP:20260912T141342Z
+UID:58fedf90-2c29-4861-a49a-1b600e2e8e2b
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ Date: December 2
+ -5\, 2025\n📍 Location: Boston\, MA\, USA\n⏰ Original Deadline (AoE): 
+ 2025-05-22 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*
+ \, THCPL B\nConference Website: http://2025.rtss.org/\nDBLP Index: https:/
+ /dblp.org/db/conf/rtss
+LOCATION:Boston\, MA\, USA
+URL:http://2025.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260521T235959
+DTEND;TZID="UTC-12:00":20260522T000059
+DTSTAMP:20260912T141342Z
+UID:38b99c14-89b6-443b-861d-f50d80c387f0
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ Date: December 9
+ -11\, 2026\n📍 Location: Yokohama\, Japan\n⏰ Original Deadline (AoE): 
+ 2026-05-21 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*
+ \, THCPL B\nConference Website: http://2026.rtss.org/\nDBLP Index: https:/
+ /dblp.org/db/conf/rtss
+LOCATION:Yokohama\, Japan
+URL:http://2026.rtss.org/
+END:VEVENT
+END:VCALENDAR

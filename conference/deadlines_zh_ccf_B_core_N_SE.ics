@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ETAPS 2022 截稿日期 [Paper submission deadline]
+DTSTART;TZID="UTC-12:00":20211014T235959
+DTEND;TZID="UTC-12:00":20211015T000059
+DTSTAMP:20260912T141316Z
+UID:6262873c-7f89-421a-8ea4-d6482f9e3cd0
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ 会议时间: April 2-7\, 2022\n📍 会议地点: Munich\, Germ
+ any\n⏰ 原始截止时间 (AoE): 2021-10-14 23:59:59\n分类: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\n会议官网: h
+ ttps://etaps.org/2022/\nDBLP索引: https://dblp.org/db/conf/etaps
+LOCATION:Munich\, Germany
+URL:https://etaps.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2022 截稿日期 [Paper final versions]
+DTSTART;TZID="UTC-12:00":20220126T235959
+DTEND;TZID="UTC-12:00":20220127T000059
+DTSTAMP:20260912T141316Z
+UID:054df0ff-8c17-489b-a197-d0ee44d5a65b
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ 会议时间: April 2-7\, 2022\n📍 会议地点: Munich\, Germ
+ any\n⏰ 原始截止时间 (AoE): 2022-01-26 23:59:59\n分类: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\n会议官网: h
+ ttps://etaps.org/2022/\nDBLP索引: https://dblp.org/db/conf/etaps
+LOCATION:Munich\, Germany
+URL:https://etaps.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2026 截稿日期 [Submission deadline ESOP round 1]
+DTSTART;TZID="UTC-12:00":20250603T235959
+DTEND;TZID="UTC-12:00":20250604T000059
+DTSTAMP:20260912T141316Z
+UID:5a183ff0-6516-443a-8548-2686c55111bd
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ 会议时间: April 11-16\, 2026\n📍 会议地点: Torino\, It
+ aly\n⏰ 原始截止时间 (AoE): 2025-06-03 23:59:59\n分类: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\n会议官网: h
+ ttps://etaps.org/2026\nDBLP索引: https://dblp.org/db/conf/etaps
+LOCATION:Torino\, Italy
+URL:https://etaps.org/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2026 截稿日期 [Submission deadline ESOP round 2]
+DTSTART;TZID="UTC-12:00":20251016T235959
+DTEND;TZID="UTC-12:00":20251017T000059
+DTSTAMP:20260912T141316Z
+UID:fe5a2041-56e7-4321-b39f-2af093a61b9d
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ 会议时间: April 11-16\, 2026\n📍 会议地点: Torino\, It
+ aly\n⏰ 原始截止时间 (AoE): 2025-10-16 23:59:59\n分类: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\n会议官网: h
+ ttps://etaps.org/2026\nDBLP索引: https://dblp.org/db/conf/etaps
+LOCATION:Torino\, Italy
+URL:https://etaps.org/2026
+END:VEVENT
+END:VCALENDAR

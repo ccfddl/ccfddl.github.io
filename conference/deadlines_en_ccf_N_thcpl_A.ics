@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:RSS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230203T235959
+DTEND;TZID="UTC-12:00":20230204T000059
+DTSTAMP:20260912T141333Z
+UID:49ce54e2-fe0f-42c0-bfe0-420993732d1e
+DESCRIPTION:Robotics Science and Systems\n🗓️ Date: July 10-14\, 2023
+ \n📍 Location: Daegu\, Republic of Korea\n⏰ Original Deadline (AoE): 2
+ 023-02-03 23:59:59\nCategory: 人工智能 (AI)\nCORE A*\, THCPL A\nConfer
+ ence Website: https://roboticsconference.org/\nDBLP Index: https://dblp.or
+ g/db/conf/rss
+LOCATION:Daegu\, Republic of Korea
+URL:https://roboticsconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240202T235900
+DTEND;TZID="UTC-12:00":20240203T000000
+DTSTAMP:20260912T141333Z
+UID:18bc148b-7638-4473-8393-9e37d315f9c1
+DESCRIPTION:Robotics Science and Systems\n🗓️ Date: July 15-19\, 2024
+ \n📍 Location: Delft\, Netherlands\n⏰ Original Deadline (AoE): 2024-02
+ -02 23:59:00\nCategory: 人工智能 (AI)\nCORE A*\, THCPL A\nConference W
+ ebsite: https://roboticsconference.org/\nDBLP Index: https://dblp.org/db/c
+ onf/rss
+LOCATION:Delft\, Netherlands
+URL:https://roboticsconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250117T235900
+DTEND;TZID="UTC-12:00":20250118T000000
+DTSTAMP:20260912T141333Z
+UID:b86057c5-afd3-48f6-a955-ce27c9617efe
+DESCRIPTION:Robotics Science and Systems\n🗓️ Date: June 21-25\, 2025
+ \n📍 Location: Los Angeles\, California\, USA\n⏰ Original Deadline (Ao
+ E): 2025-01-17 23:59:00\nCategory: 人工智能 (AI)\nCORE A*\, THCPL A\nC
+ onference Website: https://roboticsconference.org\nDBLP Index: https://dbl
+ p.org/db/conf/rss
+LOCATION:Los Angeles\, California\, USA
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250124T235900
+DTEND;TZID="UTC-12:00":20250125T000000
+DTSTAMP:20260912T141333Z
+UID:5cd77046-319a-4f1d-9464-86be6802529d
+DESCRIPTION:Robotics Science and Systems\n🗓️ Date: June 21-25\, 2025
+ \n📍 Location: Los Angeles\, California\, USA\n⏰ Original Deadline (Ao
+ E): 2025-01-24 23:59:00\nCategory: 人工智能 (AI)\nCORE A*\, THCPL A\nC
+ onference Website: https://roboticsconference.org\nDBLP Index: https://dbl
+ p.org/db/conf/rss
+LOCATION:Los Angeles\, California\, USA
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260123T235900
+DTEND;TZID="UTC-12:00":20260124T000000
+DTSTAMP:20260912T141333Z
+UID:7a7d30d0-b7dc-4280-bfca-e36f57bb772e
+DESCRIPTION:Robotics Science and Systems\n🗓️ Date: July 13-17\, 2026
+ \n📍 Location: Sydney\, Australia\n⏰ Original Deadline (AoE): 2026-01-
+ 23 23:59:00\nCategory: 人工智能 (AI)\nCORE A*\, THCPL A\nConference We
+ bsite: https://roboticsconference.org\nDBLP Index: https://dblp.org/db/con
+ f/rss
+LOCATION:Sydney\, Australia
+URL:https://roboticsconference.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RSS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260130T235900
+DTEND;TZID="UTC-12:00":20260131T000000
+DTSTAMP:20260912T141333Z
+UID:367c492d-b930-44c3-a599-4503bc447798
+DESCRIPTION:Robotics Science and Systems\n🗓️ Date: July 13-17\, 2026
+ \n📍 Location: Sydney\, Australia\n⏰ Original Deadline (AoE): 2026-01-
+ 30 23:59:00\nCategory: 人工智能 (AI)\nCORE A*\, THCPL A\nConference We
+ bsite: https://roboticsconference.org\nDBLP Index: https://dblp.org/db/con
+ f/rss
+LOCATION:Sydney\, Australia
+URL:https://roboticsconference.org
+END:VEVENT
+END:VCALENDAR

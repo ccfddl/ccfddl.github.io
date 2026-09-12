@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2024 截稿日期 [first round]
+DTSTART;TZID="UTC-08:00":20240314T180000
+DTEND;TZID="UTC-08:00":20240314T180100
+DTSTAMP:20260912T141305Z
+UID:17ce432c-6c3a-4c16-bb83-3487a9f2262a
+DESCRIPTION:European Signal Processing Conference\n🗓️ 会议时间: A
+ ugust 26-30\, 2024\n📍 会议地点: LYON\, FRANCE\n⏰ 原始截止时
+ 间 (UTC-8): 2024-03-14 18:00:00\n分类: 软件工程/系统软件/程序
+ 设计语言 (SE)\n会议官网: https://eusipcolyon.sciencesconf.org/\nDB
+ LP索引: https://dblp.org/db/conf/eusipcolyon
+LOCATION:LYON\, FRANCE
+URL:https://eusipcolyon.sciencesconf.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250313T235959
+DTEND;TZID="UTC-12:00":20250314T000059
+DTSTAMP:20260912T141305Z
+UID:6b8a2e16-3bc0-4f18-ac4d-a4e25a1c64ad
+DESCRIPTION:European Signal Processing Conference\n🗓️ 会议时间: S
+ eptember 8-12\, 2025\n📍 会议地点: Isola delle Femmine\, Palermo\, I
+ taly\n⏰ 原始截止时间 (AoE): 2025-03-13 23:59:59\n分类: 软件工
+ 程/系统软件/程序设计语言 (SE)\n会议官网: https://eusipco202
+ 5.org/\nDBLP索引: https://dblp.org/db/conf/eusipcolyon
+LOCATION:Isola delle Femmine\, Palermo\, Italy
+URL:https://eusipco2025.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260213T235959
+DTEND;TZID="UTC-12:00":20260214T000059
+DTSTAMP:20260912T141305Z
+UID:14c32e49-4bcd-42c4-a24f-1ea54e88923f
+DESCRIPTION:European Signal Processing Conference\n🗓️ 会议时间: A
+ ugust 31 - September 4\, 2026\n📍 会议地点: Bruges\, Belgium\n⏰ 
+ 原始截止时间 (AoE): 2026-02-13 23:59:59\n分类: 软件工程/系统
+ 软件/程序设计语言 (SE)\n会议官网: https://eusipco2026.org/\nDB
+ LP索引: https://dblp.org/db/conf/eusipcolyon
+LOCATION:Bruges\, Belgium
+URL:https://eusipco2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2026 摘要截稿 [Round 1]
+DTSTART;TZID="UTC-12:00":20260328T235959
+DTEND;TZID="UTC-12:00":20260329T000059
+DTSTAMP:20260912T141305Z
+UID:7225584f-ac17-48ec-9884-e6580d8a2f04
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ July 18-20\, 2026\n📍 会议地点: Gold Coast\, Australia\n⏰ 原始
+ 截止时间 (UTC-12): 2026-03-28 23:59:59\n分类: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.o
+ rg/home/internetware-2026\nDBLP索引: https://dblp.org/db/conf/internetwa
+ re
+LOCATION:Gold Coast\, Australia
+URL:https://conf.researchr.org/home/internetware-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2026 截稿日期 [Round 1]
+DTSTART;TZID="UTC-12:00":20260404T235959
+DTEND;TZID="UTC-12:00":20260405T000059
+DTSTAMP:20260912T141305Z
+UID:b7d7a442-9f5b-4446-842c-282891972ce1
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ July 18-20\, 2026\n📍 会议地点: Gold Coast\, Australia\n⏰ 原始
+ 截止时间 (UTC-12): 2026-04-04 23:59:59\n分类: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.o
+ rg/home/internetware-2026\nDBLP索引: https://dblp.org/db/conf/internetwa
+ re
+LOCATION:Gold Coast\, Australia
+URL:https://conf.researchr.org/home/internetware-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2026 摘要截稿 [Round 2]
+DTSTART;TZID="UTC-12:00":20260427T235959
+DTEND;TZID="UTC-12:00":20260428T000059
+DTSTAMP:20260912T141305Z
+UID:a7c41fb0-21e8-4b98-b4d3-2227b4f1771e
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ July 18-20\, 2026\n📍 会议地点: Gold Coast\, Australia\n⏰ 原始
+ 截止时间 (UTC-12): 2026-04-27 23:59:59\n分类: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.o
+ rg/home/internetware-2026\nDBLP索引: https://dblp.org/db/conf/internetwa
+ re
+LOCATION:Gold Coast\, Australia
+URL:https://conf.researchr.org/home/internetware-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2026 截稿日期 [Round 2]
+DTSTART;TZID="UTC-12:00":20260504T235959
+DTEND;TZID="UTC-12:00":20260505T000059
+DTSTAMP:20260912T141305Z
+UID:9267b808-534c-4cf1-bcf8-deeea0219235
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ July 18-20\, 2026\n📍 会议地点: Gold Coast\, Australia\n⏰ 原始
+ 截止时间 (UTC-12): 2026-05-04 23:59:59\n分类: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.o
+ rg/home/internetware-2026\nDBLP索引: https://dblp.org/db/conf/internetwa
+ re
+LOCATION:Gold Coast\, Australia
+URL:https://conf.researchr.org/home/internetware-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250214T235959
+DTEND;TZID="UTC-12:00":20250215T000059
+DTSTAMP:20260912T141305Z
+UID:358dadb6-d590-4525-a3b2-e767279a959c
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ June 20-22\, 2025\n📍 会议地点: Trondheim\, Norway\n⏰ 原始截止
+ 时间 (UTC-12): 2025-02-14 23:59:59\n分类: 软件工程/系统软件/
+ 程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.org/h
+ ome/internetware-2025\nDBLP索引: https://dblp.org/db/conf/internetware
+LOCATION:Trondheim\, Norway
+URL:https://conf.researchr.org/home/internetware-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230417T235959
+DTEND;TZID="UTC-12:00":20230418T000059
+DTSTAMP:20260912T141305Z
+UID:df361fc1-f517-41bb-a205-415db44f6159
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ August 4-6\, 2023\n📍 会议地点: Hangzhou\, China\n⏰ 原始截止
+ 时间 (UTC-12): 2023-04-17 23:59:59\n分类: 软件工程/系统软件/
+ 程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.org/h
+ ome/internetware-2023\nDBLP索引: https://dblp.org/db/conf/internetware
+LOCATION:Hangzhou\, China
+URL:https://conf.researchr.org/home/internetware-2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Internetware 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230422T235959
+DTEND;TZID="UTC-12:00":20230423T000059
+DTSTAMP:20260912T141305Z
+UID:1546b989-d824-4e1a-bfa3-c51a455719a7
+DESCRIPTION:Asia-Pacific Symposium on Internetware\n🗓️ 会议时间: 
+ August 4-6\, 2023\n📍 会议地点: Hangzhou\, China\n⏰ 原始截止
+ 时间 (UTC-12): 2023-04-22 23:59:59\n分类: 软件工程/系统软件/
+ 程序设计语言 (SE)\nCCF C\n会议官网: https://conf.researchr.org/h
+ ome/internetware-2023\nDBLP索引: https://dblp.org/db/conf/internetware
+LOCATION:Hangzhou\, China
+URL:https://conf.researchr.org/home/internetware-2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TASE 2024 摘要截稿
+DTSTART;TZID="UTC-12:00":20240217T235959
+DTEND;TZID="UTC-12:00":20240218T000059
+DTSTAMP:20260912T141305Z
+UID:8acf4820-c4c0-4558-a02f-646d9490f057
+DESCRIPTION:Theoretical Aspects of Software Engineering\n🗓️ 会议时
+ 间: July 29-August 1\, 2024\n📍 会议地点: Guiyang\, China\n⏰ 原
+ 始截止时间 (AoE): 2024-02-17 23:59:59\n分类: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF C\n会议官网: https://tase2024.github.
+ io/index.html\nDBLP索引: https://dblp.org/db/conf/tase
+LOCATION:Guiyang\, China
+URL:https://tase2024.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TASE 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240224T235959
+DTEND;TZID="UTC-12:00":20240225T000059
+DTSTAMP:20260912T141305Z
+UID:def57a00-1606-42bd-990e-38fce22ccace
+DESCRIPTION:Theoretical Aspects of Software Engineering\n🗓️ 会议时
+ 间: July 29-August 1\, 2024\n📍 会议地点: Guiyang\, China\n⏰ 原
+ 始截止时间 (AoE): 2024-02-24 23:59:59\n分类: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF C\n会议官网: https://tase2024.github.
+ io/index.html\nDBLP索引: https://dblp.org/db/conf/tase
+LOCATION:Guiyang\, China
+URL:https://tase2024.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TASE 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250215T235959
+DTEND;TZID="UTC-12:00":20250216T000059
+DTSTAMP:20260912T141305Z
+UID:4dc04886-d4a0-4bf8-9969-e8c29693d14a
+DESCRIPTION:Theoretical Aspects of Software Engineering\n🗓️ 会议时
+ 间: July 14-16\, 2025\n📍 会议地点: Limassol\, Cyprus\n⏰ 原始
+ 截止时间 (AoE): 2025-02-15 23:59:59\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF C\n会议官网: https://cyprusconferences.o
+ rg/tase2025/\nDBLP索引: https://dblp.org/db/conf/tase
+LOCATION:Limassol\, Cyprus
+URL:https://cyprusconferences.org/tase2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TASE 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250221T235959
+DTEND;TZID="UTC-12:00":20250222T000059
+DTSTAMP:20260912T141305Z
+UID:7d87aff4-1cb8-4108-b8eb-bf99f494aaf6
+DESCRIPTION:Theoretical Aspects of Software Engineering\n🗓️ 会议时
+ 间: July 14-16\, 2025\n📍 会议地点: Limassol\, Cyprus\n⏰ 原始
+ 截止时间 (AoE): 2025-02-21 23:59:59\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF C\n会议官网: https://cyprusconferences.o
+ rg/tase2025/\nDBLP索引: https://dblp.org/db/conf/tase
+LOCATION:Limassol\, Cyprus
+URL:https://cyprusconferences.org/tase2025/
+END:VEVENT
+END:VCALENDAR

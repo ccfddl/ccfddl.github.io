@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FORTE 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240202T235959
+DTEND;TZID="UTC-12:00":20240203T000059
+DTSTAMP:20260912T141343Z
+UID:2f331611-770f-47ab-82b5-cc1b02630ce3
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ Date: June 17-21\, 2024\n📍 Location: G
+ roningen\, The Netherlands\n⏰ Original Deadline (AoE): 2024-02-02 23:59:
+ 59\nCategory: 计算机网络 (NW)\nCCF C\, CORE C\nConference Website: ht
+ tps://www.discotec.org/2024/forte\nDBLP Index: https://dblp.org/db/conf/fo
+ rte
+LOCATION:Groningen\, The Netherlands
+URL:https://www.discotec.org/2024/forte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORTE 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240209T235959
+DTEND;TZID="UTC-12:00":20240210T000059
+DTSTAMP:20260912T141343Z
+UID:6e67c418-8ea0-4607-bf54-43e78b16200e
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ Date: June 17-21\, 2024\n📍 Location: G
+ roningen\, The Netherlands\n⏰ Original Deadline (AoE): 2024-02-09 23:59:
+ 59\nCategory: 计算机网络 (NW)\nCCF C\, CORE C\nConference Website: ht
+ tps://www.discotec.org/2024/forte\nDBLP Index: https://dblp.org/db/conf/fo
+ rte
+LOCATION:Groningen\, The Netherlands
+URL:https://www.discotec.org/2024/forte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORTE 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260130T235959
+DTEND;TZID="UTC-12:00":20260131T000059
+DTSTAMP:20260912T141343Z
+UID:b8a8e8cb-1b3d-4026-9057-b1e1bd61390e
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ Date: June 8-12\, 2026\n📍 Location: Ur
+ bino\, Italy\n⏰ Original Deadline (AoE): 2026-01-30 23:59:59\nCategory: 
+ 计算机网络 (NW)\nCCF C\, CORE C\nConference Website: https://www.disc
+ otec.org/2026/forte\nDBLP Index: https://dblp.org/db/conf/forte
+LOCATION:Urbino\, Italy
+URL:https://www.discotec.org/2026/forte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORTE 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20260912T141343Z
+UID:038a1204-8a8d-4bb8-99ba-087b79ae0338
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ Date: June 8-12\, 2026\n📍 Location: Ur
+ bino\, Italy\n⏰ Original Deadline (AoE): 2026-02-06 23:59:59\nCategory: 
+ 计算机网络 (NW)\nCCF C\, CORE C\nConference Website: https://www.disc
+ otec.org/2026/forte\nDBLP Index: https://dblp.org/db/conf/forte
+LOCATION:Urbino\, Italy
+URL:https://www.discotec.org/2026/forte
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISCC 2026 Deadline
+DTSTART:20260215T235959Z
+DTEND:20260216T000059Z
+DTSTAMP:20260912T141343Z
+UID:fad25707-6a86-44e3-9fbf-21de629dcab1
+DESCRIPTION:IEEE Symposium on Computers and Communications\n🗓️ Date: 
+ June 23-26\, 2026\n📍 Location: Vilamoura\, Algarve\, Portugal\n⏰ Orig
+ inal Deadline (UTC+0): 2026-02-15 23:59:59\nCategory: 计算机网络 (NW)
+ \nCCF C\, CORE C\nConference Website: https://ieee-iscc.computer.org/2026/
+ \nDBLP Index: https://dblp.org/db/conf/iscc
+LOCATION:Vilamoura\, Algarve\, Portugal
+URL:https://ieee-iscc.computer.org/2026/
+END:VEVENT
+END:VCALENDAR

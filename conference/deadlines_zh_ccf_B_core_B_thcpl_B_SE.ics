@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:VMCAI 2022 截稿日期 [Submission deadline]
+DTSTART;TZID="UTC-12:00":20210909T235959
+DTEND;TZID="UTC-12:00":20210910T000059
+DTSTAMP:20260912T141316Z
+UID:6a664d4b-348f-46ed-b2dd-de709a21fce5
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ 会议时间: January 16-28\, 2022\n
+ 📍 会议地点: Philadelphia\, Pennsylvania\, United States\n⏰ 原始
+ 截止时间 (AoE): 2021-09-09 23:59:59\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF B\, CORE B\, THCPL B\n会议官网: https://
+ popl22.sigplan.org/home/VMCAI-2022\nDBLP索引: https://dblp.org/db/conf/v
+ mcai
+LOCATION:Philadelphia\, Pennsylvania\, United States
+URL:https://popl22.sigplan.org/home/VMCAI-2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMCAI 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20250915T235959
+DTEND;TZID="UTC-12:00":20250916T000059
+DTSTAMP:20260912T141316Z
+UID:b611ca9b-8511-44cb-b8da-fe2c58b118c3
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ 会议时间: January 12-13\, 2026\n
+ 📍 会议地点: Rennes\, France\n⏰ 原始截止时间 (AoE): 2025-09-
+ 15 23:59:59\n分类: 软件工程/系统软件/程序设计语言 (SE)\nCC
+ F B\, CORE B\, THCPL B\n会议官网: https://conf.researchr.org/home/VMCA
+ I-2026\nDBLP索引: https://dblp.org/db/conf/vmcai
+LOCATION:Rennes\, France
+URL:https://conf.researchr.org/home/VMCAI-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMCAI 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20260916T235959
+DTEND;TZID="UTC-12:00":20260917T000059
+DTSTAMP:20260912T141316Z
+UID:42015168-031d-48d4-a9d8-8086c22be985
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ 会议时间: January 11-12\, 2027\n
+ 📍 会议地点: Mexico City\, Mexico\n⏰ 原始截止时间 (AoE): 202
+ 6-09-16 23:59:59\n分类: 软件工程/系统软件/程序设计语言 (SE
+ )\nCCF B\, CORE B\, THCPL B\n会议官网: https://conf.researchr.org/home
+ /VMCAI-2027\nDBLP索引: https://dblp.org/db/conf/vmcai
+LOCATION:Mexico City\, Mexico
+URL:https://conf.researchr.org/home/VMCAI-2027
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ESANN 2025 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20241120T000000
+DTEND;TZID="UTC-08:00":20241120T000100
+DTSTAMP:20260912T141332Z
+UID:ad2b9c74-09cd-4854-baec-41ae547a3903
+DESCRIPTION:European Symposium on Artificial Neural Networks\, Computation
+ al Intelligence and Machine Learning\n🗓️ Date: April 23 - April 25\, 
+ 2025\n📍 Location: Bruges\, Belgium\n⏰ Original Deadline (UTC-8): 2024
+ -11-20 00:00:00\nCategory: 人工智能 (AI)\nCORE B\nConference Website: 
+ https://www.esann.org/\nDBLP Index: https://dblp.org/db/conf/esann
+LOCATION:Bruges\, Belgium
+URL:https://www.esann.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESANN 2025 Deadline
+DTSTART;TZID="UTC-08:00":20241120T000000
+DTEND;TZID="UTC-08:00":20241120T000100
+DTSTAMP:20260912T141332Z
+UID:f44b90df-3524-4e84-b662-08dd1203f390
+DESCRIPTION:European Symposium on Artificial Neural Networks\, Computation
+ al Intelligence and Machine Learning\n🗓️ Date: April 23 - April 25\, 
+ 2025\n📍 Location: Bruges\, Belgium\n⏰ Original Deadline (UTC-8): 2024
+ -11-20 00:00:00\nCategory: 人工智能 (AI)\nCORE B\nConference Website: 
+ https://www.esann.org/\nDBLP Index: https://dblp.org/db/conf/esann
+LOCATION:Bruges\, Belgium
+URL:https://www.esann.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESANN 2026 Deadline
+DTSTART;TZID="UTC-08:00":20251119T235959
+DTEND;TZID="UTC-08:00":20251120T000059
+DTSTAMP:20260912T141332Z
+UID:6bb10165-5d62-435e-b95c-2f081336d424
+DESCRIPTION:European Symposium on Artificial Neural Networks\, Computation
+ al Intelligence and Machine Learning\n🗓️ Date: April 22 - 24\, 2026\n
+ 📍 Location: Bruges\, Belgium and Online\n⏰ Original Deadline (UTC-8):
+  2025-11-19 23:59:59\nCategory: 人工智能 (AI)\nCORE B\nConference Webs
+ ite: https://www.esann.org/\nDBLP Index: https://dblp.org/db/conf/esann
+LOCATION:Bruges\, Belgium and Online
+URL:https://www.esann.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IJCNLP 2025 Deadline [ACL Rolling Review]
+DTSTART;TZID="UTC-12:00":20250728T235959
+DTEND;TZID="UTC-12:00":20250729T000059
+DTSTAMP:20260912T141332Z
+UID:8853d0e6-4dca-4742-ba58-2156bc3ba7d8
+DESCRIPTION:International Joint Conference on Natural Language Processing
+ \n🗓️ Date: Dec 20-24\, 2025\n📍 Location: Mumbai\, India\n⏰ Origi
+ nal Deadline (UTC-12): 2025-07-28 23:59:59\nCategory: 人工智能 (AI)\nC
+ ORE B\nConference Website: https://www.afnlp.org/conferences/ijcnlp2025/\n
+ DBLP Index: https://dblp.org/db/conf/ijcnlp
+LOCATION:Mumbai\, India
+URL:https://www.afnlp.org/conferences/ijcnlp2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCNLP 2026 Deadline [ARR Submission\; commitment deadline: 2026-0
+ 8-02\; AACL-IJCNLP 2026 (the 5th AACL & 15th IJCNLP)]
+DTSTART;TZID="UTC-12:00":20260525T235959
+DTEND;TZID="UTC-12:00":20260526T000059
+DTSTAMP:20260912T141332Z
+UID:221fa758-ade7-45b4-b6da-dfc91ec7a96c
+DESCRIPTION:International Joint Conference on Natural Language Processing
+ \n🗓️ Date: Nov 6-10\, 2026\n📍 Location: Hengqin\, Zhuhai\, China\n
+ ⏰ Original Deadline (UTC-12): 2026-05-25 23:59:59\nCategory: 人工智
+ 能 (AI)\nCORE B\nConference Website: https://2026.aaclnet.org/\nDBLP Inde
+ x: https://dblp.org/db/conf/ijcnlp
+LOCATION:Hengqin\, Zhuhai\, China
+URL:https://2026.aaclnet.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RuleML+RR 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260515T235959
+DTEND;TZID="UTC-12:00":20260516T000059
+DTSTAMP:20260912T141332Z
+UID:7b332d31-e8c7-4671-bb2e-45cffe631741
+DESCRIPTION:International Joint Conference on Rules and Reasoning\n🗓️
+  Date: August 24-26\, 2026\n📍 Location: Vilnius\, Lithuania\n⏰ Origin
+ al Deadline (AoE): 2026-05-15 23:59:59\nCategory: 人工智能 (AI)\nCORE 
+ B\nConference Website: https://2026.declarativeai.net/events/ruleml-rr\nDB
+ LP Index: https://dblp.org/db/conf/rulemlrr
+LOCATION:Vilnius\, Lithuania
+URL:https://2026.declarativeai.net/events/ruleml-rr
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RuleML+RR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260522T235959
+DTEND;TZID="UTC-12:00":20260523T000059
+DTSTAMP:20260912T141332Z
+UID:b24e0ee9-db62-42d5-99c7-2111feb79ded
+DESCRIPTION:International Joint Conference on Rules and Reasoning\n🗓️
+  Date: August 24-26\, 2026\n📍 Location: Vilnius\, Lithuania\n⏰ Origin
+ al Deadline (AoE): 2026-05-22 23:59:59\nCategory: 人工智能 (AI)\nCORE 
+ B\nConference Website: https://2026.declarativeai.net/events/ruleml-rr\nDB
+ LP Index: https://dblp.org/db/conf/rulemlrr
+LOCATION:Vilnius\, Lithuania
+URL:https://2026.declarativeai.net/events/ruleml-rr
+END:VEVENT
+END:VCALENDAR

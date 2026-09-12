@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Cloud 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250310T230000
+DTEND;TZID="UTC-12:00":20250310T230100
+DTSTAMP:20260912T141342Z
+UID:9fbc7762-995b-436e-9dd0-6389e483255b
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 7-12\, 2025\n📍 Location: Helsinki\, Finland\n⏰ Original Deadli
+ ne (AoE): 2025-03-10 23:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\, THCPL B\nConference Website: https://services.conferences.comp
+ uter.org/2025/cloud/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Helsinki\, Finland
+URL:https://services.conferences.computer.org/2025/cloud/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260322T230000
+DTEND;TZID="UTC-12:00":20260322T230100
+DTSTAMP:20260912T141342Z
+UID:aaea077e-677e-4d12-a414-76c8d3a55c5f
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 13-18\, 2026\n📍 Location: Sydney\, Australia\n⏰ Original Deadl
+ ine (AoE): 2026-03-22 23:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\, THCPL B\nConference Website: https://services.conferences.comp
+ uter.org/2026/cloud/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Sydney\, Australia
+URL:https://services.conferences.computer.org/2026/cloud/
+END:VEVENT
+END:VCALENDAR

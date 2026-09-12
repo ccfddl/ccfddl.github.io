@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250323T235959
+DTEND;TZID="UTC-12:00":20250324T000059
+DTSTAMP:20260912T141311Z
+UID:741c2b61-8fcb-420b-8175-db6e2559d30f
+DESCRIPTION:International Conference on Embedded Software\n🗓️ 会议
+ 时间: September 28 - October 3\, 2025\n📍 会议地点: TAIPEI\, TAIWA
+ N\n⏰ 原始截止时间 (AoE): 2025-03-23 23:59:59\n分类: 交叉/综
+ 合/新兴 (MX)\nCCF B\, THCPL B\n会议官网: https://esweek.org/emsoft/
+ \nDBLP索引: https://dblp.org/db/conf/emsoft
+LOCATION:TAIPEI\, TAIWAN
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250330T235959
+DTEND;TZID="UTC-12:00":20250331T000059
+DTSTAMP:20260912T141311Z
+UID:66ba23b9-a858-4666-971c-a64c4f2b8fcc
+DESCRIPTION:International Conference on Embedded Software\n🗓️ 会议
+ 时间: September 28 - October 3\, 2025\n📍 会议地点: TAIPEI\, TAIWA
+ N\n⏰ 原始截止时间 (AoE): 2025-03-30 23:59:59\n分类: 交叉/综
+ 合/新兴 (MX)\nCCF B\, THCPL B\n会议官网: https://esweek.org/emsoft/
+ \nDBLP索引: https://dblp.org/db/conf/emsoft
+LOCATION:TAIPEI\, TAIWAN
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260323T235959
+DTEND;TZID="UTC-12:00":20260324T000059
+DTSTAMP:20260912T141311Z
+UID:93023df0-5c21-46c8-b743-1587d4aeb1da
+DESCRIPTION:International Conference on Embedded Software\n🗓️ 会议
+ 时间: October 4 - 9\, 2026\n📍 会议地点: Barcelona\, Spain\n⏰ 
+ 原始截止时间 (AoE): 2026-03-23 23:59:59\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF B\, THCPL B\n会议官网: https://esweek.org/emsoft/\nDBLP
+ 索引: https://dblp.org/db/conf/emsoft
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260330T235959
+DTEND;TZID="UTC-12:00":20260331T000059
+DTSTAMP:20260912T141311Z
+UID:b73334ee-9f20-4a64-859b-bade42d68baf
+DESCRIPTION:International Conference on Embedded Software\n🗓️ 会议
+ 时间: October 4 - 9\, 2026\n📍 会议地点: Barcelona\, Spain\n⏰ 
+ 原始截止时间 (AoE): 2026-03-30 23:59:59\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF B\, THCPL B\n会议官网: https://esweek.org/emsoft/\nDBLP
+ 索引: https://dblp.org/db/conf/emsoft
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2023 截稿日期 [Paper submission deadline]
+DTSTART:20230309T235959Z
+DTEND:20230310T000059Z
+DTSTAMP:20260912T141311Z
+UID:980d05d1-ad04-4f95-b0b8-1944dfbfeff8
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 8-12\, 2023\n📍 会
+ 议地点: Vancouver\, Canada\n⏰ 原始截止时间 (UTC+0): 2023-03-09 
+ 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\n会
+ 议官网: https://conferences.miccai.org/2023/en/\nDBLP索引: https://db
+ lp.org/db/conf/miccai
+LOCATION:Vancouver\, Canada
+URL:https://conferences.miccai.org/2023/en/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2024 截稿日期 [Main conference papers]
+DTSTART;TZID="UTC-08:00":20240307T235959
+DTEND;TZID="UTC-08:00":20240308T000059
+DTSTAMP:20260912T141311Z
+UID:52a190bd-3b61-4c4f-8316-1e6dc462db3c
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 6-10\, 2024\n📍 会
+ 议地点: Marrakesh\, Morocco\n⏰ 原始截止时间 (UTC-8): 2024-03-07
+  23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\n
+ 会议官网: https://conferences.miccai.org/2024/en/\nDBLP索引: https:/
+ /dblp.org/db/conf/miccai
+LOCATION:Marrakesh\, Morocco
+URL:https://conferences.miccai.org/2024/en/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 摘要截稿
+DTSTART;TZID="UTC-08:00":20250213T235900
+DTEND;TZID="UTC-08:00":20250214T000000
+DTSTAMP:20260912T141311Z
+UID:2b7e5ce6-795f-406e-b109-58528f37aeda
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Sep 23-27\, 2025\n📍 会
+ 议地点: Daejeon\, Republic of Korea\n⏰ 原始截止时间 (UTC-8): 20
+ 25-02-13 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://conferences.miccai.org/2025/en/default.asp\nDB
+ LP索引: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250227T235900
+DTEND;TZID="UTC-08:00":20250228T000000
+DTSTAMP:20260912T141311Z
+UID:d491c3ee-d50e-46f3-bedb-22e0892e16fb
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Sep 23-27\, 2025\n📍 会
+ 议地点: Daejeon\, Republic of Korea\n⏰ 原始截止时间 (UTC-8): 20
+ 25-02-27 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://conferences.miccai.org/2025/en/default.asp\nDB
+ LP索引: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 摘要截稿
+DTSTART;TZID="UTC-08:00":20260212T235900
+DTEND;TZID="UTC-08:00":20260213T000000
+DTSTAMP:20260912T141311Z
+UID:091ccbe7-b721-4269-8607-a7636b429949
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 4-8\, 2026\n📍 会
+ 议地点: ADNEC Centre\, Abu Dhabi\, U.A.E.\n⏰ 原始截止时间 (UTC-
+ 8): 2026-02-12 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A
+ \, THCPL B\n会议官网: https://conferences.miccai.org/2026/en/IMPORTANT
+ -DATES.html\nDBLP索引: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260226T235900
+DTEND;TZID="UTC-08:00":20260227T000000
+DTSTAMP:20260912T141311Z
+UID:36686e74-a6e4-4072-a4cf-c7dda5ec9d12
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 4-8\, 2026\n📍 会
+ 议地点: ADNEC Centre\, Abu Dhabi\, U.A.E.\n⏰ 原始截止时间 (UTC-
+ 8): 2026-02-26 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A
+ \, THCPL B\n会议官网: https://conferences.miccai.org/2026/en/IMPORTANT
+ -DATES.html\nDBLP索引: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+END:VCALENDAR

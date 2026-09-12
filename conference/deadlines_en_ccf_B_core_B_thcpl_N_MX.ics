@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230201T235959
+DTEND;TZID="UTC+08:00":20230202T000059
+DTSTAMP:20260912T141342Z
+UID:718c22d7-53ba-47bf-8311-9625b3dfa6bd
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 26-29\, 2023\n📍 Location: Sydney\, Australia\n⏰ Original Deadli
+ ne (UTC+8): 2023-02-01 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF 
+ B\, CORE B\nConference Website: https://cognitivesciencesociety.org/cogsci
+ -2023/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Sydney\, Australia
+URL:https://cognitivesciencesociety.org/cogsci-2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240201T235959
+DTEND;TZID="UTC+08:00":20240202T000059
+DTSTAMP:20260912T141342Z
+UID:ceeeeee5-db0f-4a0d-b942-33368055c255
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 24-27\, 2024\n📍 Location: Rotterdam\, Netherlands\n⏰ Original D
+ eadline (UTC+8): 2024-02-01 23:59:59\nCategory: 交叉/综合/新兴 (MX)
+ \nCCF B\, CORE B\nConference Website: https://cognitivesciencesociety.org/
+ cogsci-2024/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rotterdam\, Netherlands
+URL:https://cognitivesciencesociety.org/cogsci-2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250201T235959
+DTEND;TZID="UTC+08:00":20250202T000059
+DTSTAMP:20260912T141342Z
+UID:b80459fb-84b4-4617-a0f2-e1ef98433830
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 30-August 2\, 2025\n📍 Location: Marriott Marquis\, San Francisco
+ \n⏰ Original Deadline (UTC+8): 2025-02-01 23:59:59\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivescie
+ ncesociety.org/cogsci-2025/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Marriott Marquis\, San Francisco
+URL:https://cognitivesciencesociety.org/cogsci-2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260202T235959
+DTEND;TZID="UTC-12:00":20260203T000059
+DTSTAMP:20260912T141342Z
+UID:78fdbae6-171e-4384-9e87-a254a7a990d8
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 22-25\, 2026\n📍 Location: Rio de Janeiro\, Brazil\n⏰ Original D
+ eadline (AoE): 2026-02-02 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nC
+ CF B\, CORE B\nConference Website: https://cognitivesciencesociety.org/cog
+ sci-2026/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://cognitivesciencesociety.org/cogsci-2026/
+END:VEVENT
+END:VCALENDAR

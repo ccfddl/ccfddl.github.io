@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250323T235959
+DTEND;TZID="UTC-12:00":20250324T000059
+DTSTAMP:20260912T141342Z
+UID:6c0fcc88-07c9-42c1-8552-d84534c70e78
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: S
+ eptember 28 - October 3\, 2025\n📍 Location: TAIPEI\, TAIWAN\n⏰ Origin
+ al Deadline (AoE): 2025-03-23 23:59:59\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF B\, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP I
+ ndex: https://dblp.org/db/conf/emsoft
+LOCATION:TAIPEI\, TAIWAN
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250330T235959
+DTEND;TZID="UTC-12:00":20250331T000059
+DTSTAMP:20260912T141342Z
+UID:cd7b65e2-1eb1-4584-b7c1-7c0da8ba9c35
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: S
+ eptember 28 - October 3\, 2025\n📍 Location: TAIPEI\, TAIWAN\n⏰ Origin
+ al Deadline (AoE): 2025-03-30 23:59:59\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF B\, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP I
+ ndex: https://dblp.org/db/conf/emsoft
+LOCATION:TAIPEI\, TAIWAN
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260323T235959
+DTEND;TZID="UTC-12:00":20260324T000059
+DTSTAMP:20260912T141342Z
+UID:94d67074-f9c5-4d38-bd08-dc51d36404fb
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: O
+ ctober 4 - 9\, 2026\n📍 Location: Barcelona\, Spain\n⏰ Original Deadli
+ ne (AoE): 2026-03-23 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B
+ \, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP Index: ht
+ tps://dblp.org/db/conf/emsoft
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260330T235959
+DTEND;TZID="UTC-12:00":20260331T000059
+DTSTAMP:20260912T141342Z
+UID:106a8495-2bfd-464a-b6a1-6560ed365484
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: O
+ ctober 4 - 9\, 2026\n📍 Location: Barcelona\, Spain\n⏰ Original Deadli
+ ne (AoE): 2026-03-30 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B
+ \, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP Index: ht
+ tps://dblp.org/db/conf/emsoft
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/emsoft/
+END:VEVENT
+END:VCALENDAR

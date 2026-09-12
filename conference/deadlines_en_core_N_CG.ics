@@ -1,0 +1,535 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:3DV 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230807T235959
+DTEND;TZID="UTC-07:00":20230808T000059
+DTSTAMP:20260912T141333Z
+UID:0c8ee1f1-e524-43ea-ac14-1f3cd1521d73
+DESCRIPTION:International Conference on 3D Vision\n🗓️ Date: March 18-
+ 21\, 2024\n📍 Location: Davos\, Switzerland\n⏰ Original Deadline (UTC-
+ 7): 2023-08-07 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCC
+ F C\nConference Website: https://3dvconf.github.io/2024/\nDBLP Index: http
+ s://dblp.org/db/conf/3dim
+LOCATION:Davos\, Switzerland
+URL:https://3dvconf.github.io/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DV 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240812T235959
+DTEND;TZID="UTC-07:00":20240813T000059
+DTSTAMP:20260912T141333Z
+UID:e4a5bf17-34ec-4451-8aa1-f4404728b99a
+DESCRIPTION:International Conference on 3D Vision\n🗓️ Date: March 25-
+ 28\, 2025\n📍 Location: Singapore\n⏰ Original Deadline (UTC-7): 2024-0
+ 8-12 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF C\nConfe
+ rence Website: https://3dvconf.github.io/2025/\nDBLP Index: https://dblp.o
+ rg/db/conf/3dim
+LOCATION:Singapore
+URL:https://3dvconf.github.io/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DV 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250818T235959
+DTEND;TZID="UTC-07:00":20250819T000059
+DTSTAMP:20260912T141333Z
+UID:09a32832-a6b1-4862-bc40-b222f44b9343
+DESCRIPTION:International Conference on 3D Vision\n🗓️ Date: March 24-
+ 27\, 2026\n📍 Location: Metro Vancouver\, BC\, Canada\n⏰ Original Dead
+ line (UTC-7): 2025-08-18 23:59:59\nCategory: 计算机图形学与多媒
+ 体 (CG)\nCCF C\nConference Website: https://3dvconf.github.io/2026/\nDBLP
+  Index: https://dblp.org/db/conf/3dim
+LOCATION:Metro Vancouver\, BC\, Canada
+URL:https://3dvconf.github.io/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DV 2027 Deadline [Supplementary material due Sep 2\, 2026. All de
+ adlines are 11:00 am PDT.]
+DTSTART;TZID="UTC-07:00":20260828T110000
+DTEND;TZID="UTC-07:00":20260828T110100
+DTSTAMP:20260912T141333Z
+UID:29f409ba-fbef-482d-81e7-c8b2c596bd87
+DESCRIPTION:International Conference on 3D Vision\n🗓️ Date: April 6-9
+ \, 2027\n📍 Location: Thessaloniki\, Greece\n⏰ Original Deadline (UTC-
+ 7): 2026-08-28 11:00:00\nCategory: 计算机图形学与多媒体 (CG)\nCC
+ F C\nConference Website: https://3dvconf.github.io/2027/\nDBLP Index: http
+ s://dblp.org/db/conf/3dim
+LOCATION:Thessaloniki\, Greece
+URL:https://3dvconf.github.io/2027/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CASA 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240305T235959
+DTEND;TZID="UTC-12:00":20240306T000059
+DTSTAMP:20260912T141333Z
+UID:b950f1b5-1913-4a7d-9181-cb1764135cf2
+DESCRIPTION:International Conference on Computer Animation and Social Agen
+ ts\n🗓️ Date: June 5-7\, 2024\n📍 Location: Wuhan\, China\n⏰ Origi
+ nal Deadline (AoE): 2024-03-05 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF C\nConference Website: https://casa2024.wtu.edu.cn/ind
+ ex.htm\nDBLP Index: https://dblp.org/db/conf/ca
+LOCATION:Wuhan\, China
+URL:https://casa2024.wtu.edu.cn/index.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250308T235959
+DTEND;TZID="UTC-12:00":20250309T000059
+DTSTAMP:20260912T141333Z
+UID:0718ac60-3752-4f50-bc0a-e6adc346614d
+DESCRIPTION:International Conference on Computer Animation and Social Agen
+ ts\n🗓️ Date: June 2-5\, 2025\n📍 Location: Strasbourg\, France\n⏰
+  Original Deadline (AoE): 2025-03-08 23:59:59\nCategory: 计算机图形
+ 学与多媒体 (CG)\nCCF C\nConference Website: https://casa2025.sciences
+ conf.org/\nDBLP Index: https://dblp.org/db/conf/ca
+LOCATION:Strasbourg\, France
+URL:https://casa2025.sciencesconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2026 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20260912T141333Z
+UID:f80c778e-7c4d-4642-a4b5-d69c3c50acfe
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 12-14\, 2026\n📍 Location: Orillia\, Ontario\, Canada\n⏰ Origina
+ l Deadline (AoE): 2026-05-08 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nConference Website: https://sites.google.com/view/cccg-2026/h
+ ome\nDBLP Index: https://dblp.org/db/conf/cccg
+LOCATION:Orillia\, Ontario\, Canada
+URL:https://sites.google.com/view/cccg-2026/home
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CVM 2025 Abstract Deadline
+DTSTART:20241009T235959Z
+DTEND:20241010T000059Z
+DTSTAMP:20260912T141333Z
+UID:7fec74b1-184b-4309-9314-a19ff4f61d0e
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ Date: April 19-21\, 2025\n📍 Location: Hong Kong\, China\n⏰ Or
+ iginal Deadline (UTC+0): 2024-10-09 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF C\nConference Website: http://iccvm.org/2025/\nDBLP
+  Index: https://dblp.org/db/conf/cvm
+LOCATION:Hong Kong\, China
+URL:http://iccvm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2025 Deadline
+DTSTART:20241012T235959Z
+DTEND:20241013T000059Z
+DTSTAMP:20260912T141333Z
+UID:858905a5-3f25-40fa-880a-2ecf97c0237c
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ Date: April 19-21\, 2025\n📍 Location: Hong Kong\, China\n⏰ Or
+ iginal Deadline (UTC+0): 2024-10-12 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF C\nConference Website: http://iccvm.org/2025/\nDBLP
+  Index: https://dblp.org/db/conf/cvm
+LOCATION:Hong Kong\, China
+URL:http://iccvm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2026 Abstract Deadline
+DTSTART:20251010T235959Z
+DTEND:20251011T000059Z
+DTSTAMP:20260912T141333Z
+UID:a39e5778-291a-4e62-9c69-c3158cae5409
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ Date: April 10-12\, 2026\n📍 Location: Seoul\, Korea\n⏰ Origin
+ al Deadline (UTC+0): 2025-10-10 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF C\nConference Website: http://iccvm.org/2026/\nDBLP In
+ dex: https://dblp.org/db/conf/cvm
+LOCATION:Seoul\, Korea
+URL:http://iccvm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2026 Deadline
+DTSTART:20251013T235959Z
+DTEND:20251014T000059Z
+DTSTAMP:20260912T141333Z
+UID:64ab6ac6-d369-414c-a2de-711b309080ac
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ Date: April 10-12\, 2026\n📍 Location: Seoul\, Korea\n⏰ Origin
+ al Deadline (UTC+0): 2025-10-13 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF C\nConference Website: http://iccvm.org/2026/\nDBLP In
+ dex: https://dblp.org/db/conf/cvm
+LOCATION:Seoul\, Korea
+URL:http://iccvm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2027 Abstract Deadline
+DTSTART:20261023T235959Z
+DTEND:20261024T000059Z
+DTSTAMP:20260912T141333Z
+UID:3c504689-9889-41b8-82f5-ee57b1f3ac76
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ Date: April 9-11\, 2027\n📍 Location: Nanyang Technological Univ
+ ersity\, Singapore\n⏰ Original Deadline (UTC+0): 2026-10-23 23:59:59\nCa
+ tegory: 计算机图形学与多媒体 (CG)\nCCF C\nConference Website: ht
+ tp://iccvm.org/2027/\nDBLP Index: https://dblp.org/db/conf/cvm
+LOCATION:Nanyang Technological University\, Singapore
+URL:http://iccvm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2027 Deadline
+DTSTART:20261026T235959Z
+DTEND:20261027T000059Z
+DTSTAMP:20260912T141333Z
+UID:93e654d7-da8b-44ea-8b55-02c39ba42c2c
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ Date: April 9-11\, 2027\n📍 Location: Nanyang Technological Univ
+ ersity\, Singapore\n⏰ Original Deadline (UTC+0): 2026-10-26 23:59:59\nCa
+ tegory: 计算机图形学与多媒体 (CG)\nCCF C\nConference Website: ht
+ tp://iccvm.org/2027/\nDBLP Index: https://dblp.org/db/conf/cvm
+LOCATION:Nanyang Technological University\, Singapore
+URL:http://iccvm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 Abstract Deadline
+DTSTART:20250401T235959Z
+DTEND:20250402T000059Z
+DTSTAMP:20260912T141333Z
+UID:4257c45f-4815-408e-80e7-29eed4ade96b
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: June 25-27
+ \, 2025\n📍 Location: Copenhagen\, Denmark\n⏰ Original Deadline (UTC):
+  2025-04-01 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B
+ \nConference Website: https://conferences.eg.org/egsr2025/\nDBLP Index: ht
+ tps://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 Deadline
+DTSTART:20250407T235959Z
+DTEND:20250408T000059Z
+DTSTAMP:20260912T141333Z
+UID:0fc6d107-c1db-46db-ae62-690e3c355372
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: June 25-27
+ \, 2025\n📍 Location: Copenhagen\, Denmark\n⏰ Original Deadline (UTC):
+  2025-04-07 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B
+ \nConference Website: https://conferences.eg.org/egsr2025/\nDBLP Index: ht
+ tps://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 Abstract Deadline
+DTSTART:20260408T235959Z
+DTEND:20260409T000059Z
+DTSTAMP:20260912T141333Z
+UID:c84664af-90f3-4063-b580-f3bd651dd9d4
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: July 1-3\, 
+ 2026\n📍 Location: Bordeaux\, France\n⏰ Original Deadline (UTC): 2026-
+ 04-08 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\nConf
+ erence Website: https://egsr2026.inria.fr/\nDBLP Index: https://dblp.org/d
+ b/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 Deadline
+DTSTART:20260415T235959Z
+DTEND:20260416T000059Z
+DTSTAMP:20260912T141333Z
+UID:fbb11c87-e1bb-4096-a135-165cfb07bca9
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: July 1-3\, 
+ 2026\n📍 Location: Bordeaux\, France\n⏰ Original Deadline (UTC): 2026-
+ 04-15 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\nConf
+ erence Website: https://egsr2026.inria.fr/\nDBLP Index: https://dblp.org/d
+ b/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20260912T141333Z
+UID:6b043008-7972-454f-b4c4-28f9adca4845
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia\n
+ ⏰ Original Deadline (AoE): 2025-08-15 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2025.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250822T235959
+DTEND;TZID="UTC-12:00":20250823T000059
+DTSTAMP:20260912T141333Z
+UID:95d79149-6ea0-4d51-82f1-21b060367f81
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia\n
+ ⏰ Original Deadline (AoE): 2025-08-22 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2025.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NCMMSC 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260705T235959
+DTEND;TZID="UTC+08:00":20260706T000059
+DTSTAMP:20260912T141333Z
+UID:d3b92860-3a72-4c12-9b83-ee6af550959b
+DESCRIPTION:National Conference on Man-Machine Speech Communication\n🗓
+ ️ Date: Nov 5-8\, 2026\n📍 Location: Hengqin\, China\n⏰ Original Dea
+ dline (UTC+8): 2026-07-05 23:59:59\nCategory: 计算机图形学与多媒
+ 体 (CG)\nCCF C\nConference Website: https://www.ncmmsc.org.cn/\nDBLP Inde
+ x: https://dblp.org/db/conf/ncmmsc
+LOCATION:Hengqin\, China
+URL:https://www.ncmmsc.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2024 Abstract Deadline
+DTSTART:20240531T215900Z
+DTEND:20240531T220000Z
+DTSTAMP:20260912T141333Z
+UID:ee5b31eb-86ec-4a0d-9861-449e9e2832c6
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 13-16\, 2024\n📍 Location: Huan
+ gshan\, China\n⏰ Original Deadline (UTC): 2024-05-31 21:59:00\nCategory:
+  计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\nConference Website:
+  http://pg2024.hsu.edu.cn/\nDBLP Index: https://dblp.org/db/conf/pg
+LOCATION:Huangshan\, China
+URL:http://pg2024.hsu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2024 Deadline
+DTSTART:20240607T215900Z
+DTEND:20240607T220000Z
+DTSTAMP:20260912T141333Z
+UID:c916336b-6bf5-462f-80b6-8aae9b38f126
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 13-16\, 2024\n📍 Location: Huan
+ gshan\, China\n⏰ Original Deadline (UTC): 2024-06-07 21:59:00\nCategory:
+  计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\nConference Website:
+  http://pg2024.hsu.edu.cn/\nDBLP Index: https://dblp.org/db/conf/pg
+LOCATION:Huangshan\, China
+URL:http://pg2024.hsu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230601T235959
+DTEND;TZID="UTC-12:00":20230602T000059
+DTSTAMP:20260912T141333Z
+UID:359b0dc9-5df2-4673-870b-9d598208525d
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 10-13\, 2023\n📍 Location: Daej
+ eon\, South Korea\n⏰ Original Deadline (AoE): 2023-06-01 23:59:59\nCateg
+ ory: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\nConference Webs
+ ite: https://pg2023.org/\nDBLP Index: https://dblp.org/db/conf/pg
+LOCATION:Daejeon\, South Korea
+URL:https://pg2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230606T235959
+DTEND;TZID="UTC-12:00":20230607T000059
+DTSTAMP:20260912T141333Z
+UID:9dac7a58-ec0b-4898-b0e5-f86119f74a89
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 10-13\, 2023\n📍 Location: Daej
+ eon\, South Korea\n⏰ Original Deadline (AoE): 2023-06-06 23:59:59\nCateg
+ ory: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\nConference Webs
+ ite: https://pg2023.org/\nDBLP Index: https://dblp.org/db/conf/pg
+LOCATION:Daejeon\, South Korea
+URL:https://pg2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250530T235959
+DTEND;TZID="UTC-12:00":20250531T000059
+DTSTAMP:20260912T141333Z
+UID:18445f38-3d26-4dd7-af23-22a001ed513e
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 14-17\, 2025\n📍 Location: Nati
+ onal Chengchi University\, Taipei\, Taiwan\n⏰ Original Deadline (AoE): 2
+ 025-05-30 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\,
+  THCPL B\nConference Website: https://pg2025.nccu.edu.tw/\nDBLP Index: htt
+ ps://dblp.org/db/conf/pg
+LOCATION:National Chengchi University\, Taipei\, Taiwan
+URL:https://pg2025.nccu.edu.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250606T235959
+DTEND;TZID="UTC-12:00":20250607T000059
+DTSTAMP:20260912T141333Z
+UID:59e95ebe-c9df-4ca9-a898-fa6ad8a6409b
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 14-17\, 2025\n📍 Location: Nati
+ onal Chengchi University\, Taipei\, Taiwan\n⏰ Original Deadline (AoE): 2
+ 025-06-06 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\,
+  THCPL B\nConference Website: https://pg2025.nccu.edu.tw/\nDBLP Index: htt
+ ps://dblp.org/db/conf/pg
+LOCATION:National Chengchi University\, Taipei\, Taiwan
+URL:https://pg2025.nccu.edu.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260601T235959
+DTEND;TZID="UTC-12:00":20260602T000059
+DTSTAMP:20260912T141333Z
+UID:6aba46f3-503b-492a-a1b9-9a9919bb3ff4
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 6-9\, 2026\n📍 Location: Singap
+ ore Management University\, Singapore\n⏰ Original Deadline (AoE): 2026-0
+ 6-01 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\, THCP
+ L B\nConference Website: https://pacificgraphics2026.github.io/\nDBLP Inde
+ x: https://dblp.org/db/conf/pg
+LOCATION:Singapore Management University\, Singapore
+URL:https://pacificgraphics2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260608T235959
+DTEND;TZID="UTC-12:00":20260609T000059
+DTSTAMP:20260912T141333Z
+UID:0faabde7-2ce2-494e-854d-dd2cc0452fa3
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ Date: October 6-9\, 2026\n📍 Location: Singap
+ ore Management University\, Singapore\n⏰ Original Deadline (AoE): 2026-0
+ 6-08 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\, THCP
+ L B\nConference Website: https://pacificgraphics2026.github.io/\nDBLP Inde
+ x: https://dblp.org/db/conf/pg
+LOCATION:Singapore Management University\, Singapore
+URL:https://pacificgraphics2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230620T235959
+DTEND;TZID="UTC+08:00":20230621T000059
+DTSTAMP:20260912T141333Z
+UID:8d77ff31-0934-4795-80b9-0adaee3dfcef
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ Date: Oct 13-15\, 2023\n📍 Location: Xiamen\, China\n⏰ Origi
+ nal Deadline (UTC+8): 2023-06-20 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF C\nConference Website: https://prcv2023.xmu.edu.cn/\nD
+ BLP Index: https://dblp.org/db/conf/prcv
+LOCATION:Xiamen\, China
+URL:https://prcv2023.xmu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240428T235959
+DTEND;TZID="UTC+08:00":20240429T000059
+DTSTAMP:20260912T141333Z
+UID:0c4ec124-37c7-4269-8ac2-60bc5ef06d78
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ Date: Oct 18-20\, 2024\n📍 Location: Urumchi\, China\n⏰ Orig
+ inal Deadline (UTC+8): 2024-04-28 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF C\nConference Website: http://www.prcv.cn/\nDBLP In
+ dex: https://dblp.org/db/conf/prcv
+LOCATION:Urumchi\, China
+URL:http://www.prcv.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250630T235959
+DTEND;TZID="UTC+08:00":20250701T000059
+DTSTAMP:20260912T141333Z
+UID:d2db2c9f-44ce-484d-8a89-4aba2a4cd1b8
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ Date: Oct 16-19\, 2025\n📍 Location: Shanghai\, China\n⏰ Ori
+ ginal Deadline (UTC+8): 2025-06-30 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF C\nConference Website: http://2025.prcv.cn/\nDBLP I
+ ndex: https://dblp.org/db/conf/prcv
+LOCATION:Shanghai\, China
+URL:http://2025.prcv.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260530T235959
+DTEND;TZID="UTC-12:00":20260531T000059
+DTSTAMP:20260912T141333Z
+UID:1cd3ed7f-3746-4f31-9d59-ddf3d1b2cfd9
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ Date: Aug 22-25\, 2026\n📍 Location: Harbin\, China\n⏰ Origi
+ nal Deadline (AoE): 2026-05-30 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF C\nConference Website: https://www.prcv.cn/web/#/home
+ \nDBLP Index: https://dblp.org/db/conf/prcv
+LOCATION:Harbin\, China
+URL:https://www.prcv.cn/web/#/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260617T235959
+DTEND;TZID="UTC-12:00":20260618T000059
+DTSTAMP:20260912T141333Z
+UID:f43778eb-c383-4362-a94f-a29580eb8746
+DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\n🗓️ Date: 
+ December 13-16\, 2026\n📍 Location: Palermo\, Sicily\, Italy\n⏰ Origin
+ al Deadline (AoE): 2026-06-17 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nCCF C\nConference Website: https://attend.ieee.org/slt-2026/
+ \nDBLP Index: https://dblp.org/db/conf/slt
+LOCATION:Palermo\, Sicily\, Italy
+URL:https://attend.ieee.org/slt-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMI 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250414T235959
+DTEND;TZID="UTC-12:00":20250415T000059
+DTSTAMP:20260912T141333Z
+UID:ca40c270-03fc-4932-9e63-546f3b4d150e
+DESCRIPTION:Shape Modeling International\n🗓️ Date: October 29 - Novem
+ ber 2\, 2025\n📍 Location: Hangzhou\, Zhejiang\, P.R. China\n⏰ Origina
+ l Deadline (AoE): 2025-04-14 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nCCF C\nConference Website: https://smiconf.github.io/2025/\nD
+ BLP Index: https://dblp.org/db/conf/smi
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://smiconf.github.io/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250422T235959
+DTEND;TZID="UTC-12:00":20250423T000059
+DTSTAMP:20260912T141333Z
+UID:17242b94-a921-4100-ac4d-2d9b55057dc4
+DESCRIPTION:Shape Modeling International\n🗓️ Date: October 29 - Novem
+ ber 2\, 2025\n📍 Location: Hangzhou\, Zhejiang\, P.R. China\n⏰ Origina
+ l Deadline (AoE): 2025-04-22 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nCCF C\nConference Website: https://smiconf.github.io/2025/\nD
+ BLP Index: https://dblp.org/db/conf/smi
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://smiconf.github.io/2025/
+END:VEVENT
+END:VCALENDAR

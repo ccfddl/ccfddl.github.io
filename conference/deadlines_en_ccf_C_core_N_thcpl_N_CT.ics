@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SETTA 2024 Abstract Deadline [deadline is extended from Aug. 23]
+DTSTART;TZID="UTC-12:00":20240816T235959
+DTEND;TZID="UTC-12:00":20240817T000059
+DTSTAMP:20260912T141336Z
+UID:265cc91a-8b8e-402d-9533-518714a5df5d
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ Date: Nov 26-28\, 2024\n📍 Location: Hong Kon
+ g\, China\n⏰ Original Deadline (AoE): 2024-08-16 23:59:59\nCategory: 计
+ 算机科学理论 (CT)\nCCF C\nConference Website: https://setta2024.cs.c
+ ityu.edu.hk\nDBLP Index: https://dblp.org/db/conf/setta
+LOCATION:Hong Kong\, China
+URL:https://setta2024.cs.cityu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SETTA 2024 Deadline [deadline is extended from Aug. 23]
+DTSTART;TZID="UTC-12:00":20240828T235959
+DTEND;TZID="UTC-12:00":20240829T000059
+DTSTAMP:20260912T141336Z
+UID:59da6308-a68a-4768-ad9a-f01b1a17bb78
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ Date: Nov 26-28\, 2024\n📍 Location: Hong Kon
+ g\, China\n⏰ Original Deadline (AoE): 2024-08-28 23:59:59\nCategory: 计
+ 算机科学理论 (CT)\nCCF C\nConference Website: https://setta2024.cs.c
+ ityu.edu.hk\nDBLP Index: https://dblp.org/db/conf/setta
+LOCATION:Hong Kong\, China
+URL:https://setta2024.cs.cityu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SETTA 2025 Deadline [Round 1 Paper Submission]
+DTSTART;TZID="UTC-12:00":20250430T235959
+DTEND;TZID="UTC-12:00":20250501T000059
+DTSTAMP:20260912T141336Z
+UID:2154705c-9db4-4c16-a276-b8107094a87f
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ Date: Dec\, 2025\n📍 Location: Oxford\, UK\n
+ ⏰ Original Deadline (AoE): 2025-04-30 23:59:59\nCategory: 计算机科
+ 学理论 (CT)\nCCF C\nConference Website: https://www.setta2025.uk\nDBLP 
+ Index: https://dblp.org/db/conf/setta
+LOCATION:Oxford\, UK
+URL:https://www.setta2025.uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SETTA 2025 Deadline [Round 2 Paper Submission]
+DTSTART;TZID="UTC-12:00":20250820T235959
+DTEND;TZID="UTC-12:00":20250821T000059
+DTSTAMP:20260912T141336Z
+UID:0a8c35eb-3796-4519-91ea-a11f93a14f59
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ Date: Dec\, 2025\n📍 Location: Oxford\, UK\n
+ ⏰ Original Deadline (AoE): 2025-08-20 23:59:59\nCategory: 计算机科
+ 学理论 (CT)\nCCF C\nConference Website: https://www.setta2025.uk\nDBLP 
+ Index: https://dblp.org/db/conf/setta
+LOCATION:Oxford\, UK
+URL:https://www.setta2025.uk
+END:VEVENT
+END:VCALENDAR

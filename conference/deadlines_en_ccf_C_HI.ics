@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ASSETS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250416T235959
+DTEND;TZID="UTC-12:00":20250417T000059
+DTSTAMP:20260912T141341Z
+UID:bb8cd2d4-95ff-44e4-8b3a-9105899e9ea6
+DESCRIPTION:ACM SIGACCESS Conference on Computers and Accessibility\n🗓
+ ️ Date: Oct 26 - 29\, 2025\n📍 Location: Denver\, Colorado\n⏰ Origin
+ al Deadline (AoE): 2025-04-16 23:59:59\nCategory: 人机交互与普适计
+ 算 (HI)\nCCF C\, CORE A\, THCPL B\nConference Website: https://assets25.s
+ igaccess.org/\nDBLP Index: https://dblp.org/db/conf/assets
+LOCATION:Denver\, Colorado
+URL:https://assets25.sigaccess.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CollaborateCom 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250501T235959
+DTEND;TZID="UTC-08:00":20250502T000059
+DTSTAMP:20260912T141341Z
+UID:3db216da-a6d3-4d57-b51c-702bf2030d3f
+DESCRIPTION:International Conference on Collaborative Computing: Networkin
+ g\, Applications and Worksharing\n🗓️ Date: November 15-16\, 2025\n
+ 📍 Location: Shanghai\, China\n⏰ Original Deadline (UTC-8): 2025-05-01
+  23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C\, CORE C\nCon
+ ference Website: https://collaboratecom.eai-conferences.org/2025/\nDBLP In
+ dex: https://dblp.org/db/conf/colcom
+LOCATION:Shanghai\, China
+URL:https://collaboratecom.eai-conferences.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CollaborateCom 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260501T235959
+DTEND;TZID="UTC-08:00":20260502T000059
+DTSTAMP:20260912T141341Z
+UID:6217b3ba-c107-474e-9ca4-edb271448573
+DESCRIPTION:International Conference on Collaborative Computing: Networkin
+ g\, Applications and Worksharing\n🗓️ Date: November 14-15\, 2026\n
+ 📍 Location: Hong Kong SAR\, China\n⏰ Original Deadline (UTC-8): 2026-
+ 05-01 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C\, CORE C
+ \nConference Website: https://collaboratecom.eai-conferences.org/2026/\nDB
+ LP Index: https://dblp.org/db/conf/colcom
+LOCATION:Hong Kong SAR\, China
+URL:https://collaboratecom.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211130T235959
+DTEND;TZID="UTC-12:00":20211201T000059
+DTSTAMP:20260912T141341Z
+UID:c8e412c8-c4a1-4e0c-a6b1-bd7203740fb4
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 4-6\, 2022\n📍 Location: Hangzhou\, China
+ \n⏰ Original Deadline (AoE): 2021-11-30 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://8.131.80.
+ 51/cscwd2022/index.html\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Hangzhou\, China
+URL:http://8.131.80.51/cscwd2022/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221031T235959
+DTEND;TZID="UTC-12:00":20221101T000059
+DTSTAMP:20260912T141341Z
+UID:5c814e86-0fe1-453a-a335-93816d37c7f8
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 24-26\, 2023\n📍 Location: Rio de Janeiro
+ \, Brazil\n⏰ Original Deadline (AoE): 2022-10-31 23:59:59\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://
+ 2023.cscwd.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Rio de Janeiro\, Brazil
+URL:http://2023.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241115T235959
+DTEND;TZID="UTC-12:00":20241116T000059
+DTSTAMP:20260912T141341Z
+UID:7680aacb-d503-40d9-8c1e-12edbad73027
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 5-7\, 2025\n📍 Location: Compiègne\, Fra
+ nce\n⏰ Original Deadline (AoE): 2024-11-15 23:59:59\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://2025.c
+ scwd.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Compiègne\, France
+URL:http://2025.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250113T235959
+DTEND;TZID="UTC-12:00":20250114T000059
+DTSTAMP:20260912T141341Z
+UID:6623732e-5657-479a-ae49-4ed873813f83
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  July 5 - 9\, 2025\n📍 Location: Funchal\, Madeira\, Portugal\n⏰ Origi
+ nal Deadline (AoE): 2025-01-13 23:59:59\nCategory: 人机交互与普适
+ 计算 (HI)\nCCF C\, CORE A\, THCPL B\nConference Website: https://dis.acm
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/ACMdis
+LOCATION:Funchal\, Madeira\, Portugal
+URL:https://dis.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250120T235959
+DTEND;TZID="UTC-12:00":20250121T000059
+DTSTAMP:20260912T141341Z
+UID:24c01695-9ad9-4299-8b7d-4cc884c26ae9
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  July 5 - 9\, 2025\n📍 Location: Funchal\, Madeira\, Portugal\n⏰ Origi
+ nal Deadline (AoE): 2025-01-20 23:59:59\nCategory: 人机交互与普适
+ 计算 (HI)\nCCF C\, CORE A\, THCPL B\nConference Website: https://dis.acm
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/ACMdis
+LOCATION:Funchal\, Madeira\, Portugal
+URL:https://dis.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260109T235959
+DTEND;TZID="UTC-12:00":20260110T000059
+DTSTAMP:20260912T141341Z
+UID:5aef3c9a-e260-4231-9ef1-e5f1d816a3da
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  June 13 - 17\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE
+ ): 2026-01-09 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C
+ \, CORE A\, THCPL B\nConference Website: https://dis.acm.org/2026/\nDBLP I
+ ndex: https://dblp.org/db/conf/ACMdis
+LOCATION:Singapore
+URL:https://dis.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20260912T141341Z
+UID:96adbc3f-d7dc-4d4a-b863-56114b198946
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  June 13 - 17\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE
+ ): 2026-01-19 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C
+ \, CORE A\, THCPL B\nConference Website: https://dis.acm.org/2026/\nDBLP I
+ ndex: https://dblp.org/db/conf/ACMdis
+LOCATION:Singapore
+URL:https://dis.acm.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+07:00
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICMI 2024 Abstract Deadline
+DTSTART;TZID="UTC+07:00":20240426T235959
+DTEND;TZID="UTC+07:00":20240427T000059
+DTSTAMP:20260912T141341Z
+UID:f2c150cf-ec07-49b6-899a-85aa90dbcfdb
+DESCRIPTION:ACM International Conference on Multimodal Interaction\n🗓
+ ️ Date: Nov 4 - 8\, 2024\n📍 Location: San José\, Costa Rica\n⏰ Ori
+ ginal Deadline (UTC+7): 2024-04-26 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF C\, CORE B\, THCPL B\nConference Website: https://icmi
+ .acm.org/2024/\nDBLP Index: https://dblp.org/db/conf/icmi
+LOCATION:San José\, Costa Rica
+URL:https://icmi.acm.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMI 2024 Deadline
+DTSTART;TZID="UTC+07:00":20240510T235959
+DTEND;TZID="UTC+07:00":20240511T000059
+DTSTAMP:20260912T141341Z
+UID:3b9e9446-787c-4b78-9440-7df0a9d0df7b
+DESCRIPTION:ACM International Conference on Multimodal Interaction\n🗓
+ ️ Date: Nov 4 - 8\, 2024\n📍 Location: San José\, Costa Rica\n⏰ Ori
+ ginal Deadline (UTC+7): 2024-05-10 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF C\, CORE B\, THCPL B\nConference Website: https://icmi
+ .acm.org/2024/\nDBLP Index: https://dblp.org/db/conf/icmi
+LOCATION:San José\, Costa Rica
+URL:https://icmi.acm.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMI 2025 Abstract Deadline
+DTSTART;TZID="UTC+07:00":20250425T235959
+DTEND;TZID="UTC+07:00":20250426T000059
+DTSTAMP:20260912T141341Z
+UID:0fdd7123-6998-49ad-b5e7-8d730020a5a4
+DESCRIPTION:ACM International Conference on Multimodal Interaction\n🗓
+ ️ Date: Oct 13 - 17\, 2025\n📍 Location: Canberra\, Australia\n⏰ Ori
+ ginal Deadline (UTC+7): 2025-04-25 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF C\, CORE B\, THCPL B\nConference Website: https://icmi
+ .acm.org/2025/\nDBLP Index: https://dblp.org/db/conf/icmi
+LOCATION:Canberra\, Australia
+URL:https://icmi.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMI 2025 Deadline
+DTSTART;TZID="UTC+07:00":20250502T235959
+DTEND;TZID="UTC+07:00":20250503T000059
+DTSTAMP:20260912T141341Z
+UID:8d606dab-0d52-48e9-85df-f8499011271c
+DESCRIPTION:ACM International Conference on Multimodal Interaction\n🗓
+ ️ Date: Oct 13 - 17\, 2025\n📍 Location: Canberra\, Australia\n⏰ Ori
+ ginal Deadline (UTC+7): 2025-05-02 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF C\, CORE B\, THCPL B\nConference Website: https://icmi
+ .acm.org/2025/\nDBLP Index: https://dblp.org/db/conf/icmi
+LOCATION:Canberra\, Australia
+URL:https://icmi.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMI 2026 Abstract Deadline
+DTSTART;TZID="UTC+07:00":20260413T235959
+DTEND;TZID="UTC+07:00":20260414T000059
+DTSTAMP:20260912T141341Z
+UID:0f073ef3-55cb-4545-a541-ede7c353d145
+DESCRIPTION:ACM International Conference on Multimodal Interaction\n🗓
+ ️ Date: Oct 5 - 9\, 2026\n📍 Location: Napoli\, Italy\n⏰ Original De
+ adline (UTC+7): 2026-04-13 23:59:59\nCategory: 人机交互与普适计算
+  (HI)\nCCF C\, CORE B\, THCPL B\nConference Website: https://icmi.acm.org/
+ 2026/\nDBLP Index: https://dblp.org/db/conf/icmi
+LOCATION:Napoli\, Italy
+URL:https://icmi.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMI 2026 Deadline
+DTSTART;TZID="UTC+07:00":20260420T235959
+DTEND;TZID="UTC+07:00":20260421T000059
+DTSTAMP:20260912T141341Z
+UID:a4f1ae50-2214-4e4c-98e9-15b63e708250
+DESCRIPTION:ACM International Conference on Multimodal Interaction\n🗓
+ ️ Date: Oct 5 - 9\, 2026\n📍 Location: Napoli\, Italy\n⏰ Original De
+ adline (UTC+7): 2026-04-20 23:59:59\nCategory: 人机交互与普适计算
+  (HI)\nCCF C\, CORE B\, THCPL B\nConference Website: https://icmi.acm.org/
+ 2026/\nDBLP Index: https://dblp.org/db/conf/icmi
+LOCATION:Napoli\, Italy
+URL:https://icmi.acm.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:UIC 2025 Deadline [Conference Papers]
+DTSTART;TZID="UTC-04:00":20250501T235959
+DTEND;TZID="UTC-04:00":20250502T000059
+DTSTAMP:20260912T141341Z
+UID:a9b504df-dfeb-4940-b0bd-6eab76060288
+DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and C
+ omputing\n🗓️ Date: Aug 18 - 22\, 2025\n📍 Location: Calgary\, Alber
+ ta\, Canada\n⏰ Original Deadline (UTC-4): 2025-05-01 23:59:59\nCategory:
+  人机交互与普适计算 (HI)\nCCF C\, CORE B\nConference Website: htt
+ ps://www.ieee-smart-world.org/2025/\nDBLP Index: https://dblp.org/db/conf/
+ uic
+LOCATION:Calgary\, Alberta\, Canada
+URL:https://www.ieee-smart-world.org/2025/
+END:VEVENT
+END:VCALENDAR

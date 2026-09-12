@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PAKDD 2025 Deadline
+DTSTART;TZID="UTC-08:00":20241130T235959
+DTEND;TZID="UTC-08:00":20241201T000059
+DTSTAMP:20260912T141337Z
+UID:bab8b105-d2fc-4453-a6a5-0b79aa5ffbbf
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: June 10-13\, 2025\n📍 Location: Sydney\, Australia\n⏰ 
+ Original Deadline (UTC-8): 2024-11-30 23:59:59\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://pakd
+ d2025.org\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Sydney\, Australia
+URL:https://pakdd2025.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2026 Deadline
+DTSTART;TZID="UTC-08:00":20251115T235959
+DTEND;TZID="UTC-08:00":20251116T000059
+DTSTAMP:20260912T141337Z
+UID:62f6d2d6-c459-4cfe-85aa-da13264ea7fe
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: June 9-12\, 2026\n📍 Location: Hong Kong\, China\n⏰ Or
+ iginal Deadline (UTC-8): 2025-11-15 23:59:59\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://www.
+ pakdd2026.org/\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Hong Kong\, China
+URL:https://www.pakdd2026.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WISE 2026 Deadline [Extended submission deadline]
+DTSTART;TZID="UTC-12:00":20260630T235959
+DTEND;TZID="UTC-12:00":20260701T000059
+DTSTAMP:20260912T141337Z
+UID:d6654f4f-85e9-415b-a724-5b51eff6ff8c
+DESCRIPTION:International Conference on Web Information Systems Engineerin
+ g\n🗓️ Date: November 2-5\, 2026\n📍 Location: Venice\, Italy\n⏰ O
+ riginal Deadline (AoE): 2026-06-30 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE B\nConference Website: https://confere
+ nces.sigappfr.org/wise2026/\nDBLP Index: https://dblp.org/db/conf/wise
+LOCATION:Venice\, Italy
+URL:https://conferences.sigappfr.org/wise2026/
+END:VEVENT
+END:VCALENDAR

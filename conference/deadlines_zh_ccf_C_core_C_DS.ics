@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPCC 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250518T235959
+DTEND;TZID="UTC-12:00":20250519T000059
+DTSTAMP:20260912T141309Z
+UID:51439e86-280d-4f88-bb05-0ce5a7db68cd
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: August 13-15\, 2025\n📍 会议
+ 地点: Exeter\, UK\n⏰ 原始截止时间 (AoE): 2025-05-18 23:59:59\n
+ 分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF
+  C\, CORE C\n会议官网: https://hpcn.exeter.ac.uk/hpcc2025/\nDBLP索引
+ : https://dblp.org/db/conf/hpcc
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/hpcc2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2022 截稿日期 [first round]
+DTSTART;TZID="UTC-08:00":20210530T170000
+DTEND;TZID="UTC-08:00":20210530T170100
+DTSTAMP:20260912T141309Z
+UID:bb38bdc7-ee63-47a2-9191-b5be69f9f945
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 10-12\, 2022\n📍 会
+ 议地点: Copenhagen\, Denmark\n⏰ 原始截止时间 (UTC-8): 2021-05-3
+ 0 17:00:00\n分类: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF C\, CORE C\n会议官网: https://ica3pp2022.compute.dtu.dk/
+ \nDBLP索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Copenhagen\, Denmark
+URL:https://ica3pp2022.compute.dtu.dk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2022 截稿日期 [second round]
+DTSTART;TZID="UTC-08:00":20210630T170000
+DTEND;TZID="UTC-08:00":20210630T170100
+DTSTAMP:20260912T141309Z
+UID:b0793715-4bb4-4f97-8f16-7a7976ab7cab
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 10-12\, 2022\n📍 会
+ 议地点: Copenhagen\, Denmark\n⏰ 原始截止时间 (UTC-8): 2021-06-3
+ 0 17:00:00\n分类: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF C\, CORE C\n会议官网: https://ica3pp2022.compute.dtu.dk/
+ \nDBLP索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Copenhagen\, Denmark
+URL:https://ica3pp2022.compute.dtu.dk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2023 截稿日期 [Paper Submission Due]
+DTSTART;TZID="UTC-08:00":20230530T235900
+DTEND;TZID="UTC-08:00":20230531T000000
+DTSTAMP:20260912T141309Z
+UID:f2bd2d91-90f6-4b75-8d63-a07f75815b29
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 20-22\, 2022\n📍 会
+ 议地点: Tianjin\, China\n⏰ 原始截止时间 (UTC-8): 2023-05-30 23:
+ 59:00\n分类: 计算机体系结构/并行与分布计算/存储系统 (D
+ S)\nCCF C\, CORE C\n会议官网: http://tjutanklab.com/ica3pp2023/\nDBLP
+ 索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Tianjin\, China
+URL:http://tjutanklab.com/ica3pp2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2025 截稿日期 [Paper Submission Due]
+DTSTART;TZID="UTC-08:00":20250630T235900
+DTEND;TZID="UTC-08:00":20250701T000000
+DTSTAMP:20260912T141309Z
+UID:ae50e216-7b00-452f-a1ed-5f78036f7665
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 30- November 2\, 2025\n
+ 📍 会议地点: Zhengzhou\, Henan\, China\n⏰ 原始截止时间 (UTC-
+ 8): 2025-06-30 23:59:00\n分类: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCCF C\, CORE C\n会议官网: https://ieee-cybermat
+ ics.org/2025/ica3pp/\nDBLP索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Zhengzhou\, Henan\, China
+URL:https://ieee-cybermatics.org/2025/ica3pp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2026 截稿日期 [Paper Submission Due]
+DTSTART;TZID="UTC-12:00":20260725T235900
+DTEND;TZID="UTC-12:00":20260726T000000
+DTSTAMP:20260912T141309Z
+UID:4ea28bc8-04be-43f5-85f9-f3a46134c0db
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 26-28\, 2026\n📍 会
+ 议地点: Exeter\, UK\n⏰ 原始截止时间 (AoE): 2026-07-25 23:59:00
+ \n分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\nC
+ CF C\, CORE C\n会议官网: https://hpcn.exeter.ac.uk/ica3pp2026/\nDBLP
+ 索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/ica3pp2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2021 截稿日期
+DTSTART;TZID="UTC-12:00":20210709T235959
+DTEND;TZID="UTC-12:00":20210710T000059
+DTSTAMP:20260912T141309Z
+UID:c4c9c98e-2222-4a2c-99bf-602950abef34
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ 会议时间: September 30-October 3\, 20
+ 21\n📍 会议地点: New York\, USA\n⏰ 原始截止时间 (AoE): 2021-
+ 07-09 23:59:59\n分类: 计算机体系结构/并行与分布计算/存储
+ 系统 (DS)\nCCF C\, CORE C\n会议官网: http://www.cloud-conf.net/ispa2
+ 021/\nDBLP索引: https://dblp.org/db/conf/ispa
+LOCATION:New York\, USA
+URL:http://www.cloud-conf.net/ispa2021/
+END:VEVENT
+END:VCALENDAR

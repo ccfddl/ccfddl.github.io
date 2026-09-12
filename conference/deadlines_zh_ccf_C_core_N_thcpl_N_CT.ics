@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SETTA 2024 摘要截稿 [deadline is extended from Aug. 23]
+DTSTART;TZID="UTC-12:00":20240816T235959
+DTEND;TZID="UTC-12:00":20240817T000059
+DTSTAMP:20260912T141304Z
+UID:287bb254-9da4-41be-8894-a7cc22fd6ecb
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ 会议时间: Nov 26-28\, 2024\n📍 会议地
+ 点: Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2024-08-16 23:59:59
+ \n分类: 计算机科学理论 (CT)\nCCF C\n会议官网: https://setta20
+ 24.cs.cityu.edu.hk\nDBLP索引: https://dblp.org/db/conf/setta
+LOCATION:Hong Kong\, China
+URL:https://setta2024.cs.cityu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SETTA 2024 截稿日期 [deadline is extended from Aug. 23]
+DTSTART;TZID="UTC-12:00":20240828T235959
+DTEND;TZID="UTC-12:00":20240829T000059
+DTSTAMP:20260912T141304Z
+UID:dc9157ce-af38-4b90-a812-43c7f1fbf19c
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ 会议时间: Nov 26-28\, 2024\n📍 会议地
+ 点: Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2024-08-28 23:59:59
+ \n分类: 计算机科学理论 (CT)\nCCF C\n会议官网: https://setta20
+ 24.cs.cityu.edu.hk\nDBLP索引: https://dblp.org/db/conf/setta
+LOCATION:Hong Kong\, China
+URL:https://setta2024.cs.cityu.edu.hk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SETTA 2025 截稿日期 [Round 1 Paper Submission]
+DTSTART;TZID="UTC-12:00":20250430T235959
+DTEND;TZID="UTC-12:00":20250501T000059
+DTSTAMP:20260912T141304Z
+UID:01100cb5-78f4-4db3-9859-355f32db2c42
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ 会议时间: Dec\, 2025\n📍 会议地点: Ox
+ ford\, UK\n⏰ 原始截止时间 (AoE): 2025-04-30 23:59:59\n分类: 计
+ 算机科学理论 (CT)\nCCF C\n会议官网: https://www.setta2025.uk\nDB
+ LP索引: https://dblp.org/db/conf/setta
+LOCATION:Oxford\, UK
+URL:https://www.setta2025.uk
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SETTA 2025 截稿日期 [Round 2 Paper Submission]
+DTSTART;TZID="UTC-12:00":20250820T235959
+DTEND;TZID="UTC-12:00":20250821T000059
+DTSTAMP:20260912T141304Z
+UID:c8ce2d15-d44f-46de-b82a-a88788760959
+DESCRIPTION:Symposium on Dependable Software Engineering: Theories\, Tools
+  and Applications\n🗓️ 会议时间: Dec\, 2025\n📍 会议地点: Ox
+ ford\, UK\n⏰ 原始截止时间 (AoE): 2025-08-20 23:59:59\n分类: 计
+ 算机科学理论 (CT)\nCCF C\n会议官网: https://www.setta2025.uk\nDB
+ LP索引: https://dblp.org/db/conf/setta
+LOCATION:Oxford\, UK
+URL:https://www.setta2025.uk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICALP 2025 截稿日期 [Submissions]
+DTSTART;TZID="UTC-12:00":20250208T235959
+DTEND;TZID="UTC-12:00":20250209T000059
+DTSTAMP:20260912T141304Z
+UID:b2b1a1dc-2d06-48c5-904f-ec3bee019ddc
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 8-11\, 2025\n📍 会议地点: Aar
+ hus\, Denmark\n⏰ 原始截止时间 (AoE): 2025-02-08 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https
+ ://conferences.au.dk/icalp2025\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Aarhus\, Denmark
+URL:https://conferences.au.dk/icalp2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20260912T141304Z
+UID:84aea5dc-2b52-454d-875a-7f28c807a3fc
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 6-10\, 2026\n📍 会议地点: Lon
+ don\, UK\n⏰ 原始截止时间 (AoE): 2026-02-06 23:59:59\n分类: 计
+ 算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://
+ icalppodcspaa2026.cs.rhul.ac.uk/\nDBLP索引: https://dblp.org/db/conf/ica
+ lp
+LOCATION:London\, UK
+URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
+END:VEVENT
+END:VCALENDAR

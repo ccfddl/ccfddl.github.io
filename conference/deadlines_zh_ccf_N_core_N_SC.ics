@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230901T235959
+DTEND;TZID="UTC-12:00":20230902T000059
+DTSTAMP:20260912T141315Z
+UID:599a3e8b-f1f0-4823-9a5b-8d676b5256f6
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ 会
+ 议时间: December 10-13\, 2023\n📍 会议地点: BITS Pilani Goa\, Ind
+ ia\n⏰ 原始截止时间 (UTC-12): 2023-09-01 23:59:59\n分类: 网络
+ 与信息安全 (SC)\n会议官网: https://crsind.in/indocrypt2023/\nDBLP
+ 索引: https://dblp.org/db/conf/indocrypt
+LOCATION:BITS Pilani Goa\, India
+URL:https://crsind.in/indocrypt2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250901T235959
+DTEND;TZID="UTC-12:00":20250902T000059
+DTSTAMP:20260912T141315Z
+UID:adcd19b5-d272-4d66-9dd3-079531baf65a
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ 会
+ 议时间: December 14-17\, 2025\n📍 会议地点: IIIT Bhubaneswar\, Od
+ isha\, India\n⏰ 原始截止时间 (UTC-12): 2025-09-01 23:59:59\n分类
+ : 网络与信息安全 (SC)\n会议官网: https://www.indocrypt2025.in/
+ \nDBLP索引: https://dblp.org/db/conf/indocrypt
+LOCATION:IIIT Bhubaneswar\, Odisha\, India
+URL:https://www.indocrypt2025.in/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20260929T235959
+DTEND;TZID="UTC-12:00":20260930T000059
+DTSTAMP:20260912T141315Z
+UID:b6aa630a-43ff-44b1-86b8-98f9b99ff1dd
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ 会议时间: May 2027 (exact dates TBD)\n📍 会议地点: Reykj
+ avik\, Iceland\n⏰ 原始截止时间 (UTC-12): 2026-09-29 23:59:59\n分
+ 类: 网络与信息安全 (SC)\n会议官网: https://satml.org/\nDBLP索
+ 引: https://dblp.org/db/conf/satml
+LOCATION:Reykjavik\, Iceland
+URL:https://satml.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20250924T235959
+DTEND;TZID="UTC-12:00":20250925T000059
+DTSTAMP:20260912T141315Z
+UID:9673cd75-3ecc-4ace-91e4-03d4892a2d32
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ 会议时间: March 23-25\, 2026\n📍 会议地点: Munich\, Germ
+ any\n⏰ 原始截止时间 (UTC-12): 2025-09-24 23:59:59\n分类: 网络
+ 与信息安全 (SC)\n会议官网: https://www.satml.org\nDBLP索引: htt
+ ps://dblp.org/db/conf/satml
+LOCATION:Munich\, Germany
+URL:https://www.satml.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20240927T235959
+DTEND;TZID="UTC-12:00":20240928T000059
+DTSTAMP:20260912T141315Z
+UID:462b5775-5544-4d23-b94d-343ae4a7b924
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ 会议时间: April 9-11\, 2025\n📍 会议地点: Copenhagen\, D
+ enmark\n⏰ 原始截止时间 (UTC-12): 2024-09-27 23:59:59\n分类: 网
+ 络与信息安全 (SC)\n会议官网: https://satml.org/2025/\nDBLP索引
+ : https://dblp.org/db/conf/satml
+LOCATION:Copenhagen\, Denmark
+URL:https://satml.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20231011T235959
+DTEND;TZID="UTC-12:00":20231012T000059
+DTSTAMP:20260912T141315Z
+UID:bd195112-350c-4bb3-b5b4-309d441cffac
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ 会议时间: April 9-11\, 2024\n📍 会议地点: Toronto\, Cana
+ da\n⏰ 原始截止时间 (UTC-12): 2023-10-11 23:59:59\n分类: 网络
+ 与信息安全 (SC)\n会议官网: https://satml.org/2024/\nDBLP索引: h
+ ttps://dblp.org/db/conf/satml
+LOCATION:Toronto\, Canada
+URL:https://satml.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20220901T235959
+DTEND;TZID="UTC-12:00":20220902T000059
+DTSTAMP:20260912T141315Z
+UID:670c70a8-7952-4194-95fe-00c5ad0b5635
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ 会议时间: February 8-10\, 2023\n📍 会议地点: Raleigh\, N
+ orth Carolina\, USA\n⏰ 原始截止时间 (UTC-12): 2022-09-01 23:59:59
+ \n分类: 网络与信息安全 (SC)\n会议官网: https://satml.org/2023
+ /\nDBLP索引: https://dblp.org/db/conf/satml
+LOCATION:Raleigh\, North Carolina\, USA
+URL:https://satml.org/2023/
+END:VEVENT
+END:VCALENDAR

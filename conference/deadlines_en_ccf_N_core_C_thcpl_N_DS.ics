@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 Deadline
+DTSTART;TZID="UTC+10:00":20250815T235900
+DTEND;TZID="UTC+10:00":20250816T000000
+DTSTAMP:20260912T141340Z
+UID:a3fa3c00-0001-4a46-9ef2-d7bdd2a15488
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: November 22-November 24\, 
+ 2025\n📍 Location: Gold Coast\, Australia\n⏰ Original Deadline (UTC+10
+ ): 2025-08-15 23:59:00\nCategory: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCORE C\nConference Website: https://www.pd-cat.org/
+ \nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia
+URL:https://www.pd-cat.org/
+END:VEVENT
+END:VCALENDAR

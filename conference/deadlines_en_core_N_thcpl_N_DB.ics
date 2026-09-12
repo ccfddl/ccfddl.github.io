@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WISA 2026 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20260421T235959
+DTEND;TZID="UTC+08:00":20260422T000059
+DTSTAMP:20260912T141337Z
+UID:9e2ec566-9750-4205-8b87-037021648d3d
+DESCRIPTION:Web Information Systems and Applications\n🗓️ Date: August
+  07-09\, 2026\n📍 Location: Kunming\, China\n⏰ Original Deadline (UTC+
+ 8): 2026-04-21 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB
+ )\nCCF C\nConference Website: https://conf.ccf.org.cn/WISA2026\nDBLP Index
+ : https://dblp.org/db/conf/wisa
+LOCATION:Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260428T235959
+DTEND;TZID="UTC+08:00":20260429T000059
+DTSTAMP:20260912T141337Z
+UID:d0f47b6c-30da-42d8-b974-88456312731c
+DESCRIPTION:Web Information Systems and Applications\n🗓️ Date: August
+  07-09\, 2026\n📍 Location: Kunming\, China\n⏰ Original Deadline (UTC+
+ 8): 2026-04-28 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB
+ )\nCCF C\nConference Website: https://conf.ccf.org.cn/WISA2026\nDBLP Index
+ : https://dblp.org/db/conf/wisa
+LOCATION:Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
+END:VEVENT
+END:VCALENDAR

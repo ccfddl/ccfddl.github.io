@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FORTE 2024 摘要截稿
+DTSTART;TZID="UTC-12:00":20240202T235959
+DTEND;TZID="UTC-12:00":20240203T000059
+DTSTAMP:20260912T141311Z
+UID:d3a4ca0b-4ffe-4de3-87f8-b22ec2de61db
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ 会议时间: June 17-21\, 2024\n📍 会
+ 议地点: Groningen\, The Netherlands\n⏰ 原始截止时间 (AoE): 2024
+ -02-02 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, CORE C\n会议官
+ 网: https://www.discotec.org/2024/forte\nDBLP索引: https://dblp.org/db/
+ conf/forte
+LOCATION:Groningen\, The Netherlands
+URL:https://www.discotec.org/2024/forte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORTE 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240209T235959
+DTEND;TZID="UTC-12:00":20240210T000059
+DTSTAMP:20260912T141311Z
+UID:34adde99-ea01-4657-b3c8-a7e8cd7e935c
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ 会议时间: June 17-21\, 2024\n📍 会
+ 议地点: Groningen\, The Netherlands\n⏰ 原始截止时间 (AoE): 2024
+ -02-09 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, CORE C\n会议官
+ 网: https://www.discotec.org/2024/forte\nDBLP索引: https://dblp.org/db/
+ conf/forte
+LOCATION:Groningen\, The Netherlands
+URL:https://www.discotec.org/2024/forte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORTE 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260130T235959
+DTEND;TZID="UTC-12:00":20260131T000059
+DTSTAMP:20260912T141311Z
+UID:7aab1e89-4aa5-4a11-b424-6ed35f33f8a1
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ 会议时间: June 8-12\, 2026\n📍 会
+ 议地点: Urbino\, Italy\n⏰ 原始截止时间 (AoE): 2026-01-30 23:59:
+ 59\n分类: 计算机网络 (NW)\nCCF C\, CORE C\n会议官网: https://ww
+ w.discotec.org/2026/forte\nDBLP索引: https://dblp.org/db/conf/forte
+LOCATION:Urbino\, Italy
+URL:https://www.discotec.org/2026/forte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORTE 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20260912T141311Z
+UID:ff198961-4160-415d-b4ae-dfc1f0a2a39c
+DESCRIPTION:International Conference on Formal Techniques for (Networked a
+ nd) Distributed Systems\n🗓️ 会议时间: June 8-12\, 2026\n📍 会
+ 议地点: Urbino\, Italy\n⏰ 原始截止时间 (AoE): 2026-02-06 23:59:
+ 59\n分类: 计算机网络 (NW)\nCCF C\, CORE C\n会议官网: https://ww
+ w.discotec.org/2026/forte\nDBLP索引: https://dblp.org/db/conf/forte
+LOCATION:Urbino\, Italy
+URL:https://www.discotec.org/2026/forte
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISCC 2026 截稿日期
+DTSTART:20260215T235959Z
+DTEND:20260216T000059Z
+DTSTAMP:20260912T141311Z
+UID:3ed71406-b0e5-4b95-83a6-fea76c750998
+DESCRIPTION:IEEE Symposium on Computers and Communications\n🗓️ 会议
+ 时间: June 23-26\, 2026\n📍 会议地点: Vilamoura\, Algarve\, Portug
+ al\n⏰ 原始截止时间 (UTC+0): 2026-02-15 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF C\, CORE C\n会议官网: https://ieee-iscc.computer.org/
+ 2026/\nDBLP索引: https://dblp.org/db/conf/iscc
+LOCATION:Vilamoura\, Algarve\, Portugal
+URL:https://ieee-iscc.computer.org/2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ITC 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20260912T141309Z
+UID:3d578774-a61e-4259-a13b-ed4cce1ee444
+DESCRIPTION:International Test Conference\n🗓️ 会议时间: October 1
+ 1-16\, 2026\n📍 会议地点: Grand Hyatt San Antonio Riverwalk\, TX\, U
+ SA\n⏰ 原始截止时间 (AoE): 2026-03-20 23:59:59\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A\n会
+ 议官网: https://www.itctestweek.org/\nDBLP索引: https://dblp.org/db/c
+ onf/itc
+LOCATION:Grand Hyatt San Antonio Riverwalk\, TX\, USA
+URL:https://www.itctestweek.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITC 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260424T235959
+DTEND;TZID="UTC-12:00":20260425T000059
+DTSTAMP:20260912T141309Z
+UID:a5e7c673-cea2-4c38-967b-9f72c1045708
+DESCRIPTION:International Test Conference\n🗓️ 会议时间: October 1
+ 1-16\, 2026\n📍 会议地点: Grand Hyatt San Antonio Riverwalk\, TX\, U
+ SA\n⏰ 原始截止时间 (AoE): 2026-04-24 23:59:59\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A\n会
+ 议官网: https://www.itctestweek.org/\nDBLP索引: https://dblp.org/db/c
+ onf/itc
+LOCATION:Grand Hyatt San Antonio Riverwalk\, TX\, USA
+URL:https://www.itctestweek.org/
+END:VEVENT
+END:VCALENDAR

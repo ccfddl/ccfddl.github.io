@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260116T235959
+DTEND;TZID="UTC-12:00":20260117T000059
+DTSTAMP:20260912T141304Z
+UID:0041712e-10ac-419e-baf5-e75faf96ad58
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 28 - July 3\, 2026\n📍 会议地点: Guangzhou\, Chin
+ a\n⏰ 原始截止时间 (AoE): 2026-01-16 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2026.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Guangzhou\, China
+URL:https://2026.ieee-isit.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 摘要截稿
+DTSTART;TZID="UTC+10:00":20240907T195959
+DTEND;TZID="UTC+10:00":20240907T200059
+DTSTAMP:20260912T141304Z
+UID:44074cf6-ba6d-4bdb-b3f3-684a0df82d15
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 12-16\, 2025\n📍 会议地点: Honolulu\, HI\, USA\n
+ ⏰ 原始截止时间 (UTC+10): 2024-09-07 19:59:59\n分类: 网络与信
+ 息安全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2025.ieee-noms
+ .org/\nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 截稿日期
+DTSTART;TZID="UTC+10:00":20240914T195959
+DTEND;TZID="UTC+10:00":20240914T200059
+DTSTAMP:20260912T141304Z
+UID:94b263aa-051c-44f3-90ec-55dfaaf3abd3
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 12-16\, 2025\n📍 会议地点: Honolulu\, HI\, USA\n
+ ⏰ 原始截止时间 (UTC+10): 2024-09-14 19:59:59\n分类: 网络与信
+ 息安全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2025.ieee-noms
+ .org/\nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2026 截稿日期
+DTSTART;TZID="UTC+10:00":20251013T195959
+DTEND;TZID="UTC+10:00":20251013T200059
+DTSTAMP:20260912T141304Z
+UID:6578f3fc-62b1-4c47-889d-c6dd90a42259
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 18-22\, 2026\n📍 会议地点: Rome\, Italy\n⏰ 原
+ 始截止时间 (UTC+10): 2025-10-13 19:59:59\n分类: 网络与信息安
+ 全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2026.ieee-noms.org/
+ \nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Rome\, Italy
+URL:https://noms2026.ieee-noms.org/
+END:VEVENT
+END:VCALENDAR

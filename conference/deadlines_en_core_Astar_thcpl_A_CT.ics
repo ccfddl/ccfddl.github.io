@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CAV 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220121T235959
+DTEND;TZID="UTC-12:00":20220122T000059
+DTSTAMP:20260912T141335Z
+UID:245eb504-4078-40b2-b8cd-2b6507ebee69
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ Date: Aug 7-10\, 2022\n📍 Location: Technion\, Haifa\, Israel\n⏰ O
+ riginal Deadline (AoE): 2022-01-21 23:59:59\nCategory: 计算机科学理
+ 论 (CT)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://i-cav.org/
+ 2022/\nDBLP Index: https://dblp.org/db/conf/cav
+LOCATION:Technion\, Haifa\, Israel
+URL:http://i-cav.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAV 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250131T235959
+DTEND;TZID="UTC-12:00":20250201T000059
+DTSTAMP:20260912T141335Z
+UID:cafcbcb1-2bf2-4114-a79d-e0774e1d4fa5
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ Date: July 21-25\, 2025\n📍 Location: Zagreb\, Croatia\n⏰ Original
+  Deadline (AoE): 2025-01-31 23:59:59\nCategory: 计算机科学理论 (CT)
+ \nCCF A\, CORE A*\, THCPL A\nConference Website: https://conferences.i-cav
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/cav
+LOCATION:Zagreb\, Croatia
+URL:https://conferences.i-cav.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAV 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260128T235959
+DTEND;TZID="UTC-12:00":20260129T000059
+DTSTAMP:20260912T141335Z
+UID:44860f0c-1d72-4a71-b9cd-2f0d0555e75e
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ Date: July 26-29\, 2026\n📍 Location: Lisbon\, Portugal\n⏰ Origina
+ l Deadline (AoE): 2026-01-28 23:59:59\nCategory: 计算机科学理论 (CT
+ )\nCCF A\, CORE A*\, THCPL A\nConference Website: https://conferences.i-ca
+ v.org/2026/\nDBLP Index: https://dblp.org/db/conf/cav
+LOCATION:Lisbon\, Portugal
+URL:https://conferences.i-cav.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAV 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270120T235959
+DTEND;TZID="UTC-12:00":20270121T000059
+DTSTAMP:20260912T141335Z
+UID:94af7825-d52a-4ccd-9322-b016749d6c5d
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ Date: July 19-23\, 2027\n📍 Location: KIT\, Amsterdam\, The Netherla
+ nds\n⏰ Original Deadline (AoE): 2027-01-20 23:59:59\nCategory: 计算机
+ 科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ conferences.i-cav.org/2027/\nDBLP Index: https://dblp.org/db/conf/cav
+LOCATION:KIT\, Amsterdam\, The Netherlands
+URL:https://conferences.i-cav.org/2027/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FOCS 2024 Deadline
+DTSTART;TZID="UTC-05:00":20240404T200000
+DTEND;TZID="UTC-05:00":20240404T200100
+DTSTAMP:20260912T141335Z
+UID:b8c23187-62a5-4358-9a66-e0bddfcfe11d
+DESCRIPTION:IEEE Symposium on Foundations of Computer Science\n🗓️ Dat
+ e: October 27-30\, 2024\n📍 Location: Chicago\, IL\, USA\n⏰ Original D
+ eadline (UTC-5): 2024-04-04 20:00:00\nCategory: 计算机科学理论 (CT)
+ \nCCF A\, CORE A*\, THCPL A\nConference Website: https://focs.computer.org
+ /2024/\nDBLP Index: https://dblp.org/db/conf/focs
+LOCATION:Chicago\, IL\, USA
+URL:https://focs.computer.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOCS 2025 Deadline
+DTSTART;TZID="UTC-05:00":20250403T200000
+DTEND;TZID="UTC-05:00":20250403T200100
+DTSTAMP:20260912T141335Z
+UID:aa2a58e7-b2e4-469f-bbd8-00ff39b2b9ec
+DESCRIPTION:IEEE Symposium on Foundations of Computer Science\n🗓️ Dat
+ e: December 14-17\, 2025\n📍 Location: Sydney\, Australia\n⏰ Original 
+ Deadline (UTC-5): 2025-04-03 20:00:00\nCategory: 计算机科学理论 (CT
+ )\nCCF A\, CORE A*\, THCPL A\nConference Website: https://focs.computer.or
+ g/2025/\nDBLP Index: https://dblp.org/db/conf/focs
+LOCATION:Sydney\, Australia
+URL:https://focs.computer.org/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FOCS 2026 Deadline
+DTSTART:20260401T210000Z
+DTEND:20260401T210100Z
+DTSTAMP:20260912T141335Z
+UID:1bcd9b85-0ed3-47b5-a29e-96fa2df5e833
+DESCRIPTION:IEEE Symposium on Foundations of Computer Science\n🗓️ Dat
+ e: November 8-11\, 2026\n📍 Location: New York City\, NY\, USA\n⏰ Orig
+ inal Deadline (UTC): 2026-04-01 21:00:00\nCategory: 计算机科学理论 
+ (CT)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://sanjeevkhanna
+ .org/FOCS2026_CFP.html\nDBLP Index: https://dblp.org/db/conf/focs
+LOCATION:New York City\, NY\, USA
+URL:https://sanjeevkhanna.org/FOCS2026_CFP.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2025 Deadline [Submissions]
+DTSTART;TZID="UTC-12:00":20250208T235959
+DTEND;TZID="UTC-12:00":20250209T000059
+DTSTAMP:20260912T141335Z
+UID:5719cfaa-1730-4e62-a146-44e906f8db56
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ Date: July 8-11\, 2025\n📍 Location: Aarhus\, Denmar
+ k\n⏰ Original Deadline (AoE): 2025-02-08 23:59:59\nCategory: 计算机
+ 科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://
+ conferences.au.dk/icalp2025\nDBLP Index: https://dblp.org/db/conf/icalp
+LOCATION:Aarhus\, Denmark
+URL:https://conferences.au.dk/icalp2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20260912T141335Z
+UID:96f9c549-8926-4c1f-a0a2-97d377dd6f60
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ Date: July 6-10\, 2026\n📍 Location: London\, UK\n
+ ⏰ Original Deadline (AoE): 2026-02-06 23:59:59\nCategory: 计算机科
+ 学理论 (CT)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://ica
+ lppodcspaa2026.cs.rhul.ac.uk/\nDBLP Index: https://dblp.org/db/conf/icalp
+LOCATION:London\, UK
+URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LICS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230123T235959
+DTEND;TZID="UTC-12:00":20230124T000059
+DTSTAMP:20260912T141335Z
+UID:461b9cb4-d1c4-4412-8c23-5bb85d9d26b4
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\n🗓️ Date: Jun
+ e 26-29\, 2023\n📍 Location: Boston University\, USA\n⏰ Original Deadl
+ ine (AoE): 2023-01-23 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://lics.siglog.org/lics23/
+ \nDBLP Index: https://dblp.org/db/conf/lics
+LOCATION:Boston University\, USA
+URL:https://lics.siglog.org/lics23/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LICS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260912T141335Z
+UID:7f26498b-0575-4216-8ef4-3f1b552b0dfc
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\n🗓️ Date: Jul
+ y 20-23\, 2026\n📍 Location: Lisbon\, Portugal\n⏰ Original Deadline (A
+ oE): 2026-01-15 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF A\, CO
+ RE A*\, THCPL A\nConference Website: https://lics.siglog.org/lics26/\nDBLP
+  Index: https://dblp.org/db/conf/lics
+LOCATION:Lisbon\, Portugal
+URL:https://lics.siglog.org/lics26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LICS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260122T235959
+DTEND;TZID="UTC-12:00":20260123T000059
+DTSTAMP:20260912T141335Z
+UID:52f7ee87-316a-4a7a-ab8f-152d170425c7
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\n🗓️ Date: Jul
+ y 20-23\, 2026\n📍 Location: Lisbon\, Portugal\n⏰ Original Deadline (A
+ oE): 2026-01-22 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF A\, CO
+ RE A*\, THCPL A\nConference Website: https://lics.siglog.org/lics26/\nDBLP
+  Index: https://dblp.org/db/conf/lics
+LOCATION:Lisbon\, Portugal
+URL:https://lics.siglog.org/lics26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SODA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240705T235959
+DTEND;TZID="UTC-12:00":20240706T000059
+DTSTAMP:20260912T141336Z
+UID:fde26e0b-24ee-435e-a811-1100338597e8
+DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\n🗓️ Date: Janua
+ ry 12-15\, 2025\n📍 Location: New Orleans\, Louisiana\, USA\n⏰ Origina
+ l Deadline (UTC-12): 2024-07-05 23:59:59\nCategory: 计算机科学理论 
+ (CT)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://www.siam.org/
+ conferences/cm/conference/soda25\nDBLP Index: https://dblp.org/db/conf/sod
+ a
+LOCATION:New Orleans\, Louisiana\, USA
+URL:https://www.siam.org/conferences/cm/conference/soda25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SODA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250714T235959
+DTEND;TZID="UTC-12:00":20250715T000059
+DTSTAMP:20260912T141336Z
+UID:db6ebc19-f8c6-4a30-98c2-3aa899ab75df
+DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\n🗓️ Date: Janua
+ ry 11-14\, 2026\n📍 Location: Hyatt Regency Vancouver\, Vancouver\, Cana
+ da\n⏰ Original Deadline (UTC-12): 2025-07-14 23:59:59\nCategory: 计算
+ 机科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\nConference Website: https
+ ://www.siam.org/conferences-events/siam-conferences/soda26/\nDBLP Index: h
+ ttps://dblp.org/db/conf/soda
+LOCATION:Hyatt Regency Vancouver\, Vancouver\, Canada
+URL:https://www.siam.org/conferences-events/siam-conferences/soda26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SODA 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260709T235959
+DTEND;TZID="UTC-12:00":20260710T000059
+DTSTAMP:20260912T141336Z
+UID:4adc893b-391f-4ba1-bb91-8d5f0aa68cb7
+DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\n🗓️ Date: Janua
+ ry 24-27\, 2027\n📍 Location: Philadelphia\, Pennsylvania\, USA\n⏰ Ori
+ ginal Deadline (UTC-12): 2026-07-09 23:59:59\nCategory: 计算机科学理
+ 论 (CT)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://www.siam.
+ org/conferences-events/siam-conferences/soda27/\nDBLP Index: https://dblp.
+ org/db/conf/soda
+LOCATION:Philadelphia\, Pennsylvania\, USA
+URL:https://www.siam.org/conferences-events/siam-conferences/soda27/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOC 2021 Deadline
+DTSTART;TZID="UTC-05:00":20201106T115959
+DTEND;TZID="UTC-05:00":20201106T120059
+DTSTAMP:20260912T141336Z
+UID:a7459b99-7ec3-4a35-926d-deb9548b811a
+DESCRIPTION:ACM Symposium on the Theory of Computing\n🗓️ Date: June 2
+ 1-25\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-5): 2020-1
+ 1-06 11:59:59\nCategory: 计算机科学理论 (CT)\nCCF A\, CORE A*\, THC
+ PL A\nConference Website: http://acm-stoc.org/stoc2021/\nDBLP Index: https
+ ://dblp.org/db/conf/stoc
+LOCATION:Virtual
+URL:http://acm-stoc.org/stoc2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOC 2025 Deadline
+DTSTART;TZID="UTC-05:00":20241104T195959
+DTEND;TZID="UTC-05:00":20241104T200059
+DTSTAMP:20260912T141336Z
+UID:d68d656d-36d8-4377-9390-c1db40233bfb
+DESCRIPTION:ACM Symposium on the Theory of Computing\n🗓️ Date: June 2
+ 3-27\, 2025\n📍 Location: Prague\, Czech Republic\n⏰ Original Deadline
+  (UTC-5): 2024-11-04 19:59:59\nCategory: 计算机科学理论 (CT)\nCCF A
+ \, CORE A*\, THCPL A\nConference Website: http://acm-stoc.org/stoc2025/\nD
+ BLP Index: https://dblp.org/db/conf/stoc
+LOCATION:Prague\, Czech Republic
+URL:http://acm-stoc.org/stoc2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOC 2026 Deadline
+DTSTART;TZID="UTC-05:00":20251104T165959
+DTEND;TZID="UTC-05:00":20251104T170059
+DTSTAMP:20260912T141336Z
+UID:36806e65-15ab-4ef9-b312-51cde5c9736a
+DESCRIPTION:ACM Symposium on the Theory of Computing\n🗓️ Date: June 2
+ 2-26\, 2026\n📍 Location: Salt Lake City\, Utah\, USA\n⏰ Original Dead
+ line (UTC-5): 2025-11-04 16:59:59\nCategory: 计算机科学理论 (CT)\nC
+ CF A\, CORE A*\, THCPL A\nConference Website: https://acm-stoc.org/stoc202
+ 6/\nDBLP Index: https://dblp.org/db/conf/stoc
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://acm-stoc.org/stoc2026/
+END:VEVENT
+END:VCALENDAR

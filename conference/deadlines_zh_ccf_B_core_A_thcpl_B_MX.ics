@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2023 截稿日期 [Paper submission deadline]
+DTSTART:20230309T235959Z
+DTEND:20230310T000059Z
+DTSTAMP:20260912T141311Z
+UID:635e11e0-41c5-4f51-8807-d3d9adf19999
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 8-12\, 2023\n📍 会
+ 议地点: Vancouver\, Canada\n⏰ 原始截止时间 (UTC+0): 2023-03-09 
+ 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\n会
+ 议官网: https://conferences.miccai.org/2023/en/\nDBLP索引: https://db
+ lp.org/db/conf/miccai
+LOCATION:Vancouver\, Canada
+URL:https://conferences.miccai.org/2023/en/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2024 截稿日期 [Main conference papers]
+DTSTART;TZID="UTC-08:00":20240307T235959
+DTEND;TZID="UTC-08:00":20240308T000059
+DTSTAMP:20260912T141311Z
+UID:57672de0-3d5c-4ebd-b77d-b73aff77c6be
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 6-10\, 2024\n📍 会
+ 议地点: Marrakesh\, Morocco\n⏰ 原始截止时间 (UTC-8): 2024-03-07
+  23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\n
+ 会议官网: https://conferences.miccai.org/2024/en/\nDBLP索引: https:/
+ /dblp.org/db/conf/miccai
+LOCATION:Marrakesh\, Morocco
+URL:https://conferences.miccai.org/2024/en/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 摘要截稿
+DTSTART;TZID="UTC-08:00":20250213T235900
+DTEND;TZID="UTC-08:00":20250214T000000
+DTSTAMP:20260912T141311Z
+UID:6d8fc9b6-be1c-4031-a504-d29d840f7ac5
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Sep 23-27\, 2025\n📍 会
+ 议地点: Daejeon\, Republic of Korea\n⏰ 原始截止时间 (UTC-8): 20
+ 25-02-13 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://conferences.miccai.org/2025/en/default.asp\nDB
+ LP索引: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250227T235900
+DTEND;TZID="UTC-08:00":20250228T000000
+DTSTAMP:20260912T141311Z
+UID:44e9fe06-389c-45b2-a239-b4e2afbdbd43
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Sep 23-27\, 2025\n📍 会
+ 议地点: Daejeon\, Republic of Korea\n⏰ 原始截止时间 (UTC-8): 20
+ 25-02-27 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://conferences.miccai.org/2025/en/default.asp\nDB
+ LP索引: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 摘要截稿
+DTSTART;TZID="UTC-08:00":20260212T235900
+DTEND;TZID="UTC-08:00":20260213T000000
+DTSTAMP:20260912T141311Z
+UID:c93e1d69-4455-4804-9446-07ffeec48df5
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 4-8\, 2026\n📍 会
+ 议地点: ADNEC Centre\, Abu Dhabi\, U.A.E.\n⏰ 原始截止时间 (UTC-
+ 8): 2026-02-12 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A
+ \, THCPL B\n会议官网: https://conferences.miccai.org/2026/en/IMPORTANT
+ -DATES.html\nDBLP索引: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260226T235900
+DTEND;TZID="UTC-08:00":20260227T000000
+DTSTAMP:20260912T141311Z
+UID:29dc7e77-03e5-4f12-8750-a5953b5d7a58
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 4-8\, 2026\n📍 会
+ 议地点: ADNEC Centre\, Abu Dhabi\, U.A.E.\n⏰ 原始截止时间 (UTC-
+ 8): 2026-02-26 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A
+ \, THCPL B\n会议官网: https://conferences.miccai.org/2026/en/IMPORTANT
+ -DATES.html\nDBLP索引: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+END:VCALENDAR

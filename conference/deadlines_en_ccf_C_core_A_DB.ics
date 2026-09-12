@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECIR 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20241002T235959
+DTEND;TZID="UTC-12:00":20241003T000059
+DTSTAMP:20260912T141337Z
+UID:087fc755-9eb3-4cfd-9b40-9e60b839c18a
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ Date: Ap
+ ril 06 - April 10\, 2025\n📍 Location: Lucca\, Italy\n⏰ Original Deadl
+ ine (UTC-12): 2024-10-02 23:59:59\nCategory: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF C\, CORE A\, THCPL B\nConference Website: https://ecir202
+ 5.eu/\nDBLP Index: https://dblp.org/db/conf/ecir
+LOCATION:Lucca\, Italy
+URL:https://ecir2025.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241009T235959
+DTEND;TZID="UTC-12:00":20241010T000059
+DTSTAMP:20260912T141337Z
+UID:abb78500-2820-4542-9e96-abe0a3ed534c
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ Date: Ap
+ ril 06 - April 10\, 2025\n📍 Location: Lucca\, Italy\n⏰ Original Deadl
+ ine (UTC-12): 2024-10-09 23:59:59\nCategory: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF C\, CORE A\, THCPL B\nConference Website: https://ecir202
+ 5.eu/\nDBLP Index: https://dblp.org/db/conf/ecir
+LOCATION:Lucca\, Italy
+URL:https://ecir2025.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250925T235959
+DTEND;TZID="UTC-12:00":20250926T000059
+DTSTAMP:20260912T141337Z
+UID:d0d5a743-9299-4e34-8123-aad6d4acf5f4
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ Date: Ma
+ rch 30 - April 01\, 2026\n📍 Location: Delft\, The Netherlands\n⏰ Orig
+ inal Deadline (AoE): 2025-09-25 23:59:59\nCategory: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE A\, THCPL B\nConference Website: https://
+ ecir2026.eu/\nDBLP Index: https://dblp.org/db/conf/ecir
+LOCATION:Delft\, The Netherlands
+URL:https://ecir2026.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251002T235959
+DTEND;TZID="UTC-12:00":20251003T000059
+DTSTAMP:20260912T141337Z
+UID:45080c19-4c77-4987-b0e6-69c51e48187a
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ Date: Ma
+ rch 30 - April 01\, 2026\n📍 Location: Delft\, The Netherlands\n⏰ Orig
+ inal Deadline (AoE): 2025-10-02 23:59:59\nCategory: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE A\, THCPL B\nConference Website: https://
+ ecir2026.eu/\nDBLP Index: https://dblp.org/db/conf/ecir
+LOCATION:Delft\, The Netherlands
+URL:https://ecir2026.eu/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECIR 2027 Abstract Deadline
+DTSTART:20260925T235959Z
+DTEND:20260926T000059Z
+DTSTAMP:20260912T141337Z
+UID:b8b7f015-0170-4048-b798-ad3de47de696
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ Date: Ma
+ rch 21-25\, 2027\n📍 Location: Southampton\, UK\n⏰ Original Deadline (
+ UTC+0): 2026-09-25 23:59:59\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF C\, CORE A\, THCPL B\nConference Website: https://ecir2027.co.u
+ k/\nDBLP Index: https://dblp.org/db/conf/ecir
+LOCATION:Southampton\, UK
+URL:https://ecir2027.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2027 Deadline
+DTSTART:20261002T235959Z
+DTEND:20261003T000059Z
+DTSTAMP:20260912T141337Z
+UID:f0bb0e8a-07b7-4832-be1e-50a097b5ccd2
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ Date: Ma
+ rch 21-25\, 2027\n📍 Location: Southampton\, UK\n⏰ Original Deadline (
+ UTC+0): 2026-10-02 23:59:59\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF C\, CORE A\, THCPL B\nConference Website: https://ecir2027.co.u
+ k/\nDBLP Index: https://dblp.org/db/conf/ecir
+LOCATION:Southampton\, UK
+URL:https://ecir2027.co.uk/
+END:VEVENT
+END:VCALENDAR

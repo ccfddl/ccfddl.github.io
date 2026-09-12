@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPDC 2025 Deadline [paper submission deadline]
+DTSTART:20250207T115959Z
+DTEND:20250207T120059Z
+DTSTAMP:20260912T141340Z
+UID:d8d5f52f-c349-4ecc-aae7-4089cb299f54
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Com
+ puting\n🗓️ Date: July 20-23\, 2025\n📍 Location: Notre Dame\, IN\, 
+ USA\n⏰ Original Deadline (UTC): 2025-02-07 11:59:59\nCategory: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF A\, CORE A\, THC
+ PL B\nConference Website: https://hpdc.sci.utah.edu/2025/\nDBLP Index: htt
+ ps://dblp.org/db/conf/hpdc
+LOCATION:Notre Dame\, IN\, USA
+URL:https://hpdc.sci.utah.edu/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPDC 2026 Deadline [abstract registration deadline]
+DTSTART;TZID="UTC-12:00":20260129T235959
+DTEND;TZID="UTC-12:00":20260130T000059
+DTSTAMP:20260912T141340Z
+UID:00e434da-0303-44af-91fb-d916d5dc4391
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Com
+ puting\n🗓️ Date: July 13-16\, 2026\n📍 Location: Cleveland\, OH\, U
+ SA\n⏰ Original Deadline (AoE): 2026-01-29 23:59:59\nCategory: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF A\, CORE A\, THC
+ PL B\nConference Website: https://hpdc.sci.utah.edu/2026/\nDBLP Index: htt
+ ps://dblp.org/db/conf/hpdc
+LOCATION:Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPDC 2026 Deadline [paper submission deadline]
+DTSTART;TZID="UTC-12:00":20260205T235959
+DTEND;TZID="UTC-12:00":20260206T000059
+DTSTAMP:20260912T141340Z
+UID:72a95368-78fd-4334-930e-83a2ddd95fb6
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Com
+ puting\n🗓️ Date: July 13-16\, 2026\n📍 Location: Cleveland\, OH\, U
+ SA\n⏰ Original Deadline (AoE): 2026-02-05 23:59:59\nCategory: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF A\, CORE A\, THC
+ PL B\nConference Website: https://hpdc.sci.utah.edu/2026/\nDBLP Index: htt
+ ps://dblp.org/db/conf/hpdc
+LOCATION:Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220526T235959
+DTEND;TZID="UTC-12:00":20220527T000059
+DTSTAMP:20260912T141340Z
+UID:448fc60a-37db-45fc-bfa9-e25b82cf43d8
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ Date: December 5
+ -8\, 2022\n📍 Location: Houston\, USA\n⏰ Original Deadline (AoE): 2022
+ -05-26 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*\, TH
+ CPL B\nConference Website: http://2022.rtss.org/\nDBLP Index: https://dblp
+ .org/db/conf/rtss
+LOCATION:Houston\, USA
+URL:http://2022.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250522T235959
+DTEND;TZID="UTC-12:00":20250523T000059
+DTSTAMP:20260912T141340Z
+UID:75728564-54c3-49e6-b637-1dcdd81efc03
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ Date: December 2
+ -5\, 2025\n📍 Location: Boston\, MA\, USA\n⏰ Original Deadline (AoE): 
+ 2025-05-22 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*
+ \, THCPL B\nConference Website: http://2025.rtss.org/\nDBLP Index: https:/
+ /dblp.org/db/conf/rtss
+LOCATION:Boston\, MA\, USA
+URL:http://2025.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260521T235959
+DTEND;TZID="UTC-12:00":20260522T000059
+DTSTAMP:20260912T141340Z
+UID:fdd6ce0a-58bc-47a8-96f5-4fa6a48c0d09
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ Date: December 9
+ -11\, 2026\n📍 Location: Yokohama\, Japan\n⏰ Original Deadline (AoE): 
+ 2026-05-21 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF A\, CORE A*
+ \, THCPL B\nConference Website: http://2026.rtss.org/\nDBLP Index: https:/
+ /dblp.org/db/conf/rtss
+LOCATION:Yokohama\, Japan
+URL:http://2026.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2021 Deadline [Abstract submission]
+DTSTART;TZID="UTC-12:00":20210430T235959
+DTEND;TZID="UTC-12:00":20210501T000059
+DTSTAMP:20260912T141340Z
+UID:4e404aa1-8aa1-4707-a096-4d1f62936e3f
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: Novem
+ ber 20-26\, 2021\n📍 Location: Beijng\, China\n⏰ Original Deadline (Ao
+ E): 2021-04-30 23:59:59\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: http://lcs.ios.
+ ac.cn/fm2021/\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Beijng\, China
+URL:http://lcs.ios.ac.cn/fm2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2021 Deadline [Full paper submission]
+DTSTART;TZID="UTC-12:00":20210506T235959
+DTEND;TZID="UTC-12:00":20210507T000059
+DTSTAMP:20260912T141340Z
+UID:c9e2ec30-aeed-4126-bc2d-68ac5d75c2b1
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: Novem
+ ber 20-26\, 2021\n📍 Location: Beijng\, China\n⏰ Original Deadline (Ao
+ E): 2021-05-06 23:59:59\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: http://lcs.ios.
+ ac.cn/fm2021/\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Beijng\, China
+URL:http://lcs.ios.ac.cn/fm2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 Deadline [Abstract Submission]
+DTSTART;TZID="UTC-12:00":20240415T235900
+DTEND;TZID="UTC-12:00":20240416T000000
+DTSTAMP:20260912T141340Z
+UID:a1da9d83-e90e-407b-b2dc-ba248a339b1f
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: Septe
+ mber 09-13\, 2024\n📍 Location: Milan\, Italy\n⏰ Original Deadline (Ao
+ E): 2024-04-15 23:59:00\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: https://www.fm2
+ 4.polimi.it/\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 Deadline [Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20240419T235900
+DTEND;TZID="UTC-12:00":20240420T000000
+DTSTAMP:20260912T141340Z
+UID:23acc079-afe2-4433-9977-682f8f99776f
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: Septe
+ mber 09-13\, 2024\n📍 Location: Milan\, Italy\n⏰ Original Deadline (Ao
+ E): 2024-04-19 23:59:00\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: https://www.fm2
+ 4.polimi.it/\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 Deadline [Paper Notification]
+DTSTART;TZID="UTC-12:00":20240610T235900
+DTEND;TZID="UTC-12:00":20240611T000000
+DTSTAMP:20260912T141340Z
+UID:1bcf2876-ca13-4e61-9481-3e41e2086ce5
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: Septe
+ mber 09-13\, 2024\n📍 Location: Milan\, Italy\n⏰ Original Deadline (Ao
+ E): 2024-06-10 23:59:00\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: https://www.fm2
+ 4.polimi.it/\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 Deadline [Final Version]
+DTSTART;TZID="UTC-12:00":20240701T235900
+DTEND;TZID="UTC-12:00":20240702T000000
+DTSTAMP:20260912T141340Z
+UID:7c8248a7-6570-48b3-b8c6-03c75ba73518
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: Septe
+ mber 09-13\, 2024\n📍 Location: Milan\, Italy\n⏰ Original Deadline (Ao
+ E): 2024-07-01 23:59:00\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: https://www.fm2
+ 4.polimi.it/\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20251125T235900
+DTEND;TZID="UTC-12:00":20251126T000000
+DTSTAMP:20260912T141340Z
+UID:7a2854c5-486a-406e-a3f8-315a712639b8
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: May 1
+ 8-22\, 2026\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (AoE): 20
+ 25-11-25 23:59:00\nCategory: 软件工程/系统软件/程序设计语言 
+ (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: https://conf.researchr
+ .org/home/fm-2026\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Tokyo\, Japan
+URL:https://conf.researchr.org/home/fm-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251202T235900
+DTEND;TZID="UTC-12:00":20251203T000000
+DTSTAMP:20260912T141340Z
+UID:2981bd1c-fd9c-4295-af46-278b44fd2668
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ Date: May 1
+ 8-22\, 2026\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (AoE): 20
+ 25-12-02 23:59:00\nCategory: 软件工程/系统软件/程序设计语言 
+ (SE)\nCCF A\, CORE A\, THCPL B\nConference Website: https://conf.researchr
+ .org/home/fm-2026\nDBLP Index: https://dblp.org/db/conf/fm
+LOCATION:Tokyo\, Japan
+URL:https://conf.researchr.org/home/fm-2026
+END:VEVENT
+END:VCALENDAR

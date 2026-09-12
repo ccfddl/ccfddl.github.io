@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PAKDD 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20241130T235959
+DTEND;TZID="UTC-08:00":20241201T000059
+DTSTAMP:20260912T141306Z
+UID:3a62ef68-795f-42f5-8c64-1a3712281301
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: June 10-13\, 2025\n📍 会议地点: Sydney\, Aus
+ tralia\n⏰ 原始截止时间 (UTC-8): 2024-11-30 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https
+ ://pakdd2025.org\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Sydney\, Australia
+URL:https://pakdd2025.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20251115T235959
+DTEND;TZID="UTC-08:00":20251116T000059
+DTSTAMP:20260912T141306Z
+UID:d6d8fb16-1e50-44db-9228-97616fb15440
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: June 9-12\, 2026\n📍 会议地点: Hong Kong\, C
+ hina\n⏰ 原始截止时间 (UTC-8): 2025-11-15 23:59:59\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https://
+ www.pakdd2026.org/\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Hong Kong\, China
+URL:https://www.pakdd2026.org/
+END:VEVENT
+END:VCALENDAR

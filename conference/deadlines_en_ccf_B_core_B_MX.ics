@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230201T235959
+DTEND;TZID="UTC+08:00":20230202T000059
+DTSTAMP:20260912T141342Z
+UID:3cbe5064-5406-4790-a216-1abc9876313e
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 26-29\, 2023\n📍 Location: Sydney\, Australia\n⏰ Original Deadli
+ ne (UTC+8): 2023-02-01 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF 
+ B\, CORE B\nConference Website: https://cognitivesciencesociety.org/cogsci
+ -2023/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Sydney\, Australia
+URL:https://cognitivesciencesociety.org/cogsci-2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240201T235959
+DTEND;TZID="UTC+08:00":20240202T000059
+DTSTAMP:20260912T141342Z
+UID:c93835cc-1272-49c1-bb91-012a8214c984
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 24-27\, 2024\n📍 Location: Rotterdam\, Netherlands\n⏰ Original D
+ eadline (UTC+8): 2024-02-01 23:59:59\nCategory: 交叉/综合/新兴 (MX)
+ \nCCF B\, CORE B\nConference Website: https://cognitivesciencesociety.org/
+ cogsci-2024/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rotterdam\, Netherlands
+URL:https://cognitivesciencesociety.org/cogsci-2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250201T235959
+DTEND;TZID="UTC+08:00":20250202T000059
+DTSTAMP:20260912T141342Z
+UID:bd2ea9fe-158f-4063-954b-ec9588a2444d
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 30-August 2\, 2025\n📍 Location: Marriott Marquis\, San Francisco
+ \n⏰ Original Deadline (UTC+8): 2025-02-01 23:59:59\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivescie
+ ncesociety.org/cogsci-2025/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Marriott Marquis\, San Francisco
+URL:https://cognitivesciencesociety.org/cogsci-2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260202T235959
+DTEND;TZID="UTC-12:00":20260203T000059
+DTSTAMP:20260912T141342Z
+UID:119ef19e-c97b-45ce-bd07-4bd5ba6fbdcf
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 22-25\, 2026\n📍 Location: Rio de Janeiro\, Brazil\n⏰ Original D
+ eadline (AoE): 2026-02-02 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nC
+ CF B\, CORE B\nConference Website: https://cognitivesciencesociety.org/cog
+ sci-2026/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://cognitivesciencesociety.org/cogsci-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20241016T235959
+DTEND;TZID="UTC-12:00":20241017T000059
+DTSTAMP:20260912T141342Z
+UID:0d01e7f6-13f3-42f5-a15b-ca70ea0c435a
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 26-29\, 2025\n📍 Location: Seoul\, Korea\n
+ ⏰ Original Deadline (AoE): 2024-10-16 23:59:59\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://recomb.
+ org/recomb2025/index.html\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Seoul\, Korea
+URL:https://recomb.org/recomb2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241025T235959
+DTEND;TZID="UTC-12:00":20241026T000059
+DTSTAMP:20260912T141342Z
+UID:e65ddda4-b0ab-41e9-82c2-f37e286093b8
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 26-29\, 2025\n📍 Location: Seoul\, Korea\n
+ ⏰ Original Deadline (AoE): 2024-10-25 23:59:59\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://recomb.
+ org/recomb2025/index.html\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Seoul\, Korea
+URL:https://recomb.org/recomb2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20251107T235959
+DTEND;TZID="UTC-12:00":20251108T000059
+DTSTAMP:20260912T141342Z
+UID:78956b49-c8b9-4035-b0db-6b73ac3acfde
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 26 - 29\, 2026\n📍 Location: Thessaloniki\, 
+ Greece\n⏰ Original Deadline (AoE): 2025-11-07 23:59:59\nCategory: 交叉
+ /综合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https:/
+ /recomb.org/recomb2026/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Thessaloniki\, Greece
+URL:https://recomb.org/recomb2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251114T235959
+DTEND;TZID="UTC-12:00":20251115T000059
+DTSTAMP:20260912T141342Z
+UID:dd3d6e31-dfe0-49f1-8c10-a0bf383d00b3
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 26 - 29\, 2026\n📍 Location: Thessaloniki\, 
+ Greece\n⏰ Original Deadline (AoE): 2025-11-14 23:59:59\nCategory: 交叉
+ /综合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https:/
+ /recomb.org/recomb2026/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Thessaloniki\, Greece
+URL:https://recomb.org/recomb2026/
+END:VEVENT
+END:VCALENDAR

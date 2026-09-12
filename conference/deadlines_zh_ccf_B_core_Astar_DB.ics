@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDM 2021 截稿日期
+DTSTART;TZID="UTC+08:00":20210612T145900
+DTEND;TZID="UTC+08:00":20210612T150000
+DTSTAMP:20260912T141306Z
+UID:0f7df7f2-8c05-4efe-80fc-c8deaf0b4161
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: December 7-10\, 2021\n📍 会议地点: Auckland\, New Zealand\n
+ ⏰ 原始截止时间 (UTC+8): 2021-06-12 14:59:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http
+ s://icdm2021.auckland.ac.nz/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Auckland\, New Zealand
+URL:https://icdm2021.auckland.ac.nz/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDM 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20220610T235900
+DTEND;TZID="UTC-07:00":20220611T000000
+DTSTAMP:20260912T141306Z
+UID:108dbc70-ef8f-4f0c-a35b-4aa199ab8f78
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 30 - December 3\n📍 会议地点: Orlando\, FL\, USA\n
+ ⏰ 原始截止时间 (UTC-7): 2022-06-10 23:59:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http
+ s://icdm22.cse.usf.edu/key-dates.html\nDBLP索引: https://dblp.org/db/con
+ f/icdm
+LOCATION:Orlando\, FL\, USA
+URL:https://icdm22.cse.usf.edu/key-dates.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2023 截稿日期
+DTSTART;TZID="UTC+08:00":20230701T235959
+DTEND;TZID="UTC+08:00":20230702T000059
+DTSTAMP:20260912T141306Z
+UID:0817bbcf-7c31-4fe6-87b8-c060b938a982
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: December 1-4\, 2023\n📍 会议地点: Shanghai\, China\n⏰ 原
+ 始截止时间 (UTC+8): 2023-07-01 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http://clo
+ ud-conf.net/icdm2023/index.html\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Shanghai\, China
+URL:http://cloud-conf.net/icdm2023/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDM 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240614T235959
+DTEND;TZID="UTC-12:00":20240615T000059
+DTSTAMP:20260912T141306Z
+UID:ed9a518d-d0a6-4e20-8276-ae11808cce0d
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: December 9-12\, 2024\n📍 会议地点: Abu Dhabi\, UAE\n⏰ 原
+ 始截止时间 (AoE): 2024-06-14 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: https://icdm2
+ 024.org/dates/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Abu Dhabi\, UAE
+URL:https://icdm2024.org/dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250606T235959
+DTEND;TZID="UTC-12:00":20250607T000059
+DTSTAMP:20260912T141306Z
+UID:0fb34b0f-b447-4e9a-bef1-14779a4c59e2
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 12-15\, 2025\n📍 会议地点: Washington DC\, USA\n⏰
+  原始截止时间 (AoE): 2025-06-06 23:59:59\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: https:/
+ /www3.cs.stonybrook.edu/~icdm2025/cfp.html\nDBLP索引: https://dblp.org/d
+ b/conf/icdm
+LOCATION:Washington DC\, USA
+URL:https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260530T235959
+DTEND;TZID="UTC-12:00":20260531T000059
+DTSTAMP:20260912T141306Z
+UID:a978ce27-dc31-43f3-ab35-34f0f78f3569
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 12-15\, 2026\n📍 会议地点: Shenyang\, China\n⏰ 
+ 原始截止时间 (AoE): 2026-05-30 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http://icd
+ m2026.neu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Shenyang\, China
+URL:http://icdm2026.neu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDM 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260606T235959
+DTEND;TZID="UTC-12:00":20260607T000059
+DTSTAMP:20260912T141306Z
+UID:8098ab69-c019-4931-bbf6-8d5899921f5f
+DESCRIPTION:IEEE International Conference on Data Mining\n🗓️ 会议
+ 时间: November 12-15\, 2026\n📍 会议地点: Shenyang\, China\n⏰ 
+ 原始截止时间 (AoE): 2026-06-06 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL B\n会议官网: http://icd
+ m2026.neu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/icdm
+LOCATION:Shenyang\, China
+URL:http://icdm2026.neu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 摘要截稿 [FIRST SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20240531T170000
+DTEND;TZID="UTC-07:00":20240531T170100
+DTSTAMP:20260912T141306Z
+UID:691199c5-a419-48bd-ab55-0a59f132a411
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-05-31 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 截稿日期 [FIRST SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20240607T170000
+DTEND;TZID="UTC-07:00":20240607T170100
+DTSTAMP:20260912T141306Z
+UID:365c09a1-cb52-4821-b75b-40c168dcf923
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-06-07 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 摘要截稿 [SECOND SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20241202T170000
+DTEND;TZID="UTC-07:00":20241202T170100
+DTSTAMP:20260912T141306Z
+UID:3bf066d4-b22b-497b-9039-1766b4cb8d44
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-12-02 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 截稿日期 [SECOND SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20241209T170000
+DTEND;TZID="UTC-07:00":20241209T170100
+DTSTAMP:20260912T141306Z
+UID:7bb3c725-016b-48d3-b1de-fef255373423
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-12-09 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+END:VCALENDAR

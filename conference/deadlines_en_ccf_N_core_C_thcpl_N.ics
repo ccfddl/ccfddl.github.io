@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:VINCI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20260912T141335Z
+UID:a5de1df1-5afd-4c1e-abb8-0a23267b8d00
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: December 1-3\, 2025\n📍 Location: Linz\, Au
+ stria\n⏰ Original Deadline (AoE): 2025-06-27 23:59:59\nCategory: 计算
+ 机图形学与多媒体 (CG)\nCORE C\nConference Website: https://vinci20
+ 25.games.cg.jku.at\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Linz\, Austria
+URL:https://vinci2025.games.cg.jku.at
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 Deadline
+DTSTART;TZID="UTC+10:00":20250815T235900
+DTEND;TZID="UTC+10:00":20250816T000000
+DTSTAMP:20260912T141335Z
+UID:8366b5a8-575a-4b36-9dfe-d379dc920731
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: November 22-November 24\, 
+ 2025\n📍 Location: Gold Coast\, Australia\n⏰ Original Deadline (UTC+10
+ ): 2025-08-15 23:59:00\nCategory: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCORE C\nConference Website: https://www.pd-cat.org/
+ \nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia
+URL:https://www.pd-cat.org/
+END:VEVENT
+END:VCALENDAR

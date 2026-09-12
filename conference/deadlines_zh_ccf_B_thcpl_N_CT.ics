@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COCOON 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250305T235959
+DTEND;TZID="UTC-12:00":20250306T000059
+DTSTAMP:20260912T141304Z
+UID:36c0e145-d2be-46ec-93d7-f261bd3f9e3e
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ 会议时间: August 15-17\, 2025\n📍 会议地点: Chengdu\, China\n⏰
+  原始截止时间 (AoE): 2025-03-05 23:59:59\n分类: 计算机科学理
+ 论 (CT)\nCCF B\n会议官网: https://tcsuestc.com/cocoon2025\nDBLP索引
+ : https://dblp.org/db/conf/cocoon
+LOCATION:Chengdu\, China
+URL:https://tcsuestc.com/cocoon2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20250304T235959
+DTEND;TZID="UTC-12:00":20250305T000059
+DTSTAMP:20260912T141304Z
+UID:6ce5fd3a-78ab-4aaa-8831-1caabf3d3328
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ 会议时间: July 23-25\, 2026\n📍 会议地点: Singapore\n⏰ 原始
+ 截止时间 (AoE): 2025-03-04 23:59:59\n分类: 计算机科学理论 (CT
+ )\nCCF B\n会议官网: https://event.ntu.edu.sg/cocoon2026\nDBLP索引: h
+ ttps://dblp.org/db/conf/cocoon
+LOCATION:Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
+END:VEVENT
+END:VCALENDAR

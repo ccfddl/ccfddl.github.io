@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICIC 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240411T120000
+DTEND;TZID="UTC+08:00":20240411T120100
+DTSTAMP:20260912T141342Z
+UID:547c14b8-ba37-4c7f-9e2f-ba9e375bc450
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ Dat
+ e: August 5-8\, 2024\n📍 Location: Tianjin\, China\n⏰ Original Deadlin
+ e (UTC+8): 2024-04-11 12:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \nConference Website: http://www.ic-icc.cn/2024/index.htm\nDBLP Index: htt
+ ps://dblp.org/db/conf/icic
+LOCATION:Tianjin\, China
+URL:http://www.ic-icc.cn/2024/index.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICIC 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250410T115959
+DTEND;TZID="UTC+08:00":20250410T120059
+DTSTAMP:20260912T141342Z
+UID:47d6b35d-fec7-4804-bf21-dc5b07638f7b
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ Dat
+ e: July 26-29\, 2025\n📍 Location: Ningbo\, China\n⏰ Original Deadline
+  (UTC+8): 2025-04-10 11:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \nConference Website: http://www.ic-icc.cn/2025/index.php\nDBLP Index: htt
+ ps://dblp.org/db/conf/icic
+LOCATION:Ningbo\, China
+URL:http://www.ic-icc.cn/2025/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICIC 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260404T115959
+DTEND;TZID="UTC+08:00":20260404T120059
+DTSTAMP:20260912T141342Z
+UID:2252ad29-c8c4-401a-85eb-51218882702c
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ Dat
+ e: July 22-26\, 2026\n📍 Location: Toronto\, Canada\n⏰ Original Deadli
+ ne (UTC+8): 2026-04-04 11:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF 
+ C\nConference Website: http://www.ic-icc.cn/2026/\nDBLP Index: https://dbl
+ p.org/db/conf/icic
+LOCATION:Toronto\, Canada
+URL:http://www.ic-icc.cn/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISBRA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250401T235959
+DTEND;TZID="UTC-12:00":20250402T000059
+DTSTAMP:20260912T141342Z
+UID:dfa18c9e-0449-414a-84e5-b3e19acfc1c0
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ Date: August 3-5\, 2025\n📍 Location: Helsinki\, Finland
+ \n⏰ Original Deadline (AoE): 2025-04-01 23:59:59\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF C\nConference Website: https://www.helsinki.fi/en/con
+ ferences/isbra2025\nDBLP Index: https://dblp.org/db/conf/isbra
+LOCATION:Helsinki\, Finland
+URL:https://www.helsinki.fi/en/conferences/isbra2025
+END:VEVENT
+END:VCALENDAR

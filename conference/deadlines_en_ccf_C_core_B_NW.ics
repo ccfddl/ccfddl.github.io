@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2023 Deadline
+DTSTART;TZID="UTC-04:00":20230415T235959
+DTEND;TZID="UTC-04:00":20230416T000059
+DTSTAMP:20260912T141343Z
+UID:601ac4c0-25e0-4e73-bdca-bb384cc62390
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 4-8\, 2023\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ Original Deadline 
+ (UTC-4): 2023-04-15 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE
+  B\, THCPL B\nConference Website: https://globecom2023.ieee-globecom.org/
+ \nDBLP Index: https://dblp.org/db/conf/globecom
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://globecom2023.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2025 Deadline
+DTSTART;TZID="UTC-04:00":20250415T235959
+DTEND;TZID="UTC-04:00":20250416T000059
+DTSTAMP:20260912T141343Z
+UID:6800b40e-59d5-4393-a640-77a9804a9bfc
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 8-12\, 2025\n📍 Location: Taipei\, Taiwan\n⏰ Original Deadline (UTC-4)
+ : 2025-04-15 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, TH
+ CPL B\nConference Website: https://globecom2025.ieee-globecom.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/globecom
+LOCATION:Taipei\, Taiwan
+URL:https://globecom2025.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2026 Deadline
+DTSTART;TZID="UTC-04:00":20260503T235959
+DTEND;TZID="UTC-04:00":20260504T000059
+DTSTAMP:20260912T141343Z
+UID:d9ff1ae8-c1a0-4cc7-8f2a-ba41f0f84654
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 7-11\, 2026\n📍 Location: Macao\, China\n⏰ Original Deadline (UTC-4): 
+ 2026-05-03 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCP
+ L B\nConference Website: https://globecom2026.ieee-globecom.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/globecom
+LOCATION:Macao\, China
+URL:https://globecom2026.ieee-globecom.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCCN 2026 Deadline
+DTSTART;TZID="UTC-10:00":20260213T235959
+DTEND;TZID="UTC-10:00":20260214T000059
+DTSTAMP:20260912T141343Z
+UID:37d5e551-33ec-445b-a8f7-eb78dcef8825
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 27-30\, 2026\n📍 Location: Honolulu\, Hawaii
+ \, USA\n⏰ Original Deadline (UTC-10): 2026-02-13 23:59:59\nCategory: 计
+ 算机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.or
+ g/ICCCN26/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:LCN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260420T235959
+DTEND;TZID="UTC-12:00":20260421T000059
+DTSTAMP:20260912T141343Z
+UID:ad34d181-1059-4c92-b03c-2956badbf63c
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 7-9\, 2026\n📍 Location: Coimbra\, Portugal\n⏰ Original Deadline (
+ AoE): 2026-04-20 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \nConference Website: https://www.ieeelcn.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/lcn
+LOCATION:Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260912T141343Z
+UID:91c675c3-15be-473e-bd3c-3b6fc9f4ed69
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: May
+  24-27\, 2026\n📍 Location: Lugano\, Switzerland\n⏰ Original Deadline 
+ (AoE): 2026-02-08 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \, THCPL B\nConference Website: https://networking.ifip.org/2026/\nDBLP In
+ dex: https://dblp.org/db/conf/networking
+LOCATION:Lugano\, Switzerland
+URL:https://networking.ifip.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240902T235959
+DTEND;TZID="UTC-12:00":20240903T000059
+DTSTAMP:20260912T141343Z
+UID:4f26f098-aca7-4f77-a76e-1e947ed808ec
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: March 24-27\, 2025\n📍 Location: Milan\, Italy\n⏰ Original D
+ eadline (UTC-12): 2024-09-02 23:59:59\nCategory: 计算机网络 (NW)\nCCF
+  C\, CORE B\nConference Website: https://wcnc2025.ieee-wcnc.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/wcnc
+LOCATION:Milan\, Italy
+URL:https://wcnc2025.ieee-wcnc.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250914T235959
+DTEND;TZID="UTC-12:00":20250915T000059
+DTSTAMP:20260912T141343Z
+UID:c1d37478-55cd-41c6-82ba-eb2c7edd5ed7
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 13-16\, 2026\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ 
+ Original Deadline (UTC-12): 2025-09-14 23:59:59\nCategory: 计算机网络
+  (NW)\nCCF C\, CORE B\nConference Website: https://wcnc2026.ieee-wcnc.org/
+ group/21\nDBLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://wcnc2026.ieee-wcnc.org/group/21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260915T235959
+DTEND;TZID="UTC-12:00":20260916T000059
+DTSTAMP:20260912T141343Z
+UID:8bfb0ce4-0658-48e9-9fae-008ad6efaefa
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 5-8\, 2027\n📍 Location: Panama City\, Panama\n⏰ Origi
+ nal Deadline (AoE): 2026-09-15 23:59:59\nCategory: 计算机网络 (NW)\nC
+ CF C\, CORE B\nConference Website: https://wcnc2027.ieee-wcnc.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/wcnc
+LOCATION:Panama City\, Panama
+URL:https://wcnc2027.ieee-wcnc.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241122T235959
+DTEND;TZID="UTC-12:00":20241123T000059
+DTSTAMP:20260912T141343Z
+UID:a0765a23-8bac-4894-88b5-ea4b182d2f1d
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: May 27-30\, 2025\n📍 Location: For
+ t Worth\, Texas\, USA\n⏰ Original Deadline (AoE): 2024-11-22 23:59:59\nC
+ ategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Websit
+ e: https://wowmomconference.uta.edu/index.html\nDBLP Index: https://dblp.o
+ rg/db/conf/wowmom
+LOCATION:Fort Worth\, Texas\, USA
+URL:https://wowmomconference.uta.edu/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20251118T235959
+DTEND;TZID="UTC-12:00":20251119T000059
+DTSTAMP:20260912T141343Z
+UID:38fb00f3-578d-4b35-9bd7-1f92c03db293
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 16-19\, 2026\n📍 Location: Bo
+ logna\, Italy\n⏰ Original Deadline (AoE): 2025-11-18 23:59:59\nCategory:
+  计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Website: https
+ ://www.cs.unibo.it/wowmom2026/\nDBLP Index: https://dblp.org/db/conf/wowmo
+ m
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251205T235959
+DTEND;TZID="UTC-12:00":20251206T000059
+DTSTAMP:20260912T141343Z
+UID:c7a94cc0-e050-4bc5-9ac7-5c7de322d56c
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 16-19\, 2026\n📍 Location: Bo
+ logna\, Italy\n⏰ Original Deadline (AoE): 2025-12-05 23:59:59\nCategory:
+  计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Website: https
+ ://www.cs.unibo.it/wowmom2026/\nDBLP Index: https://dblp.org/db/conf/wowmo
+ m
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ETAPS 2022 Deadline [Paper submission deadline]
+DTSTART;TZID="UTC-12:00":20211014T235959
+DTEND;TZID="UTC-12:00":20211015T000059
+DTSTAMP:20260912T141347Z
+UID:253c5676-d4e2-45c2-9bd9-a5a89116343e
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 2-7\, 2022\n📍 Location: Munich\, Germany\n⏰ Ori
+ ginal Deadline (AoE): 2021-10-14 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2022/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Munich\, Germany
+URL:https://etaps.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2022 Deadline [Paper final versions]
+DTSTART;TZID="UTC-12:00":20220126T235959
+DTEND;TZID="UTC-12:00":20220127T000059
+DTSTAMP:20260912T141347Z
+UID:ee1e8a40-83b2-4567-a401-be808c537d54
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 2-7\, 2022\n📍 Location: Munich\, Germany\n⏰ Ori
+ ginal Deadline (AoE): 2022-01-26 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2022/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Munich\, Germany
+URL:https://etaps.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2026 Deadline [Submission deadline ESOP round 1]
+DTSTART;TZID="UTC-12:00":20250603T235959
+DTEND;TZID="UTC-12:00":20250604T000059
+DTSTAMP:20260912T141347Z
+UID:d336971d-a2a7-4e3a-9942-3cebf453164c
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 11-16\, 2026\n📍 Location: Torino\, Italy\n⏰ Ori
+ ginal Deadline (AoE): 2025-06-03 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2026\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Torino\, Italy
+URL:https://etaps.org/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2026 Deadline [Submission deadline ESOP round 2]
+DTSTART;TZID="UTC-12:00":20251016T235959
+DTEND;TZID="UTC-12:00":20251017T000059
+DTSTAMP:20260912T141347Z
+UID:77886214-bb64-4d6a-8c48-878ebdbaddf0
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 11-16\, 2026\n📍 Location: Torino\, Italy\n⏰ Ori
+ ginal Deadline (AoE): 2025-10-16 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2026\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Torino\, Italy
+URL:https://etaps.org/2026
+END:VEVENT
+END:VCALENDAR

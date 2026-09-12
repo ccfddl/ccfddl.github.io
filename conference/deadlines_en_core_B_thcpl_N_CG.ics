@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MMM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240819T235959
+DTEND;TZID="UTC-12:00":20240820T000059
+DTSTAMP:20260912T141335Z
+UID:da6511f4-4573-49d6-8682-b43fcd71a31a
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ Date:
+  January 7-10\, 2025\n📍 Location: Nara\, Japan\n⏰ Original Deadline (
+ AoE): 2024-08-19 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\n
+ CCF C\, CORE B\nConference Website: https://mmm2025.net/\nDBLP Index: http
+ s://dblp.org/db/conf/mmm
+LOCATION:Nara\, Japan
+URL:https://mmm2025.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250819T235959
+DTEND;TZID="UTC-12:00":20250820T000059
+DTSTAMP:20260912T141335Z
+UID:7f1ccadd-2a48-4135-b3a1-1f6992a2ef73
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ Date:
+  January 29-31\, 2026\n📍 Location: Prague\, Czech Republic\n⏰ Origina
+ l Deadline (AoE): 2025-08-19 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nCCF C\, CORE B\nConference Website: https://mmm2026.cz/\nDBLP
+  Index: https://dblp.org/db/conf/mmm
+LOCATION:Prague\, Czech Republic
+URL:https://mmm2026.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260816T235959
+DTEND;TZID="UTC-12:00":20260817T000059
+DTSTAMP:20260912T141335Z
+UID:36ac194a-9352-47b0-8fca-ae3061b938bb
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ Date:
+  January 5-8\, 2027\n📍 Location: Siem Reap\, Cambodia\n⏰ Original Dea
+ dline (AoE): 2026-08-16 23:59:59\nCategory: 计算机图形学与多媒体
+  (CG)\nCCF C\, CORE B\nConference Website: https://www.mmm2027.net/\nDBLP 
+ Index: https://dblp.org/db/conf/mmm
+LOCATION:Siem Reap\, Cambodia
+URL:https://www.mmm2027.net/
+END:VEVENT
+END:VCALENDAR

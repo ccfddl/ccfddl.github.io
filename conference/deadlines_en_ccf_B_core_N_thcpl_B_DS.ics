@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MSST 2024 Deadline
+DTSTART:20240107T045959Z
+DTEND:20240107T050059Z
+DTSTAMP:20260912T141340Z
+UID:d034f269-5e3b-40eb-9376-c8963edf98ee
+DESCRIPTION:International Conference on Massive Storage Systems and Techno
+ logy\n🗓️ Date: June 3-7\, 2024\n📍 Location: Santa Clara\, CA\n⏰ 
+ Original Deadline (UTC): 2024-01-07 04:59:59\nCategory: 计算机体系结
+ 构/并行与分布计算/存储系统 (DS)\nCCF B\, THCPL B\nConference W
+ ebsite: https://storageconference.us/index.html\nDBLP Index: https://dblp.
+ org/db/conf/mss
+LOCATION:Santa Clara\, CA
+URL:https://storageconference.us/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSST 2026 Deadline
+DTSTART:20260414T235959Z
+DTEND:20260415T000059Z
+DTSTAMP:20260912T141340Z
+UID:e1356cf4-2b84-4e54-bed9-f4fdb5c45ee8
+DESCRIPTION:International Conference on Massive Storage Systems and Techno
+ logy\n🗓️ Date: June 1-5\, 2026\n📍 Location: Santa Clara University
+ \, Santa Clara\, CA\, USA\n⏰ Original Deadline (UTC): 2026-04-14 23:59:5
+ 9\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS)
+ \nCCF B\, THCPL B\nConference Website: https://msstconference.org/2026/ind
+ ex.html\nDBLP Index: https://dblp.org/db/conf/mss
+LOCATION:Santa Clara University\, Santa Clara\, CA\, USA
+URL:https://msstconference.org/2026/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SoCC 2023 Deadline [abstract and full paper deadline]
+DTSTART;TZID="UTC-07:00":20230609T135900
+DTEND;TZID="UTC-07:00":20230609T140000
+DTSTAMP:20260912T141340Z
+UID:bfefb1da-771d-461a-a04d-552f188cd0b2
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: October 30 - N
+ ovember 1\, 2023\n📍 Location: California\, USA\n⏰ Original Deadline (
+ UTC-7): 2023-06-09 13:59:00\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nCCF B\, THCPL B\nConference Website: https://
+ acmsocc.org/2023/\nDBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:California\, USA
+URL:https://acmsocc.org/2023/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SoCC 2024 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20240708T170000
+DTEND;TZID="UTC-04:00":20240708T170100
+DTSTAMP:20260912T141340Z
+UID:5c82997e-b144-443b-8dd4-0e8d173f6da6
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: November 20-22
+ \, 2024\n📍 Location: Redmond\, USA\n⏰ Original Deadline (UTC-4): 2024
+ -07-08 17:00:00\nCategory: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCCF B\, THCPL B\nConference Website: https://acmsocc.org/2
+ 024/\nDBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:Redmond\, USA
+URL:https://acmsocc.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SoCC 2024 Deadline
+DTSTART;TZID="UTC-04:00":20240715T170000
+DTEND;TZID="UTC-04:00":20240715T170100
+DTSTAMP:20260912T141340Z
+UID:cdc8eb2c-9177-45a6-b2ff-ce55bcbe8dee
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: November 20-22
+ \, 2024\n📍 Location: Redmond\, USA\n⏰ Original Deadline (UTC-4): 2024
+ -07-15 17:00:00\nCategory: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCCF B\, THCPL B\nConference Website: https://acmsocc.org/2
+ 024/\nDBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:Redmond\, USA
+URL:https://acmsocc.org/2024/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SoCC 2026 Abstract Deadline [First round]
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20260912T141340Z
+UID:6cbbe07c-4aa7-4843-a191-9cefdcc695ae
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: November 18-20
+ \, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2026-02-06
+  23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF B\, THCPL B\nConference Website: https://acmsocc.org/2026/\n
+ DBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:Singapore
+URL:https://acmsocc.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SoCC 2026 Deadline [First round]
+DTSTART;TZID="UTC-12:00":20260213T235959
+DTEND;TZID="UTC-12:00":20260214T000059
+DTSTAMP:20260912T141340Z
+UID:8c865341-4925-4176-9d92-25dfaee8f26e
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: November 18-20
+ \, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2026-02-13
+  23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF B\, THCPL B\nConference Website: https://acmsocc.org/2026/\n
+ DBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:Singapore
+URL:https://acmsocc.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SoCC 2026 Abstract Deadline [Second round]
+DTSTART;TZID="UTC-12:00":20260707T235959
+DTEND;TZID="UTC-12:00":20260708T000059
+DTSTAMP:20260912T141340Z
+UID:d85b9574-78e9-4596-a09b-ed13bedd5c08
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: November 18-20
+ \, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2026-07-07
+  23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF B\, THCPL B\nConference Website: https://acmsocc.org/2026/\n
+ DBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:Singapore
+URL:https://acmsocc.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SoCC 2026 Deadline [Second round]
+DTSTART;TZID="UTC-12:00":20260714T235959
+DTEND;TZID="UTC-12:00":20260715T000059
+DTSTAMP:20260912T141340Z
+UID:b8b9ff3f-0cca-4fab-8132-7de610465241
+DESCRIPTION:ACM Symposium on Cloud Computing\n🗓️ Date: November 18-20
+ \, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2026-07-14
+  23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF B\, THCPL B\nConference Website: https://acmsocc.org/2026/\n
+ DBLP Index: https://dblp.org/db/conf/cloud
+LOCATION:Singapore
+URL:https://acmsocc.org/2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SPM 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250308T235959
+DTEND;TZID="UTC-12:00":20250309T000059
+DTSTAMP:20260912T141303Z
+UID:24b46787-92be-4350-ae40-d5113c710fc2
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : October 29 - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\,
+  P.R. China\n⏰ 原始截止时间 (AoE): 2025-03-08 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官
+ 网: https://spmconf2025.github.io/SPM2025/\nDBLP索引: https://dblp.org/
+ db/conf/sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250315T235959
+DTEND;TZID="UTC-12:00":20250316T000059
+DTSTAMP:20260912T141303Z
+UID:51a6ba01-edb3-4ea5-9d08-db0ca83537e6
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : October 29 - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\,
+  P.R. China\n⏰ 原始截止时间 (AoE): 2025-03-15 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官
+ 网: https://spmconf2025.github.io/SPM2025/\nDBLP索引: https://dblp.org/
+ db/conf/sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+END:VCALENDAR

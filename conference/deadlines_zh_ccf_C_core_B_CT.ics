@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISAAC 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260626T235959
+DTEND;TZID="UTC-12:00":20260627T000059
+DTSTAMP:20260912T141304Z
+UID:f04d4305-1e04-4252-9b47-e8d5a0b3dfc7
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 6-9\, 2026\n📍 会议地点: Hangzhou\, China\n
+ ⏰ 原始截止时间 (AoE): 2026-06-26 23:59:59\n分类: 计算机科学
+ 理论 (CT)\nCCF C\, CORE B\n会议官网: https://www.algo-door.com/isaac
+ 2026/index.html\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Hangzhou\, China
+URL:https://www.algo-door.com/isaac2026/index.html
+END:VEVENT
+END:VCALENDAR

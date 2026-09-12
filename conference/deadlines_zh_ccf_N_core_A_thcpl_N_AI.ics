@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EACL 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251006T235959
+DTEND;TZID="UTC-12:00":20251007T000059
+DTSTAMP:20260912T141300Z
+UID:187dd28c-2da0-4f2c-8ab9-f105cbf54fe4
+DESCRIPTION:The Annual Conference of the European Chapter of the Associati
+ on for Computational Linguistics\n🗓️ 会议时间: March 24-29\, 2026
+ \n📍 会议地点: Rabat\, Morocco\n⏰ 原始截止时间 (AoE): 2025-1
+ 0-06 23:59:59\n分类: 人工智能 (AI)\nCORE A\n会议官网: https://20
+ 26.eacl.org/\nDBLP索引: https://dblp.org/db/conf/eacl
+LOCATION:Rabat\, Morocco
+URL:https://2026.eacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EACL 2027 截稿日期 [ARR Submission\; commitment deadline: 2026
+ -10-11]
+DTSTART;TZID="UTC-12:00":20260803T235959
+DTEND;TZID="UTC-12:00":20260804T000059
+DTSTAMP:20260912T141300Z
+UID:64f7f4cb-e39b-445b-b52b-2a5b6430bcd0
+DESCRIPTION:The Annual Conference of the European Chapter of the Associati
+ on for Computational Linguistics\n🗓️ 会议时间: March 9-14\, 2027
+ \n📍 会议地点: Athens\, Greece\n⏰ 原始截止时间 (UTC-12): 202
+ 6-08-03 23:59:59\n分类: 人工智能 (AI)\nCORE A\n会议官网: https:/
+ /2027.eacl.org/\nDBLP索引: https://dblp.org/db/conf/eacl
+LOCATION:Athens\, Greece
+URL:https://2027.eacl.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WACV 2025 截稿日期 [first round]
+DTSTART;TZID="UTC-07:00":20240715T235959
+DTEND;TZID="UTC-07:00":20240716T000059
+DTSTAMP:20260912T141300Z
+UID:20c578dc-d2cb-4658-a7e2-f2cb32cd1aa3
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: February 28 - March 4\, 2025\n📍 会议地点: T
+ ucson\, Arizona\, USA\n⏰ 原始截止时间 (UTC-7): 2024-07-15 23:59:59
+ \n分类: 人工智能 (AI)\nCORE A\n会议官网: https://wacv2025.thecvf
+ .com/\nDBLP索引: https://dblp.org/db/conf/wacv
+LOCATION:Tucson\, Arizona\, USA
+URL:https://wacv2025.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2025 截稿日期 [second round]
+DTSTART;TZID="UTC-07:00":20240909T235959
+DTEND;TZID="UTC-07:00":20240910T000059
+DTSTAMP:20260912T141300Z
+UID:db1e36dd-8695-4df7-a5c3-993fd158b580
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: February 28 - March 4\, 2025\n📍 会议地点: T
+ ucson\, Arizona\, USA\n⏰ 原始截止时间 (UTC-7): 2024-09-09 23:59:59
+ \n分类: 人工智能 (AI)\nCORE A\n会议官网: https://wacv2025.thecvf
+ .com/\nDBLP索引: https://dblp.org/db/conf/wacv
+LOCATION:Tucson\, Arizona\, USA
+URL:https://wacv2025.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2026 摘要截稿 [First round]
+DTSTART;TZID="UTC-12:00":20250711T235900
+DTEND;TZID="UTC-12:00":20250712T000000
+DTSTAMP:20260912T141300Z
+UID:641b2b00-c084-4d7c-b3f8-b45b96fa9828
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Mar 6 - 10\, 2026\n📍 会议地点: Tucson\, Ari
+ zona\, USA\n⏰ 原始截止时间 (AoE): 2025-07-11 23:59:00\n分类: 人
+ 工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.com/\nDBLP索引
+ : https://dblp.org/db/conf/wacv
+LOCATION:Tucson\, Arizona\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2026 截稿日期 [First round]
+DTSTART;TZID="UTC-12:00":20250718T235959
+DTEND;TZID="UTC-12:00":20250719T000059
+DTSTAMP:20260912T141300Z
+UID:da1ceb22-f358-4c5a-9fa0-25d640f387c7
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Mar 6 - 10\, 2026\n📍 会议地点: Tucson\, Ari
+ zona\, USA\n⏰ 原始截止时间 (AoE): 2025-07-18 23:59:59\n分类: 人
+ 工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.com/\nDBLP索引
+ : https://dblp.org/db/conf/wacv
+LOCATION:Tucson\, Arizona\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2026 摘要截稿 [Second round]
+DTSTART;TZID="UTC-12:00":20250912T235900
+DTEND;TZID="UTC-12:00":20250913T000000
+DTSTAMP:20260912T141300Z
+UID:24d951a6-7770-4f35-b756-8b1d391a0a9f
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Mar 6 - 10\, 2026\n📍 会议地点: Tucson\, Ari
+ zona\, USA\n⏰ 原始截止时间 (AoE): 2025-09-12 23:59:00\n分类: 人
+ 工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.com/\nDBLP索引
+ : https://dblp.org/db/conf/wacv
+LOCATION:Tucson\, Arizona\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2026 截稿日期 [Second round]
+DTSTART;TZID="UTC-12:00":20250919T235959
+DTEND;TZID="UTC-12:00":20250920T000059
+DTSTAMP:20260912T141300Z
+UID:6e85bb59-ee21-4102-9a87-046c9b13bd42
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Mar 6 - 10\, 2026\n📍 会议地点: Tucson\, Ari
+ zona\, USA\n⏰ 原始截止时间 (AoE): 2025-09-19 23:59:59\n分类: 人
+ 工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.com/\nDBLP索引
+ : https://dblp.org/db/conf/wacv
+LOCATION:Tucson\, Arizona\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2027 摘要截稿 [First round]
+DTSTART;TZID="UTC-12:00":20260619T235900
+DTEND;TZID="UTC-12:00":20260620T000000
+DTSTAMP:20260912T141300Z
+UID:749ddfba-3e5d-4c3e-b359-ba1b33e1b7b9
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Jan 5 - 9\, 2027\n📍 会议地点: Disney Spring
+ s\, Buena Vista\, FL\, USA\n⏰ 原始截止时间 (AoE): 2026-06-19 23:59
+ :00\n分类: 人工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.
+ com/\nDBLP索引: https://dblp.org/db/conf/wacv
+LOCATION:Disney Springs\, Buena Vista\, FL\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2027 截稿日期 [First round]
+DTSTART;TZID="UTC-12:00":20260626T235959
+DTEND;TZID="UTC-12:00":20260627T000059
+DTSTAMP:20260912T141300Z
+UID:79a73f14-48ce-4db4-9c55-8d7c87760ff4
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Jan 5 - 9\, 2027\n📍 会议地点: Disney Spring
+ s\, Buena Vista\, FL\, USA\n⏰ 原始截止时间 (AoE): 2026-06-26 23:59
+ :59\n分类: 人工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.
+ com/\nDBLP索引: https://dblp.org/db/conf/wacv
+LOCATION:Disney Springs\, Buena Vista\, FL\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2027 摘要截稿 [Second round]
+DTSTART;TZID="UTC-12:00":20260821T235900
+DTEND;TZID="UTC-12:00":20260822T000000
+DTSTAMP:20260912T141300Z
+UID:0637b636-471e-495e-a074-5948297ad953
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Jan 5 - 9\, 2027\n📍 会议地点: Disney Spring
+ s\, Buena Vista\, FL\, USA\n⏰ 原始截止时间 (AoE): 2026-08-21 23:59
+ :00\n分类: 人工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.
+ com/\nDBLP索引: https://dblp.org/db/conf/wacv
+LOCATION:Disney Springs\, Buena Vista\, FL\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WACV 2027 截稿日期 [Second round]
+DTSTART;TZID="UTC-12:00":20260828T235959
+DTEND;TZID="UTC-12:00":20260829T000059
+DTSTAMP:20260912T141300Z
+UID:9bc8435c-733b-4477-bca1-af1a4242aa29
+DESCRIPTION:IEEE/CVF Winter Conference on Applications of Computer Vision
+ \n🗓️ 会议时间: Jan 5 - 9\, 2027\n📍 会议地点: Disney Spring
+ s\, Buena Vista\, FL\, USA\n⏰ 原始截止时间 (AoE): 2026-08-28 23:59
+ :59\n分类: 人工智能 (AI)\nCORE A\n会议官网: https://wacv.thecvf.
+ com/\nDBLP索引: https://dblp.org/db/conf/wacv
+LOCATION:Disney Springs\, Buena Vista\, FL\, USA
+URL:https://wacv.thecvf.com/
+END:VEVENT
+END:VCALENDAR

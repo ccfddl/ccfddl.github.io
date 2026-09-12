@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ASSETS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250416T235959
+DTEND;TZID="UTC-12:00":20250417T000059
+DTSTAMP:20260912T141341Z
+UID:c4efe2d0-63a8-45ec-b5cf-e7e2de3a8785
+DESCRIPTION:ACM SIGACCESS Conference on Computers and Accessibility\n🗓
+ ️ Date: Oct 26 - 29\, 2025\n📍 Location: Denver\, Colorado\n⏰ Origin
+ al Deadline (AoE): 2025-04-16 23:59:59\nCategory: 人机交互与普适计
+ 算 (HI)\nCCF C\, CORE A\, THCPL B\nConference Website: https://assets25.s
+ igaccess.org/\nDBLP Index: https://dblp.org/db/conf/assets
+LOCATION:Denver\, Colorado
+URL:https://assets25.sigaccess.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250113T235959
+DTEND;TZID="UTC-12:00":20250114T000059
+DTSTAMP:20260912T141341Z
+UID:98f00a66-eb4c-45c7-957e-b18988464ffc
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  July 5 - 9\, 2025\n📍 Location: Funchal\, Madeira\, Portugal\n⏰ Origi
+ nal Deadline (AoE): 2025-01-13 23:59:59\nCategory: 人机交互与普适
+ 计算 (HI)\nCCF C\, CORE A\, THCPL B\nConference Website: https://dis.acm
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/ACMdis
+LOCATION:Funchal\, Madeira\, Portugal
+URL:https://dis.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250120T235959
+DTEND;TZID="UTC-12:00":20250121T000059
+DTSTAMP:20260912T141341Z
+UID:5f962564-77b4-49a1-bd2a-88c74bccf6d4
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  July 5 - 9\, 2025\n📍 Location: Funchal\, Madeira\, Portugal\n⏰ Origi
+ nal Deadline (AoE): 2025-01-20 23:59:59\nCategory: 人机交互与普适
+ 计算 (HI)\nCCF C\, CORE A\, THCPL B\nConference Website: https://dis.acm
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/ACMdis
+LOCATION:Funchal\, Madeira\, Portugal
+URL:https://dis.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260109T235959
+DTEND;TZID="UTC-12:00":20260110T000059
+DTSTAMP:20260912T141341Z
+UID:a4b87dd8-1c89-4cd1-aa3b-c1a26d3700e8
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  June 13 - 17\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE
+ ): 2026-01-09 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C
+ \, CORE A\, THCPL B\nConference Website: https://dis.acm.org/2026/\nDBLP I
+ ndex: https://dblp.org/db/conf/ACMdis
+LOCATION:Singapore
+URL:https://dis.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20260912T141341Z
+UID:01aa2c99-608f-4b3a-ab11-afdb44f430e2
+DESCRIPTION:ACM Conference on Designing Interactive Systems\n🗓️ Date:
+  June 13 - 17\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE
+ ): 2026-01-19 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C
+ \, CORE A\, THCPL B\nConference Website: https://dis.acm.org/2026/\nDBLP I
+ ndex: https://dblp.org/db/conf/ACMdis
+LOCATION:Singapore
+URL:https://dis.acm.org/2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HotNets 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260716T235959
+DTEND;TZID="UTC-12:00":20260717T000059
+DTSTAMP:20260912T141343Z
+UID:182942ca-65c0-4be1-a36d-53689e40baae
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ Date: November
+  16-17\, 2026\n📍 Location: Salt Lake City\, Utah\, USA\n⏰ Original De
+ adline (UTC-12): 2026-07-16 23:59:59\nCategory: 计算机网络 (NW)\nCCF 
+ C\, THCPL B\nConference Website: https://conferences.sigcomm.org/hotnets/2
+ 026/\nDBLP Index: https://dblp.org/db/conf/hotnets
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://conferences.sigcomm.org/hotnets/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241011T235959
+DTEND;TZID="UTC-12:00":20241012T000059
+DTSTAMP:20260912T141343Z
+UID:849ec2d5-4cbc-47b8-826d-c1744997ae1c
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ Date:
+  June 8-12\, 2025\n📍 Location: Palais des congrès de Montréal in Mont
+ real\, Quebec\, Canada\n⏰ Original Deadline (AoE): 2024-10-11 23:59:59\n
+ Category: 计算机网络 (NW)\nCCF C\, THCPL B\nConference Website: https
+ ://icc2025.ieee-icc.org\nDBLP Index: https://dblp.org/db/conf/icc
+LOCATION:Palais des congrès de Montréal in Montreal\, Quebec\, Canada
+URL:https://icc2025.ieee-icc.org
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICC 2026 Deadline
+DTSTART;TZID="UTC-04:00":20251031T005959
+DTEND;TZID="UTC-04:00":20251031T010059
+DTSTAMP:20260912T141343Z
+UID:22f410e1-18e3-43cd-bd42-258c57c47158
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ Date:
+  May 24-28\, 2026\n📍 Location: Glasgow\, Scotland\, UK\n⏰ Original De
+ adline (UTC-4): 2025-10-31 00:59:59\nCategory: 计算机网络 (NW)\nCCF C
+ \, THCPL B\nConference Website: https://icc2026.ieee-icc.org\nDBLP Index: 
+ https://dblp.org/db/conf/icc
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://icc2026.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2027 Deadline
+DTSTART;TZID="UTC-04:00":20261002T235959
+DTEND;TZID="UTC-04:00":20261003T000059
+DTSTAMP:20260912T141343Z
+UID:cefabe1a-d798-44ba-9d63-cf63efa6074c
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ Date:
+  May 30 - June 3\, 2027\n📍 Location: Washington\, DC\, USA\n⏰ Origina
+ l Deadline (UTC-4): 2026-10-02 23:59:59\nCategory: 计算机网络 (NW)\nC
+ CF C\, THCPL B\nConference Website: https://icc2027.ieee-icc.org\nDBLP Ind
+ ex: https://dblp.org/db/conf/icc
+LOCATION:Washington\, DC\, USA
+URL:https://icc2027.ieee-icc.org
+END:VEVENT
+END:VCALENDAR

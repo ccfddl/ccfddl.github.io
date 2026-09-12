@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CCCG 2026 截稿日期 [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20260912T141302Z
+UID:7834ab01-870c-4c3c-89b6-820f4f16c058
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ 会议
+ 时间: August 12-14\, 2026\n📍 会议地点: Orillia\, Ontario\, Canada
+ \n⏰ 原始截止时间 (AoE): 2026-05-08 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\n会议官网: https://sites.google.com/view/cccg-
+ 2026/home\nDBLP索引: https://dblp.org/db/conf/cccg
+LOCATION:Orillia\, Ontario\, Canada
+URL:https://sites.google.com/view/cccg-2026/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20260912T141302Z
+UID:63853b85-6de0-4c03-895e-20166189e9e2
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ 会议时间: December 19-21\, 2025\n📍 会议地点: Bogota\,
+  Colombia\n⏰ 原始截止时间 (AoE): 2025-08-15 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\n会议官网: https://icvrv2025.aconf.or
+ g/\nDBLP索引: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250822T235959
+DTEND;TZID="UTC-12:00":20250823T000059
+DTSTAMP:20260912T141302Z
+UID:a6b78b88-7153-42c0-9a21-e052e57bc550
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ 会议时间: December 19-21\, 2025\n📍 会议地点: Bogota\,
+  Colombia\n⏰ 原始截止时间 (AoE): 2025-08-22 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\n会议官网: https://icvrv2025.aconf.or
+ g/\nDBLP索引: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+END:VCALENDAR

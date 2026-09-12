@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WISA 2026 摘要截稿
+DTSTART;TZID="UTC+08:00":20260421T235959
+DTEND;TZID="UTC+08:00":20260422T000059
+DTSTAMP:20260912T141306Z
+UID:71ec1fd9-d820-47fe-998c-e11d66e495d4
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : August 07-09\, 2026\n📍 会议地点: Kunming\, China\n⏰ 原始截
+ 止时间 (UTC+8): 2026-04-21 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF C\n会议官网: https://conf.ccf.org.cn/WISA2026\nDBL
+ P索引: https://dblp.org/db/conf/wisa
+LOCATION:Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2026 截稿日期
+DTSTART;TZID="UTC+08:00":20260428T235959
+DTEND;TZID="UTC+08:00":20260429T000059
+DTSTAMP:20260912T141306Z
+UID:3cacd7ba-4840-4452-bf67-f1479bb46d9a
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : August 07-09\, 2026\n📍 会议地点: Kunming\, China\n⏰ 原始截
+ 止时间 (UTC+8): 2026-04-28 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF C\n会议官网: https://conf.ccf.org.cn/WISA2026\nDBL
+ P索引: https://dblp.org/db/conf/wisa
+LOCATION:Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
+END:VEVENT
+END:VCALENDAR

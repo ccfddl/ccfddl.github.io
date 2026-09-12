@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:DAI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250821T235959
+DTEND;TZID="UTC-12:00":20250822T000059
+DTSTAMP:20260912T141300Z
+UID:6bace58d-1462-4691-b210-7a80de9494fd
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ 会议时间: November 21-24\, 2025\n📍 会议地点: London
+ \, United Kingdom\n⏰ 原始截止时间 (UTC-12): 2025-08-21 23:59:59\n
+ 分类: 人工智能 (AI)\nCCF C\n会议官网: https://www.adai.ai/dai/20
+ 25/index.html\nDBLP索引: https://dblp.org/db/conf/dai2
+LOCATION:London\, United Kingdom
+URL:https://www.adai.ai/dai/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 摘要截稿 [Research / Industry Track]
+DTSTART;TZID="UTC-12:00":20260727T235959
+DTEND;TZID="UTC-12:00":20260728T000059
+DTSTAMP:20260912T141300Z
+UID:25d362b9-5977-49b1-92d8-04906216eb55
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ 会议时间: November 29-December 2\, 2026\n📍 会议地点:
+  Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2026-07-27 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF C\n会议官网: https://www.adai.ai/dai/2026/
+ index.html\nDBLP索引: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 截稿日期 [Research / Industry Track]
+DTSTART;TZID="UTC-12:00":20260803T235959
+DTEND;TZID="UTC-12:00":20260804T000059
+DTSTAMP:20260912T141300Z
+UID:94ab367a-aeb9-4dc4-811c-a5eea04ce018
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ 会议时间: November 29-December 2\, 2026\n📍 会议地点:
+  Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2026-08-03 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF C\n会议官网: https://www.adai.ai/dai/2026/
+ index.html\nDBLP索引: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 截稿日期 [AI Paper Track]
+DTSTART;TZID="UTC-12:00":20260810T235959
+DTEND;TZID="UTC-12:00":20260811T000059
+DTSTAMP:20260912T141300Z
+UID:b0f2dc8e-2664-462e-9c49-125a30fe31e8
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ 会议时间: November 29-December 2\, 2026\n📍 会议地点:
+  Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2026-08-10 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF C\n会议官网: https://www.adai.ai/dai/2026/
+ index.html\nDBLP索引: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NLPCC 2025 截稿日期
+DTSTART;TZID="UTC+08:00":20250420T235959
+DTEND;TZID="UTC+08:00":20250421T000059
+DTSTAMP:20260912T141300Z
+UID:11a63000-02a4-4400-98d2-a270c6a93f97
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ 会议时间: August 8-10\, 2025\n📍 会议
+ 地点: Urumqi\, China\n⏰ 原始截止时间 (UTC+8): 2025-04-20 23:59:5
+ 9\n分类: 人工智能 (AI)\nCCF C\n会议官网: http://tcci.ccf.org.cn/
+ conference/2025/index.php\nDBLP索引: https://dblp.org/db/conf/nlpcc
+LOCATION:Urumqi\, China
+URL:http://tcci.ccf.org.cn/conference/2025/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NLPCC 2026 截稿日期
+DTSTART;TZID="UTC+08:00":20260620T235959
+DTEND;TZID="UTC+08:00":20260621T000059
+DTSTAMP:20260912T141300Z
+UID:6e38ed9a-c0db-4220-b45d-581b5b46ab27
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ 会议时间: November 3-5\, 2026\n📍 会
+ 议地点: Macau\, China\n⏰ 原始截止时间 (UTC+8): 2026-06-20 23:59
+ :59\n分类: 人工智能 (AI)\nCCF C\n会议官网: http://tcci.ccf.org.c
+ n/conference/2026/\nDBLP索引: https://dblp.org/db/conf/nlpcc
+LOCATION:Macau\, China
+URL:http://tcci.ccf.org.cn/conference/2026/
+END:VEVENT
+END:VCALENDAR

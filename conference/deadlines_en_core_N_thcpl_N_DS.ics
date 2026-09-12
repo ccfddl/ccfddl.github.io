@@ -1,0 +1,699 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLSVLSI 2025 Deadline
+DTSTART;TZID="UTC-05:00":20250317T235900
+DTEND;TZID="UTC-05:00":20250318T000000
+DTSTAMP:20260912T141338Z
+UID:48b0925b-742c-466a-a138-4123ad83793f
+DESCRIPTION:Great Lakes Symposium on VLSI\n🗓️ Date: June 30-July 2\, 
+ 2025\n📍 Location: New Orleans\, LA\, USA\n⏰ Original Deadline (UTC-5)
+ : 2025-03-17 23:59:00\nCategory: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCCF C\nConference Website: https://www.glsvlsi.org/
+ \nDBLP Index: https://dblp.org/db/conf/glvlsi
+LOCATION:New Orleans\, LA\, USA
+URL:https://www.glsvlsi.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLSVLSI 2026 Deadline
+DTSTART;TZID="UTC-05:00":20260316T235900
+DTEND;TZID="UTC-05:00":20260317T000000
+DTSTAMP:20260912T141338Z
+UID:b6a7f6ed-2bfd-42d2-9da4-c468269e2a55
+DESCRIPTION:Great Lakes Symposium on VLSI\n🗓️ Date: June 22-24\, 2026
+ \n📍 Location: Finger Lakes\, NY\, USA\n⏰ Original Deadline (UTC-5): 2
+ 026-03-16 23:59:00\nCategory: 计算机体系结构/并行与分布计算/
+ 存储系统 (DS)\nCCF C\nConference Website: https://www.glsvlsi.org/\nDB
+ LP Index: https://dblp.org/db/conf/glvlsi
+LOCATION:Finger Lakes\, NY\, USA
+URL:https://www.glsvlsi.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APPT 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260403T235959
+DTEND;TZID="UTC-12:00":20260404T000059
+DTSTAMP:20260912T141338Z
+UID:810ae3ef-000f-4128-9a37-6fc81bd9e99b
+DESCRIPTION:International Symposium on Advanced Parallel Programming Techn
+ ologies\n🗓️ Date: July 27-31\, 2026\n📍 Location: Brussels\, Belgiu
+ m\n⏰ Original Deadline (AoE): 2026-04-03 23:59:59\nCategory: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConference We
+ bsite: https://www.appt-conference.com/2026\nDBLP Index: https://dblp.org/
+ db/conf/appt
+LOCATION:Brussels\, Belgium
+URL:https://www.appt-conference.com/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APPT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260410T235959
+DTEND;TZID="UTC-12:00":20260411T000059
+DTSTAMP:20260912T141338Z
+UID:f6ec80d6-7af5-42ae-abc1-42034cc71b54
+DESCRIPTION:International Symposium on Advanced Parallel Programming Techn
+ ologies\n🗓️ Date: July 27-31\, 2026\n📍 Location: Brussels\, Belgiu
+ m\n⏰ Original Deadline (AoE): 2026-04-10 23:59:59\nCategory: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConference We
+ bsite: https://www.appt-conference.com/2026\nDBLP Index: https://dblp.org/
+ db/conf/appt
+LOCATION:Brussels\, Belgium
+URL:https://www.appt-conference.com/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2024 Abstract Deadline [call for papers]
+DTSTART;TZID="UTC-12:00":20240425T235900
+DTEND;TZID="UTC-12:00":20240426T000000
+DTSTAMP:20260912T141338Z
+UID:00b773c7-fa17-4847-8382-d0f01f5853c6
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 4-5\, 2024\n📍 Location: Kyoto\, Japan\n⏰ Original Deadline (Ao
+ E): 2024-04-25 23:59:00\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nConference Website: https://apsys2024.github.io/
+ \nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Kyoto\, Japan
+URL:https://apsys2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2024 Deadline [call for papers]
+DTSTART;TZID="UTC-12:00":20240502T235900
+DTEND;TZID="UTC-12:00":20240503T000000
+DTSTAMP:20260912T141338Z
+UID:6d6eee0d-ff1b-4d19-9243-8f4c6e6ef6d6
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 4-5\, 2024\n📍 Location: Kyoto\, Japan\n⏰ Original Deadline (Ao
+ E): 2024-05-02 23:59:00\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nConference Website: https://apsys2024.github.io/
+ \nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Kyoto\, Japan
+URL:https://apsys2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250529T235900
+DTEND;TZID="UTC-12:00":20250530T000000
+DTSTAMP:20260912T141338Z
+UID:2dbf8f95-7778-4989-b312-52f21b490350
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Oct
+ ober 12-13\, 2025\n📍 Location: Seoul\, South Korea\n⏰ Original Deadli
+ ne (AoE): 2025-05-29 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys2025.gith
+ ub.io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Seoul\, South Korea
+URL:https://apsys2025.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250605T235900
+DTEND;TZID="UTC-12:00":20250606T000000
+DTSTAMP:20260912T141338Z
+UID:35b88cc6-9742-49a5-845d-9108709d4b66
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Oct
+ ober 12-13\, 2025\n📍 Location: Seoul\, South Korea\n⏰ Original Deadli
+ ne (AoE): 2025-06-05 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys2025.gith
+ ub.io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Seoul\, South Korea
+URL:https://apsys2025.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260513T235900
+DTEND;TZID="UTC-12:00":20260514T000000
+DTSTAMP:20260912T141338Z
+UID:7a8c5576-3ae8-48d7-a490-886d035f4c06
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 17-18\, 2026\n📍 Location: Bangkok\, Thailand\n⏰ Original Deadl
+ ine (AoE): 2026-05-13 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys26.github
+ .io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Bangkok\, Thailand
+URL:https://apsys26.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260520T235900
+DTEND;TZID="UTC-12:00":20260521T000000
+DTSTAMP:20260912T141338Z
+UID:e13228bd-efb1-44a1-8161-fcee97dca0f3
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 17-18\, 2026\n📍 Location: Bangkok\, Thailand\n⏰ Original Deadl
+ ine (AoE): 2026-05-20 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys26.github
+ .io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Bangkok\, Thailand
+URL:https://apsys26.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASAP 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260327T235959
+DTEND;TZID="UTC-12:00":20260328T000059
+DTSTAMP:20260912T141338Z
+UID:26f691b1-a45a-4dcb-9232-2927602c04f9
+DESCRIPTION:IEEE International Conference on Application-Specific Systems
+ \, Architectures\, and Processors\n🗓️ Date: September 3-4\, 2026\n
+ 📍 Location: London\, UK\n⏰ Original Deadline (AoE): 2026-03-27 23:59:
+ 59\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS
+ )\nCCF C\nConference Website: https://2026.asap-conf.org/\nDBLP Index: htt
+ ps://dblp.org/db/conf/asap
+LOCATION:London\, UK
+URL:https://2026.asap-conf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASAP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260403T235959
+DTEND;TZID="UTC-12:00":20260404T000059
+DTSTAMP:20260912T141338Z
+UID:6eb005b1-0b66-46ff-9864-1d584387b24d
+DESCRIPTION:IEEE International Conference on Application-Specific Systems
+ \, Architectures\, and Processors\n🗓️ Date: September 3-4\, 2026\n
+ 📍 Location: London\, UK\n⏰ Original Deadline (AoE): 2026-04-03 23:59:
+ 59\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS
+ )\nCCF C\nConference Website: https://2026.asap-conf.org/\nDBLP Index: htt
+ ps://dblp.org/db/conf/asap
+LOCATION:London\, UK
+URL:https://2026.asap-conf.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ATS 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260606T235959
+DTEND;TZID="UTC+08:00":20260607T000059
+DTSTAMP:20260912T141338Z
+UID:b090e529-5096-463c-9c44-4eeb53eac4d0
+DESCRIPTION:IEEE Asian Test Symposium\n🗓️ Date: December 1-3\, 2026\n
+ 📍 Location: Taiwan\n⏰ Original Deadline (UTC+8): 2026-06-06 23:59:59
+ \nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS)
+ \nCCF C\nConference Website: https://www.ats2026.tw/\nDBLP Index: https://
+ dblp.org/db/conf/ats
+LOCATION:Taiwan
+URL:https://www.ats2026.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240108T235959
+DTEND;TZID="UTC-12:00":20240109T000059
+DTSTAMP:20260912T141338Z
+UID:44d6bd7c-8096-4aed-8a8b-6ecf56701e0b
+DESCRIPTION:ACM International Conference on Computing Frontiers\n🗓️ D
+ ate: May 7-9\, 2024\n📍 Location: Ischia\, Italy\n⏰ Original Deadline 
+ (AoE): 2024-01-08 23:59:59\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nCCF C\nConference Website: https://www.comput
+ ingfrontiers.org/2024/\nDBLP Index: https://dblp.org/db/conf/cf
+LOCATION:Ischia\, Italy
+URL:https://www.computingfrontiers.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260112T235959
+DTEND;TZID="UTC-12:00":20260113T000059
+DTSTAMP:20260912T141338Z
+UID:5b9707a5-67ae-4132-8cd5-13a7502a822f
+DESCRIPTION:ACM International Conference on Computing Frontiers\n🗓️ D
+ ate: May 19-21\, 2026\n📍 Location: Catania\, Sicily\, Italy\n⏰ Origin
+ al Deadline (AoE): 2026-01-12 23:59:59\nCategory: 计算机体系结构/
+ 并行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https:
+ //www.computingfrontiers.org/2026/\nDBLP Index: https://dblp.org/db/conf/c
+ f
+LOCATION:Catania\, Sicily\, Italy
+URL:https://www.computingfrontiers.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CF 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20260912T141338Z
+UID:45c74deb-a4bf-4dfd-b165-252ba5e9fdc9
+DESCRIPTION:ACM International Conference on Computing Frontiers\n🗓️ D
+ ate: May 19-21\, 2026\n📍 Location: Catania\, Sicily\, Italy\n⏰ Origin
+ al Deadline (AoE): 2026-01-19 23:59:59\nCategory: 计算机体系结构/
+ 并行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https:
+ //www.computingfrontiers.org/2026/\nDBLP Index: https://dblp.org/db/conf/c
+ f
+LOCATION:Catania\, Sicily\, Italy
+URL:https://www.computingfrontiers.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODES+ISSS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260323T235959
+DTEND;TZID="UTC-12:00":20260324T000059
+DTSTAMP:20260912T141338Z
+UID:ce7d8356-e577-4350-88e4-43769505d47f
+DESCRIPTION:International Conference on Hardware/Software Co-design and Sy
+ stem Synthesis\n🗓️ Date: October 4-9\, 2026\n📍 Location: Barcelona
+ \, Spain\n⏰ Original Deadline (AoE): 2026-03-23 23:59:59\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\nConfere
+ nce Website: https://esweek.org/codes_isss_cfp/\nDBLP Index: https://dblp.
+ org/db/conf/codes
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/codes_isss_cfp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODES+ISSS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260330T235959
+DTEND;TZID="UTC-12:00":20260331T000059
+DTSTAMP:20260912T141338Z
+UID:950e00bc-6c2d-44dc-a87c-00517f4f8787
+DESCRIPTION:International Conference on Hardware/Software Co-design and Sy
+ stem Synthesis\n🗓️ Date: October 4-9\, 2026\n📍 Location: Barcelona
+ \, Spain\n⏰ Original Deadline (AoE): 2026-03-30 23:59:59\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\nConfere
+ nce Website: https://esweek.org/codes_isss_cfp/\nDBLP Index: https://dblp.
+ org/db/conf/codes
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/codes_isss_cfp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPT 2024 Deadline [Title and Abstract Due (Conference Track)]
+DTSTART;TZID="UTC-12:00":20240714T235959
+DTEND;TZID="UTC-12:00":20240715T000059
+DTSTAMP:20260912T141338Z
+UID:636a705f-6124-4fd1-ab69-174a409065a7
+DESCRIPTION:International Conference on Field Programmable Technology\n
+ 🗓️ Date: December 10 - December 12\, 2024\n📍 Location: Sydney\, Au
+ stralia\n⏰ Original Deadline (AoE): 2024-07-14 23:59:59\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConfere
+ nce Website: https://fpt2024.org/\nDBLP Index: https://dblp.org/db/conf/fp
+ t
+LOCATION:Sydney\, Australia
+URL:https://fpt2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPT 2024 Deadline [Submission Due (Conference Track)]
+DTSTART;TZID="UTC-12:00":20240721T235959
+DTEND;TZID="UTC-12:00":20240722T000059
+DTSTAMP:20260912T141338Z
+UID:37759e37-d817-4688-a784-8778e9a4914a
+DESCRIPTION:International Conference on Field Programmable Technology\n
+ 🗓️ Date: December 10 - December 12\, 2024\n📍 Location: Sydney\, Au
+ stralia\n⏰ Original Deadline (AoE): 2024-07-21 23:59:59\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConfere
+ nce Website: https://fpt2024.org/\nDBLP Index: https://dblp.org/db/conf/fp
+ t
+LOCATION:Sydney\, Australia
+URL:https://fpt2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPT 2025 Deadline [Title and Abstract Due (Conference Track)]
+DTSTART;TZID="UTC-12:00":20250720T235959
+DTEND;TZID="UTC-12:00":20250721T000059
+DTSTAMP:20260912T141338Z
+UID:3fb47858-488f-4e65-a75d-10785f4f1189
+DESCRIPTION:International Conference on Field Programmable Technology\n
+ 🗓️ Date: December 02 - December 05\, 2025\n📍 Location: Shanghai\, 
+ China\n⏰ Original Deadline (AoE): 2025-07-20 23:59:59\nCategory: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConference
+  Website: https://fpt2025.shanghaitech.edu.cn\nDBLP Index: https://dblp.or
+ g/db/conf/fpt
+LOCATION:Shanghai\, China
+URL:https://fpt2025.shanghaitech.edu.cn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPT 2025 Deadline [Submission Due (Conference Track)]
+DTSTART;TZID="UTC-12:00":20250801T235959
+DTEND;TZID="UTC-12:00":20250802T000059
+DTSTAMP:20260912T141338Z
+UID:b96221e2-16fc-4d63-a93f-523cdad878c9
+DESCRIPTION:International Conference on Field Programmable Technology\n
+ 🗓️ Date: December 02 - December 05\, 2025\n📍 Location: Shanghai\, 
+ China\n⏰ Original Deadline (AoE): 2025-08-01 23:59:59\nCategory: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConference
+  Website: https://fpt2025.shanghaitech.edu.cn\nDBLP Index: https://dblp.or
+ g/db/conf/fpt
+LOCATION:Shanghai\, China
+URL:https://fpt2025.shanghaitech.edu.cn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPT 2026 Deadline [Title and Abstract Due (Conference Track)]
+DTSTART;TZID="UTC-12:00":20260605T235959
+DTEND;TZID="UTC-12:00":20260606T000059
+DTSTAMP:20260912T141338Z
+UID:d6b5fe2a-d6a4-4381-b4a0-2fb1eae8ca2a
+DESCRIPTION:International Conference on Field Programmable Technology\n
+ 🗓️ Date: December 07 - December 10\, 2026\n📍 Location: Honolulu\, 
+ Hawaii\, USA\n⏰ Original Deadline (AoE): 2026-06-05 23:59:59\nCategory: 
+ 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConf
+ erence Website: https://fpt2026.uark.edu\nDBLP Index: https://dblp.org/db/
+ conf/fpt
+LOCATION:Honolulu\, Hawaii\, USA
+URL:https://fpt2026.uark.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPT 2026 Deadline [Submission Due (Conference Track)]
+DTSTART;TZID="UTC-12:00":20260612T235959
+DTEND;TZID="UTC-12:00":20260613T000059
+DTSTAMP:20260912T141338Z
+UID:bc1dd956-2613-42e7-aa50-5d55ee3de7f2
+DESCRIPTION:International Conference on Field Programmable Technology\n
+ 🗓️ Date: December 07 - December 10\, 2026\n📍 Location: Honolulu\, 
+ Hawaii\, USA\n⏰ Original Deadline (AoE): 2026-06-12 23:59:59\nCategory: 
+ 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nConf
+ erence Website: https://fpt2026.uark.edu\nDBLP Index: https://dblp.org/db/
+ conf/fpt
+LOCATION:Honolulu\, Hawaii\, USA
+URL:https://fpt2026.uark.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HiPEAC 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260601T235959
+DTEND;TZID="UTC-12:00":20260602T000059
+DTSTAMP:20260912T141338Z
+UID:bdb8d4ff-d37c-494e-848b-223765184be6
+DESCRIPTION:International Conference on High Performance and Embedded Arch
+ itectures and Compilers\n🗓️ Date: January 18-20\, 2027\n📍 Location
+ : Glasgow\, Scotland\, UK\n⏰ Original Deadline (AoE): 2026-06-01 23:59:5
+ 9\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS)
+ \nCCF B\nConference Website: https://www.hipeac.net/2027/glasgow/#/call-fo
+ r-papers/\nDBLP Index: https://dblp.org/db/conf/hipeac
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://www.hipeac.net/2027/glasgow/#/call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotStorage 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260605T235959
+DTEND;TZID="UTC-12:00":20260606T000059
+DTSTAMP:20260912T141338Z
+UID:9dae05a2-79c0-490f-959a-d48ac663f406
+DESCRIPTION:ACM Workshop on Hot Topics in Storage and File Systems\n🗓
+ ️ Date: September 28-29\, 2026\n📍 Location: Prague\, Czechia\n⏰ Ori
+ ginal Deadline (AoE): 2026-06-05 23:59:59\nCategory: 计算机体系结构
+ /并行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https
+ ://www.hotstorage.org/2026/\nDBLP Index: https://dblp.org/db/conf/hotstora
+ ge
+LOCATION:Prague\, Czechia
+URL:https://www.hotstorage.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IISWC 2024 Deadline [Submissions Due: 2024-06-03]
+DTSTART:20240603T000000Z
+DTEND:20240603T000100Z
+DTSTAMP:20260912T141338Z
+UID:18f95407-1c08-4c07-8fcb-48067a863f46
+DESCRIPTION:IEEE International Symposium on Workload Characterization\n
+ 🗓️ Date: September 15-17\, 2024\n📍 Location: Vancouver BC Canada\n
+ ⏰ Original Deadline (UTC): 2024-06-03 00:00:00\nCategory: 计算机体
+ 系结构/并行与分布计算/存储系统 (DS)\nConference Website: htt
+ ps://iiswc.org/iiswc2024/\nDBLP Index: https://dblp.org/db/conf/iiswc
+LOCATION:Vancouver BC Canada
+URL:https://iiswc.org/iiswc2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IISWC 2025 Deadline [Submissions Due: 2025-06-21]
+DTSTART:20250621T000000Z
+DTEND:20250621T000100Z
+DTSTAMP:20260912T141338Z
+UID:3e8746d4-2237-4240-884b-0a0f71f4a729
+DESCRIPTION:IEEE International Symposium on Workload Characterization\n
+ 🗓️ Date: October 12-14\, 2025\n📍 Location: Irvine\, USA\n⏰ Origi
+ nal Deadline (UTC): 2025-06-21 00:00:00\nCategory: 计算机体系结构/
+ 并行与分布计算/存储系统 (DS)\nConference Website: https://iiswc
+ .org/iiswc2025/\nDBLP Index: https://dblp.org/db/conf/iiswc
+LOCATION:Irvine\, USA
+URL:https://iiswc.org/iiswc2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IISWC 2026 Deadline
+DTSTART:20260514T000000Z
+DTEND:20260514T000100Z
+DTSTAMP:20260912T141338Z
+UID:a0059208-3bf3-46a7-8a79-a9b07c5bd632
+DESCRIPTION:IEEE International Symposium on Workload Characterization\n
+ 🗓️ Date: September 27-29\, 2026\n📍 Location: Boulder\, USA\n⏰ Or
+ iginal Deadline (UTC): 2026-05-14 00:00:00\nCategory: 计算机体系结
+ 构/并行与分布计算/存储系统 (DS)\nConference Website: https://i
+ iswc.org/iiswc2026/\nDBLP Index: https://dblp.org/db/conf/iiswc
+LOCATION:Boulder\, USA
+URL:https://iiswc.org/iiswc2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITC-Asia 2026 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20260418T235959
+DTEND;TZID="UTC+08:00":20260419T000059
+DTSTAMP:20260912T141338Z
+UID:1876f5ec-4c4e-443e-a9c0-2ffffdc63904
+DESCRIPTION:IEEE International Test Conference in Asia\n🗓️ Date: Augu
+ st 19-21\, 2026\n📍 Location: Ningbo International Conference Center\, N
+ ingbo\, China\n⏰ Original Deadline (UTC+8): 2026-04-18 23:59:59\nCategor
+ y: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nC
+ onference Website: https://www.castest.com.cn/itcasia_2026\nDBLP Index: ht
+ tps://dblp.org/db/conf/itc-asia
+LOCATION:Ningbo International Conference Center\, Ningbo\, China
+URL:https://www.castest.com.cn/itcasia_2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITC-Asia 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260425T235959
+DTEND;TZID="UTC+08:00":20260426T000059
+DTSTAMP:20260912T141338Z
+UID:383d8a4b-8846-4e37-9f98-3dafaa8662de
+DESCRIPTION:IEEE International Test Conference in Asia\n🗓️ Date: Augu
+ st 19-21\, 2026\n📍 Location: Ningbo International Conference Center\, N
+ ingbo\, China\n⏰ Original Deadline (UTC+8): 2026-04-25 23:59:59\nCategor
+ y: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\nC
+ onference Website: https://www.castest.com.cn/itcasia_2026\nDBLP Index: ht
+ tps://dblp.org/db/conf/itc-asia
+LOCATION:Ningbo International Conference Center\, Ningbo\, China
+URL:https://www.castest.com.cn/itcasia_2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JCC 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260410T235959
+DTEND;TZID="UTC-12:00":20260411T000059
+DTSTAMP:20260912T141338Z
+UID:0fbfc17e-8698-4e6f-ac47-2ea5c71f9799
+DESCRIPTION:International Conference on JointCloud Computing\n🗓️ Date
+ : Jul 27-30\, 2026\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (A
+ oE): 2026-04-10 23:59:59\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nCCF C\nConference Website: https://jointcloud.cl
+ oud\nDBLP Index: https://dblp.org/db/conf/N
+LOCATION:Tokyo\, Japan
+URL:https://jointcloud.cloud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JCC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260415T235959
+DTEND;TZID="UTC-12:00":20260416T000059
+DTSTAMP:20260912T141338Z
+UID:c38b9f66-35a6-479e-8bb4-6146c6e6d88f
+DESCRIPTION:International Conference on JointCloud Computing\n🗓️ Date
+ : Jul 27-30\, 2026\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (A
+ oE): 2026-04-15 23:59:59\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nCCF C\nConference Website: https://jointcloud.cl
+ oud\nDBLP Index: https://dblp.org/db/conf/N
+LOCATION:Tokyo\, Japan
+URL:https://jointcloud.cloud
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NETYS 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240229T235900
+DTEND;TZID="UTC-12:00":20240301T000000
+DTSTAMP:20260912T141338Z
+UID:0c97cb9f-6f20-469b-ac02-ec085f42ee2e
+DESCRIPTION:The International Conference on Networked Systems\n🗓️ Dat
+ e: May 29-31\, 2024\n📍 Location: Rabat\, Morocco\n⏰ Original Deadline
+  (AoE): 2024-02-29 23:59:00\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nConference Website: https://netys.net/\nDBLP 
+ Index: https://dblp.org/db/conf/netys
+LOCATION:Rabat\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NETYS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240307T235900
+DTEND;TZID="UTC-12:00":20240308T000000
+DTSTAMP:20260912T141338Z
+UID:b36d13bc-c6a8-4347-9df0-e4f6df533aa2
+DESCRIPTION:The International Conference on Networked Systems\n🗓️ Dat
+ e: May 29-31\, 2024\n📍 Location: Rabat\, Morocco\n⏰ Original Deadline
+  (AoE): 2024-03-07 23:59:00\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nConference Website: https://netys.net/\nDBLP 
+ Index: https://dblp.org/db/conf/netys
+LOCATION:Rabat\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performance 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260515T235959
+DTEND;TZID="UTC-12:00":20260516T000059
+DTSTAMP:20260912T141338Z
+UID:f5e7e268-344b-40fe-8722-6dd4084af51d
+DESCRIPTION:International Symposium on Computer Performance\, Modeling\, M
+ easurements and Evaluation\n🗓️ Date: November 3-5\, 2026\n📍 Locati
+ on: Ghent\, Belgium\n⏰ Original Deadline (AoE): 2026-05-15 23:59:59\nCat
+ egory: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF 
+ B\nConference Website: https://performance2026.github.io/call/\nDBLP Index
+ : https://dblp.org/db/conf/performance
+LOCATION:Ghent\, Belgium
+URL:https://performance2026.github.io/call/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performance 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260522T235959
+DTEND;TZID="UTC-12:00":20260523T000059
+DTSTAMP:20260912T141338Z
+UID:d1eb7dbc-c2e9-480b-bcdc-56cc5aa565f1
+DESCRIPTION:International Symposium on Computer Performance\, Modeling\, M
+ easurements and Evaluation\n🗓️ Date: November 3-5\, 2026\n📍 Locati
+ on: Ghent\, Belgium\n⏰ Original Deadline (AoE): 2026-05-22 23:59:59\nCat
+ egory: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF 
+ B\nConference Website: https://performance2026.github.io/call/\nDBLP Index
+ : https://dblp.org/db/conf/performance
+LOCATION:Ghent\, Belgium
+URL:https://performance2026.github.io/call/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260424T235959
+DTEND;TZID="UTC-12:00":20260425T000059
+DTSTAMP:20260912T141338Z
+UID:70c30154-1e42-48e3-bf44-3a5cfa3508e9
+DESCRIPTION:ACM/IEEE Symposium on Edge Computing\n🗓️ Date: Oct 13-16
+ \, 2026\n📍 Location: Santa Clara University\, CA\, USA\n⏰ Original De
+ adline (AoE): 2026-04-24 23:59:59\nCategory: 计算机体系结构/并行
+ 与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://acm-
+ ieee-sec.org/2026/\nDBLP Index: https://dblp.org/db/conf/ieeesec
+LOCATION:Santa Clara University\, CA\, USA
+URL:https://acm-ieee-sec.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260501T235959
+DTEND;TZID="UTC-12:00":20260502T000059
+DTSTAMP:20260912T141338Z
+UID:81c41592-1ce9-4828-a6f2-891ceef31ff1
+DESCRIPTION:ACM/IEEE Symposium on Edge Computing\n🗓️ Date: Oct 13-16
+ \, 2026\n📍 Location: Santa Clara University\, CA\, USA\n⏰ Original De
+ adline (AoE): 2026-05-01 23:59:59\nCategory: 计算机体系结构/并行
+ 与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://acm-
+ ieee-sec.org/2026/\nDBLP Index: https://dblp.org/db/conf/ieeesec
+LOCATION:Santa Clara University\, CA\, USA
+URL:https://acm-ieee-sec.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SYSTOR 2024 Deadline [Full and Short Papers Track]
+DTSTART;TZID="UTC+01:00":20240313T235959
+DTEND;TZID="UTC+01:00":20240314T000059
+DTSTAMP:20260912T141338Z
+UID:e6af78c8-064d-4f59-a8c6-e2125a9e50f1
+DESCRIPTION:The ACM International Systems and Storage Conference\n🗓️ 
+ Date: June 17-19\, 2024\n📍 Location: Tel Aviv\, Israel\n⏰ Original De
+ adline (UTC+1): 2024-03-13 23:59:59\nCategory: 计算机体系结构/并
+ 行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://w
+ ww.systor.org/2024/\nDBLP Index: https://dblp.org/db/conf/systor
+LOCATION:Tel Aviv\, Israel
+URL:https://www.systor.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYSTOR 2024 Deadline [Highlight Papers Track]
+DTSTART;TZID="UTC+01:00":20240403T235959
+DTEND;TZID="UTC+01:00":20240404T000059
+DTSTAMP:20260912T141338Z
+UID:873c7320-b66d-482f-8069-e2c63aff79e7
+DESCRIPTION:The ACM International Systems and Storage Conference\n🗓️ 
+ Date: June 17-19\, 2024\n📍 Location: Tel Aviv\, Israel\n⏰ Original De
+ adline (UTC+1): 2024-04-03 23:59:59\nCategory: 计算机体系结构/并
+ 行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://w
+ ww.systor.org/2024/\nDBLP Index: https://dblp.org/db/conf/systor
+LOCATION:Tel Aviv\, Israel
+URL:https://www.systor.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYSTOR 2024 Deadline [Posters with Extended Abstract Track]
+DTSTART;TZID="UTC+01:00":20240411T225959
+DTEND;TZID="UTC+01:00":20240411T230059
+DTSTAMP:20260912T141338Z
+UID:78b4bcf6-6bd8-439a-8bd6-f214cc767a3a
+DESCRIPTION:The ACM International Systems and Storage Conference\n🗓️ 
+ Date: June 17-19\, 2024\n📍 Location: Tel Aviv\, Israel\n⏰ Original De
+ adline (UTC+1): 2024-04-11 22:59:59\nCategory: 计算机体系结构/并
+ 行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://w
+ ww.systor.org/2024/\nDBLP Index: https://dblp.org/db/conf/systor
+LOCATION:Tel Aviv\, Israel
+URL:https://www.systor.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYSTOR 2025 Deadline [Full and Short Papers Track]
+DTSTART;TZID="UTC-12:00":20250522T235959
+DTEND;TZID="UTC-12:00":20250523T000059
+DTSTAMP:20260912T141338Z
+UID:444a1992-6a88-4b42-85fa-ead5143caea2
+DESCRIPTION:The ACM International Systems and Storage Conference\n🗓️ 
+ Date: September 8-9\, 2025\n📍 Location: IBM Haifa\, Israel\n⏰ Origina
+ l Deadline (AoE): 2025-05-22 23:59:59\nCategory: 计算机体系结构/并
+ 行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://w
+ ww.systor.org/2025/\nDBLP Index: https://dblp.org/db/conf/systor
+LOCATION:IBM Haifa\, Israel
+URL:https://www.systor.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYSTOR 2025 Deadline [Posters with Extended Abstract Track]
+DTSTART;TZID="UTC-12:00":20250703T225959
+DTEND;TZID="UTC-12:00":20250703T230059
+DTSTAMP:20260912T141338Z
+UID:4b814824-b691-4762-8d40-37480a230c83
+DESCRIPTION:The ACM International Systems and Storage Conference\n🗓️ 
+ Date: September 8-9\, 2025\n📍 Location: IBM Haifa\, Israel\n⏰ Origina
+ l Deadline (AoE): 2025-07-03 22:59:59\nCategory: 计算机体系结构/并
+ 行与分布计算/存储系统 (DS)\nCCF C\nConference Website: https://w
+ ww.systor.org/2025/\nDBLP Index: https://dblp.org/db/conf/systor
+LOCATION:IBM Haifa\, Israel
+URL:https://www.systor.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYSTOR 2026 Deadline [Full and Short Papers Track]
+DTSTART;TZID="UTC-12:00":20260525T235959
+DTEND;TZID="UTC-12:00":20260526T000059
+DTSTAMP:20260912T141338Z
+UID:3ec583a0-b24d-487e-ad50-c93cbb69fefe
+DESCRIPTION:The ACM International Systems and Storage Conference\n🗓️ 
+ Date: September 8-9\, 2026\n📍 Location: Virtual\n⏰ Original Deadline 
+ (AoE): 2026-05-25 23:59:59\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nCCF C\nConference Website: https://www.systor
+ .org/2026/\nDBLP Index: https://dblp.org/db/conf/systor
+LOCATION:Virtual
+URL:https://www.systor.org/2026/
+END:VEVENT
+END:VCALENDAR

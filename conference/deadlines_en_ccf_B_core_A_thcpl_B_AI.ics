@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NAACL 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220115T235959
+DTEND;TZID="UTC-12:00":20220116T000059
+DTSTAMP:20260912T141333Z
+UID:faf8d2d5-0e36-4c57-80f4-2b035d5b9122
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ Date: July 10-15\, 2022\n
+ 📍 Location: Washington DC\, USA\n⏰ Original Deadline (UTC-12): 2022-0
+ 1-15 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\, THCPL B\nConf
+ erence Website: https://2022.naacl.org/\nDBLP Index: https://dblp.org/db/c
+ onf/naacl
+LOCATION:Washington DC\, USA
+URL:https://2022.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAACL 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231215T235959
+DTEND;TZID="UTC-12:00":20231216T000059
+DTSTAMP:20260912T141333Z
+UID:57a2e1b6-32fc-4e8a-b900-a53b3c38d57a
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ Date: June 16-21\, 2024\n
+ 📍 Location: Mexico City\, Mexico\n⏰ Original Deadline (UTC-12): 2023-
+ 12-15 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\, THCPL B\nCon
+ ference Website: https://2024.naacl.org/\nDBLP Index: https://dblp.org/db/
+ conf/naacl
+LOCATION:Mexico City\, Mexico
+URL:https://2024.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAACL 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241015T235959
+DTEND;TZID="UTC-12:00":20241016T000059
+DTSTAMP:20260912T141333Z
+UID:a39e9033-85a8-49e0-92bc-c6b70366fd56
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ Date: April 29-May 4\, 202
+ 5\n📍 Location: Albuquerque\, New Mexico\, USA\n⏰ Original Deadline (U
+ TC-12): 2024-10-15 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\,
+  THCPL B\nConference Website: https://2025.naacl.org/\nDBLP Index: https:/
+ /dblp.org/db/conf/naacl
+LOCATION:Albuquerque\, New Mexico\, USA
+URL:https://2025.naacl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAACL 2027 Deadline [ARR Submission]
+DTSTART;TZID="UTC-12:00":20261012T235959
+DTEND;TZID="UTC-12:00":20261013T000059
+DTSTAMP:20260912T141333Z
+UID:152f21af-4307-4085-8920-1dc41ee4ddd4
+DESCRIPTION:The Annual Conference of the North American Chapter of the Ass
+ ociation for Computational Linguistics\n🗓️ Date: June 1-5\, 2027\n
+ 📍 Location: San Francisco\, California\, USA\n⏰ Original Deadline (UT
+ C-12): 2026-10-12 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\, 
+ THCPL B\nConference Website: https://2027.naacl.org/\nDBLP Index: https://
+ dblp.org/db/conf/naacl
+LOCATION:San Francisco\, California\, USA
+URL:https://2027.naacl.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:UAI 2021 Deadline
+DTSTART:20210219T235959Z
+DTEND:20210220T000059Z
+DTSTAMP:20260912T141333Z
+UID:9e576d3a-11b1-457a-bf06-06d68eb9c7ce
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ Date: July 27-29\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UT
+ C+0): 2021-02-19 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\, T
+ HCPL B\nConference Website: http://auai.org/uai2021/\nDBLP Index: https://
+ dblp.org/db/conf/uai
+LOCATION:Virtual
+URL:http://auai.org/uai2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230217T235959
+DTEND;TZID="UTC-12:00":20230218T000059
+DTSTAMP:20260912T141333Z
+UID:8c75ac9b-05a8-4efb-b8a2-cbd66c21917e
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ Date: August 1-3\, 2023\n📍 Location: Pittsburgh\, PA\, USA\n⏰ Origina
+ l Deadline (AoE): 2023-02-17 23:59:59\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A\, THCPL B\nConference Website: http://auai.org/uai2023/\nDBLP In
+ dex: https://dblp.org/db/conf/uai
+LOCATION:Pittsburgh\, PA\, USA
+URL:http://auai.org/uai2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240209T235959
+DTEND;TZID="UTC-12:00":20240210T000059
+DTSTAMP:20260912T141333Z
+UID:e7aceac9-8109-456f-87d2-3bc104202943
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ Date: July 15-19\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original De
+ adline (AoE): 2024-02-09 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CO
+ RE A\, THCPL B\nConference Website: http://auai.org/uai2024/\nDBLP Index: 
+ https://dblp.org/db/conf/uai
+LOCATION:Barcelona\, Spain
+URL:http://auai.org/uai2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250210T235959
+DTEND;TZID="UTC-12:00":20250211T000059
+DTSTAMP:20260912T141333Z
+UID:5d1f9189-2cb9-451f-8bcd-970b019d0753
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ Date: July 21-25\, 2025\n📍 Location: Rio de Janeiro\, Brazil\n⏰ Origi
+ nal Deadline (AoE): 2025-02-10 23:59:59\nCategory: 人工智能 (AI)\nCCF 
+ B\, CORE A\, THCPL B\nConference Website: https://www.auai.org/uai2025/\nD
+ BLP Index: https://dblp.org/db/conf/uai
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://www.auai.org/uai2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UAI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260225T235959
+DTEND;TZID="UTC-12:00":20260226T000059
+DTSTAMP:20260912T141333Z
+UID:e4612ef4-a068-4fa7-b81c-eba7477cfc3b
+DESCRIPTION:Conference on Uncertainty in Artificial Intelligence\n🗓️ 
+ Date: August 17-21\, 2026\n📍 Location: Amsterdam\, Netherlands\n⏰ Ori
+ ginal Deadline (AoE): 2026-02-25 23:59:59\nCategory: 人工智能 (AI)\nCC
+ F B\, CORE A\, THCPL B\nConference Website: https://www.auai.org/uai2026/
+ \nDBLP Index: https://dblp.org/db/conf/uai
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.auai.org/uai2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPCC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250518T235959
+DTEND;TZID="UTC-12:00":20250519T000059
+DTSTAMP:20260912T141340Z
+UID:613a39e3-338a-4c99-a14a-7fdff0d68b73
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ Date: August 13-15\, 2025\n📍 Location: Exeter
+ \, UK\n⏰ Original Deadline (AoE): 2025-05-18 23:59:59\nCategory: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\, CORE C\nC
+ onference Website: https://hpcn.exeter.ac.uk/hpcc2025/\nDBLP Index: https:
+ //dblp.org/db/conf/hpcc
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/hpcc2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2022 Deadline [first round]
+DTSTART;TZID="UTC-08:00":20210530T170000
+DTEND;TZID="UTC-08:00":20210530T170100
+DTSTAMP:20260912T141340Z
+UID:187c2e08-fb35-4e18-a10d-5ce675e827a3
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ Date: October 10-12\, 2022\n📍 Location: Cop
+ enhagen\, Denmark\n⏰ Original Deadline (UTC-8): 2021-05-30 17:00:00\nCat
+ egory: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF 
+ C\, CORE C\nConference Website: https://ica3pp2022.compute.dtu.dk/\nDBLP I
+ ndex: https://dblp.org/db/conf/ica3pp
+LOCATION:Copenhagen\, Denmark
+URL:https://ica3pp2022.compute.dtu.dk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2022 Deadline [second round]
+DTSTART;TZID="UTC-08:00":20210630T170000
+DTEND;TZID="UTC-08:00":20210630T170100
+DTSTAMP:20260912T141340Z
+UID:59adf734-4f63-4059-add6-24c1493b0c1f
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ Date: October 10-12\, 2022\n📍 Location: Cop
+ enhagen\, Denmark\n⏰ Original Deadline (UTC-8): 2021-06-30 17:00:00\nCat
+ egory: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF 
+ C\, CORE C\nConference Website: https://ica3pp2022.compute.dtu.dk/\nDBLP I
+ ndex: https://dblp.org/db/conf/ica3pp
+LOCATION:Copenhagen\, Denmark
+URL:https://ica3pp2022.compute.dtu.dk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2023 Deadline [Paper Submission Due]
+DTSTART;TZID="UTC-08:00":20230530T235900
+DTEND;TZID="UTC-08:00":20230531T000000
+DTSTAMP:20260912T141340Z
+UID:6c046c25-9e8f-4dd2-bb76-6dcc61a89c77
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ Date: October 20-22\, 2022\n📍 Location: Tia
+ njin\, China\n⏰ Original Deadline (UTC-8): 2023-05-30 23:59:00\nCategory
+ : 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\, C
+ ORE C\nConference Website: http://tjutanklab.com/ica3pp2023/\nDBLP Index: 
+ https://dblp.org/db/conf/ica3pp
+LOCATION:Tianjin\, China
+URL:http://tjutanklab.com/ica3pp2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2025 Deadline [Paper Submission Due]
+DTSTART;TZID="UTC-08:00":20250630T235900
+DTEND;TZID="UTC-08:00":20250701T000000
+DTSTAMP:20260912T141340Z
+UID:4ee6baf4-5232-48e4-a74d-7e8256606813
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ Date: October 30- November 2\, 2025\n📍 Loca
+ tion: Zhengzhou\, Henan\, China\n⏰ Original Deadline (UTC-8): 2025-06-30
+  23:59:00\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF C\, CORE C\nConference Website: https://ieee-cybermatics.org
+ /2025/ica3pp/\nDBLP Index: https://dblp.org/db/conf/ica3pp
+LOCATION:Zhengzhou\, Henan\, China
+URL:https://ieee-cybermatics.org/2025/ica3pp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2026 Deadline [Paper Submission Due]
+DTSTART;TZID="UTC-12:00":20260725T235900
+DTEND;TZID="UTC-12:00":20260726T000000
+DTSTAMP:20260912T141340Z
+UID:a757bc0c-bbc2-40c7-81f4-48ea5b67e8d7
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ Date: October 26-28\, 2026\n📍 Location: Exe
+ ter\, UK\n⏰ Original Deadline (AoE): 2026-07-25 23:59:00\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\, CORE C
+ \nConference Website: https://hpcn.exeter.ac.uk/ica3pp2026/\nDBLP Index: h
+ ttps://dblp.org/db/conf/ica3pp
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/ica3pp2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210709T235959
+DTEND;TZID="UTC-12:00":20210710T000059
+DTSTAMP:20260912T141340Z
+UID:2df8b47b-5e1a-4661-bfe9-5c83142c51dd
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ Date: September 30-October 3\, 2021\n📍
+  Location: New York\, USA\n⏰ Original Deadline (AoE): 2021-07-09 23:59:5
+ 9\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS)
+ \nCCF C\, CORE C\nConference Website: http://www.cloud-conf.net/ispa2021/
+ \nDBLP Index: https://dblp.org/db/conf/ispa
+LOCATION:New York\, USA
+URL:http://www.cloud-conf.net/ispa2021/
+END:VEVENT
+END:VCALENDAR

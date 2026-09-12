@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:UIC 2025 Deadline [Conference Papers]
+DTSTART;TZID="UTC-04:00":20250501T235959
+DTEND;TZID="UTC-04:00":20250502T000059
+DTSTAMP:20260912T141341Z
+UID:ba67d2a9-922d-480b-94c1-59ade3ae296f
+DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and C
+ omputing\n🗓️ Date: Aug 18 - 22\, 2025\n📍 Location: Calgary\, Alber
+ ta\, Canada\n⏰ Original Deadline (UTC-4): 2025-05-01 23:59:59\nCategory:
+  人机交互与普适计算 (HI)\nCCF C\, CORE B\nConference Website: htt
+ ps://www.ieee-smart-world.org/2025/\nDBLP Index: https://dblp.org/db/conf/
+ uic
+LOCATION:Calgary\, Alberta\, Canada
+URL:https://www.ieee-smart-world.org/2025/
+END:VEVENT
+END:VCALENDAR

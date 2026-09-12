@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:TrustCom 2021 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC+08:00":20210430T235959
+DTEND;TZID="UTC+08:00":20210501T000059
+DTSTAMP:20260912T141315Z
+UID:a13f9c1d-9c95-41e5-a82b-d749f4ab38af
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ 会议时间: To be announced\n
+ 📍 会议地点: Shenyang\, China\n⏰ 原始截止时间 (UTC+8): 2021-
+ 04-30 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE B\n会议
+ 官网: https://trustcom2021.sau.edu.cn/\nDBLP索引: https://dblp.org/db/
+ conf/trustcom
+LOCATION:Shenyang\, China
+URL:https://trustcom2021.sau.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TrustCom 2025 截稿日期
+DTSTART;TZID="UTC+08:00":20250801T235959
+DTEND;TZID="UTC+08:00":20250802T000059
+DTSTAMP:20260912T141315Z
+UID:e7de121b-2d85-4300-82a8-9795a4519558
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ 会议时间: November 14 - 17\, 
+ 2025\n📍 会议地点: Guiyang\, China\n⏰ 原始截止时间 (UTC+8): 
+ 2025-08-01 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE B\n
+ 会议官网: https://ieee-aiplus-2025.org/\nDBLP索引: https://dblp.org/
+ db/conf/trustcom
+LOCATION:Guiyang\, China
+URL:https://ieee-aiplus-2025.org/
+END:VEVENT
+END:VCALENDAR

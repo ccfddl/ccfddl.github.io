@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HICSS 2027 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC-10:00":20260615T235959
+DTEND;TZID="UTC-10:00":20260616T000059
+DTSTAMP:20260912T141310Z
+UID:47b7915f-e4c1-429f-ad29-53f35bcb22fb
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 5-8\, 2027\n📍 会议地点: Big Island\, Hawaii\,
+  USA\n⏰ 原始截止时间 (UTC-10): 2026-06-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu
+ /\nDBLP索引: https://dblp.org/db/conf/hicss
+LOCATION:Big Island\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+END:VCALENDAR

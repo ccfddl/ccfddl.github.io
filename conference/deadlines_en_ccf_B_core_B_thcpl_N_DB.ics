@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WISE 2026 Deadline [Extended submission deadline]
+DTSTART;TZID="UTC-12:00":20260630T235959
+DTEND;TZID="UTC-12:00":20260701T000059
+DTSTAMP:20260912T141337Z
+UID:ce1f6c18-8418-4165-a141-2523638b678a
+DESCRIPTION:International Conference on Web Information Systems Engineerin
+ g\n🗓️ Date: November 2-5\, 2026\n📍 Location: Venice\, Italy\n⏰ O
+ riginal Deadline (AoE): 2026-06-30 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE B\nConference Website: https://confere
+ nces.sigappfr.org/wise2026/\nDBLP Index: https://dblp.org/db/conf/wise
+LOCATION:Venice\, Italy
+URL:https://conferences.sigappfr.org/wise2026/
+END:VEVENT
+END:VCALENDAR

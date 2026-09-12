@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COCOON 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250305T235959
+DTEND;TZID="UTC-12:00":20250306T000059
+DTSTAMP:20260912T141304Z
+UID:13f40bc0-d403-462b-a375-2606062cd558
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ 会议时间: August 15-17\, 2025\n📍 会议地点: Chengdu\, China\n⏰
+  原始截止时间 (AoE): 2025-03-05 23:59:59\n分类: 计算机科学理
+ 论 (CT)\nCCF B\n会议官网: https://tcsuestc.com/cocoon2025\nDBLP索引
+ : https://dblp.org/db/conf/cocoon
+LOCATION:Chengdu\, China
+URL:https://tcsuestc.com/cocoon2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20250304T235959
+DTEND;TZID="UTC-12:00":20250305T000059
+DTSTAMP:20260912T141304Z
+UID:dbbe4e59-d9fc-466c-be0a-8a52af86bd4f
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ 会议时间: July 23-25\, 2026\n📍 会议地点: Singapore\n⏰ 原始
+ 截止时间 (AoE): 2025-03-04 23:59:59\n分类: 计算机科学理论 (CT
+ )\nCCF B\n会议官网: https://event.ntu.edu.sg/cocoon2026\nDBLP索引: h
+ ttps://dblp.org/db/conf/cocoon
+LOCATION:Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSCC 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251106T235959
+DTEND;TZID="UTC-12:00":20251107T000059
+DTSTAMP:20260912T141304Z
+UID:b40eab5a-00db-4960-bfc3-1281f630afb3
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint Ma
+ lo\, France\n⏰ 原始截止时间 (AoE): 2025-11-06 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://www.isi
+ s.vanderbilt.edu/events/hscciccps-2026\nDBLP索引: https://dblp.org/db/co
+ nf/hybrid
+LOCATION:Saint Malo\, France
+URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSCC 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251113T235959
+DTEND;TZID="UTC-12:00":20251114T000059
+DTSTAMP:20260912T141304Z
+UID:219ab9cc-9f4d-42b8-becc-d4fd60b07439
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint Ma
+ lo\, France\n⏰ 原始截止时间 (AoE): 2025-11-13 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://www.isi
+ s.vanderbilt.edu/events/hscciccps-2026\nDBLP索引: https://dblp.org/db/co
+ nf/hybrid
+LOCATION:Saint Malo\, France
+URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
+END:VEVENT
+END:VCALENDAR

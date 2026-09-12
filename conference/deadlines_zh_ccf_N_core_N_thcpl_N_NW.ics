@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+03:00
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2025 截稿日期
+DTSTART;TZID="UTC+03:00":20251020T235959
+DTEND;TZID="UTC+03:00":20251021T000059
+DTSTAMP:20260912T141312Z
+UID:e63121f5-7c3e-4c86-901e-64d4d7a89599
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 19\, 2025\n📍 会议地点: Istanbul\, Turkey (Online)\n
+ ⏰ 原始截止时间 (UTC+3): 2025-10-20 23:59:59\n分类: 计算机网
+ 络 (NW)\n会议官网: https://wicon.eai-conferences.org/2025/\nDBLP索
+ 引: https://dblp.org/db/conf/wicon
+LOCATION:Istanbul\, Turkey (Online)
+URL:https://wicon.eai-conferences.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2026 截稿日期
+DTSTART;TZID="UTC+03:00":20260601T235959
+DTEND;TZID="UTC+03:00":20260602T000059
+DTSTAMP:20260912T141312Z
+UID:f6031a5e-b44d-4da2-aaab-56843f05a0e4
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 2-4\, 2026\n📍 会议地点: Bratislava\, Slovakia\n⏰ 
+ 原始截止时间 (UTC+3): 2026-06-01 23:59:59\n分类: 计算机网络 (
+ NW)\n会议官网: https://wicon.eai-conferences.org/2026/\nDBLP索引: ht
+ tps://dblp.org/db/conf/wicon
+LOCATION:Bratislava\, Slovakia
+URL:https://wicon.eai-conferences.org/2026/
+END:VEVENT
+END:VCALENDAR

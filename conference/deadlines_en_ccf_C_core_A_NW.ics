@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MSWiM 2026 Deadline
+DTSTART;TZID="UTC+01:00":20260601T235959
+DTEND;TZID="UTC+01:00":20260602T000059
+DTSTAMP:20260912T141343Z
+UID:3007faa7-9be6-4163-9b66-cf9a9358c480
+DESCRIPTION:International Conference on Modeling\, Analysis and Simulation
+  of Wireless and Mobile Systems\n🗓️ Date: October 26-30\, 2026\n📍 
+ Location: Paris\, France\n⏰ Original Deadline (UTC+1): 2026-06-01 23:59:
+ 59\nCategory: 计算机网络 (NW)\nCCF C\, CORE A\nConference Website: ht
+ tps://mswimconf.com/2026/\nDBLP Index: https://dblp.org/db/conf/mswim
+LOCATION:Paris\, France
+URL:https://mswimconf.com/2026/
+END:VEVENT
+END:VCALENDAR

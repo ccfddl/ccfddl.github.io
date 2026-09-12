@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ITC 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20260912T141340Z
+UID:6a669c8a-007b-454b-a2c3-8ab095b2e879
+DESCRIPTION:International Test Conference\n🗓️ Date: October 11-16\, 2
+ 026\n📍 Location: Grand Hyatt San Antonio Riverwalk\, TX\, USA\n⏰ Orig
+ inal Deadline (AoE): 2026-03-20 23:59:59\nCategory: 计算机体系结构/
+ 并行与分布计算/存储系统 (DS)\nCCF B\, CORE A\nConference Websit
+ e: https://www.itctestweek.org/\nDBLP Index: https://dblp.org/db/conf/itc
+LOCATION:Grand Hyatt San Antonio Riverwalk\, TX\, USA
+URL:https://www.itctestweek.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260424T235959
+DTEND;TZID="UTC-12:00":20260425T000059
+DTSTAMP:20260912T141340Z
+UID:72800747-d27a-4a21-9dda-9e60f6b450ba
+DESCRIPTION:International Test Conference\n🗓️ Date: October 11-16\, 2
+ 026\n📍 Location: Grand Hyatt San Antonio Riverwalk\, TX\, USA\n⏰ Orig
+ inal Deadline (AoE): 2026-04-24 23:59:59\nCategory: 计算机体系结构/
+ 并行与分布计算/存储系统 (DS)\nCCF B\, CORE A\nConference Websit
+ e: https://www.itctestweek.org/\nDBLP Index: https://dblp.org/db/conf/itc
+LOCATION:Grand Hyatt San Antonio Riverwalk\, TX\, USA
+URL:https://www.itctestweek.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-06:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-06:00
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 截稿日期 [Early Submission]
+DTSTART;TZID="UTC-06:00":20240226T000000
+DTEND;TZID="UTC-06:00":20240226T000100
+DTSTAMP:20260912T141301Z
+UID:1e9b9b32-840b-4367-88e2-5010b382dd22
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: June 1-4\, 2024\n📍 会议地点: Merida\, Yucatan\, Mexico\n
+ ⏰ 原始截止时间 (UTC-6): 2024-02-26 00:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE C\n会议官网: https://www.iccbr2024.org/\nDBLP索引
+ : https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://www.iccbr2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 截稿日期 [Late Submission]
+DTSTART;TZID="UTC-06:00":20240402T000000
+DTEND;TZID="UTC-06:00":20240402T000100
+DTSTAMP:20260912T141301Z
+UID:b8df463a-1c0a-4026-b74f-5950708fafcc
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: June 1-4\, 2024\n📍 会议地点: Merida\, Yucatan\, Mexico\n
+ ⏰ 原始截止时间 (UTC-6): 2024-04-02 00:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE C\n会议官网: https://www.iccbr2024.org/\nDBLP索引
+ : https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://www.iccbr2024.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20260912T141301Z
+UID:6a5f7f4f-7448-497c-b51f-866f505cc372
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: August 13-16\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 
+ 原始截止时间 (AoE): 2026-03-20 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE C\n会议官网: https://2026.iccbr.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+END:VCALENDAR

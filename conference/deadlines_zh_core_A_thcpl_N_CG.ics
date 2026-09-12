@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20211212T235959
+DTEND;TZID="UTC-08:00":20211213T000059
+DTSTAMP:20260912T141303Z
+UID:d90df615-99dd-4ecf-a4d9-b4d35f59beaf
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 18-22\, 2022\n📍 会议地点: Taipei\, Taiwan\, 
+ China\n⏰ 原始截止时间 (UTC-8): 2021-12-12 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: http://2022.i
+ eeeicme.org/paper.html\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Taipei\, Taiwan\, China
+URL:http://2022.ieeeicme.org/paper.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2023 截稿日期
+DTSTART:20221222T235959Z
+DTEND:20221223T000059Z
+DTSTAMP:20260912T141303Z
+UID:866b05e3-7035-4411-a344-344c18f8b0ca
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 10-14\, 2023\n📍 会议地点: Brisbane\, Austral
+ ia\n⏰ 原始截止时间 (UTC+0): 2022-12-22 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://www.2023
+ .ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Brisbane\, Australia
+URL:https://www.2023.ieeeicme.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2024 截稿日期
+DTSTART:20231230T235959Z
+DTEND:20231231T000059Z
+DTSTAMP:20260912T141303Z
+UID:879de349-8b74-4420-9b41-85c7ae584bda
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 15-19\, 2024\n📍 会议地点: Niagra Falls\, Can
+ ada\n⏰ 原始截止时间 (UTC+0): 2023-12-30 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://2024.
+ ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Niagra Falls\, Canada
+URL:https://2024.ieeeicme.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2025 截稿日期
+DTSTART:20241223T235959Z
+DTEND:20241224T000059Z
+DTSTAMP:20260912T141303Z
+UID:562a6f91-01fc-407f-9229-972c5c6413fc
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: June 30 - July 4\, 2025\n📍 会议地点: Nantes\, Fra
+ nce\n⏰ 原始截止时间 (UTC+0): 2024-12-23 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://2025.
+ ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Nantes\, France
+URL:https://2025.ieeeicme.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251231T235959
+DTEND;TZID="UTC-12:00":20260101T000059
+DTSTAMP:20260912T141303Z
+UID:3ca287e4-9a7f-4635-8e19-805905f476dd
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 6 - July 10\, 2026\n📍 会议地点: Bangkok\, Th
+ ailand\n⏰ 原始截止时间 (UTC-12): 2025-12-31 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://20
+ 26.ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Bangkok\, Thailand
+URL:https://2026.ieeeicme.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+09:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+09:00
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2022 截稿日期
+DTSTART;TZID="UTC+09:00":20220321T235959
+DTEND;TZID="UTC+09:00":20220322T000059
+DTSTAMP:20260912T141303Z
+UID:74503e01-af51-4e9f-9738-bd3ffd3d2010
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 18-22\, 2022\n📍 会议地点: Inche
+ on\, South Korea\n⏰ 原始截止时间 (UTC+9): 2022-03-21 23:59:59\n分
+ 类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: ht
+ tps://www.interspeech2022.org/\nDBLP索引: https://dblp.org/db/conf/inter
+ speech
+LOCATION:Incheon\, South Korea
+URL:https://www.interspeech2022.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2023 截稿日期
+DTSTART:20230308T235959Z
+DTEND:20230309T000059Z
+DTSTAMP:20260912T141303Z
+UID:3a0c66eb-f3db-44bd-b1c7-440a6bb09646
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 20-24\, 2023\n📍 会议地点: Dublin\,
+  Ireland\n⏰ 原始截止时间 (UTC+0): 2023-03-08 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://ww
+ w.interspeech2023.org/\nDBLP索引: https://dblp.org/db/conf/interspeech
+LOCATION:Dublin\, Ireland
+URL:https://www.interspeech2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2024 摘要截稿
+DTSTART:20240301T235959Z
+DTEND:20240302T000059Z
+DTSTAMP:20260912T141303Z
+UID:d6abee92-f381-4151-88e5-534255d9e0ad
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 1-5\, 2024\n📍 会议地点: Greece
+ \n⏰ 原始截止时间 (UTC+0): 2024-03-01 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://www.inte
+ rspeech2024.org/\nDBLP索引: https://dblp.org/db/conf/interspeech
+LOCATION:Greece
+URL:https://www.interspeech2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2024 截稿日期
+DTSTART:20240309T235959Z
+DTEND:20240310T000059Z
+DTSTAMP:20260912T141303Z
+UID:357f16ac-7848-4bb2-a1a8-5c5141b0086c
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 1-5\, 2024\n📍 会议地点: Greece
+ \n⏰ 原始截止时间 (UTC+0): 2024-03-09 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://www.inte
+ rspeech2024.org/\nDBLP索引: https://dblp.org/db/conf/interspeech
+LOCATION:Greece
+URL:https://www.interspeech2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2025 截稿日期
+DTSTART:20250219T235959Z
+DTEND:20250220T000059Z
+DTSTAMP:20260912T141303Z
+UID:925b7e52-6b87-40a3-a45e-c1ea49a5eddb
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 17-22\, 2025\n📍 会议地点: Rotterda
+ m\, Netherlands\n⏰ 原始截止时间 (UTC+0): 2025-02-19 23:59:59\n分
+ 类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: ht
+ tps://www.interspeech2025.org/home\nDBLP索引: https://dblp.org/db/conf/i
+ nterspeech
+LOCATION:Rotterdam\, Netherlands
+URL:https://www.interspeech2025.org/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2026 截稿日期
+DTSTART:20260225T235959Z
+DTEND:20260226T000059Z
+DTSTAMP:20260912T141303Z
+UID:7438ae7c-a028-44c3-837e-f226c24f5ef0
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 27 - October 1\, 2026\n📍 会议地
+ 点: Sydney\, Australia\n⏰ 原始截止时间 (UTC+0): 2026-02-25 23:59:
+ 59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官
+ 网: https://interspeech2026.org/\nDBLP索引: https://dblp.org/db/conf/in
+ terspeech
+LOCATION:Sydney\, Australia
+URL:https://interspeech2026.org/
+END:VEVENT
+END:VCALENDAR

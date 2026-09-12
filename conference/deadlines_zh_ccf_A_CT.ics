@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CAV 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220121T235959
+DTEND;TZID="UTC-12:00":20220122T000059
+DTSTAMP:20260912T141304Z
+UID:975a5a22-5fa7-4631-be64-6618c0ef71d8
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ 会议时间: Aug 7-10\, 2022\n📍 会议地点: Technion\, Haifa\, I
+ srael\n⏰ 原始截止时间 (AoE): 2022-01-21 23:59:59\n分类: 计算
+ 机科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://i-ca
+ v.org/2022/\nDBLP索引: https://dblp.org/db/conf/cav
+LOCATION:Technion\, Haifa\, Israel
+URL:http://i-cav.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAV 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250131T235959
+DTEND;TZID="UTC-12:00":20250201T000059
+DTSTAMP:20260912T141304Z
+UID:25b25186-2c4d-4468-abda-a6321b60188f
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ 会议时间: July 21-25\, 2025\n📍 会议地点: Zagreb\, Croatia\n
+ ⏰ 原始截止时间 (AoE): 2025-01-31 23:59:59\n分类: 计算机科学
+ 理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://conferences.
+ i-cav.org/2025/\nDBLP索引: https://dblp.org/db/conf/cav
+LOCATION:Zagreb\, Croatia
+URL:https://conferences.i-cav.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAV 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260128T235959
+DTEND;TZID="UTC-12:00":20260129T000059
+DTSTAMP:20260912T141304Z
+UID:19c3a8d8-585c-4ed0-b8b3-1ef16da84329
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ 会议时间: July 26-29\, 2026\n📍 会议地点: Lisbon\, Portugal
+ \n⏰ 原始截止时间 (AoE): 2026-01-28 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://conferenc
+ es.i-cav.org/2026/\nDBLP索引: https://dblp.org/db/conf/cav
+LOCATION:Lisbon\, Portugal
+URL:https://conferences.i-cav.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAV 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20270120T235959
+DTEND;TZID="UTC-12:00":20270121T000059
+DTSTAMP:20260912T141304Z
+UID:d78868e2-ea04-4350-a9d5-3daaea7cf223
+DESCRIPTION:International Conference on Computer-Aided Verification\n🗓
+ ️ 会议时间: July 19-23\, 2027\n📍 会议地点: KIT\, Amsterdam\, 
+ The Netherlands\n⏰ 原始截止时间 (AoE): 2027-01-20 23:59:59\n分类
+ : 计算机科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: htt
+ ps://conferences.i-cav.org/2027/\nDBLP索引: https://dblp.org/db/conf/cav
+LOCATION:KIT\, Amsterdam\, The Netherlands
+URL:https://conferences.i-cav.org/2027/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FOCS 2024 截稿日期
+DTSTART;TZID="UTC-05:00":20240404T200000
+DTEND;TZID="UTC-05:00":20240404T200100
+DTSTAMP:20260912T141304Z
+UID:8c5e62cc-0c87-4a2a-966f-66710c2a22a8
+DESCRIPTION:IEEE Symposium on Foundations of Computer Science\n🗓️ 会
+ 议时间: October 27-30\, 2024\n📍 会议地点: Chicago\, IL\, USA\n
+ ⏰ 原始截止时间 (UTC-5): 2024-04-04 20:00:00\n分类: 计算机科
+ 学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://focs.comp
+ uter.org/2024/\nDBLP索引: https://dblp.org/db/conf/focs
+LOCATION:Chicago\, IL\, USA
+URL:https://focs.computer.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOCS 2025 截稿日期
+DTSTART;TZID="UTC-05:00":20250403T200000
+DTEND;TZID="UTC-05:00":20250403T200100
+DTSTAMP:20260912T141304Z
+UID:e7fd6660-779a-49c7-a0bd-544dc6c835d7
+DESCRIPTION:IEEE Symposium on Foundations of Computer Science\n🗓️ 会
+ 议时间: December 14-17\, 2025\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (UTC-5): 2025-04-03 20:00:00\n分类: 计算机科
+ 学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://focs.comp
+ uter.org/2025/\nDBLP索引: https://dblp.org/db/conf/focs
+LOCATION:Sydney\, Australia
+URL:https://focs.computer.org/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FOCS 2026 截稿日期
+DTSTART:20260401T210000Z
+DTEND:20260401T210100Z
+DTSTAMP:20260912T141304Z
+UID:afa364f5-bf34-4c84-a1dc-3523206cf0a4
+DESCRIPTION:IEEE Symposium on Foundations of Computer Science\n🗓️ 会
+ 议时间: November 8-11\, 2026\n📍 会议地点: New York City\, NY\, U
+ SA\n⏰ 原始截止时间 (UTC): 2026-04-01 21:00:00\n分类: 计算机
+ 科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://sanjee
+ vkhanna.org/FOCS2026_CFP.html\nDBLP索引: https://dblp.org/db/conf/focs
+LOCATION:New York City\, NY\, USA
+URL:https://sanjeevkhanna.org/FOCS2026_CFP.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LICS 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230123T235959
+DTEND;TZID="UTC-12:00":20230124T000059
+DTSTAMP:20260912T141304Z
+UID:483e0fd8-4a00-4556-a1e4-c86081295b94
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\n🗓️ 会议时
+ 间: June 26-29\, 2023\n📍 会议地点: Boston University\, USA\n⏰ 
+ 原始截止时间 (AoE): 2023-01-23 23:59:59\n分类: 计算机科学理
+ 论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://lics.siglog.org
+ /lics23/\nDBLP索引: https://dblp.org/db/conf/lics
+LOCATION:Boston University\, USA
+URL:https://lics.siglog.org/lics23/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LICS 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260912T141304Z
+UID:398d8879-ba05-43fb-99a3-79f9f73c1645
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\n🗓️ 会议时
+ 间: July 20-23\, 2026\n📍 会议地点: Lisbon\, Portugal\n⏰ 原始
+ 截止时间 (AoE): 2026-01-15 23:59:59\n分类: 计算机科学理论 (CT
+ )\nCCF A\, CORE A*\, THCPL A\n会议官网: https://lics.siglog.org/lics26
+ /\nDBLP索引: https://dblp.org/db/conf/lics
+LOCATION:Lisbon\, Portugal
+URL:https://lics.siglog.org/lics26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LICS 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260122T235959
+DTEND;TZID="UTC-12:00":20260123T000059
+DTSTAMP:20260912T141304Z
+UID:41d5f0ad-5927-4529-a7cb-227b346cd28d
+DESCRIPTION:IEEE Symposium on Logic in Computer Science\n🗓️ 会议时
+ 间: July 20-23\, 2026\n📍 会议地点: Lisbon\, Portugal\n⏰ 原始
+ 截止时间 (AoE): 2026-01-22 23:59:59\n分类: 计算机科学理论 (CT
+ )\nCCF A\, CORE A*\, THCPL A\n会议官网: https://lics.siglog.org/lics26
+ /\nDBLP索引: https://dblp.org/db/conf/lics
+LOCATION:Lisbon\, Portugal
+URL:https://lics.siglog.org/lics26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SODA 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20240705T235959
+DTEND;TZID="UTC-12:00":20240706T000059
+DTSTAMP:20260912T141304Z
+UID:7008f95c-3631-45c6-a4f4-681b45c5344d
+DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\n🗓️ 会议时
+ 间: January 12-15\, 2025\n📍 会议地点: New Orleans\, Louisiana\, US
+ A\n⏰ 原始截止时间 (UTC-12): 2024-07-05 23:59:59\n分类: 计算机
+ 科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://www.si
+ am.org/conferences/cm/conference/soda25\nDBLP索引: https://dblp.org/db/c
+ onf/soda
+LOCATION:New Orleans\, Louisiana\, USA
+URL:https://www.siam.org/conferences/cm/conference/soda25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SODA 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20250714T235959
+DTEND;TZID="UTC-12:00":20250715T000059
+DTSTAMP:20260912T141304Z
+UID:88e3ce73-c8c5-4baf-b3f7-65fa5da0c9d2
+DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\n🗓️ 会议时
+ 间: January 11-14\, 2026\n📍 会议地点: Hyatt Regency Vancouver\, Va
+ ncouver\, Canada\n⏰ 原始截止时间 (UTC-12): 2025-07-14 23:59:59\n
+ 分类: 计算机科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.siam.org/conferences-events/siam-conferences/soda26/\nDBL
+ P索引: https://dblp.org/db/conf/soda
+LOCATION:Hyatt Regency Vancouver\, Vancouver\, Canada
+URL:https://www.siam.org/conferences-events/siam-conferences/soda26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SODA 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20260709T235959
+DTEND;TZID="UTC-12:00":20260710T000059
+DTSTAMP:20260912T141304Z
+UID:abd06249-88d5-44d1-a16c-2bf83ea87daa
+DESCRIPTION:ACM-SIAM Symposium on Discrete Algorithms\n🗓️ 会议时
+ 间: January 24-27\, 2027\n📍 会议地点: Philadelphia\, Pennsylvania
+ \, USA\n⏰ 原始截止时间 (UTC-12): 2026-07-09 23:59:59\n分类: 计
+ 算机科学理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://
+ www.siam.org/conferences-events/siam-conferences/soda27/\nDBLP索引: http
+ s://dblp.org/db/conf/soda
+LOCATION:Philadelphia\, Pennsylvania\, USA
+URL:https://www.siam.org/conferences-events/siam-conferences/soda27/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOC 2021 截稿日期
+DTSTART;TZID="UTC-05:00":20201106T115959
+DTEND;TZID="UTC-05:00":20201106T120059
+DTSTAMP:20260912T141304Z
+UID:5481612b-221b-4a77-8829-6b161405a7c1
+DESCRIPTION:ACM Symposium on the Theory of Computing\n🗓️ 会议时间
+ : June 21-25\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 (U
+ TC-5): 2020-11-06 11:59:59\n分类: 计算机科学理论 (CT)\nCCF A\, CO
+ RE A*\, THCPL A\n会议官网: http://acm-stoc.org/stoc2021/\nDBLP索引: 
+ https://dblp.org/db/conf/stoc
+LOCATION:Virtual
+URL:http://acm-stoc.org/stoc2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOC 2025 截稿日期
+DTSTART;TZID="UTC-05:00":20241104T195959
+DTEND;TZID="UTC-05:00":20241104T200059
+DTSTAMP:20260912T141304Z
+UID:aab381c5-dc40-40ea-901d-2c87cf9df2d5
+DESCRIPTION:ACM Symposium on the Theory of Computing\n🗓️ 会议时间
+ : June 23-27\, 2025\n📍 会议地点: Prague\, Czech Republic\n⏰ 原
+ 始截止时间 (UTC-5): 2024-11-04 19:59:59\n分类: 计算机科学理
+ 论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://acm-stoc.org/sto
+ c2025/\nDBLP索引: https://dblp.org/db/conf/stoc
+LOCATION:Prague\, Czech Republic
+URL:http://acm-stoc.org/stoc2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOC 2026 截稿日期
+DTSTART;TZID="UTC-05:00":20251104T165959
+DTEND;TZID="UTC-05:00":20251104T170059
+DTSTAMP:20260912T141304Z
+UID:9888cab5-35d9-41a8-ad0d-85ba7bf0e5bc
+DESCRIPTION:ACM Symposium on the Theory of Computing\n🗓️ 会议时间
+ : June 22-26\, 2026\n📍 会议地点: Salt Lake City\, Utah\, USA\n⏰ 
+ 原始截止时间 (UTC-5): 2025-11-04 16:59:59\n分类: 计算机科学
+ 理论 (CT)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://acm-stoc.org
+ /stoc2026/\nDBLP索引: https://dblp.org/db/conf/stoc
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://acm-stoc.org/stoc2026/
+END:VEVENT
+END:VCALENDAR

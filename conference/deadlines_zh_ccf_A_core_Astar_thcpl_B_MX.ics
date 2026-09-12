@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:RTSS 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220526T235959
+DTEND;TZID="UTC-12:00":20220527T000059
+DTSTAMP:20260912T141311Z
+UID:4b1599b3-4cbe-4f1f-a0aa-79862df7e916
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ 会议时间: De
+ cember 5-8\, 2022\n📍 会议地点: Houston\, USA\n⏰ 原始截止时
+ 间 (AoE): 2022-05-26 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF A\,
+  CORE A*\, THCPL B\n会议官网: http://2022.rtss.org/\nDBLP索引: https
+ ://dblp.org/db/conf/rtss
+LOCATION:Houston\, USA
+URL:http://2022.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250522T235959
+DTEND;TZID="UTC-12:00":20250523T000059
+DTSTAMP:20260912T141311Z
+UID:935b254c-0749-4e81-898e-4a6ddd0b27d0
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ 会议时间: De
+ cember 2-5\, 2025\n📍 会议地点: Boston\, MA\, USA\n⏰ 原始截止
+ 时间 (AoE): 2025-05-22 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF 
+ A\, CORE A*\, THCPL B\n会议官网: http://2025.rtss.org/\nDBLP索引: ht
+ tps://dblp.org/db/conf/rtss
+LOCATION:Boston\, MA\, USA
+URL:http://2025.rtss.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RTSS 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260521T235959
+DTEND;TZID="UTC-12:00":20260522T000059
+DTSTAMP:20260912T141311Z
+UID:716c3d54-7a20-40f6-923f-38b463936160
+DESCRIPTION:The IEEE Real-Time Systems Symposium\n🗓️ 会议时间: De
+ cember 9-11\, 2026\n📍 会议地点: Yokohama\, Japan\n⏰ 原始截止
+ 时间 (AoE): 2026-05-21 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF 
+ A\, CORE A*\, THCPL B\n会议官网: http://2026.rtss.org/\nDBLP索引: ht
+ tps://dblp.org/db/conf/rtss
+LOCATION:Yokohama\, Japan
+URL:http://2026.rtss.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2023 Deadline [Paper submission deadline]
+DTSTART:20230309T235959Z
+DTEND:20230310T000059Z
+DTSTAMP:20260912T141342Z
+UID:d03559e7-ffad-4a2e-afa3-53446d603d8b
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Oct 8-12\, 2023\n📍 Location: Va
+ ncouver\, Canada\n⏰ Original Deadline (UTC+0): 2023-03-09 23:59:59\nCate
+ gory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConference Webs
+ ite: https://conferences.miccai.org/2023/en/\nDBLP Index: https://dblp.org
+ /db/conf/miccai
+LOCATION:Vancouver\, Canada
+URL:https://conferences.miccai.org/2023/en/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2024 Deadline [Main conference papers]
+DTSTART;TZID="UTC-08:00":20240307T235959
+DTEND;TZID="UTC-08:00":20240308T000059
+DTSTAMP:20260912T141342Z
+UID:3ffe97d9-f3ea-4844-a633-7a655d4eeadd
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Oct 6-10\, 2024\n📍 Location: Ma
+ rrakesh\, Morocco\n⏰ Original Deadline (UTC-8): 2024-03-07 23:59:59\nCat
+ egory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConference Web
+ site: https://conferences.miccai.org/2024/en/\nDBLP Index: https://dblp.or
+ g/db/conf/miccai
+LOCATION:Marrakesh\, Morocco
+URL:https://conferences.miccai.org/2024/en/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20250213T235900
+DTEND;TZID="UTC-08:00":20250214T000000
+DTSTAMP:20260912T141342Z
+UID:4a9f0e10-b419-458d-ba5a-5b1bc4e6d325
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Sep 23-27\, 2025\n📍 Location: D
+ aejeon\, Republic of Korea\n⏰ Original Deadline (UTC-8): 2025-02-13 23:5
+ 9:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConfe
+ rence Website: https://conferences.miccai.org/2025/en/default.asp\nDBLP In
+ dex: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250227T235900
+DTEND;TZID="UTC-08:00":20250228T000000
+DTSTAMP:20260912T141342Z
+UID:068253ab-a2e8-4c09-b328-bb3e5f33149f
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Sep 23-27\, 2025\n📍 Location: D
+ aejeon\, Republic of Korea\n⏰ Original Deadline (UTC-8): 2025-02-27 23:5
+ 9:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConfe
+ rence Website: https://conferences.miccai.org/2025/en/default.asp\nDBLP In
+ dex: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20260212T235900
+DTEND;TZID="UTC-08:00":20260213T000000
+DTSTAMP:20260912T141342Z
+UID:e616d7eb-fd6d-416e-8830-bc0ea3c4dc56
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Oct 4-8\, 2026\n📍 Location: ADN
+ EC Centre\, Abu Dhabi\, U.A.E.\n⏰ Original Deadline (UTC-8): 2026-02-12 
+ 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nC
+ onference Website: https://conferences.miccai.org/2026/en/IMPORTANT-DATES.
+ html\nDBLP Index: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260226T235900
+DTEND;TZID="UTC-08:00":20260227T000000
+DTSTAMP:20260912T141342Z
+UID:f590a852-1a8e-49e2-9f7d-682a68edac7f
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Oct 4-8\, 2026\n📍 Location: ADN
+ EC Centre\, Abu Dhabi\, U.A.E.\n⏰ Original Deadline (UTC-8): 2026-02-26 
+ 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nC
+ onference Website: https://conferences.miccai.org/2026/en/IMPORTANT-DATES.
+ html\nDBLP Index: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+END:VCALENDAR

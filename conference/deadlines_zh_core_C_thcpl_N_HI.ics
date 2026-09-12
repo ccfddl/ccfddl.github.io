@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CollaborateCom 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250501T235959
+DTEND;TZID="UTC-08:00":20250502T000059
+DTSTAMP:20260912T141310Z
+UID:2a11cebf-32aa-450e-baf0-fa619e7c7afa
+DESCRIPTION:International Conference on Collaborative Computing: Networkin
+ g\, Applications and Worksharing\n🗓️ 会议时间: November 15-16\, 2
+ 025\n📍 会议地点: Shanghai\, China\n⏰ 原始截止时间 (UTC-8): 
+ 2025-05-01 23:59:59\n分类: 人机交互与普适计算 (HI)\nCCF C\, COR
+ E C\n会议官网: https://collaboratecom.eai-conferences.org/2025/\nDBLP
+ 索引: https://dblp.org/db/conf/colcom
+LOCATION:Shanghai\, China
+URL:https://collaboratecom.eai-conferences.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CollaborateCom 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260501T235959
+DTEND;TZID="UTC-08:00":20260502T000059
+DTSTAMP:20260912T141310Z
+UID:73dbf9d4-fade-4b4d-8164-45a64affe8ad
+DESCRIPTION:International Conference on Collaborative Computing: Networkin
+ g\, Applications and Worksharing\n🗓️ 会议时间: November 14-15\, 2
+ 026\n📍 会议地点: Hong Kong SAR\, China\n⏰ 原始截止时间 (UTC
+ -8): 2026-05-01 23:59:59\n分类: 人机交互与普适计算 (HI)\nCCF C
+ \, CORE C\n会议官网: https://collaboratecom.eai-conferences.org/2026/
+ \nDBLP索引: https://dblp.org/db/conf/colcom
+LOCATION:Hong Kong SAR\, China
+URL:https://collaboratecom.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CSCWD 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20211130T235959
+DTEND;TZID="UTC-12:00":20211201T000059
+DTSTAMP:20260912T141310Z
+UID:a344609e-ad03-40b4-8d47-469aa7d0f49a
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ 会议时间: May 4-6\, 2022\n📍 会议地点: Hang
+ zhou\, China\n⏰ 原始截止时间 (AoE): 2021-11-30 23:59:59\n分类: 
+ 人机交互与普适计算 (HI)\nCCF C\, CORE C\n会议官网: http://8.1
+ 31.80.51/cscwd2022/index.html\nDBLP索引: https://dblp.org/db/conf/cscwd
+LOCATION:Hangzhou\, China
+URL:http://8.131.80.51/cscwd2022/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20221031T235959
+DTEND;TZID="UTC-12:00":20221101T000059
+DTSTAMP:20260912T141310Z
+UID:6262a2d1-adbc-4975-aa2e-bff9c47d4cf5
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ 会议时间: May 24-26\, 2023\n📍 会议地点: Ri
+ o de Janeiro\, Brazil\n⏰ 原始截止时间 (AoE): 2022-10-31 23:59:59\n
+ 分类: 人机交互与普适计算 (HI)\nCCF C\, CORE C\n会议官网: ht
+ tp://2023.cscwd.org\nDBLP索引: https://dblp.org/db/conf/cscwd
+LOCATION:Rio de Janeiro\, Brazil
+URL:http://2023.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241115T235959
+DTEND;TZID="UTC-12:00":20241116T000059
+DTSTAMP:20260912T141310Z
+UID:e41b2747-3c31-418f-a019-fffa5b40e7dc
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ 会议时间: May 5-7\, 2025\n📍 会议地点: Comp
+ iègne\, France\n⏰ 原始截止时间 (AoE): 2024-11-15 23:59:59\n分类
+ : 人机交互与普适计算 (HI)\nCCF C\, CORE C\n会议官网: http://2
+ 025.cscwd.org\nDBLP索引: https://dblp.org/db/conf/cscwd
+LOCATION:Compiègne\, France
+URL:http://2025.cscwd.org
+END:VEVENT
+END:VCALENDAR
