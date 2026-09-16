@@ -1,0 +1,433 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ASIACRYPT 2021 Deadline
+DTSTART:20210527T115959Z
+DTEND:20210527T120059Z
+DTSTAMP:20260916T004734Z
+UID:9ce31133-b649-42e3-b7c2-807fc884ebf8
+DESCRIPTION:International Conference on the Theory and Application of Cryp
+ tology and Information Security\n🗓️ Date: December 5-9\, 2021\n📍 L
+ ocation: Singapore\n⏰ Original Deadline (UTC): 2021-05-27 11:59:59\nCate
+ gory: 网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Web
+ site: https://asiacrypt.iacr.org/2021/\nDBLP Index: https://dblp.org/db/co
+ nf/asiacrypt
+LOCATION:Singapore
+URL:https://asiacrypt.iacr.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIACRYPT 2023 Deadline
+DTSTART:20230526T115900Z
+DTEND:20230526T120000Z
+DTSTAMP:20260916T004734Z
+UID:ba0acb85-9c77-4b60-9ad6-928ffa3b8c21
+DESCRIPTION:International Conference on the Theory and Application of Cryp
+ tology and Information Security\n🗓️ Date: December 4-8\, 2023\n📍 L
+ ocation: Guangzhou\, China\n⏰ Original Deadline (UTC): 2023-05-26 11:59:
+ 00\nCategory: 网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConfer
+ ence Website: https://asiacrypt.iacr.org/2023/\nDBLP Index: https://dblp.o
+ rg/db/conf/asiacrypt
+LOCATION:Guangzhou\, China
+URL:https://asiacrypt.iacr.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIACRYPT 2024 Deadline
+DTSTART:20240526T115900Z
+DTEND:20240526T120000Z
+DTSTAMP:20260916T004735Z
+UID:c8b2eddd-9b10-46b5-9124-fbb672208ad8
+DESCRIPTION:International Conference on the Theory and Application of Cryp
+ tology and Information Security\n🗓️ Date: December 9-13\, 2024\n📍 
+ Location: Kolkata\, India\n⏰ Original Deadline (UTC): 2024-05-26 11:59:0
+ 0\nCategory: 网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConfere
+ nce Website: https://asiacrypt.iacr.org/2024/\nDBLP Index: https://dblp.or
+ g/db/conf/asiacrypt
+LOCATION:Kolkata\, India
+URL:https://asiacrypt.iacr.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIACRYPT 2025 Deadline
+DTSTART:20250516T115959Z
+DTEND:20250516T120059Z
+DTSTAMP:20260916T004735Z
+UID:05726673-c619-4bea-bf3d-20a7ea36d284
+DESCRIPTION:International Conference on the Theory and Application of Cryp
+ tology and Information Security\n🗓️ Date: December 8-12\, 2025\n📍 
+ Location: Melbourne\, Australia\n⏰ Original Deadline (UTC): 2025-05-16 1
+ 1:59:59\nCategory: 网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nC
+ onference Website: https://asiacrypt.iacr.org/2025/\nDBLP Index: https://d
+ blp.org/db/conf/asiacrypt
+LOCATION:Melbourne\, Australia
+URL:https://asiacrypt.iacr.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIACRYPT 2026 Deadline
+DTSTART:20260522T115959Z
+DTEND:20260522T120059Z
+DTSTAMP:20260916T004735Z
+UID:75542b85-d47f-4805-a818-37a75b25b597
+DESCRIPTION:International Conference on the Theory and Application of Cryp
+ tology and Information Security\n🗓️ Date: December 7-11\, 2026\n📍 
+ Location: Hong Kong\, China\n⏰ Original Deadline (UTC): 2026-05-22 11:59
+ :59\nCategory: 网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConfe
+ rence Website: https://asiacrypt.iacr.org/2026/\nDBLP Index: https://dblp.
+ org/db/conf/asiacrypt
+LOCATION:Hong Kong\, China
+URL:https://asiacrypt.iacr.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CHES 2022 Deadline [Schedule for TCHES Volume 2022/1]
+DTSTART;TZID="UTC-12:00":20210715T235959
+DTEND;TZID="UTC-12:00":20210716T000059
+DTSTAMP:20260916T004735Z
+UID:7053231c-7c13-4b45-91e4-3bb06f890a0a
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September \, 2022\n📍 Location: Beijing\, China
+ \n⏰ Original Deadline (AoE): 2021-07-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2022/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Beijing\, China
+URL:https://ches.iacr.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2022 Deadline [Schedule for TCHES Volume 2022/2]
+DTSTART;TZID="UTC-12:00":20211015T235959
+DTEND;TZID="UTC-12:00":20211016T000059
+DTSTAMP:20260916T004735Z
+UID:e02502da-7327-4a56-9de8-80cacc0afdf0
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September \, 2022\n📍 Location: Beijing\, China
+ \n⏰ Original Deadline (AoE): 2021-10-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2022/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Beijing\, China
+URL:https://ches.iacr.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2022 Deadline [Schedule for TCHES Volume 2022/3]
+DTSTART;TZID="UTC-12:00":20220115T235959
+DTEND;TZID="UTC-12:00":20220116T000059
+DTSTAMP:20260916T004735Z
+UID:5710dcfa-ba11-4429-8b04-20080e0d8ef9
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September \, 2022\n📍 Location: Beijing\, China
+ \n⏰ Original Deadline (AoE): 2022-01-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2022/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Beijing\, China
+URL:https://ches.iacr.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2022 Deadline [Schedule for TCHES Volume 2022/4]
+DTSTART;TZID="UTC-12:00":20220415T235959
+DTEND;TZID="UTC-12:00":20220416T000059
+DTSTAMP:20260916T004735Z
+UID:1bd488c2-1d94-4eb0-9f84-3861b7fb9d4b
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September \, 2022\n📍 Location: Beijing\, China
+ \n⏰ Original Deadline (AoE): 2022-04-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2022/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Beijing\, China
+URL:https://ches.iacr.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2023 Deadline [Schedule for TCHES Volume 2023/1]
+DTSTART;TZID="UTC-12:00":20220715T235959
+DTEND;TZID="UTC-12:00":20220716T000059
+DTSTAMP:20260916T004735Z
+UID:7283d62d-510f-4762-b491-e91e237d25a5
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 10-14\, 2023\n📍 Location: Prague\, C
+ zech Republic\n⏰ Original Deadline (AoE): 2022-07-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2023/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Prague\, Czech Republic
+URL:https://ches.iacr.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2023 Deadline [Schedule for TCHES Volume 2023/2]
+DTSTART;TZID="UTC-12:00":20221015T235959
+DTEND;TZID="UTC-12:00":20221016T000059
+DTSTAMP:20260916T004735Z
+UID:189b2dbc-448a-4159-af43-16d48f9a836f
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 10-14\, 2023\n📍 Location: Prague\, C
+ zech Republic\n⏰ Original Deadline (AoE): 2022-10-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2023/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Prague\, Czech Republic
+URL:https://ches.iacr.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2023 Deadline [Schedule for TCHES Volume 2023/3]
+DTSTART;TZID="UTC-12:00":20230115T235959
+DTEND;TZID="UTC-12:00":20230116T000059
+DTSTAMP:20260916T004735Z
+UID:60b29f7c-6595-4f34-b6a3-ce33013355cf
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 10-14\, 2023\n📍 Location: Prague\, C
+ zech Republic\n⏰ Original Deadline (AoE): 2023-01-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2023/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Prague\, Czech Republic
+URL:https://ches.iacr.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2023 Deadline [Schedule for TCHES Volume 2023/4]
+DTSTART;TZID="UTC-12:00":20230415T235959
+DTEND;TZID="UTC-12:00":20230416T000059
+DTSTAMP:20260916T004735Z
+UID:01b19058-6841-483c-b392-53f170a939de
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 10-14\, 2023\n📍 Location: Prague\, C
+ zech Republic\n⏰ Original Deadline (AoE): 2023-04-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2023/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Prague\, Czech Republic
+URL:https://ches.iacr.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2024 Deadline [Schedule for TCHES Volume 2024/1]
+DTSTART;TZID="UTC-12:00":20230715T235959
+DTEND;TZID="UTC-12:00":20230716T000059
+DTSTAMP:20260916T004735Z
+UID:4f6d2fab-0b1f-4b24-95c6-5562c2f31c16
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September\, 2024\n📍 Location: Halifax\, Canada
+ \n⏰ Original Deadline (AoE): 2023-07-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2024/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Halifax\, Canada
+URL:https://ches.iacr.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2024 Deadline [Schedule for TCHES Volume 2024/2]
+DTSTART;TZID="UTC-12:00":20231015T235959
+DTEND;TZID="UTC-12:00":20231016T000059
+DTSTAMP:20260916T004735Z
+UID:6a85abd9-9f62-4824-9504-89bb1c20e222
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September\, 2024\n📍 Location: Halifax\, Canada
+ \n⏰ Original Deadline (AoE): 2023-10-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2024/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Halifax\, Canada
+URL:https://ches.iacr.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2024 Deadline [Schedule for TCHES Volume 2024/3]
+DTSTART;TZID="UTC-12:00":20240115T235959
+DTEND;TZID="UTC-12:00":20240116T000059
+DTSTAMP:20260916T004735Z
+UID:5f7e2bc1-b699-448d-bf11-6ff78b05b713
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September\, 2024\n📍 Location: Halifax\, Canada
+ \n⏰ Original Deadline (AoE): 2024-01-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2024/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Halifax\, Canada
+URL:https://ches.iacr.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2024 Deadline [Schedule for TCHES Volume 2024/4]
+DTSTART;TZID="UTC-12:00":20240415T235959
+DTEND;TZID="UTC-12:00":20240416T000059
+DTSTAMP:20260916T004735Z
+UID:f3c2f6e3-5646-4b05-932a-7e977b0c3e16
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September\, 2024\n📍 Location: Halifax\, Canada
+ \n⏰ Original Deadline (AoE): 2024-04-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https://ches
+ .iacr.org/2024/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Halifax\, Canada
+URL:https://ches.iacr.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2025 Deadline [Schedule for TCHES Volume 2025/1]
+DTSTART;TZID="UTC-12:00":20240715T235959
+DTEND;TZID="UTC-12:00":20240716T000059
+DTSTAMP:20260916T004735Z
+UID:465059f5-2695-40ba-a2d0-22611a060e99
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 14-18\, 2025\n📍 Location: Kuala Lump
+ ur\, Malaysia\n⏰ Original Deadline (AoE): 2024-07-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2025/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://ches.iacr.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2025 Deadline [Schedule for TCHES Volume 2025/2]
+DTSTART;TZID="UTC-12:00":20241015T235959
+DTEND;TZID="UTC-12:00":20241016T000059
+DTSTAMP:20260916T004735Z
+UID:e3a4c1d8-3f51-4181-8ff9-fa51c14ab681
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 14-18\, 2025\n📍 Location: Kuala Lump
+ ur\, Malaysia\n⏰ Original Deadline (AoE): 2024-10-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2025/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://ches.iacr.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2025 Deadline [Schedule for TCHES Volume 2025/3]
+DTSTART;TZID="UTC-12:00":20250115T235959
+DTEND;TZID="UTC-12:00":20250116T000059
+DTSTAMP:20260916T004735Z
+UID:590ff1ae-1c8c-4856-90b3-0cc3678bf803
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 14-18\, 2025\n📍 Location: Kuala Lump
+ ur\, Malaysia\n⏰ Original Deadline (AoE): 2025-01-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2025/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://ches.iacr.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2025 Deadline [Schedule for TCHES Volume 2025/4]
+DTSTART;TZID="UTC-12:00":20250415T235959
+DTEND;TZID="UTC-12:00":20250416T000059
+DTSTAMP:20260916T004735Z
+UID:0f023193-b2dc-4c39-bdb3-ca4abb527bec
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 14-18\, 2025\n📍 Location: Kuala Lump
+ ur\, Malaysia\n⏰ Original Deadline (AoE): 2025-04-15 23:59:59\nCategory:
+  网络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://ches.iacr.org/2025/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://ches.iacr.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2026 Deadline [Schedule for TCHES Volume 2026/1]
+DTSTART;TZID="UTC-12:00":20250715T235959
+DTEND;TZID="UTC-12:00":20250716T000059
+DTSTAMP:20260916T004735Z
+UID:98cc20b2-5cc9-4bce-80c3-0988b7e07526
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: October 11-15\, 2026\n📍 Location: Antalya\, T
+ ürkiye\n⏰ Original Deadline (AoE): 2025-07-15 23:59:59\nCategory: 网
+ 络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: htt
+ ps://ches.iacr.org/2026/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Antalya\, Türkiye
+URL:https://ches.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2026 Deadline [Schedule for TCHES Volume 2026/2]
+DTSTART;TZID="UTC-12:00":20251015T235959
+DTEND;TZID="UTC-12:00":20251016T000059
+DTSTAMP:20260916T004735Z
+UID:cf928d1e-5b42-458d-9a85-25e6009043d4
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: October 11-15\, 2026\n📍 Location: Antalya\, T
+ ürkiye\n⏰ Original Deadline (AoE): 2025-10-15 23:59:59\nCategory: 网
+ 络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: htt
+ ps://ches.iacr.org/2026/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Antalya\, Türkiye
+URL:https://ches.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2026 Deadline [Schedule for TCHES Volume 2026/3]
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260916T004735Z
+UID:467d89bb-c2fe-4f28-9cea-06258c043378
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: October 11-15\, 2026\n📍 Location: Antalya\, T
+ ürkiye\n⏰ Original Deadline (AoE): 2026-01-15 23:59:59\nCategory: 网
+ 络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: htt
+ ps://ches.iacr.org/2026/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Antalya\, Türkiye
+URL:https://ches.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2026 Deadline [Schedule for TCHES Volume 2026/4]
+DTSTART;TZID="UTC-12:00":20260415T235959
+DTEND;TZID="UTC-12:00":20260416T000059
+DTSTAMP:20260916T004735Z
+UID:2a1dfc70-b344-4f45-948c-28cd97f642e7
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: October 11-15\, 2026\n📍 Location: Antalya\, T
+ ürkiye\n⏰ Original Deadline (AoE): 2026-04-15 23:59:59\nCategory: 网
+ 络与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: htt
+ ps://ches.iacr.org/2026/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Antalya\, Türkiye
+URL:https://ches.iacr.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2027 Deadline [Schedule for TCHES Volume 2027/1]
+DTSTART;TZID="UTC-12:00":20260715T235959
+DTEND;TZID="UTC-12:00":20260716T000059
+DTSTAMP:20260916T004735Z
+UID:16354701-7492-4950-b086-f64219c81f75
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 6 - 9\, 2027\n📍 Location: Cancún\, 
+ Mexico\n⏰ Original Deadline (AoE): 2026-07-15 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https:
+ //ches.iacr.org/2027/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2027 Deadline [Schedule for TCHES Volume 2027/2]
+DTSTART;TZID="UTC-12:00":20261015T235959
+DTEND;TZID="UTC-12:00":20261016T000059
+DTSTAMP:20260916T004735Z
+UID:0a8c6716-8157-4125-9aae-d117560c73a4
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 6 - 9\, 2027\n📍 Location: Cancún\, 
+ Mexico\n⏰ Original Deadline (AoE): 2026-10-15 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https:
+ //ches.iacr.org/2027/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2027 Deadline [Schedule for TCHES Volume 2027/3]
+DTSTART;TZID="UTC-12:00":20270115T235959
+DTEND;TZID="UTC-12:00":20270116T000059
+DTSTAMP:20260916T004735Z
+UID:a49430a4-bfff-4428-9a2d-36d776bfae4a
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 6 - 9\, 2027\n📍 Location: Cancún\, 
+ Mexico\n⏰ Original Deadline (AoE): 2027-01-15 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https:
+ //ches.iacr.org/2027/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHES 2027 Deadline [Schedule for TCHES Volume 2027/4]
+DTSTART;TZID="UTC-12:00":20270415T235959
+DTEND;TZID="UTC-12:00":20270416T000059
+DTSTAMP:20260916T004735Z
+UID:a28d5854-90a8-4f1a-8bd6-afacc4c5ad80
+DESCRIPTION:International Conference on Cryptographic Hardware and Embedde
+ d Systems\n🗓️ Date: September 6 - 9\, 2027\n📍 Location: Cancún\, 
+ Mexico\n⏰ Original Deadline (AoE): 2027-04-15 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nCCF B\, CORE A\, THCPL A\nConference Website: https:
+ //ches.iacr.org/2027/\nDBLP Index: https://dblp.org/db/conf/ches
+LOCATION:Cancún\, Mexico
+URL:https://ches.iacr.org/2027/
+END:VEVENT
+END:VCALENDAR

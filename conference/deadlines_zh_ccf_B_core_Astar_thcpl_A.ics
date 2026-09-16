@@ -1,0 +1,904 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220209T155959
+DTEND;TZID="UTC-08:00":20220209T160059
+DTSTAMP:20260916T004646Z
+UID:6dd46802-f2e9-4bf9-a0a4-886167cbdea6
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ly 2-5\, 2022\n📍 会议地点: London\, UK\n⏰ 原始截止时间 (UTC
+ -8): 2022-02-09 15:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THC
+ PL A\n会议官网: https://learningtheory.org/colt2022/index.html\nDBLP
+ 索引: https://dblp.org/db/conf/colt
+LOCATION:London\, UK
+URL:https://learningtheory.org/colt2022/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2024 截稿日期
+DTSTART;TZID="UTC-05:00":20240209T155959
+DTEND;TZID="UTC-05:00":20240209T160059
+DTSTAMP:20260916T004646Z
+UID:b47e9a38-8331-4b3a-bc82-4853f3b4a011
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ne 30 - July 3\, 2024\n📍 会议地点: Edmonton\, Canada\n⏰ 原始截
+ 止时间 (UTC-5): 2024-02-09 15:59:59\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A*\, THCPL A\n会议官网: https://www.learningtheory.org/colt2024/
+ \nDBLP索引: https://dblp.org/db/conf/colt
+LOCATION:Edmonton\, Canada
+URL:https://www.learningtheory.org/colt2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLT 2025 截稿日期
+DTSTART;TZID="UTC-05:00":20250206T165959
+DTEND;TZID="UTC-05:00":20250206T170059
+DTSTAMP:20260916T004646Z
+UID:a49e71fc-19ee-4883-885e-40cd95a7bedf
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ne 30 - July 4\, 2025\n📍 会议地点: Lyon\, France\n⏰ 原始截止
+ 时间 (UTC-5): 2025-02-06 16:59:59\n分类: 人工智能 (AI)\nCCF B\, CO
+ RE A*\, THCPL A\n会议官网: https://learningtheory.org/colt2025/\nDBLP
+ 索引: https://dblp.org/db/conf/colt
+LOCATION:Lyon\, France
+URL:https://learningtheory.org/colt2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260204T165959
+DTEND;TZID="UTC-12:00":20260204T170059
+DTSTAMP:20260916T004646Z
+UID:eac582ef-4fec-4ac3-8873-350372391f81
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ne 29 - July 3\, 2026\n📍 会议地点: San Diego\, California\n⏰ 原
+ 始截止时间 (AoE): 2026-02-04 16:59:59\n分类: 人工智能 (AI)\nCCF
+  B\, CORE A*\, THCPL A\n会议官网: https://learningtheory.org/colt2026/
+ \nDBLP索引: https://dblp.org/db/conf/colt
+LOCATION:San Diego\, California
+URL:https://learningtheory.org/colt2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220307T115900
+DTEND;TZID="UTC-08:00":20220307T120000
+DTSTAMP:20260916T004646Z
+UID:a3411c05-29a8-4603-ba19-3e3aebd02336
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ October 24 - October 28\, 2022\n📍 会议地点: Tel-Aviv\, Israel\n⏰ 
+ 原始截止时间 (UTC-8): 2022-03-07 11:59:00\n分类: 人工智能 (AI)
+ \nCCF B\, CORE A*\, THCPL A\n会议官网: https://eccv2022.ecva.net/\nDBL
+ P索引: https://dblp.org/db/conf/eccv
+LOCATION:Tel-Aviv\, Israel
+URL:https://eccv2022.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2024 摘要截稿
+DTSTART;TZID="UTC-08:00":20240229T130000
+DTEND;TZID="UTC-08:00":20240229T130100
+DTSTAMP:20260916T004646Z
+UID:324c0a21-a53c-4d8b-b712-c4a053bf4f33
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 29 - October 4\, 2024\n📍 会议地点: MiCo Milano\, Italy\n
+ ⏰ 原始截止时间 (UTC-8): 2024-02-29 13:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://eccv2024.ecva.net/
+ \nDBLP索引: https://dblp.org/db/conf/eccv
+LOCATION:MiCo Milano\, Italy
+URL:https://eccv2024.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20240307T130000
+DTEND;TZID="UTC-08:00":20240307T130100
+DTSTAMP:20260916T004646Z
+UID:2af94b6a-c098-4439-a6de-5129b847c7d6
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 29 - October 4\, 2024\n📍 会议地点: MiCo Milano\, Italy\n
+ ⏰ 原始截止时间 (UTC-8): 2024-03-07 13:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://eccv2024.ecva.net/
+ \nDBLP索引: https://dblp.org/db/conf/eccv
+LOCATION:MiCo Milano\, Italy
+URL:https://eccv2024.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2026 摘要截稿
+DTSTART;TZID="UTC-08:00":20260226T140000
+DTEND;TZID="UTC-08:00":20260226T140100
+DTSTAMP:20260916T004646Z
+UID:078ee820-0b42-45fc-87a1-a2f6e32a30fc
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 8 - 13\, 2026\n📍 会议地点: Malmö\, Sweden\n⏰ 原始截
+ 止时间 (UTC-8): 2026-02-26 14:00:00\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A*\, THCPL A\n会议官网: https://eccv.ecva.net/\nDBLP索引: http
+ s://dblp.org/db/conf/eccv
+LOCATION:Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260305T140000
+DTEND;TZID="UTC-08:00":20260305T140100
+DTSTAMP:20260916T004646Z
+UID:34a519ec-aa3a-4b33-aaeb-099596019c8b
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 8 - 13\, 2026\n📍 会议地点: Malmö\, Sweden\n⏰ 原始截
+ 止时间 (UTC-8): 2026-03-05 14:00:00\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A*\, THCPL A\n会议官网: https://eccv.ecva.net/\nDBLP索引: http
+ s://dblp.org/db/conf/eccv
+LOCATION:Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 摘要截稿
+DTSTART;TZID="UTC-12:00":20220617T235959
+DTEND;TZID="UTC-12:00":20220618T000059
+DTSTAMP:20260916T004646Z
+UID:72857d15-e1b8-4f40-8464-9e62743a22d8
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 7 - 11\, 2022\n📍 会议地
+ 点: Abu Dhabi\n⏰ 原始截止时间 (UTC-12): 2022-06-17 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 022.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220624T235959
+DTEND;TZID="UTC-12:00":20220625T000059
+DTSTAMP:20260916T004646Z
+UID:a91f20a7-4235-4116-b921-b4b62def7237
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 7 - 11\, 2022\n📍 会议地
+ 点: Abu Dhabi\n⏰ 原始截止时间 (UTC-12): 2022-06-24 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 022.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230616T235959
+DTEND;TZID="UTC-12:00":20230617T000059
+DTSTAMP:20260916T004646Z
+UID:215f4117-9a41-41ae-81de-1a86898a11d8
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 6 - 10\, 2023\n📍 会议地
+ 点: Singapore\n⏰ 原始截止时间 (UTC-12): 2023-06-16 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 023.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230623T235959
+DTEND;TZID="UTC-12:00":20230624T000059
+DTSTAMP:20260916T004646Z
+UID:a086fa60-3bc6-4415-a097-25a99c3fe8f7
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 6 - 10\, 2023\n📍 会议地
+ 点: Singapore\n⏰ 原始截止时间 (UTC-12): 2023-06-23 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 023.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240615T235959
+DTEND;TZID="UTC-12:00":20240616T000059
+DTSTAMP:20260916T004646Z
+UID:474e3374-19c1-42a2-85d7-9d136496f954
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 12 - 16\, 2024\n📍 会议地
+ 点: Miami\, Florida\, USA\n⏰ 原始截止时间 (UTC-12): 2024-06-15 23
+ :59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网
+ : https://2024.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Miami\, Florida\, USA
+URL:https://2024.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250519T235959
+DTEND;TZID="UTC-12:00":20250520T000059
+DTSTAMP:20260916T004646Z
+UID:a7f1cf15-af2e-415c-9a42-a358cef1ca55
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 5 - 9\, 2025\n📍 会议地
+ 点: Suzhou\, China\n⏰ 原始截止时间 (UTC-12): 2025-05-19 23:59:59
+ \n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: http
+ s://2025.emnlp.org/\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Suzhou\, China
+URL:https://2025.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2026 截稿日期 [ARR Submission\; commitment deadline: 202
+ 6-08-02]
+DTSTART;TZID="UTC-12:00":20260525T235959
+DTEND;TZID="UTC-12:00":20260526T000059
+DTSTAMP:20260916T004646Z
+UID:5d290890-dd47-40f2-8b46-070e674e4f03
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: October 24 - 29\, 2026\n📍 会议地
+ 点: Budapest\, Hungary\n⏰ 原始截止时间 (UTC-12): 2026-05-25 23:59
+ :59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: h
+ ttps://2026.emnlp.org/\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20210915T025900
+DTEND;TZID="UTC-08:00":20210915T030000
+DTSTAMP:20260916T004646Z
+UID:f4527e81-2ad5-4143-adc2-ff0765c42c4f
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 23-27\, 2022\n📍 会议地点: Philadelphia (PA)\,
+  USA\n⏰ 原始截止时间 (UTC-8): 2021-09-15 02:59:00\n分类: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://www.icra2022
+ .org/\nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Philadelphia (PA)\, USA
+URL:https://www.icra2022.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2023 截稿日期
+DTSTART;TZID="UTC-08:00":20220915T235959
+DTEND;TZID="UTC-08:00":20220916T000059
+DTSTAMP:20260916T004646Z
+UID:8b020be5-317e-4e2f-87e4-d68ad54f4000
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 29- June 2\, 2023\n📍 会议地点: ExCeL London\,
+  UK\n⏰ 原始截止时间 (UTC-8): 2022-09-15 23:59:59\n分类: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://www.icra2023
+ .org/\nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:ExCeL London\, UK
+URL:https://www.icra2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20230915T235900
+DTEND;TZID="UTC-08:00":20230916T000000
+DTSTAMP:20260916T004646Z
+UID:b6404400-4241-4808-b6e3-382252789d15
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 13-17\, 2024\n📍 会议地点: Yokohama\, Japan\n
+ ⏰ 原始截止时间 (UTC-8): 2023-09-15 23:59:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2024.ieee-icra.org
+ \nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Yokohama\, Japan
+URL:https://2024.ieee-icra.org
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICRA 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240916T235959
+DTEND;TZID="UTC-07:00":20240917T000059
+DTSTAMP:20260916T004646Z
+UID:838a1b39-f3a1-488f-b4b3-d2449eeb471e
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 19-23\, 2025\n📍 会议地点: Atlanta (GA)\, USA
+ \n⏰ 原始截止时间 (UTC-7): 2024-09-16 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2025.ieee-icra.
+ org\nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Atlanta (GA)\, USA
+URL:https://2025.ieee-icra.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20250915T235900
+DTEND;TZID="UTC-08:00":20250916T000000
+DTSTAMP:20260916T004646Z
+UID:440fb08f-8102-47f6-918f-6dc5d6c9efc6
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: Jun 1-5\, 2026\n📍 会议地点: Vienna\, Austria\n⏰
+  原始截止时间 (UTC-8): 2025-09-15 23:59:00\n分类: 人工智能 (AI
+ )\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2026.ieee-icra.org/\nD
+ BLP索引: https://dblp.org/db/conf/icra
+LOCATION:Vienna\, Austria
+URL:https://2026.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260915T235959
+DTEND;TZID="UTC-07:00":20260916T000059
+DTSTAMP:20260916T004646Z
+UID:1108f618-16a1-484d-bc9d-bbab8c8b2e3a
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 24-28\, 2027\n📍 会议地点: Seoul\, Republic of
+  Korea\n⏰ 原始截止时间 (UTC-7): 2026-09-15 23:59:59\n分类: 人
+ 工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2027.ieee
+ -icra.org/\nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Seoul\, Republic of Korea
+URL:https://2027.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2025 截稿日期 [Submissions]
+DTSTART;TZID="UTC-12:00":20250208T235959
+DTEND;TZID="UTC-12:00":20250209T000059
+DTSTAMP:20260916T004646Z
+UID:c5cce96e-8c1b-4276-af05-2746dd6242e7
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 8-11\, 2025\n📍 会议地点: Aar
+ hus\, Denmark\n⏰ 原始截止时间 (AoE): 2025-02-08 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https
+ ://conferences.au.dk/icalp2025\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Aarhus\, Denmark
+URL:https://conferences.au.dk/icalp2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20260916T004646Z
+UID:03819097-7d09-467f-b192-a58d51b5127c
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 6-10\, 2026\n📍 会议地点: Lon
+ don\, UK\n⏰ 原始截止时间 (AoE): 2026-02-06 23:59:59\n分类: 计
+ 算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://
+ icalppodcspaa2026.cs.rhul.ac.uk/\nDBLP索引: https://dblp.org/db/conf/ica
+ lp
+LOCATION:London\, UK
+URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 摘要截稿 [FIRST SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20240531T170000
+DTEND;TZID="UTC-07:00":20240531T170100
+DTSTAMP:20260916T004646Z
+UID:4a5f2143-fabc-429c-9ebb-65c5a7414bc1
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-05-31 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 截稿日期 [FIRST SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20240607T170000
+DTEND;TZID="UTC-07:00":20240607T170100
+DTSTAMP:20260916T004646Z
+UID:cd5874f9-866a-4220-90eb-0febacbb4a1c
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-06-07 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 摘要截稿 [SECOND SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20241202T170000
+DTEND;TZID="UTC-07:00":20241202T170100
+DTSTAMP:20260916T004646Z
+UID:352c65a8-e217-4a1b-b52f-97c7d4eec18b
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-12-02 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 截稿日期 [SECOND SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20241209T170000
+DTEND;TZID="UTC-07:00":20241209T170100
+DTSTAMP:20260916T004646Z
+UID:22babc15-b9ca-43fd-8619-2458f62cf769
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原
+ 始截止时间 (UTC-7): 2024-12-09 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://20
+ 25.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 摘要截稿 [First Submission Cycle]
+DTSTART;TZID="UTC-12:00":20260523T235959
+DTEND;TZID="UTC-12:00":20260524T000059
+DTSTAMP:20260916T004646Z
+UID:fbda017c-f4d3-4030-8c84-034bf4b6be7d
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 13-19\, 2027\n📍 会议地点: Huntington Beach\, Califo
+ rnia\, USA\n⏰ 原始截止时间 (AoE): 2026-05-23 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议
+ 官网: https://2027.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pod
+ s
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 截稿日期 [First Submission Cycle]
+DTSTART;TZID="UTC-12:00":20260530T235959
+DTEND;TZID="UTC-12:00":20260531T000059
+DTSTAMP:20260916T004646Z
+UID:2c7ad4ed-1d90-4825-b839-d755eacb9b05
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 13-19\, 2027\n📍 会议地点: Huntington Beach\, Califo
+ rnia\, USA\n⏰ 原始截止时间 (AoE): 2026-05-30 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议
+ 官网: https://2027.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pod
+ s
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 摘要截稿 [Second Submission Cycle]
+DTSTART;TZID="UTC-12:00":20261203T235959
+DTEND;TZID="UTC-12:00":20261204T000059
+DTSTAMP:20260916T004646Z
+UID:21649a6c-2d64-44cb-93c1-17a8ea8c63ff
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 13-19\, 2027\n📍 会议地点: Huntington Beach\, Califo
+ rnia\, USA\n⏰ 原始截止时间 (AoE): 2026-12-03 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议
+ 官网: https://2027.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pod
+ s
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 截稿日期 [Second Submission Cycle]
+DTSTART;TZID="UTC-12:00":20261210T235959
+DTEND;TZID="UTC-12:00":20261211T000059
+DTSTAMP:20260916T004646Z
+UID:b301bac1-66e3-47be-8242-026cd7723e00
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ 会
+ 议时间: June 13-19\, 2027\n📍 会议地点: Huntington Beach\, Califo
+ rnia\, USA\n⏰ 原始截止时间 (AoE): 2026-12-10 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\n会议
+ 官网: https://2027.sigmod.org/\nDBLP索引: https://dblp.org/db/conf/pod
+ s
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2025 摘要截稿 [summer round]
+DTSTART;TZID="UTC-12:00":20240731T235900
+DTEND;TZID="UTC-12:00":20240801T000000
+DTSTAMP:20260916T004646Z
+UID:2883f3ee-31b9-451f-90ab-cc1da2a261b9
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 9-13\, 2025\n📍 会议地点: Stony Brook\, New Y
+ ork\, USA\n⏰ 原始截止时间 (AoE): 2024-07-31 23:59:00\n分类: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A
+ *\, THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2025/\nDBL
+ P索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Stony Brook\, New York\, USA
+URL:https://www.sigmetrics.org/sigmetrics2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2025 截稿日期 [summer round]
+DTSTART;TZID="UTC-12:00":20240807T235900
+DTEND;TZID="UTC-12:00":20240808T000000
+DTSTAMP:20260916T004646Z
+UID:56518384-794f-435e-a608-8971afa14369
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 9-13\, 2025\n📍 会议地点: Stony Brook\, New Y
+ ork\, USA\n⏰ 原始截止时间 (AoE): 2024-08-07 23:59:00\n分类: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A
+ *\, THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2025/\nDBL
+ P索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Stony Brook\, New York\, USA
+URL:https://www.sigmetrics.org/sigmetrics2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2025 摘要截稿 [fall round]
+DTSTART;TZID="UTC-12:00":20241002T235900
+DTEND;TZID="UTC-12:00":20241003T000000
+DTSTAMP:20260916T004646Z
+UID:19f8056e-0902-481f-80b7-d2e3eca7a259
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 9-13\, 2025\n📍 会议地点: Stony Brook\, New Y
+ ork\, USA\n⏰ 原始截止时间 (AoE): 2024-10-02 23:59:00\n分类: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A
+ *\, THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2025/\nDBL
+ P索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Stony Brook\, New York\, USA
+URL:https://www.sigmetrics.org/sigmetrics2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2025 截稿日期 [fall round]
+DTSTART;TZID="UTC-12:00":20241009T235900
+DTEND;TZID="UTC-12:00":20241010T000000
+DTSTAMP:20260916T004646Z
+UID:e09371bc-0763-4e2a-abe5-dfa6b464f3ad
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 9-13\, 2025\n📍 会议地点: Stony Brook\, New Y
+ ork\, USA\n⏰ 原始截止时间 (AoE): 2024-10-09 23:59:00\n分类: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A
+ *\, THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2025/\nDBL
+ P索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Stony Brook\, New York\, USA
+URL:https://www.sigmetrics.org/sigmetrics2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2025 摘要截稿 [winter round]
+DTSTART;TZID="UTC-12:00":20250115T235900
+DTEND;TZID="UTC-12:00":20250116T000000
+DTSTAMP:20260916T004646Z
+UID:b7924a81-c667-4b2b-86f1-8a550247bf65
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 9-13\, 2025\n📍 会议地点: Stony Brook\, New Y
+ ork\, USA\n⏰ 原始截止时间 (AoE): 2025-01-15 23:59:00\n分类: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A
+ *\, THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2025/\nDBL
+ P索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Stony Brook\, New York\, USA
+URL:https://www.sigmetrics.org/sigmetrics2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2025 截稿日期 [winter round]
+DTSTART;TZID="UTC-12:00":20250122T235900
+DTEND;TZID="UTC-12:00":20250123T000000
+DTSTAMP:20260916T004646Z
+UID:ba57674f-78f2-4e4d-acbc-e7d6349e2212
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 9-13\, 2025\n📍 会议地点: Stony Brook\, New Y
+ ork\, USA\n⏰ 原始截止时间 (AoE): 2025-01-22 23:59:00\n分类: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A
+ *\, THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2025/\nDBL
+ P索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Stony Brook\, New York\, USA
+URL:https://www.sigmetrics.org/sigmetrics2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2026 摘要截稿 [summer round]
+DTSTART;TZID="UTC-12:00":20250722T235900
+DTEND;TZID="UTC-12:00":20250723T000000
+DTSTAMP:20260916T004646Z
+UID:0408dba4-53ef-48b2-a946-66bd68fcdd2d
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 8-12\, 2026\n📍 会议地点: Ann Arbor\, Michiga
+ n\, USA\n⏰ 原始截止时间 (AoE): 2025-07-22 23:59:00\n分类: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\,
+  THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2026/\nDBLP
+ 索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://www.sigmetrics.org/sigmetrics2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2026 截稿日期 [summer round]
+DTSTART;TZID="UTC-12:00":20250729T235900
+DTEND;TZID="UTC-12:00":20250730T000000
+DTSTAMP:20260916T004646Z
+UID:b22ec7e0-d111-4b2c-9c6a-2d9d304ae270
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 8-12\, 2026\n📍 会议地点: Ann Arbor\, Michiga
+ n\, USA\n⏰ 原始截止时间 (AoE): 2025-07-29 23:59:00\n分类: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\,
+  THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2026/\nDBLP
+ 索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://www.sigmetrics.org/sigmetrics2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2026 摘要截稿 [fall round]
+DTSTART;TZID="UTC-12:00":20251007T235900
+DTEND;TZID="UTC-12:00":20251008T000000
+DTSTAMP:20260916T004646Z
+UID:d5b102e9-e240-49b9-a1f0-694cac6d744c
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 8-12\, 2026\n📍 会议地点: Ann Arbor\, Michiga
+ n\, USA\n⏰ 原始截止时间 (AoE): 2025-10-07 23:59:00\n分类: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\,
+  THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2026/\nDBLP
+ 索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://www.sigmetrics.org/sigmetrics2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2026 截稿日期 [fall round]
+DTSTART;TZID="UTC-12:00":20251014T235900
+DTEND;TZID="UTC-12:00":20251015T000000
+DTSTAMP:20260916T004646Z
+UID:66907830-7266-4362-abfb-74d7ae7cf536
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 8-12\, 2026\n📍 会议地点: Ann Arbor\, Michiga
+ n\, USA\n⏰ 原始截止时间 (AoE): 2025-10-14 23:59:00\n分类: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\,
+  THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2026/\nDBLP
+ 索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://www.sigmetrics.org/sigmetrics2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2026 摘要截稿 [winter round]
+DTSTART;TZID="UTC-12:00":20260106T235900
+DTEND;TZID="UTC-12:00":20260107T000000
+DTSTAMP:20260916T004646Z
+UID:0671e21c-f6ff-4fc4-8b9a-119757eea37b
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 8-12\, 2026\n📍 会议地点: Ann Arbor\, Michiga
+ n\, USA\n⏰ 原始截止时间 (AoE): 2026-01-06 23:59:00\n分类: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\,
+  THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2026/\nDBLP
+ 索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://www.sigmetrics.org/sigmetrics2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2026 截稿日期 [winter round]
+DTSTART;TZID="UTC-12:00":20260113T235900
+DTEND;TZID="UTC-12:00":20260114T000000
+DTSTAMP:20260916T004646Z
+UID:7a292f72-a64a-4bb7-8bc3-b9b342c8a03a
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 8-12\, 2026\n📍 会议地点: Ann Arbor\, Michiga
+ n\, USA\n⏰ 原始截止时间 (AoE): 2026-01-13 23:59:00\n分类: 计算
+ 机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\,
+  THCPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2026/\nDBLP
+ 索引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://www.sigmetrics.org/sigmetrics2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2027 摘要截稿 [summer round]
+DTSTART;TZID="UTC-12:00":20260703T235900
+DTEND;TZID="UTC-12:00":20260704T000000
+DTSTAMP:20260916T004646Z
+UID:246bb9e7-f950-42d2-a08c-4ba071bbb9a0
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 7-11\, 2027\n📍 会议地点: Atlanta\, Georgia\,
+  USA\n⏰ 原始截止时间 (AoE): 2026-07-03 23:59:00\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2027/\nDBLP索
+ 引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2027 截稿日期 [summer round]
+DTSTART;TZID="UTC-12:00":20260710T235900
+DTEND;TZID="UTC-12:00":20260711T000000
+DTSTAMP:20260916T004646Z
+UID:e1a7fc37-15e0-4c48-b421-2387e2e4b863
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 7-11\, 2027\n📍 会议地点: Atlanta\, Georgia\,
+  USA\n⏰ 原始截止时间 (AoE): 2026-07-10 23:59:00\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2027/\nDBLP索
+ 引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2027 摘要截稿 [fall round]
+DTSTART;TZID="UTC-12:00":20261002T235900
+DTEND;TZID="UTC-12:00":20261003T000000
+DTSTAMP:20260916T004646Z
+UID:e9e2e5d9-0e76-4c42-b3ca-d25ad4e28b13
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 7-11\, 2027\n📍 会议地点: Atlanta\, Georgia\,
+  USA\n⏰ 原始截止时间 (AoE): 2026-10-02 23:59:00\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2027/\nDBLP索
+ 引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2027 截稿日期 [fall round]
+DTSTART;TZID="UTC-12:00":20261009T235900
+DTEND;TZID="UTC-12:00":20261010T000000
+DTSTAMP:20260916T004646Z
+UID:de102528-ec32-47d3-979c-15d0ace74d15
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 7-11\, 2027\n📍 会议地点: Atlanta\, Georgia\,
+  USA\n⏰ 原始截止时间 (AoE): 2026-10-09 23:59:00\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2027/\nDBLP索
+ 引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2027 摘要截稿 [winter round]
+DTSTART;TZID="UTC-12:00":20270104T235900
+DTEND;TZID="UTC-12:00":20270105T000000
+DTSTAMP:20260916T004646Z
+UID:393b3c61-ae28-4501-83b4-6f5a07d2e933
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 7-11\, 2027\n📍 会议地点: Atlanta\, Georgia\,
+  USA\n⏰ 原始截止时间 (AoE): 2027-01-04 23:59:00\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2027/\nDBLP索
+ 引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMETRICS 2027 截稿日期 [winter round]
+DTSTART;TZID="UTC-12:00":20270111T235900
+DTEND;TZID="UTC-12:00":20270112T000000
+DTSTAMP:20260916T004646Z
+UID:fd3f2c86-50b2-4413-bd00-6483993d1e49
+DESCRIPTION:ACM Special Interest Group on Measurement and Evaluation\n🗓
+ ️ 会议时间: June 7-11\, 2027\n📍 会议地点: Atlanta\, Georgia\,
+  USA\n⏰ 原始截止时间 (AoE): 2027-01-11 23:59:00\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://www.sigmetrics.org/sigmetrics2027/\nDBLP索
+ 引: https://dblp.org/db/conf/sigmetrics
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://www.sigmetrics.org/sigmetrics2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPSN 2022 摘要截稿
+DTSTART;TZID="UTC-12:00":20211022T235959
+DTEND;TZID="UTC-12:00":20211023T000059
+DTSTAMP:20260916T004646Z
+UID:00e9af7e-33b8-4dca-ab00-e9434d0bf041
+DESCRIPTION:ACM/IEEE International Conference on Information Processing in
+  Sensor Networks\n🗓️ 会议时间: May 4-6\, 2022\n📍 会议地点:
+  Milan\, Italy\n⏰ 原始截止时间 (UTC-12): 2021-10-22 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE A*\, THCPL A\n会议官网: https:
+ //ipsn.acm.org/2022/\nDBLP索引: https://dblp.org/db/conf/ipsn
+LOCATION:Milan\, Italy
+URL:https://ipsn.acm.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPSN 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20211029T235959
+DTEND;TZID="UTC-12:00":20211030T000059
+DTSTAMP:20260916T004646Z
+UID:d43f8352-9eba-448b-9308-25a367c0f62f
+DESCRIPTION:ACM/IEEE International Conference on Information Processing in
+  Sensor Networks\n🗓️ 会议时间: May 4-6\, 2022\n📍 会议地点:
+  Milan\, Italy\n⏰ 原始截止时间 (UTC-12): 2021-10-29 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE A*\, THCPL A\n会议官网: https:
+ //ipsn.acm.org/2022/\nDBLP索引: https://dblp.org/db/conf/ipsn
+LOCATION:Milan\, Italy
+URL:https://ipsn.acm.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2026 摘要截稿 [1st deadline]
+DTSTART;TZID="UTC-12:00":20250624T235900
+DTEND;TZID="UTC-12:00":20250625T000000
+DTSTAMP:20260916T004646Z
+UID:cc37f4b6-5a2f-4331-ae2c-ab7d57690c7c
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint-Malo\, France\n
+ ⏰ 原始截止时间 (AoE): 2025-06-24 23:59:00\n分类: 计算机网络
+  (NW)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/202
+ 6/\nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Saint-Malo\, France
+URL:https://sensys.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2026 截稿日期 [1st deadline]
+DTSTART;TZID="UTC-12:00":20250701T235900
+DTEND;TZID="UTC-12:00":20250702T000000
+DTSTAMP:20260916T004646Z
+UID:0bd4d321-6bf5-41d4-96be-5dcaa17220d9
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint-Malo\, France\n
+ ⏰ 原始截止时间 (AoE): 2025-07-01 23:59:00\n分类: 计算机网络
+  (NW)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/202
+ 6/\nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Saint-Malo\, France
+URL:https://sensys.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2026 摘要截稿 [2nd deadline]
+DTSTART;TZID="UTC-12:00":20251106T235900
+DTEND;TZID="UTC-12:00":20251107T000000
+DTSTAMP:20260916T004646Z
+UID:b479ae88-7d92-4be5-ac14-9a350c873b23
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint-Malo\, France\n
+ ⏰ 原始截止时间 (AoE): 2025-11-06 23:59:00\n分类: 计算机网络
+  (NW)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/202
+ 6/\nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Saint-Malo\, France
+URL:https://sensys.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2026 截稿日期 [2nd deadline]
+DTSTART;TZID="UTC-12:00":20251113T235900
+DTEND;TZID="UTC-12:00":20251114T000000
+DTSTAMP:20260916T004646Z
+UID:39a3b677-730e-4585-b7ea-97b5941a5816
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint-Malo\, France\n
+ ⏰ 原始截止时间 (AoE): 2025-11-13 23:59:00\n分类: 计算机网络
+  (NW)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/202
+ 6/\nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Saint-Malo\, France
+URL:https://sensys.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2027 摘要截稿 [1st deadline]
+DTSTART;TZID="UTC-12:00":20260529T235900
+DTEND;TZID="UTC-12:00":20260530T000000
+DTSTAMP:20260916T004646Z
+UID:beb97927-c614-4a8f-8ac9-334b2cde28e1
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 17-20\, 2027\n📍 会议地点: Boulder\, CO\, USA\n⏰
+  原始截止时间 (AoE): 2026-05-29 23:59:00\n分类: 计算机网络 (N
+ W)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/2027/
+ \nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2027 截稿日期 [1st deadline]
+DTSTART;TZID="UTC-12:00":20260605T235900
+DTEND;TZID="UTC-12:00":20260606T000000
+DTSTAMP:20260916T004646Z
+UID:5645721c-c57b-4e86-a26a-a69dbac0e7a2
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 17-20\, 2027\n📍 会议地点: Boulder\, CO\, USA\n⏰
+  原始截止时间 (AoE): 2026-06-05 23:59:00\n分类: 计算机网络 (N
+ W)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/2027/
+ \nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2027 摘要截稿 [2nd deadline]
+DTSTART;TZID="UTC-12:00":20261029T235900
+DTEND;TZID="UTC-12:00":20261030T000000
+DTSTAMP:20260916T004646Z
+UID:03867117-c36f-4ce9-b056-af604d7706a3
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 17-20\, 2027\n📍 会议地点: Boulder\, CO\, USA\n⏰
+  原始截止时间 (AoE): 2026-10-29 23:59:00\n分类: 计算机网络 (N
+ W)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/2027/
+ \nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SenSys 2027 截稿日期 [2nd deadline]
+DTSTART;TZID="UTC-12:00":20261105T235900
+DTEND;TZID="UTC-12:00":20261106T000000
+DTSTAMP:20260916T004646Z
+UID:4dae328f-2d03-40db-951a-883665eeebd6
+DESCRIPTION:ACM Conference on Embedded Networked Sensor Systems\n🗓️ 
+ 会议时间: May 17-20\, 2027\n📍 会议地点: Boulder\, CO\, USA\n⏰
+  原始截止时间 (AoE): 2026-11-05 23:59:00\n分类: 计算机网络 (N
+ W)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://sensys.acm.org/2027/
+ \nDBLP索引: https://dblp.org/db/conf/sensys
+LOCATION:Boulder\, CO\, USA
+URL:https://sensys.acm.org/2027/
+END:VEVENT
+END:VCALENDAR

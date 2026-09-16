@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPDC 2025 截稿日期 [paper submission deadline]
+DTSTART:20250207T115959Z
+DTEND:20250207T120059Z
+DTSTAMP:20260916T004656Z
+UID:7b749ad1-a220-4653-b700-565accbd851d
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Com
+ puting\n🗓️ 会议时间: July 20-23\, 2025\n📍 会议地点: Notre 
+ Dame\, IN\, USA\n⏰ 原始截止时间 (UTC): 2025-02-07 11:59:59\n分类
+ : 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF A\, C
+ ORE A\, THCPL B\n会议官网: https://hpdc.sci.utah.edu/2025/\nDBLP索引
+ : https://dblp.org/db/conf/hpdc
+LOCATION:Notre Dame\, IN\, USA
+URL:https://hpdc.sci.utah.edu/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPDC 2026 截稿日期 [abstract registration deadline]
+DTSTART;TZID="UTC-12:00":20260129T235959
+DTEND;TZID="UTC-12:00":20260130T000059
+DTSTAMP:20260916T004656Z
+UID:27eaff83-c82e-42b1-8227-bcd738f10ec3
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Com
+ puting\n🗓️ 会议时间: July 13-16\, 2026\n📍 会议地点: Clevel
+ and\, OH\, USA\n⏰ 原始截止时间 (AoE): 2026-01-29 23:59:59\n分类:
+  计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF A\, CO
+ RE A\, THCPL B\n会议官网: https://hpdc.sci.utah.edu/2026/\nDBLP索引:
+  https://dblp.org/db/conf/hpdc
+LOCATION:Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPDC 2026 截稿日期 [paper submission deadline]
+DTSTART;TZID="UTC-12:00":20260205T235959
+DTEND;TZID="UTC-12:00":20260206T000059
+DTSTAMP:20260916T004656Z
+UID:3a543398-3491-4251-a420-3dd21a45ecbe
+DESCRIPTION:ACM Symposium on High-Performance Parallel and Distributed Com
+ puting\n🗓️ 会议时间: July 13-16\, 2026\n📍 会议地点: Clevel
+ and\, OH\, USA\n⏰ 原始截止时间 (AoE): 2026-02-05 23:59:59\n分类:
+  计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF A\, CO
+ RE A\, THCPL B\n会议官网: https://hpdc.sci.utah.edu/2026/\nDBLP索引:
+  https://dblp.org/db/conf/hpdc
+LOCATION:Cleveland\, OH\, USA
+URL:https://hpdc.sci.utah.edu/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2021 截稿日期 [Abstract submission]
+DTSTART;TZID="UTC-12:00":20210430T235959
+DTEND;TZID="UTC-12:00":20210501T000059
+DTSTAMP:20260916T004656Z
+UID:8d08e6b8-4c88-4395-9bc1-d2fb8c06bd79
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: November 20-26\, 2021\n📍 会议地点: Beijng\, China\n⏰ 原始
+ 截止时间 (AoE): 2021-04-30 23:59:59\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: http://l
+ cs.ios.ac.cn/fm2021/\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Beijng\, China
+URL:http://lcs.ios.ac.cn/fm2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2021 截稿日期 [Full paper submission]
+DTSTART;TZID="UTC-12:00":20210506T235959
+DTEND;TZID="UTC-12:00":20210507T000059
+DTSTAMP:20260916T004656Z
+UID:6297bfe9-8269-4cd0-96e8-63f59dc4d1c2
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: November 20-26\, 2021\n📍 会议地点: Beijng\, China\n⏰ 原始
+ 截止时间 (AoE): 2021-05-06 23:59:59\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: http://l
+ cs.ios.ac.cn/fm2021/\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Beijng\, China
+URL:http://lcs.ios.ac.cn/fm2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 截稿日期 [Abstract Submission]
+DTSTART;TZID="UTC-12:00":20240415T235900
+DTEND;TZID="UTC-12:00":20240416T000000
+DTSTAMP:20260916T004656Z
+UID:a5b5642d-3131-4f65-ab65-c949b76a8b84
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: September 09-13\, 2024\n📍 会议地点: Milan\, Italy\n⏰ 原始
+ 截止时间 (AoE): 2024-04-15 23:59:00\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: https://
+ www.fm24.polimi.it/\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 截稿日期 [Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20240419T235900
+DTEND;TZID="UTC-12:00":20240420T000000
+DTSTAMP:20260916T004656Z
+UID:3f209a4b-56ee-4bff-8e11-40c45b2bb1a5
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: September 09-13\, 2024\n📍 会议地点: Milan\, Italy\n⏰ 原始
+ 截止时间 (AoE): 2024-04-19 23:59:00\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: https://
+ www.fm24.polimi.it/\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 截稿日期 [Paper Notification]
+DTSTART;TZID="UTC-12:00":20240610T235900
+DTEND;TZID="UTC-12:00":20240611T000000
+DTSTAMP:20260916T004656Z
+UID:08c2bfe4-915a-4986-b133-62c34207145f
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: September 09-13\, 2024\n📍 会议地点: Milan\, Italy\n⏰ 原始
+ 截止时间 (AoE): 2024-06-10 23:59:00\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: https://
+ www.fm24.polimi.it/\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2024 截稿日期 [Final Version]
+DTSTART;TZID="UTC-12:00":20240701T235900
+DTEND;TZID="UTC-12:00":20240702T000000
+DTSTAMP:20260916T004656Z
+UID:fa18dfa5-1e9b-46e3-a02f-fd0cf948b243
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: September 09-13\, 2024\n📍 会议地点: Milan\, Italy\n⏰ 原始
+ 截止时间 (AoE): 2024-07-01 23:59:00\n分类: 软件工程/系统软件
+ /程序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: https://
+ www.fm24.polimi.it/\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Milan\, Italy
+URL:https://www.fm24.polimi.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251125T235900
+DTEND;TZID="UTC-12:00":20251126T000000
+DTSTAMP:20260916T004656Z
+UID:7519d65e-2bd4-44d9-9c83-291f8435f79a
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: May 18-22\, 2026\n📍 会议地点: Tokyo\, Japan\n⏰ 原始截止
+ 时间 (AoE): 2025-11-25 23:59:00\n分类: 软件工程/系统软件/程
+ 序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: https://conf
+ .researchr.org/home/fm-2026\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Tokyo\, Japan
+URL:https://conf.researchr.org/home/fm-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251202T235900
+DTEND;TZID="UTC-12:00":20251203T000000
+DTSTAMP:20260916T004656Z
+UID:ebfc880b-20ee-4b56-b86d-72517f661873
+DESCRIPTION:International Symposium on Formal Methods\n🗓️ 会议时
+ 间: May 18-22\, 2026\n📍 会议地点: Tokyo\, Japan\n⏰ 原始截止
+ 时间 (AoE): 2025-12-02 23:59:00\n分类: 软件工程/系统软件/程
+ 序设计语言 (SE)\nCCF A\, CORE A\, THCPL B\n会议官网: https://conf
+ .researchr.org/home/fm-2026\nDBLP索引: https://dblp.org/db/conf/fm
+LOCATION:Tokyo\, Japan
+URL:https://conf.researchr.org/home/fm-2026
+END:VEVENT
+END:VCALENDAR

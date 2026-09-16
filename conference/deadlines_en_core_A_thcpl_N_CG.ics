@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2022 Deadline
+DTSTART;TZID="UTC-08:00":20211212T235959
+DTEND;TZID="UTC-08:00":20211213T000059
+DTSTAMP:20260916T004723Z
+UID:8421a5e4-ee2f-4036-9050-a801c415bd79
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ Date: July 18-22\, 2022\n📍 Location: Taipei\, Taiwan\, China\n⏰ O
+ riginal Deadline (UTC-8): 2021-12-12 23:59:59\nCategory: 计算机图形
+ 学与多媒体 (CG)\nCCF B\, CORE A\nConference Website: http://2022.ieee
+ icme.org/paper.html\nDBLP Index: https://dblp.org/db/conf/icme
+LOCATION:Taipei\, Taiwan\, China
+URL:http://2022.ieeeicme.org/paper.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2023 Deadline
+DTSTART:20221222T235959Z
+DTEND:20221223T000059Z
+DTSTAMP:20260916T004723Z
+UID:804e5555-b8e8-4d56-acb5-992f963ae7d1
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ Date: July 10-14\, 2023\n📍 Location: Brisbane\, Australia\n⏰ Orig
+ inal Deadline (UTC+0): 2022-12-22 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://www.2023.ie
+ eeicme.org/\nDBLP Index: https://dblp.org/db/conf/icme
+LOCATION:Brisbane\, Australia
+URL:https://www.2023.ieeeicme.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2024 Deadline
+DTSTART:20231230T235959Z
+DTEND:20231231T000059Z
+DTSTAMP:20260916T004723Z
+UID:19ae0dbf-954c-4c84-81c8-74c5ed2a1216
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ Date: July 15-19\, 2024\n📍 Location: Niagra Falls\, Canada\n⏰ Ori
+ ginal Deadline (UTC+0): 2023-12-30 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://2024.ieeeic
+ me.org/\nDBLP Index: https://dblp.org/db/conf/icme
+LOCATION:Niagra Falls\, Canada
+URL:https://2024.ieeeicme.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2025 Deadline
+DTSTART:20241223T235959Z
+DTEND:20241224T000059Z
+DTSTAMP:20260916T004723Z
+UID:f2898e8b-6510-4915-9a6b-e81689527df5
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ Date: June 30 - July 4\, 2025\n📍 Location: Nantes\, France\n⏰ Ori
+ ginal Deadline (UTC+0): 2024-12-23 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://2025.ieeeic
+ me.org/\nDBLP Index: https://dblp.org/db/conf/icme
+LOCATION:Nantes\, France
+URL:https://2025.ieeeicme.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251231T235959
+DTEND;TZID="UTC-12:00":20260101T000059
+DTSTAMP:20260916T004723Z
+UID:0667fb3f-b419-4069-99f7-8f3f071fbcb9
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ Date: July 6 - July 10\, 2026\n📍 Location: Bangkok\, Thailand\n⏰ 
+ Original Deadline (UTC-12): 2025-12-31 23:59:59\nCategory: 计算机图形
+ 学与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://2026.iee
+ eicme.org/\nDBLP Index: https://dblp.org/db/conf/icme
+LOCATION:Bangkok\, Thailand
+URL:https://2026.ieeeicme.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+09:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+09:00
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2022 Deadline
+DTSTART;TZID="UTC+09:00":20220321T235959
+DTEND;TZID="UTC+09:00":20220322T000059
+DTSTAMP:20260916T004723Z
+UID:d95a5a92-fcb1-48cd-b71f-8490a40e86a0
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ Date: September 18-22\, 2022\n📍 Location: Incheon\, South K
+ orea\n⏰ Original Deadline (UTC+9): 2022-03-21 23:59:59\nCategory: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https:/
+ /www.interspeech2022.org/\nDBLP Index: https://dblp.org/db/conf/interspeec
+ h
+LOCATION:Incheon\, South Korea
+URL:https://www.interspeech2022.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2023 Deadline
+DTSTART:20230308T235959Z
+DTEND:20230309T000059Z
+DTSTAMP:20260916T004723Z
+UID:8d243842-fd87-4b4f-8d98-e9690ea70123
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ Date: August 20-24\, 2023\n📍 Location: Dublin\, Ireland\n
+ ⏰ Original Deadline (UTC+0): 2023-03-08 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://www.i
+ nterspeech2023.org/\nDBLP Index: https://dblp.org/db/conf/interspeech
+LOCATION:Dublin\, Ireland
+URL:https://www.interspeech2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2024 Abstract Deadline
+DTSTART:20240301T235959Z
+DTEND:20240302T000059Z
+DTSTAMP:20260916T004723Z
+UID:807118b0-4e3d-4f05-a13e-8b0336ee2087
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ Date: September 1-5\, 2024\n📍 Location: Greece\n⏰ Origina
+ l Deadline (UTC+0): 2024-03-01 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://www.interspeec
+ h2024.org/\nDBLP Index: https://dblp.org/db/conf/interspeech
+LOCATION:Greece
+URL:https://www.interspeech2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2024 Deadline
+DTSTART:20240309T235959Z
+DTEND:20240310T000059Z
+DTSTAMP:20260916T004723Z
+UID:26a6df00-7993-41a3-840a-f2f162e3bb31
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ Date: September 1-5\, 2024\n📍 Location: Greece\n⏰ Origina
+ l Deadline (UTC+0): 2024-03-09 23:59:59\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCCF B\, CORE A\nConference Website: https://www.interspeec
+ h2024.org/\nDBLP Index: https://dblp.org/db/conf/interspeech
+LOCATION:Greece
+URL:https://www.interspeech2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2025 Deadline
+DTSTART:20250219T235959Z
+DTEND:20250220T000059Z
+DTSTAMP:20260916T004723Z
+UID:9434ca75-dd40-4767-a8c9-e41d6a743e29
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ Date: August 17-22\, 2025\n📍 Location: Rotterdam\, Netherla
+ nds\n⏰ Original Deadline (UTC+0): 2025-02-19 23:59:59\nCategory: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\nConference Website: https:/
+ /www.interspeech2025.org/home\nDBLP Index: https://dblp.org/db/conf/inters
+ peech
+LOCATION:Rotterdam\, Netherlands
+URL:https://www.interspeech2025.org/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2026 Deadline
+DTSTART:20260225T235959Z
+DTEND:20260226T000059Z
+DTSTAMP:20260916T004723Z
+UID:9c49e985-fa9f-4d1e-b6d9-03e7df0a6219
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ Date: September 27 - October 1\, 2026\n📍 Location: Sydney\,
+  Australia\n⏰ Original Deadline (UTC+0): 2026-02-25 23:59:59\nCategory: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\nConference Website: h
+ ttps://interspeech2026.org/\nDBLP Index: https://dblp.org/db/conf/interspe
+ ech
+LOCATION:Sydney\, Australia
+URL:https://interspeech2026.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SRDS 2021 Deadline [ABSTRACT]
+DTSTART;TZID="UTC-12:00":20210416T235959
+DTEND;TZID="UTC-12:00":20210417T000059
+DTSTAMP:20260916T004736Z
+UID:907e0b93-de08-4cd8-8822-b5eca84bbef2
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 20-23\, 2021\n📍 Location: Virtual\n⏰ Original
+  Deadline (AoE): 2021-04-16 23:59:59\nCategory: 网络与信息安全 (SC)
+ \nCCF B\, CORE B\nConference Website: https://srds-conference.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/srds
+LOCATION:Virtual
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2021 Deadline [FULL PAPER]
+DTSTART;TZID="UTC-12:00":20210423T235959
+DTEND;TZID="UTC-12:00":20210424T000059
+DTSTAMP:20260916T004736Z
+UID:74345e9e-6e20-4751-9941-42ffe1320c4b
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 20-23\, 2021\n📍 Location: Virtual\n⏰ Original
+  Deadline (AoE): 2021-04-23 23:59:59\nCategory: 网络与信息安全 (SC)
+ \nCCF B\, CORE B\nConference Website: https://srds-conference.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/srds
+LOCATION:Virtual
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SRDS 2023 Deadline [ABSTRACT]
+DTSTART;TZID="UTC+01:00":20230415T235959
+DTEND;TZID="UTC+01:00":20230416T000059
+DTSTAMP:20260916T004736Z
+UID:8a3553e5-61ba-4ed7-b2f1-72ddf9ec5d57
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 27-29\, 2023\n📍 Location: Marrakech\, Morocco\n
+ ⏰ Original Deadline (UTC+1): 2023-04-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE B\nConference Website: https://srds-conferenc
+ e.org/\nDBLP Index: https://dblp.org/db/conf/srds
+LOCATION:Marrakech\, Morocco
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2023 Deadline [FULL PAPER]
+DTSTART;TZID="UTC+01:00":20230422T235959
+DTEND;TZID="UTC+01:00":20230423T000059
+DTSTAMP:20260916T004736Z
+UID:ac1be078-73bc-48a4-b70f-5e0542e60ec3
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 27-29\, 2023\n📍 Location: Marrakech\, Morocco\n
+ ⏰ Original Deadline (UTC+1): 2023-04-22 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF B\, CORE B\nConference Website: https://srds-conferenc
+ e.org/\nDBLP Index: https://dblp.org/db/conf/srds
+LOCATION:Marrakech\, Morocco
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2024 Deadline [ABSTRACT]
+DTSTART;TZID="UTC-12:00":20240426T235959
+DTEND;TZID="UTC-12:00":20240427T000059
+DTSTAMP:20260916T004736Z
+UID:85495811-02a9-49f4-a4bb-cee5811ede0b
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 30-October 4\, 2024\n📍 Location: Charlotte\, US
+ A\n⏰ Original Deadline (AoE): 2024-04-26 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF B\, CORE B\nConference Website: https://srds-confer
+ ence.org/\nDBLP Index: https://dblp.org/db/conf/srds
+LOCATION:Charlotte\, USA
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2024 Deadline [FULL PAPER]
+DTSTART;TZID="UTC-12:00":20240503T235959
+DTEND;TZID="UTC-12:00":20240504T000059
+DTSTAMP:20260916T004736Z
+UID:b3c9614a-b8ec-47b5-b74c-3ed8d36b5e0a
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 30-October 4\, 2024\n📍 Location: Charlotte\, US
+ A\n⏰ Original Deadline (AoE): 2024-05-03 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF B\, CORE B\nConference Website: https://srds-confer
+ ence.org/\nDBLP Index: https://dblp.org/db/conf/srds
+LOCATION:Charlotte\, USA
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2025 Deadline [Abstract Submission]
+DTSTART;TZID="UTC-12:00":20250425T235959
+DTEND;TZID="UTC-12:00":20250426T000059
+DTSTAMP:20260916T004736Z
+UID:97f3c240-8d97-4a4f-9eee-6957ba8517f5
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 29-October 2\, 2025\n📍 Location: Porto\, Portug
+ al\n⏰ Original Deadline (AoE): 2025-04-25 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF B\, CORE B\nConference Website: https://srds-confer
+ ence.org/\nDBLP Index: https://dblp.org/db/conf/srds
+LOCATION:Porto\, Portugal
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2025 Deadline [Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20250502T235959
+DTEND;TZID="UTC-12:00":20250503T000059
+DTSTAMP:20260916T004736Z
+UID:01478763-be64-4208-8607-6e3184889a5b
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 29-October 2\, 2025\n📍 Location: Porto\, Portug
+ al\n⏰ Original Deadline (AoE): 2025-05-02 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF B\, CORE B\nConference Website: https://srds-confer
+ ence.org/\nDBLP Index: https://dblp.org/db/conf/srds
+LOCATION:Porto\, Portugal
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2026 Deadline [Abstract Submission]
+DTSTART;TZID="UTC-12:00":20260501T235959
+DTEND;TZID="UTC-12:00":20260502T000059
+DTSTAMP:20260916T004736Z
+UID:7db5f958-5090-4424-99af-1e407ff7494b
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 21-25\, 2026\n📍 Location: Rome\, Italy\n⏰ Ori
+ ginal Deadline (AoE): 2026-05-01 23:59:59\nCategory: 网络与信息安全
+  (SC)\nCCF B\, CORE B\nConference Website: https://srds-conference.org/\nD
+ BLP Index: https://dblp.org/db/conf/srds
+LOCATION:Rome\, Italy
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2026 Deadline [Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20260916T004736Z
+UID:f5ec9916-de7f-4ff3-ac77-f88b714bf0b4
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ Date: September 21-25\, 2026\n📍 Location: Rome\, Italy\n⏰ Ori
+ ginal Deadline (AoE): 2026-05-08 23:59:59\nCategory: 网络与信息安全
+  (SC)\nCCF B\, CORE B\nConference Website: https://srds-conference.org/\nD
+ BLP Index: https://dblp.org/db/conf/srds
+LOCATION:Rome\, Italy
+URL:https://srds-conference.org/
+END:VEVENT
+END:VCALENDAR

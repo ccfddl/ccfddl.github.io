@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SRDS 2021 截稿日期 [ABSTRACT]
+DTSTART;TZID="UTC-12:00":20210416T235959
+DTEND;TZID="UTC-12:00":20210417T000059
+DTSTAMP:20260916T004702Z
+UID:5a00419c-d981-421e-b665-793ed097b441
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 20-23\, 2021\n📍 会议地点: Virtual\n
+ ⏰ 原始截止时间 (AoE): 2021-04-16 23:59:59\n分类: 网络与信息
+ 安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-conference.org/\nD
+ BLP索引: https://dblp.org/db/conf/srds
+LOCATION:Virtual
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2021 截稿日期 [FULL PAPER]
+DTSTART;TZID="UTC-12:00":20210423T235959
+DTEND;TZID="UTC-12:00":20210424T000059
+DTSTAMP:20260916T004702Z
+UID:1ef3a9a7-5a3a-4609-996e-1ec16a224490
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 20-23\, 2021\n📍 会议地点: Virtual\n
+ ⏰ 原始截止时间 (AoE): 2021-04-23 23:59:59\n分类: 网络与信息
+ 安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-conference.org/\nD
+ BLP索引: https://dblp.org/db/conf/srds
+LOCATION:Virtual
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SRDS 2023 截稿日期 [ABSTRACT]
+DTSTART;TZID="UTC+01:00":20230415T235959
+DTEND;TZID="UTC+01:00":20230416T000059
+DTSTAMP:20260916T004702Z
+UID:ce991c96-041b-498a-9010-351bb3cdf561
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 27-29\, 2023\n📍 会议地点: Marrakech
+ \, Morocco\n⏰ 原始截止时间 (UTC+1): 2023-04-15 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-con
+ ference.org/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Marrakech\, Morocco
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2023 截稿日期 [FULL PAPER]
+DTSTART;TZID="UTC+01:00":20230422T235959
+DTEND;TZID="UTC+01:00":20230423T000059
+DTSTAMP:20260916T004702Z
+UID:fb0ce548-368b-4faf-a702-0a13aab28221
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 27-29\, 2023\n📍 会议地点: Marrakech
+ \, Morocco\n⏰ 原始截止时间 (UTC+1): 2023-04-22 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-con
+ ference.org/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Marrakech\, Morocco
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2024 截稿日期 [ABSTRACT]
+DTSTART;TZID="UTC-12:00":20240426T235959
+DTEND;TZID="UTC-12:00":20240427T000059
+DTSTAMP:20260916T004702Z
+UID:ca4d7620-c92a-43cc-a8b2-a9830a50ad6a
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 30-October 4\, 2024\n📍 会议地点: Ch
+ arlotte\, USA\n⏰ 原始截止时间 (AoE): 2024-04-26 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-con
+ ference.org/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Charlotte\, USA
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2024 截稿日期 [FULL PAPER]
+DTSTART;TZID="UTC-12:00":20240503T235959
+DTEND;TZID="UTC-12:00":20240504T000059
+DTSTAMP:20260916T004702Z
+UID:29f1fe72-f23f-4633-bd08-5b5f16b6806c
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 30-October 4\, 2024\n📍 会议地点: Ch
+ arlotte\, USA\n⏰ 原始截止时间 (AoE): 2024-05-03 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-con
+ ference.org/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Charlotte\, USA
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2025 截稿日期 [Abstract Submission]
+DTSTART;TZID="UTC-12:00":20250425T235959
+DTEND;TZID="UTC-12:00":20250426T000059
+DTSTAMP:20260916T004702Z
+UID:492e0488-dcc5-4b58-b7a1-d2a23ed18324
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 29-October 2\, 2025\n📍 会议地点: Po
+ rto\, Portugal\n⏰ 原始截止时间 (AoE): 2025-04-25 23:59:59\n分类:
+  网络与信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-co
+ nference.org/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Porto\, Portugal
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2025 截稿日期 [Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20250502T235959
+DTEND;TZID="UTC-12:00":20250503T000059
+DTSTAMP:20260916T004702Z
+UID:e2c16f69-bcdd-4800-9788-9f4051796e39
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 29-October 2\, 2025\n📍 会议地点: Po
+ rto\, Portugal\n⏰ 原始截止时间 (AoE): 2025-05-02 23:59:59\n分类:
+  网络与信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-co
+ nference.org/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Porto\, Portugal
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2026 截稿日期 [Abstract Submission]
+DTSTART;TZID="UTC-12:00":20260501T235959
+DTEND;TZID="UTC-12:00":20260502T000059
+DTSTAMP:20260916T004702Z
+UID:e177ab4e-57a6-47d1-82f8-9238bec5e422
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 21-25\, 2026\n📍 会议地点: Rome\, It
+ aly\n⏰ 原始截止时间 (AoE): 2026-05-01 23:59:59\n分类: 网络与
+ 信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-conference.o
+ rg/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Rome\, Italy
+URL:https://srds-conference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRDS 2026 截稿日期 [Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20260916T004702Z
+UID:2489673c-41cb-470d-ae9d-192a7a039ebe
+DESCRIPTION:IEEE International Symposium on Reliable Distributed Systems\n
+ 🗓️ 会议时间: September 21-25\, 2026\n📍 会议地点: Rome\, It
+ aly\n⏰ 原始截止时间 (AoE): 2026-05-08 23:59:59\n分类: 网络与
+ 信息安全 (SC)\nCCF B\, CORE B\n会议官网: https://srds-conference.o
+ rg/\nDBLP索引: https://dblp.org/db/conf/srds
+LOCATION:Rome\, Italy
+URL:https://srds-conference.org/
+END:VEVENT
+END:VCALENDAR

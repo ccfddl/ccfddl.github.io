@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 截稿日期 [Regular Paper]
+DTSTART;TZID="UTC-12:00":20260317T235959
+DTEND;TZID="UTC-12:00":20260318T000059
+DTSTAMP:20260916T004649Z
+UID:88b05fc1-576f-4af2-8413-3354c4e033cf
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: September 1-4
+ \, 2026\n📍 会议地点: Madrid\, Spain\n⏰ 原始截止时间 (AoE): 
+ 2026-03-17 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE C\n
+ 会议官网: https://cog2026.org/\nDBLP索引: https://dblp.org/db/conf/c
+ ig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 截稿日期 [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20260514T235959
+DTEND;TZID="UTC-12:00":20260515T000059
+DTSTAMP:20260916T004649Z
+UID:d395b390-8996-46b8-8de4-7bd083cc57d1
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: September 1-4
+ \, 2026\n📍 会议地点: Madrid\, Spain\n⏰ 原始截止时间 (AoE): 
+ 2026-05-14 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE C\n
+ 会议官网: https://cog2026.org/\nDBLP索引: https://dblp.org/db/conf/c
+ ig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 截稿日期 [Full Technical Paper]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20260916T004649Z
+UID:b94112f9-09ee-4627-8d49-15c1132c8db6
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: August 2-5\, 2
+ 027\n📍 会议地点: Aizuwakamatsu\, Japan\n⏰ 原始截止时间 (AoE
+ ): 2027-03-01 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE 
+ C\n会议官网: https://cog2027.u-aizu.ac.jp/\nDBLP索引: https://dblp.o
+ rg/db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 截稿日期 [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20270515T235959
+DTEND;TZID="UTC-12:00":20270516T000059
+DTSTAMP:20260916T004649Z
+UID:080dc553-92b3-4fc8-88e6-fbe9d23650e3
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: August 2-5\, 2
+ 027\n📍 会议地点: Aizuwakamatsu\, Japan\n⏰ 原始截止时间 (AoE
+ ): 2027-05-15 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE 
+ C\n会议官网: https://cog2027.u-aizu.ac.jp/\nDBLP索引: https://dblp.o
+ rg/db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20260916T004649Z
+UID:94d8aadd-3676-4c48-a15b-3cc054128ae4
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ 会议时间: December 1-3\, 2025\n📍 会议地
+ 点: Linz\, Austria\n⏰ 原始截止时间 (AoE): 2025-06-27 23:59:59\n
+ 分类: 计算机图形学与多媒体 (CG)\nCORE C\n会议官网: https:/
+ /vinci2025.games.cg.jku.at\nDBLP索引: https://dblp.org/db/conf/vinci
+LOCATION:Linz\, Austria
+URL:https://vinci2025.games.cg.jku.at
+END:VEVENT
+END:VCALENDAR

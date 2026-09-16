@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CGI 2024 截稿日期
+DTSTART:20240210T235900Z
+DTEND:20240211T000000Z
+DTSTAMP:20260916T004649Z
+UID:ca0fe45d-e797-4c25-acd4-a3cd510487ee
+DESCRIPTION:Computer Graphics International\n🗓️ 会议时间: July 1-
+ 5\, 2024\n📍 会议地点: Geneva\, Switzerland\n⏰ 原始截止时间 
+ (UTC): 2024-02-10 23:59:00\n分类: 计算机图形学与多媒体 (CG)\nC
+ CF C\, CORE C\n会议官网: https://www.cgs-network.org/cgi24/\nDBLP索
+ 引: https://dblp.org/db/conf/cgi
+LOCATION:Geneva\, Switzerland
+URL:https://www.cgs-network.org/cgi24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGI 2025 截稿日期
+DTSTART:20250218T235900Z
+DTEND:20250219T000000Z
+DTSTAMP:20260916T004649Z
+UID:ae16649e-8a3e-4feb-a3b2-9bf89cc7a60a
+DESCRIPTION:Computer Graphics International\n🗓️ 会议时间: July 14
+ -18\, 2025\n📍 会议地点: Hong Kong\, China\n⏰ 原始截止时间 (
+ UTC): 2025-02-18 23:59:00\n分类: 计算机图形学与多媒体 (CG)\nCC
+ F C\, CORE C\n会议官网: https://www.cgs-network.org/cgi25/\nDBLP索引
+ : https://dblp.org/db/conf/cgi
+LOCATION:Hong Kong\, China
+URL:https://www.cgs-network.org/cgi25/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGI 2026 截稿日期 [First Track: Call for papers with final pub
+ lication in The Visual Computer Journal]
+DTSTART:20260312T235900Z
+DTEND:20260313T000000Z
+DTSTAMP:20260916T004649Z
+UID:ff69b3ae-bd68-4796-8e2e-8d4971638e46
+DESCRIPTION:Computer Graphics International\n🗓️ 会议时间: July 06
+ -10\, 2026\n📍 会议地点: London\, UK\n⏰ 原始截止时间 (UTC): 
+ 2026-03-12 23:59:00\n分类: 计算机图形学与多媒体 (CG)\nCCF C\, 
+ CORE C\n会议官网: https://www.cgs-network.org/cgi26/\nDBLP索引: http
+ s://dblp.org/db/conf/cgi
+LOCATION:London\, UK
+URL:https://www.cgs-network.org/cgi26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGI 2026 截稿日期 [Second Track: Call for papers with final pu
+ blication in LNCS Book published by Springer or in The Visual Computer jou
+ rnal or Computer Animation and Virtual Worlds Journal]
+DTSTART:20260420T235900Z
+DTEND:20260421T000000Z
+DTSTAMP:20260916T004649Z
+UID:134e2c61-d290-4040-8575-9a2863060bed
+DESCRIPTION:Computer Graphics International\n🗓️ 会议时间: July 06
+ -10\, 2026\n📍 会议地点: London\, UK\n⏰ 原始截止时间 (UTC): 
+ 2026-04-20 23:59:00\n分类: 计算机图形学与多媒体 (CG)\nCCF C\, 
+ CORE C\n会议官网: https://www.cgs-network.org/cgi26/\nDBLP索引: http
+ s://dblp.org/db/conf/cgi
+LOCATION:London\, UK
+URL:https://www.cgs-network.org/cgi26/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 截稿日期 [Regular Paper]
+DTSTART;TZID="UTC-12:00":20260317T235959
+DTEND;TZID="UTC-12:00":20260318T000059
+DTSTAMP:20260916T004649Z
+UID:60a5e112-419f-4b9a-8b4b-3065fb2467ef
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: September 1-4
+ \, 2026\n📍 会议地点: Madrid\, Spain\n⏰ 原始截止时间 (AoE): 
+ 2026-03-17 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE C\n
+ 会议官网: https://cog2026.org/\nDBLP索引: https://dblp.org/db/conf/c
+ ig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 截稿日期 [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20260514T235959
+DTEND;TZID="UTC-12:00":20260515T000059
+DTSTAMP:20260916T004649Z
+UID:41502f12-78fa-4d67-baba-578a64cf26e3
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: September 1-4
+ \, 2026\n📍 会议地点: Madrid\, Spain\n⏰ 原始截止时间 (AoE): 
+ 2026-05-14 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE C\n
+ 会议官网: https://cog2026.org/\nDBLP索引: https://dblp.org/db/conf/c
+ ig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 截稿日期 [Full Technical Paper]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20260916T004649Z
+UID:024eacdc-1ad5-417e-908a-70a25fd44d5c
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: August 2-5\, 2
+ 027\n📍 会议地点: Aizuwakamatsu\, Japan\n⏰ 原始截止时间 (AoE
+ ): 2027-03-01 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE 
+ C\n会议官网: https://cog2027.u-aizu.ac.jp/\nDBLP索引: https://dblp.o
+ rg/db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 截稿日期 [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20270515T235959
+DTEND;TZID="UTC-12:00":20270516T000059
+DTSTAMP:20260916T004649Z
+UID:75980c92-7d0d-4a57-980a-042cfc5ea73f
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: August 2-5\, 2
+ 027\n📍 会议地点: Aizuwakamatsu\, Japan\n⏰ 原始截止时间 (AoE
+ ): 2027-05-15 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE 
+ C\n会议官网: https://cog2027.u-aizu.ac.jp/\nDBLP索引: https://dblp.o
+ rg/db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMP 2024 截稿日期 [Abstract submission]
+DTSTART:20231211T235959Z
+DTEND:20231212T000059Z
+DTSTAMP:20260916T004649Z
+UID:e959d1fc-aa1c-4cda-8405-f907cc4642fb
+DESCRIPTION:International Conference on Geometric Modeling and Processing
+ \n🗓️ 会议时间: June 5-7\, 2024\n📍 会议地点: Qingdao\, Chin
+ a\n⏰ 原始截止时间 (UTC): 2023-12-11 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\, CORE C\n会议官网: https://irc.cs.sdu.
+ edu.cn/gmp2024/index.html\nDBLP索引: https://dblp.org/db/conf/gmp
+LOCATION:Qingdao\, China
+URL:https://irc.cs.sdu.edu.cn/gmp2024/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMP 2024 截稿日期 [Full paper submission]
+DTSTART:20231218T235959Z
+DTEND:20231219T000059Z
+DTSTAMP:20260916T004649Z
+UID:eaa201ed-01c3-4fc8-8e6a-ce2fae1b824d
+DESCRIPTION:International Conference on Geometric Modeling and Processing
+ \n🗓️ 会议时间: June 5-7\, 2024\n📍 会议地点: Qingdao\, Chin
+ a\n⏰ 原始截止时间 (UTC): 2023-12-18 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\, CORE C\n会议官网: https://irc.cs.sdu.
+ edu.cn/gmp2024/index.html\nDBLP索引: https://dblp.org/db/conf/gmp
+LOCATION:Qingdao\, China
+URL:https://irc.cs.sdu.edu.cn/gmp2024/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMP 2025 摘要截稿
+DTSTART:20241209T235959Z
+DTEND:20241210T000059Z
+DTSTAMP:20260916T004649Z
+UID:22713aed-9775-4239-906d-0932eb7bead6
+DESCRIPTION:International Conference on Geometric Modeling and Processing
+ \n🗓️ 会议时间: May 28-30\, 2025\n📍 会议地点: Washington Un
+ iversity in St. Louis\, USA\n⏰ 原始截止时间 (UTC): 2024-12-09 23:5
+ 9:59\n分类: 计算机图形学与多媒体 (CG)\nCCF C\, CORE C\n会议
+ 官网: https://sites.wustl.edu/gmp2025/\nDBLP索引: https://dblp.org/db/
+ conf/gmp
+LOCATION:Washington University in St. Louis\, USA
+URL:https://sites.wustl.edu/gmp2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMP 2025 截稿日期
+DTSTART:20241216T235959Z
+DTEND:20241217T000059Z
+DTSTAMP:20260916T004649Z
+UID:59f8b480-8e2b-46c2-b343-da94cd6c95bc
+DESCRIPTION:International Conference on Geometric Modeling and Processing
+ \n🗓️ 会议时间: May 28-30\, 2025\n📍 会议地点: Washington Un
+ iversity in St. Louis\, USA\n⏰ 原始截止时间 (UTC): 2024-12-16 23:5
+ 9:59\n分类: 计算机图形学与多媒体 (CG)\nCCF C\, CORE C\n会议
+ 官网: https://sites.wustl.edu/gmp2025/\nDBLP索引: https://dblp.org/db/
+ conf/gmp
+LOCATION:Washington University in St. Louis\, USA
+URL:https://sites.wustl.edu/gmp2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMP 2026 摘要截稿
+DTSTART:20251216T235959Z
+DTEND:20251217T000059Z
+DTSTAMP:20260916T004649Z
+UID:94abb2f9-93d8-4042-8851-b4fdaadc4bc5
+DESCRIPTION:International Conference on Geometric Modeling and Processing
+ \n🗓️ 会议时间: May 27-29\, 2026\n📍 会议地点: Pilsen\, Czec
+ h Republic\n⏰ 原始截止时间 (UTC): 2025-12-16 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\nCCF C\, CORE C\n会议官网: https://gm
+ p2026.kma.zcu.cz/\nDBLP索引: https://dblp.org/db/conf/gmp
+LOCATION:Pilsen\, Czech Republic
+URL:https://gmp2026.kma.zcu.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GMP 2026 截稿日期
+DTSTART:20251218T235959Z
+DTEND:20251219T000059Z
+DTSTAMP:20260916T004649Z
+UID:477942ad-825b-416f-92d0-86b1dd2db746
+DESCRIPTION:International Conference on Geometric Modeling and Processing
+ \n🗓️ 会议时间: May 27-29\, 2026\n📍 会议地点: Pilsen\, Czec
+ h Republic\n⏰ 原始截止时间 (UTC): 2025-12-18 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\nCCF C\, CORE C\n会议官网: https://gm
+ p2026.kma.zcu.cz/\nDBLP索引: https://dblp.org/db/conf/gmp
+LOCATION:Pilsen\, Czech Republic
+URL:https://gmp2026.kma.zcu.cz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMAsia 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230722T235959
+DTEND;TZID="UTC-12:00":20230723T000059
+DTSTAMP:20260916T004649Z
+UID:3d61f958-1169-480c-98ca-d628ac23b312
+DESCRIPTION:ACM Multimedia Asia\n🗓️ 会议时间: December 06-08\, 20
+ 23\n📍 会议地点: Tainan\, Taiwan\n⏰ 原始截止时间 (AoE): 2023
+ -07-22 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF C\, CORE
+  C\n会议官网: http://www.mmasia2023.org/\nDBLP索引: https://dblp.org
+ /db/conf/mmasia
+LOCATION:Tainan\, Taiwan
+URL:http://www.mmasia2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMAsia 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250725T235959
+DTEND;TZID="UTC-12:00":20250726T000059
+DTSTAMP:20260916T004649Z
+UID:68a5afab-cff2-48a5-986d-4d57518dedda
+DESCRIPTION:ACM Multimedia Asia\n🗓️ 会议时间: December 9-12\, 202
+ 5\n📍 会议地点: Grand Millenium Hotel\, Kuala Lumpur\, Malaysia\n⏰
+  原始截止时间 (AoE): 2025-07-25 23:59:59\n分类: 计算机图形学
+ 与多媒体 (CG)\nCCF C\, CORE C\n会议官网: https://mmasia2025.org/\n
+ DBLP索引: https://dblp.org/db/conf/mmasia
+LOCATION:Grand Millenium Hotel\, Kuala Lumpur\, Malaysia
+URL:https://mmasia2025.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMAsia 2026 截稿日期 [Regular Paper]
+DTSTART;TZID="UTC-12:00":20260814T235959
+DTEND;TZID="UTC-12:00":20260815T000059
+DTSTAMP:20260916T004649Z
+UID:6de4e018-bde3-48d5-b23d-7afb04ff77bd
+DESCRIPTION:ACM Multimedia Asia\n🗓️ 会议时间: December 15-18\, 20
+ 26\n📍 会议地点: VinUniversity\, Hanoi\, Vietnam\n⏰ 原始截止
+ 时间 (AoE): 2026-08-14 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF C\, CORE C\n会议官网: https://www.mmasia2026.org/\nDBLP索
+ 引: https://dblp.org/db/conf/mmasia
+LOCATION:VinUniversity\, Hanoi\, Vietnam
+URL:https://www.mmasia2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMAsia 2026 截稿日期 [Special Session Paper]
+DTSTART;TZID="UTC-12:00":20260821T235959
+DTEND;TZID="UTC-12:00":20260822T000059
+DTSTAMP:20260916T004649Z
+UID:bdf1ee66-4af9-4bef-8560-d592ba81aa8f
+DESCRIPTION:ACM Multimedia Asia\n🗓️ 会议时间: December 15-18\, 20
+ 26\n📍 会议地点: VinUniversity\, Hanoi\, Vietnam\n⏰ 原始截止
+ 时间 (AoE): 2026-08-21 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF C\, CORE C\n会议官网: https://www.mmasia2026.org/\nDBLP索
+ 引: https://dblp.org/db/conf/mmasia
+LOCATION:VinUniversity\, Hanoi\, Vietnam
+URL:https://www.mmasia2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMAsia 2026 截稿日期 [Demo / Industry Submission]
+DTSTART;TZID="UTC-12:00":20260901T235959
+DTEND;TZID="UTC-12:00":20260902T000059
+DTSTAMP:20260916T004649Z
+UID:041fcd40-7394-4325-b950-195cba221844
+DESCRIPTION:ACM Multimedia Asia\n🗓️ 会议时间: December 15-18\, 20
+ 26\n📍 会议地点: VinUniversity\, Hanoi\, Vietnam\n⏰ 原始截止
+ 时间 (AoE): 2026-09-01 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF C\, CORE C\n会议官网: https://www.mmasia2026.org/\nDBLP索
+ 引: https://dblp.org/db/conf/mmasia
+LOCATION:VinUniversity\, Hanoi\, Vietnam
+URL:https://www.mmasia2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250308T235959
+DTEND;TZID="UTC-12:00":20250309T000059
+DTSTAMP:20260916T004649Z
+UID:20e9c916-8082-41ea-8f8b-82f904d98bec
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : October 29 - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\,
+  P.R. China\n⏰ 原始截止时间 (AoE): 2025-03-08 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官
+ 网: https://spmconf2025.github.io/SPM2025/\nDBLP索引: https://dblp.org/
+ db/conf/sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250315T235959
+DTEND;TZID="UTC-12:00":20250316T000059
+DTSTAMP:20260916T004649Z
+UID:c8c8edc7-f210-4c1f-a097-620c99731fbf
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : October 29 - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\,
+  P.R. China\n⏰ 原始截止时间 (AoE): 2025-03-15 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官
+ 网: https://spmconf2025.github.io/SPM2025/\nDBLP索引: https://dblp.org/
+ db/conf/sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20260916T004649Z
+UID:c7d4101f-36e4-4a78-8720-479c4dff3993
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ 会议时间: December 1-3\, 2025\n📍 会议地
+ 点: Linz\, Austria\n⏰ 原始截止时间 (AoE): 2025-06-27 23:59:59\n
+ 分类: 计算机图形学与多媒体 (CG)\nCORE C\n会议官网: https:/
+ /vinci2025.games.cg.jku.at\nDBLP索引: https://dblp.org/db/conf/vinci
+LOCATION:Linz\, Austria
+URL:https://vinci2025.games.cg.jku.at
+END:VEVENT
+END:VCALENDAR

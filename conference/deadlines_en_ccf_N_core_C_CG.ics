@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 Deadline [Regular Paper]
+DTSTART;TZID="UTC-12:00":20260317T235959
+DTEND;TZID="UTC-12:00":20260318T000059
+DTSTAMP:20260916T004722Z
+UID:cf5bc56c-b893-4d95-b637-08de345a8e0a
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: September 1-4\, 2026\n
+ 📍 Location: Madrid\, Spain\n⏰ Original Deadline (AoE): 2026-03-17 23:
+ 59:59\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConference W
+ ebsite: https://cog2026.org/\nDBLP Index: https://dblp.org/db/conf/cig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 Deadline [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20260514T235959
+DTEND;TZID="UTC-12:00":20260515T000059
+DTSTAMP:20260916T004722Z
+UID:9f219784-2a81-460a-bb5b-95697b80ce0d
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: September 1-4\, 2026\n
+ 📍 Location: Madrid\, Spain\n⏰ Original Deadline (AoE): 2026-05-14 23:
+ 59:59\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConference W
+ ebsite: https://cog2026.org/\nDBLP Index: https://dblp.org/db/conf/cig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 Deadline [Full Technical Paper]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20260916T004722Z
+UID:420335e7-c277-4935-9890-7f94477bc0d3
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 2-5\, 2027\n
+ 📍 Location: Aizuwakamatsu\, Japan\n⏰ Original Deadline (AoE): 2027-03
+ -01 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConfe
+ rence Website: https://cog2027.u-aizu.ac.jp/\nDBLP Index: https://dblp.org
+ /db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 Deadline [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20270515T235959
+DTEND;TZID="UTC-12:00":20270516T000059
+DTSTAMP:20260916T004722Z
+UID:5cceb939-e6b9-41cb-bc15-f1a6868b664b
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 2-5\, 2027\n
+ 📍 Location: Aizuwakamatsu\, Japan\n⏰ Original Deadline (AoE): 2027-05
+ -15 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConfe
+ rence Website: https://cog2027.u-aizu.ac.jp/\nDBLP Index: https://dblp.org
+ /db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20260916T004722Z
+UID:5092e5b8-c37e-415e-8df4-859a3256d42a
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: December 1-3\, 2025\n📍 Location: Linz\, Au
+ stria\n⏰ Original Deadline (AoE): 2025-06-27 23:59:59\nCategory: 计算
+ 机图形学与多媒体 (CG)\nCORE C\nConference Website: https://vinci20
+ 25.games.cg.jku.at\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Linz\, Austria
+URL:https://vinci2025.games.cg.jku.at
+END:VEVENT
+END:VCALENDAR

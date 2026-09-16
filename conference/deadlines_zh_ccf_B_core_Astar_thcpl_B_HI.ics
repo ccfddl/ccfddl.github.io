@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PerCom 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20240929T235900
+DTEND;TZID="UTC-12:00":20240930T000000
+DTSTAMP:20260916T004657Z
+UID:784df76d-fb28-42f2-aed8-61e91de63357
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commu
+ nications\n🗓️ 会议时间: March 17 - 21\, 2025\n📍 会议地点: 
+ Walter E. Washington Convention Center\, Washington DC\, USA\n⏰ 原始
+ 截止时间 (AoE): 2024-09-29 23:59:00\n分类: 人机交互与普适计
+ 算 (HI)\nCCF B\, CORE A*\, THCPL B\n会议官网: https://percom.org/\nDB
+ LP索引: https://dblp.org/db/conf/percom
+LOCATION:Walter E. Washington Convention Center\, Washington DC\, USA
+URL:https://percom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PerCom 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241004T235900
+DTEND;TZID="UTC-12:00":20241005T000000
+DTSTAMP:20260916T004657Z
+UID:c5fa3e46-47a6-472d-9e67-4e2cf552cb3b
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commu
+ nications\n🗓️ 会议时间: March 17 - 21\, 2025\n📍 会议地点: 
+ Walter E. Washington Convention Center\, Washington DC\, USA\n⏰ 原始
+ 截止时间 (AoE): 2024-10-04 23:59:00\n分类: 人机交互与普适计
+ 算 (HI)\nCCF B\, CORE A*\, THCPL B\n会议官网: https://percom.org/\nDB
+ LP索引: https://dblp.org/db/conf/percom
+LOCATION:Walter E. Washington Convention Center\, Washington DC\, USA
+URL:https://percom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PerCom 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251003T235900
+DTEND;TZID="UTC-12:00":20251004T000000
+DTSTAMP:20260916T004657Z
+UID:c7510bfa-4d3b-45aa-b180-839759029e07
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commu
+ nications\n🗓️ 会议时间: March 16 - 20\, 2026\n📍 会议地点: 
+ Pisa\, Italy\n⏰ 原始截止时间 (AoE): 2025-10-03 23:59:00\n分类: 
+ 人机交互与普适计算 (HI)\nCCF B\, CORE A*\, THCPL B\n会议官网:
+  https://percom.org/\nDBLP索引: https://dblp.org/db/conf/percom
+LOCATION:Pisa\, Italy
+URL:https://percom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PerCom 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251003T235900
+DTEND;TZID="UTC-12:00":20251004T000000
+DTSTAMP:20260916T004657Z
+UID:85936558-1c8b-48fb-ba25-f779e22d13ad
+DESCRIPTION:IEEE International Conference on Pervasive Computing and Commu
+ nications\n🗓️ 会议时间: March 16 - 20\, 2026\n📍 会议地点: 
+ Pisa\, Italy\n⏰ 原始截止时间 (AoE): 2025-10-03 23:59:00\n分类: 
+ 人机交互与普适计算 (HI)\nCCF B\, CORE A*\, THCPL B\n会议官网:
+  https://percom.org/\nDBLP索引: https://dblp.org/db/conf/percom
+LOCATION:Pisa\, Italy
+URL:https://percom.org/
+END:VEVENT
+END:VCALENDAR

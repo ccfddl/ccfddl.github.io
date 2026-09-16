@@ -1,0 +1,431 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISSTA 2022 Deadline [Technical Papers due]
+DTSTART;TZID="UTC-12:00":20220128T235959
+DTEND;TZID="UTC-12:00":20220129T000059
+DTSTAMP:20260916T004737Z
+UID:1d3144f2-616b-40e2-823e-998cbca57340
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: July 18-22\, 2022\n📍 Location: Daejeon\, South Ko
+ rea\n⏰ Original Deadline (AoE): 2022-01-28 23:59:59\nCategory: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConfer
+ ence Website: https://conf.researchr.org/home/issta-2022\nDBLP Index: http
+ s://dblp.org/db/conf/issta
+LOCATION:Daejeon\, South Korea
+URL:https://conf.researchr.org/home/issta-2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2022 Deadline [Workshops Submission Deadline]
+DTSTART;TZID="UTC-12:00":20220131T235959
+DTEND;TZID="UTC-12:00":20220201T000059
+DTSTAMP:20260916T004737Z
+UID:2aefde08-aceb-4854-8b94-9d372c4b22a2
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: July 18-22\, 2022\n📍 Location: Daejeon\, South Ko
+ rea\n⏰ Original Deadline (AoE): 2022-01-31 23:59:59\nCategory: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConfer
+ ence Website: https://conf.researchr.org/home/issta-2022\nDBLP Index: http
+ s://dblp.org/db/conf/issta
+LOCATION:Daejeon\, South Korea
+URL:https://conf.researchr.org/home/issta-2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2023 Deadline [Technical Papers First round submission deadl
+ ine]
+DTSTART;TZID="UTC-12:00":20221110T235959
+DTEND;TZID="UTC-12:00":20221111T000059
+DTSTAMP:20260916T004737Z
+UID:98c5ee4d-07c9-4afc-8589-43c968d30830
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: July 17-21\, 2023\n📍 Location: Seattle\, United S
+ tates\n⏰ Original Deadline (AoE): 2022-11-10 23:59:59\nCategory: 软件
+ 工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nCon
+ ference Website: https://conf.researchr.org/home/issta-2023\nDBLP Index: h
+ ttps://dblp.org/db/conf/issta
+LOCATION:Seattle\, United States
+URL:https://conf.researchr.org/home/issta-2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2023 Deadline [Technical Papers Second round submission dead
+ line]
+DTSTART;TZID="UTC-12:00":20230216T235959
+DTEND;TZID="UTC-12:00":20230217T000059
+DTSTAMP:20260916T004737Z
+UID:a1b02218-ea4b-411e-8ca1-e47fbba52c53
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: July 17-21\, 2023\n📍 Location: Seattle\, United S
+ tates\n⏰ Original Deadline (AoE): 2023-02-16 23:59:59\nCategory: 软件
+ 工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nCon
+ ference Website: https://conf.researchr.org/home/issta-2023\nDBLP Index: h
+ ttps://dblp.org/db/conf/issta
+LOCATION:Seattle\, United States
+URL:https://conf.researchr.org/home/issta-2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2024 Deadline [Technical Papers Submission deadline (Round 1
+ )]
+DTSTART;TZID="UTC-12:00":20231215T235959
+DTEND;TZID="UTC-12:00":20231216T000059
+DTSTAMP:20260916T004737Z
+UID:d8197e2e-5144-4ebd-9ee0-80e4ffc87fd6
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: September 16-20\, 2024\n📍 Location: Vienna\, Aust
+ ria\n⏰ Original Deadline (AoE): 2023-12-15 23:59:59\nCategory: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConfer
+ ence Website: https://conf.researchr.org/home/issta-2024\nDBLP Index: http
+ s://dblp.org/db/conf/issta
+LOCATION:Vienna\, Austria
+URL:https://conf.researchr.org/home/issta-2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2024 Deadline [Technical Papers Submission deadline (Round 2
+ )]
+DTSTART;TZID="UTC-12:00":20240412T235959
+DTEND;TZID="UTC-12:00":20240413T000059
+DTSTAMP:20260916T004737Z
+UID:8c810aab-d27f-40f1-a294-df4081661e81
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: September 16-20\, 2024\n📍 Location: Vienna\, Aust
+ ria\n⏰ Original Deadline (AoE): 2024-04-12 23:59:59\nCategory: 软件工
+ 程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConfer
+ ence Website: https://conf.researchr.org/home/issta-2024\nDBLP Index: http
+ s://dblp.org/db/conf/issta
+LOCATION:Vienna\, Austria
+URL:https://conf.researchr.org/home/issta-2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2025 Deadline [Research Papers Full Paper Submission]
+DTSTART;TZID="UTC-12:00":20241031T235959
+DTEND;TZID="UTC-12:00":20241101T000059
+DTSTAMP:20260916T004737Z
+UID:ab97b257-b6cb-4d98-bcac-8f6b09997406
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: June 25-28\, 2025\n📍 Location: Trondheim\, Norway
+ \n⏰ Original Deadline (AoE): 2024-10-31 23:59:59\nCategory: 软件工程
+ /系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConferenc
+ e Website: https://conf.researchr.org/home/issta-2025\nDBLP Index: https:/
+ /dblp.org/db/conf/issta
+LOCATION:Trondheim\, Norway
+URL:https://conf.researchr.org/home/issta-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260129T235959
+DTEND;TZID="UTC-12:00":20260130T000059
+DTSTAMP:20260916T004737Z
+UID:9852cd30-5d9e-485a-a466-e554ff1f8b64
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: October 3-9\, 2026\n📍 Location: Oakland\, Califor
+ nia\, United States\n⏰ Original Deadline (AoE): 2026-01-29 23:59:59\nCat
+ egory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\,
+  THCPL A\nConference Website: https://conf.researchr.org/home/issta-2026\n
+ DBLP Index: https://dblp.org/db/conf/issta
+LOCATION:Oakland\, California\, United States
+URL:https://conf.researchr.org/home/issta-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20270108T235959
+DTEND;TZID="UTC-12:00":20270109T000059
+DTSTAMP:20260916T004737Z
+UID:f658c48c-f4d2-435c-a014-03e861b9007f
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: September 7-10\, 2027\n📍 Location: Singapore\n⏰
+  Original Deadline (AoE): 2027-01-08 23:59:59\nCategory: 软件工程/系
+ 统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConference We
+ bsite: https://conf.researchr.org/home/issta-2027\nDBLP Index: https://dbl
+ p.org/db/conf/issta
+LOCATION:Singapore
+URL:https://conf.researchr.org/home/issta-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISSTA 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270111T235959
+DTEND;TZID="UTC-12:00":20270112T000059
+DTSTAMP:20260916T004737Z
+UID:d47e6365-ab56-4048-9d70-c8851ec4d8ba
+DESCRIPTION:ACM SIGSOFT International Symposium on Software Testing and An
+ alysis\n🗓️ Date: September 7-10\, 2027\n📍 Location: Singapore\n⏰
+  Original Deadline (AoE): 2027-01-11 23:59:59\nCategory: 软件工程/系
+ 统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL A\nConference We
+ bsite: https://conf.researchr.org/home/issta-2027\nDBLP Index: https://dbl
+ p.org/db/conf/issta
+LOCATION:Singapore
+URL:https://conf.researchr.org/home/issta-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2022 Deadline [Submission Deadline Round 1]
+DTSTART;TZID="UTC-12:00":20211012T235959
+DTEND;TZID="UTC-12:00":20211013T000059
+DTSTAMP:20260916T004737Z
+UID:ba8f1a20-4200-48f2-8912-f581a52eb468
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: November 14-19\, 2022\n📍 Location: A
+ uckland\, New Zealand\n⏰ Original Deadline (AoE): 2021-10-12 23:59:59\nC
+ ategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A
+ \, THCPL A\nConference Website: https://2022.splashcon.org/track/splash-20
+ 22-oopsla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Auckland\, New Zealand
+URL:https://2022.splashcon.org/track/splash-2022-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2022 Deadline [Submission of Revisions Round 1]
+DTSTART;TZID="UTC-12:00":20220211T235959
+DTEND;TZID="UTC-12:00":20220212T000059
+DTSTAMP:20260916T004737Z
+UID:012218e5-99f0-4f16-b593-e41ca860e696
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: November 14-19\, 2022\n📍 Location: A
+ uckland\, New Zealand\n⏰ Original Deadline (AoE): 2022-02-11 23:59:59\nC
+ ategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A
+ \, THCPL A\nConference Website: https://2022.splashcon.org/track/splash-20
+ 22-oopsla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Auckland\, New Zealand
+URL:https://2022.splashcon.org/track/splash-2022-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2022 Deadline [Submission Deadline Round 2]
+DTSTART;TZID="UTC-12:00":20220415T235959
+DTEND;TZID="UTC-12:00":20220416T000059
+DTSTAMP:20260916T004737Z
+UID:c538617a-dfaf-471e-b76b-74a53992c458
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: November 14-19\, 2022\n📍 Location: A
+ uckland\, New Zealand\n⏰ Original Deadline (AoE): 2022-04-15 23:59:59\nC
+ ategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A
+ \, THCPL A\nConference Website: https://2022.splashcon.org/track/splash-20
+ 22-oopsla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Auckland\, New Zealand
+URL:https://2022.splashcon.org/track/splash-2022-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2022 Deadline [Submission of Revisions Round 2]
+DTSTART;TZID="UTC-12:00":20220815T235959
+DTEND;TZID="UTC-12:00":20220816T000059
+DTSTAMP:20260916T004737Z
+UID:c93962ec-5fa2-458d-bc03-5a0771a57f46
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: November 14-19\, 2022\n📍 Location: A
+ uckland\, New Zealand\n⏰ Original Deadline (AoE): 2022-08-15 23:59:59\nC
+ ategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A
+ \, THCPL A\nConference Website: https://2022.splashcon.org/track/splash-20
+ 22-oopsla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Auckland\, New Zealand
+URL:https://2022.splashcon.org/track/splash-2022-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2023 Deadline [Submission Deadline Round 1]
+DTSTART;TZID="UTC-12:00":20221028T235959
+DTEND;TZID="UTC-12:00":20221029T000059
+DTSTAMP:20260916T004737Z
+UID:a7039cb8-79c6-4186-a539-e5f0ec3ab5de
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 22-27\, 2023\n📍 Location: Li
+ sbon\, Portugal\n⏰ Original Deadline (AoE): 2022-10-28 23:59:59\nCategor
+ y: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THC
+ PL A\nConference Website: https://2023.splashcon.org/track/splash-2023-oop
+ sla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Lisbon\, Portugal
+URL:https://2023.splashcon.org/track/splash-2023-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2023 Deadline [Submission of Revisions Round 1]
+DTSTART;TZID="UTC-12:00":20230224T235959
+DTEND;TZID="UTC-12:00":20230225T000059
+DTSTAMP:20260916T004737Z
+UID:6d146d60-3317-4786-809a-01ba627a0edb
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 22-27\, 2023\n📍 Location: Li
+ sbon\, Portugal\n⏰ Original Deadline (AoE): 2023-02-24 23:59:59\nCategor
+ y: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THC
+ PL A\nConference Website: https://2023.splashcon.org/track/splash-2023-oop
+ sla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Lisbon\, Portugal
+URL:https://2023.splashcon.org/track/splash-2023-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2023 Deadline [Submission Deadline Round 2]
+DTSTART;TZID="UTC-12:00":20230414T235959
+DTEND;TZID="UTC-12:00":20230415T000059
+DTSTAMP:20260916T004737Z
+UID:980a65dc-73d3-401a-bc51-665a8e53f578
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 22-27\, 2023\n📍 Location: Li
+ sbon\, Portugal\n⏰ Original Deadline (AoE): 2023-04-14 23:59:59\nCategor
+ y: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THC
+ PL A\nConference Website: https://2023.splashcon.org/track/splash-2023-oop
+ sla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Lisbon\, Portugal
+URL:https://2023.splashcon.org/track/splash-2023-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2023 Deadline [Submission of Revisions Round 2]
+DTSTART;TZID="UTC-12:00":20230818T235959
+DTEND;TZID="UTC-12:00":20230819T000059
+DTSTAMP:20260916T004737Z
+UID:ae36803c-9c47-4440-badc-c7d3d651ee1e
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 22-27\, 2023\n📍 Location: Li
+ sbon\, Portugal\n⏰ Original Deadline (AoE): 2023-08-18 23:59:59\nCategor
+ y: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THC
+ PL A\nConference Website: https://2023.splashcon.org/track/splash-2023-oop
+ sla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Lisbon\, Portugal
+URL:https://2023.splashcon.org/track/splash-2023-oopsla
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2024 Deadline [Submission Deadline Round 1]
+DTSTART;TZID="UTC-04:00":20231021T075959
+DTEND;TZID="UTC-04:00":20231021T080059
+DTSTAMP:20260916T004737Z
+UID:38e7cf22-a8c2-4d47-a77a-011921f35339
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 20-25\, 2024\n📍 Location: Pa
+ sadena\, United States\n⏰ Original Deadline (UTC-4): 2023-10-21 07:59:59
+ \nCategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, COR
+ E A\, THCPL A\nConference Website: https://2024.splashcon.org/track/splash
+ -2024-oopsla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Pasadena\, United States
+URL:https://2024.splashcon.org/track/splash-2024-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2024 Deadline [Submission Deadline Round 2]
+DTSTART;TZID="UTC-04:00":20240406T075959
+DTEND;TZID="UTC-04:00":20240406T080059
+DTSTAMP:20260916T004737Z
+UID:23619326-5ccd-4c4c-b66f-ecba631e775a
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 20-25\, 2024\n📍 Location: Pa
+ sadena\, United States\n⏰ Original Deadline (UTC-4): 2024-04-06 07:59:59
+ \nCategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, COR
+ E A\, THCPL A\nConference Website: https://2024.splashcon.org/track/splash
+ -2024-oopsla\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Pasadena\, United States
+URL:https://2024.splashcon.org/track/splash-2024-oopsla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2025 Deadline [Submission Deadline Round 1]
+DTSTART;TZID="UTC-12:00":20241015T075959
+DTEND;TZID="UTC-12:00":20241015T080059
+DTSTAMP:20260916T004737Z
+UID:aaedb943-b6ca-415f-841b-951bfcd765d1
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 12-18\, 2025\n📍 Location: Si
+ ngapore\n⏰ Original Deadline (UTC-12): 2024-10-15 07:59:59\nCategory: 
+ 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL 
+ A\nConference Website: https://2025.splashcon.org/track/OOPSLA\nDBLP Index
+ : https://dblp.org/db/conf/oopsla
+LOCATION:Singapore
+URL:https://2025.splashcon.org/track/OOPSLA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2025 Deadline [Submission Deadline Revision R1]
+DTSTART;TZID="UTC-12:00":20250204T075959
+DTEND;TZID="UTC-12:00":20250204T080059
+DTSTAMP:20260916T004737Z
+UID:50bda303-e98b-49ec-ada0-dbbddd09cd25
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 12-18\, 2025\n📍 Location: Si
+ ngapore\n⏰ Original Deadline (UTC-12): 2025-02-04 07:59:59\nCategory: 
+ 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL 
+ A\nConference Website: https://2025.splashcon.org/track/OOPSLA\nDBLP Index
+ : https://dblp.org/db/conf/oopsla
+LOCATION:Singapore
+URL:https://2025.splashcon.org/track/OOPSLA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2025 Deadline [Submission Deadline Round 2]
+DTSTART;TZID="UTC-12:00":20250325T235959
+DTEND;TZID="UTC-12:00":20250326T000059
+DTSTAMP:20260916T004737Z
+UID:4271dc7e-9a74-45a1-a97f-75ace594945e
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 12-18\, 2025\n📍 Location: Si
+ ngapore\n⏰ Original Deadline (UTC-12): 2025-03-25 23:59:59\nCategory: 
+ 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCPL 
+ A\nConference Website: https://2025.splashcon.org/track/OOPSLA\nDBLP Index
+ : https://dblp.org/db/conf/oopsla
+LOCATION:Singapore
+URL:https://2025.splashcon.org/track/OOPSLA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2026 Deadline [Submission Deadline Round 1]
+DTSTART;TZID="UTC-12:00":20251010T235959
+DTEND;TZID="UTC-12:00":20251011T000059
+DTSTAMP:20260916T004737Z
+UID:8248edd3-9340-4769-87cd-577b06edbd93
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 3-9\, 2026\n📍 Location: Oakl
+ and\, California\, United States\n⏰ Original Deadline (UTC-12): 2025-10-
+ 10 23:59:59\nCategory: 软件工程/系统软件/程序设计语言 (SE)\n
+ CCF A\, CORE A\, THCPL A\nConference Website: https://conf.researchr.org/t
+ rack/splash-2026/oopsla-2026\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Oakland\, California\, United States
+URL:https://conf.researchr.org/track/splash-2026/oopsla-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2026 Deadline [Submission Deadline Round 2]
+DTSTART;TZID="UTC-12:00":20260317T235959
+DTEND;TZID="UTC-12:00":20260318T000059
+DTSTAMP:20260916T004737Z
+UID:2199fab3-007e-4ff9-b7fa-1ab0c26632e1
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 3-9\, 2026\n📍 Location: Oakl
+ and\, California\, United States\n⏰ Original Deadline (UTC-12): 2026-03-
+ 17 23:59:59\nCategory: 软件工程/系统软件/程序设计语言 (SE)\n
+ CCF A\, CORE A\, THCPL A\nConference Website: https://conf.researchr.org/t
+ rack/splash-2026/oopsla-2026\nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Oakland\, California\, United States
+URL:https://conf.researchr.org/track/splash-2026/oopsla-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2027 Deadline [Submission Deadline Round 1]
+DTSTART;TZID="UTC-12:00":20261014T235959
+DTEND;TZID="UTC-12:00":20261015T000059
+DTSTAMP:20260916T004737Z
+UID:ecea6bf6-a740-4a40-9d23-f10d4dd97693
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 10-15\, 2027\n📍 Location: Pr
+ ague\, Czechia\n⏰ Original Deadline (AoE): 2026-10-14 23:59:59\nCategory
+ : 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCP
+ L A\nConference Website: https://2027.splashcon.org/track/splashoopsla2027
+ \nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Prague\, Czechia
+URL:https://2027.splashcon.org/track/splashoopsla2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OOPSLA 2027 Deadline [Submission Deadline Round 2]
+DTSTART;TZID="UTC-12:00":20270407T235959
+DTEND;TZID="UTC-12:00":20270408T000059
+DTSTAMP:20260916T004737Z
+UID:9847bcfe-b522-40c2-9ff4-e5be7f2df140
+DESCRIPTION:Conference on Object-Oriented Programming Systems\, Languages
+ \, and Applications\n🗓️ Date: October 10-15\, 2027\n📍 Location: Pr
+ ague\, Czechia\n⏰ Original Deadline (AoE): 2027-04-07 23:59:59\nCategory
+ : 软件工程/系统软件/程序设计语言 (SE)\nCCF A\, CORE A\, THCP
+ L A\nConference Website: https://2027.splashcon.org/track/splashoopsla2027
+ \nDBLP Index: https://dblp.org/db/conf/oopsla
+LOCATION:Prague\, Czechia
+URL:https://2027.splashcon.org/track/splashoopsla2027
+END:VEVENT
+END:VCALENDAR

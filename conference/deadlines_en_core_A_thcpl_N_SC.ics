@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EuroS&P 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231102T235959
+DTEND;TZID="UTC-12:00":20231103T000059
+DTSTAMP:20260916T004735Z
+UID:ef78d2f8-9499-4023-9d85-5791186d66ad
+DESCRIPTION:IEEE European Symposium on Security and Privacy\n🗓️ Date:
+  July 8-12\, 2024\n📍 Location: Vienna\, Austria\n⏰ Original Deadline 
+ (UTC-12): 2023-11-02 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C
+ \, CORE A\nConference Website: https://eurosp2024.ieee-security.org/\nDBLP
+  Index: https://dblp.org/db/conf/eurosp
+LOCATION:Vienna\, Austria
+URL:https://eurosp2024.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EuroS&P 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241024T235959
+DTEND;TZID="UTC-12:00":20241025T000059
+DTSTAMP:20260916T004735Z
+UID:513b080b-dd92-4e62-80ee-964d50882c18
+DESCRIPTION:IEEE European Symposium on Security and Privacy\n🗓️ Date:
+  June 30-July 4\, 2025\n📍 Location: Venice\, Italy\n⏰ Original Deadli
+ ne (UTC-12): 2024-10-24 23:59:59\nCategory: 网络与信息安全 (SC)\nCC
+ F C\, CORE A\nConference Website: https://eurosp2025.ieee-security.org/\nD
+ BLP Index: https://dblp.org/db/conf/eurosp
+LOCATION:Venice\, Italy
+URL:https://eurosp2025.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EuroS&P 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251120T235959
+DTEND;TZID="UTC-12:00":20251121T000059
+DTSTAMP:20260916T004735Z
+UID:e386eb7a-ad7e-480b-bcd8-823d8f6f747c
+DESCRIPTION:IEEE European Symposium on Security and Privacy\n🗓️ Date:
+  July 6 - 10\, 2026\n📍 Location: Lisbon\, Portugal\n⏰ Original Deadli
+ ne (UTC-12): 2025-11-20 23:59:59\nCategory: 网络与信息安全 (SC)\nCC
+ F C\, CORE A\nConference Website: https://eurosp2026.ieee-security.org/\nD
+ BLP Index: https://dblp.org/db/conf/eurosp
+LOCATION:Lisbon\, Portugal
+URL:https://eurosp2026.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EuroS&P 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20261125T235959
+DTEND;TZID="UTC-12:00":20261126T000059
+DTSTAMP:20260916T004735Z
+UID:f2dac8b4-19f1-4808-bc5f-010b9cdd4706
+DESCRIPTION:IEEE European Symposium on Security and Privacy\n🗓️ Date:
+  July 5 - 9\, 2027\n📍 Location: Madrid\, Spain\n⏰ Original Deadline (
+ UTC-12): 2026-11-25 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C
+ \, CORE A\nConference Website: https://eurosp2027.ieee-security.org/\nDBLP
+  Index: https://dblp.org/db/conf/eurosp
+LOCATION:Madrid\, Spain
+URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EuroS&P 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261202T235959
+DTEND;TZID="UTC-12:00":20261203T000059
+DTSTAMP:20260916T004735Z
+UID:26f93320-1897-4c9a-b8bf-b52e9b461aea
+DESCRIPTION:IEEE European Symposium on Security and Privacy\n🗓️ Date:
+  July 5 - 9\, 2027\n📍 Location: Madrid\, Spain\n⏰ Original Deadline (
+ UTC-12): 2026-12-02 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C
+ \, CORE A\nConference Website: https://eurosp2027.ieee-security.org/\nDBLP
+  Index: https://dblp.org/db/conf/eurosp
+LOCATION:Madrid\, Spain
+URL:https://eurosp2027.ieee-security.org/
+END:VEVENT
+END:VCALENDAR

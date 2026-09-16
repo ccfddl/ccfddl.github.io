@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APSys 2024 Abstract Deadline [call for papers]
+DTSTART;TZID="UTC-12:00":20240425T235900
+DTEND;TZID="UTC-12:00":20240426T000000
+DTSTAMP:20260916T004727Z
+UID:6a08a5f9-1fa4-42dc-966c-c9eee653dadc
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 4-5\, 2024\n📍 Location: Kyoto\, Japan\n⏰ Original Deadline (Ao
+ E): 2024-04-25 23:59:00\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nConference Website: https://apsys2024.github.io/
+ \nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Kyoto\, Japan
+URL:https://apsys2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2024 Deadline [call for papers]
+DTSTART;TZID="UTC-12:00":20240502T235900
+DTEND;TZID="UTC-12:00":20240503T000000
+DTSTAMP:20260916T004727Z
+UID:85006787-e6a8-49e8-a6de-38511c5eda4a
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 4-5\, 2024\n📍 Location: Kyoto\, Japan\n⏰ Original Deadline (Ao
+ E): 2024-05-02 23:59:00\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nConference Website: https://apsys2024.github.io/
+ \nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Kyoto\, Japan
+URL:https://apsys2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250529T235900
+DTEND;TZID="UTC-12:00":20250530T000000
+DTSTAMP:20260916T004727Z
+UID:389d2bb4-e253-41eb-8116-948a77c95edf
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Oct
+ ober 12-13\, 2025\n📍 Location: Seoul\, South Korea\n⏰ Original Deadli
+ ne (AoE): 2025-05-29 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys2025.gith
+ ub.io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Seoul\, South Korea
+URL:https://apsys2025.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250605T235900
+DTEND;TZID="UTC-12:00":20250606T000000
+DTSTAMP:20260916T004727Z
+UID:8ec17509-8144-4eb6-b91c-46554bea3888
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Oct
+ ober 12-13\, 2025\n📍 Location: Seoul\, South Korea\n⏰ Original Deadli
+ ne (AoE): 2025-06-05 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys2025.gith
+ ub.io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Seoul\, South Korea
+URL:https://apsys2025.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260513T235900
+DTEND;TZID="UTC-12:00":20260514T000000
+DTSTAMP:20260916T004727Z
+UID:23c1f32b-fed7-4759-bce8-34a6442fe73a
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 17-18\, 2026\n📍 Location: Bangkok\, Thailand\n⏰ Original Deadl
+ ine (AoE): 2026-05-13 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys26.github
+ .io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Bangkok\, Thailand
+URL:https://apsys26.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APSys 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260520T235900
+DTEND;TZID="UTC-12:00":20260521T000000
+DTSTAMP:20260916T004727Z
+UID:13f5b333-7417-490b-92cd-c6982144e0ab
+DESCRIPTION:ACM SIGOPS Asia-Pacific Workshop on Systems\n🗓️ Date: Sep
+ tember 17-18\, 2026\n📍 Location: Bangkok\, Thailand\n⏰ Original Deadl
+ ine (AoE): 2026-05-20 23:59:00\nCategory: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nConference Website: https://apsys26.github
+ .io/\nDBLP Index: https://dblp.org/db/conf/apsys
+LOCATION:Bangkok\, Thailand
+URL:https://apsys26.github.io/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IISWC 2024 Deadline [Submissions Due: 2024-06-03]
+DTSTART:20240603T000000Z
+DTEND:20240603T000100Z
+DTSTAMP:20260916T004727Z
+UID:db46b560-21a8-48ca-a6d7-a805a526ae5e
+DESCRIPTION:IEEE International Symposium on Workload Characterization\n
+ 🗓️ Date: September 15-17\, 2024\n📍 Location: Vancouver BC Canada\n
+ ⏰ Original Deadline (UTC): 2024-06-03 00:00:00\nCategory: 计算机体
+ 系结构/并行与分布计算/存储系统 (DS)\nConference Website: htt
+ ps://iiswc.org/iiswc2024/\nDBLP Index: https://dblp.org/db/conf/iiswc
+LOCATION:Vancouver BC Canada
+URL:https://iiswc.org/iiswc2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IISWC 2025 Deadline [Submissions Due: 2025-06-21]
+DTSTART:20250621T000000Z
+DTEND:20250621T000100Z
+DTSTAMP:20260916T004727Z
+UID:5d14f5b7-da1b-417b-acb7-46ab46c1186b
+DESCRIPTION:IEEE International Symposium on Workload Characterization\n
+ 🗓️ Date: October 12-14\, 2025\n📍 Location: Irvine\, USA\n⏰ Origi
+ nal Deadline (UTC): 2025-06-21 00:00:00\nCategory: 计算机体系结构/
+ 并行与分布计算/存储系统 (DS)\nConference Website: https://iiswc
+ .org/iiswc2025/\nDBLP Index: https://dblp.org/db/conf/iiswc
+LOCATION:Irvine\, USA
+URL:https://iiswc.org/iiswc2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IISWC 2026 Deadline
+DTSTART:20260514T000000Z
+DTEND:20260514T000100Z
+DTSTAMP:20260916T004727Z
+UID:ee259975-5681-47db-9f4e-79ff0b511a96
+DESCRIPTION:IEEE International Symposium on Workload Characterization\n
+ 🗓️ Date: September 27-29\, 2026\n📍 Location: Boulder\, USA\n⏰ Or
+ iginal Deadline (UTC): 2026-05-14 00:00:00\nCategory: 计算机体系结
+ 构/并行与分布计算/存储系统 (DS)\nConference Website: https://i
+ iswc.org/iiswc2026/\nDBLP Index: https://dblp.org/db/conf/iiswc
+LOCATION:Boulder\, USA
+URL:https://iiswc.org/iiswc2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NETYS 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240229T235900
+DTEND;TZID="UTC-12:00":20240301T000000
+DTSTAMP:20260916T004727Z
+UID:c45dc72e-0bf5-4316-b3dc-9f85b0179be0
+DESCRIPTION:The International Conference on Networked Systems\n🗓️ Dat
+ e: May 29-31\, 2024\n📍 Location: Rabat\, Morocco\n⏰ Original Deadline
+  (AoE): 2024-02-29 23:59:00\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nConference Website: https://netys.net/\nDBLP 
+ Index: https://dblp.org/db/conf/netys
+LOCATION:Rabat\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NETYS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240307T235900
+DTEND;TZID="UTC-12:00":20240308T000000
+DTSTAMP:20260916T004727Z
+UID:c621fe81-8c74-4b82-be9e-7e9ef01be2c0
+DESCRIPTION:The International Conference on Networked Systems\n🗓️ Dat
+ e: May 29-31\, 2024\n📍 Location: Rabat\, Morocco\n⏰ Original Deadline
+  (AoE): 2024-03-07 23:59:00\nCategory: 计算机体系结构/并行与分
+ 布计算/存储系统 (DS)\nConference Website: https://netys.net/\nDBLP 
+ Index: https://dblp.org/db/conf/netys
+LOCATION:Rabat\, Morocco
+URL:https://netys.net/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 Deadline
+DTSTART;TZID="UTC+10:00":20250815T235900
+DTEND;TZID="UTC+10:00":20250816T000000
+DTSTAMP:20260916T004727Z
+UID:354974c0-47d6-420c-91d9-79a2699f3ffb
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: November 22-November 24\, 
+ 2025\n📍 Location: Gold Coast\, Australia\n⏰ Original Deadline (UTC+10
+ ): 2025-08-15 23:59:00\nCategory: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCORE C\nConference Website: https://www.pd-cat.org/
+ \nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia
+URL:https://www.pd-cat.org/
+END:VEVENT
+END:VCALENDAR

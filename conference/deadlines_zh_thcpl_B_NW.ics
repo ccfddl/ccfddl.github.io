@@ -1,0 +1,432 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2023 截稿日期
+DTSTART;TZID="UTC-04:00":20230415T235959
+DTEND;TZID="UTC-04:00":20230416T000059
+DTSTAMP:20260916T004659Z
+UID:99f14dbc-eb9a-4c44-8525-0653d0357d08
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ 会议时间: D
+ ecember 4-8\, 2023\n📍 会议地点: Kuala Lumpur\, Malaysia\n⏰ 原始
+ 截止时间 (UTC-4): 2023-04-15 23:59:59\n分类: 计算机网络 (NW)\nC
+ CF C\, CORE B\, THCPL B\n会议官网: https://globecom2023.ieee-globecom.
+ org/\nDBLP索引: https://dblp.org/db/conf/globecom
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://globecom2023.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2025 截稿日期
+DTSTART;TZID="UTC-04:00":20250415T235959
+DTEND;TZID="UTC-04:00":20250416T000059
+DTSTAMP:20260916T004659Z
+UID:7616d8a4-ed02-4808-9afc-b25b8fc9f048
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ 会议时间: D
+ ecember 8-12\, 2025\n📍 会议地点: Taipei\, Taiwan\n⏰ 原始截止
+ 时间 (UTC-4): 2025-04-15 23:59:59\n分类: 计算机网络 (NW)\nCCF C\,
+  CORE B\, THCPL B\n会议官网: https://globecom2025.ieee-globecom.org/\n
+ DBLP索引: https://dblp.org/db/conf/globecom
+LOCATION:Taipei\, Taiwan
+URL:https://globecom2025.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2026 截稿日期
+DTSTART;TZID="UTC-04:00":20260503T235959
+DTEND;TZID="UTC-04:00":20260504T000059
+DTSTAMP:20260916T004659Z
+UID:d88cbee6-727b-4153-b15c-58d4d759e00c
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ 会议时间: D
+ ecember 7-11\, 2026\n📍 会议地点: Macao\, China\n⏰ 原始截止时
+ 间 (UTC-4): 2026-05-03 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, CO
+ RE B\, THCPL B\n会议官网: https://globecom2026.ieee-globecom.org/\nDBL
+ P索引: https://dblp.org/db/conf/globecom
+LOCATION:Macao\, China
+URL:https://globecom2026.ieee-globecom.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HotNets 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260716T235959
+DTEND;TZID="UTC-12:00":20260717T000059
+DTSTAMP:20260916T004659Z
+UID:7ffa364e-7482-4208-9ba7-a64eb3a5514d
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 16-17\, 2026\n📍 会议地点: Salt Lake City\, Utah\, USA\n⏰
+  原始截止时间 (UTC-12): 2026-07-16 23:59:59\n分类: 计算机网络
+  (NW)\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotn
+ ets/2026/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://conferences.sigcomm.org/hotnets/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241011T235959
+DTEND;TZID="UTC-12:00":20241012T000059
+DTSTAMP:20260916T004659Z
+UID:1fcf14d3-6b5e-4bd8-bec4-8a636f0f27b4
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: June 8-12\, 2025\n📍 会议地点: Palais des congrès de Mon
+ tréal in Montreal\, Quebec\, Canada\n⏰ 原始截止时间 (AoE): 2024-1
+ 0-11 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, THCPL B\n会议官网
+ : https://icc2025.ieee-icc.org\nDBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Palais des congrès de Montréal in Montreal\, Quebec\, Canada
+URL:https://icc2025.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2026 截稿日期
+DTSTART;TZID="UTC-04:00":20251031T005959
+DTEND;TZID="UTC-04:00":20251031T010059
+DTSTAMP:20260916T004659Z
+UID:0905c719-a5c5-4984-9da7-0a1076f85bbe
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 24-28\, 2026\n📍 会议地点: Glasgow\, Scotland\, UK\n
+ ⏰ 原始截止时间 (UTC-4): 2025-10-31 00:59:59\n分类: 计算机网
+ 络 (NW)\nCCF C\, THCPL B\n会议官网: https://icc2026.ieee-icc.org\nDBL
+ P索引: https://dblp.org/db/conf/icc
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://icc2026.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2027 截稿日期
+DTSTART;TZID="UTC-04:00":20261002T235959
+DTEND;TZID="UTC-04:00":20261003T000059
+DTSTAMP:20260916T004659Z
+UID:b304cb2c-0e15-469f-b8b0-713fee3e411a
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 30 - June 3\, 2027\n📍 会议地点: Washington\, DC\, US
+ A\n⏰ 原始截止时间 (UTC-4): 2026-10-02 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF C\, THCPL B\n会议官网: https://icc2027.ieee-icc.org\n
+ DBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Washington\, DC\, USA
+URL:https://icc2027.ieee-icc.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2022 摘要截稿
+DTSTART;TZID="UTC-12:00":20220201T235959
+DTEND;TZID="UTC-12:00":20220202T000059
+DTSTAMP:20260916T004659Z
+UID:7d88f578-edcc-4bfc-ae56-addb408733b2
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: June 10-12\, 2022\n📍 会议地点: Virtual\n⏰ 原
+ 始截止时间 (UTC-12): 2022-02-01 23:59:59\n分类: 计算机网络 (NW
+ )\nCCF B\, CORE B\, THCPL B\n会议官网: https://iwqos2022.ieee-iwqos.or
+ g/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Virtual
+URL:https://iwqos2022.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220207T235959
+DTEND;TZID="UTC-12:00":20220208T000059
+DTSTAMP:20260916T004659Z
+UID:62deb93a-5af7-4f08-87da-0d25c4ea3841
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: June 10-12\, 2022\n📍 会议地点: Virtual\n⏰ 原
+ 始截止时间 (UTC-12): 2022-02-07 23:59:59\n分类: 计算机网络 (NW
+ )\nCCF B\, CORE B\, THCPL B\n会议官网: https://iwqos2022.ieee-iwqos.or
+ g/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Virtual
+URL:https://iwqos2022.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230129T235959
+DTEND;TZID="UTC-12:00":20230130T000059
+DTSTAMP:20260916T004659Z
+UID:5d803237-cc54-482c-af89-9bfcddf3f499
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: June 19-21\, 2023\n📍 会议地点: Orlando\, FL\, USA
+ \n⏰ 原始截止时间 (UTC-12): 2023-01-29 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://iwqos2023.iee
+ e-iwqos.org/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Orlando\, FL\, USA
+URL:https://iwqos2023.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230207T235959
+DTEND;TZID="UTC-12:00":20230208T000059
+DTSTAMP:20260916T004659Z
+UID:5dbb3bb3-447b-4a17-b5fb-1c9fef13ea6b
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: June 19-21\, 2023\n📍 会议地点: Orlando\, FL\, USA
+ \n⏰ 原始截止时间 (UTC-12): 2023-02-07 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://iwqos2023.iee
+ e-iwqos.org/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Orlando\, FL\, USA
+URL:https://iwqos2023.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250216T235959
+DTEND;TZID="UTC-12:00":20250217T000059
+DTSTAMP:20260916T004659Z
+UID:068aff6d-bad4-4fe5-8543-edb850d1ad82
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: July 02-04\, 2025\n📍 会议地点: Gold Coast\, Austr
+ alia\n⏰ 原始截止时间 (AoE): 2025-02-16 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://iwqos2025.iee
+ e-iwqos.org/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Gold Coast\, Australia
+URL:https://iwqos2025.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250223T235959
+DTEND;TZID="UTC-12:00":20250224T000059
+DTSTAMP:20260916T004659Z
+UID:e1e8f812-b0af-4531-86ff-b9c36175e94d
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: July 02-04\, 2025\n📍 会议地点: Gold Coast\, Austr
+ alia\n⏰ 原始截止时间 (AoE): 2025-02-23 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://iwqos2025.iee
+ e-iwqos.org/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Gold Coast\, Australia
+URL:https://iwqos2025.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260202T235959
+DTEND;TZID="UTC-12:00":20260203T000059
+DTSTAMP:20260916T004659Z
+UID:eeda9714-90e0-4c1e-8d20-f9f663b8d8ff
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: 29 June - 2 July\, 2026\n📍 会议地点: Dubai\, Unit
+ ed Arab Emirates\n⏰ 原始截止时间 (AoE): 2026-02-02 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https:/
+ /iwqos2026.ieee-iwqos.org/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Dubai\, United Arab Emirates
+URL:https://iwqos2026.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IWQoS 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260209T235959
+DTEND;TZID="UTC-12:00":20260210T000059
+DTSTAMP:20260916T004659Z
+UID:40a2d610-f561-4be4-8471-3f8061ad6a02
+DESCRIPTION:IEEE/ACM International Symposium on Quality of Service\n🗓
+ ️ 会议时间: 29 June - 2 July\, 2026\n📍 会议地点: Dubai\, Unit
+ ed Arab Emirates\n⏰ 原始截止时间 (AoE): 2026-02-09 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https:/
+ /iwqos2026.ieee-iwqos.org/\nDBLP索引: https://dblp.org/db/conf/iwqos
+LOCATION:Dubai\, United Arab Emirates
+URL:https://iwqos2026.ieee-iwqos.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2022 摘要截稿
+DTSTART;TZID="UTC-12:00":20220225T235959
+DTEND;TZID="UTC-12:00":20220226T000059
+DTSTAMP:20260916T004659Z
+UID:e98659e6-5166-4114-8499-501c04dda4c3
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: October 17-22\, 2022\n📍 会议地点: Seoul
+ \, South Korea\n⏰ 原始截止时间 (UTC-12): 2022-02-25 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https:/
+ /www.sigmobile.org/mobihoc/2022/\nDBLP索引: https://dblp.org/db/conf/mob
+ ihoc
+LOCATION:Seoul\, South Korea
+URL:https://www.sigmobile.org/mobihoc/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220304T235959
+DTEND;TZID="UTC-12:00":20220305T000059
+DTSTAMP:20260916T004659Z
+UID:8079fc35-64db-4544-b6d3-fe0a6ecbfee5
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: October 17-22\, 2022\n📍 会议地点: Seoul
+ \, South Korea\n⏰ 原始截止时间 (UTC-12): 2022-03-04 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https:/
+ /www.sigmobile.org/mobihoc/2022/\nDBLP索引: https://dblp.org/db/conf/mob
+ ihoc
+LOCATION:Seoul\, South Korea
+URL:https://www.sigmobile.org/mobihoc/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260413T235959
+DTEND;TZID="UTC-12:00":20260414T000059
+DTSTAMP:20260916T004659Z
+UID:fb793b16-7088-4045-81a6-072d6036c2ad
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: November 23-26\, 2026\n📍 会议地点: Tokyo
+ \, Japan\n⏰ 原始截止时间 (AoE): 2026-04-13 23:59:59\n分类: 计
+ 算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https://www.sig
+ mobile.org/mobihoc/2026/\nDBLP索引: https://dblp.org/db/conf/mobihoc
+LOCATION:Tokyo\, Japan
+URL:https://www.sigmobile.org/mobihoc/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260420T235959
+DTEND;TZID="UTC-12:00":20260421T000059
+DTSTAMP:20260916T004659Z
+UID:52de345d-e1de-4665-9964-307305c7195b
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: November 23-26\, 2026\n📍 会议地点: Tokyo
+ \, Japan\n⏰ 原始截止时间 (AoE): 2026-04-20 23:59:59\n分类: 计
+ 算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https://www.sig
+ mobile.org/mobihoc/2026/\nDBLP索引: https://dblp.org/db/conf/mobihoc
+LOCATION:Tokyo\, Japan
+URL:https://www.sigmobile.org/mobihoc/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260916T004659Z
+UID:d4cb31c5-5bfc-49f9-9331-bb408d1b57d2
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ 会议时
+ 间: May 24-27\, 2026\n📍 会议地点: Lugano\, Switzerland\n⏰ 原始
+ 截止时间 (AoE): 2026-02-08 23:59:59\n分类: 计算机网络 (NW)\nCCF
+  C\, CORE B\, THCPL B\n会议官网: https://networking.ifip.org/2026/\nDB
+ LP索引: https://dblp.org/db/conf/networking
+LOCATION:Lugano\, Switzerland
+URL:https://networking.ifip.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOSSDAV 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250117T235959
+DTEND;TZID="UTC-12:00":20250118T000059
+DTSTAMP:20260916T004659Z
+UID:15337c92-86d0-4bdc-86a0-86eef58fb4d1
+DESCRIPTION:International Workshop on Network and Operating System Support
+  for Digital Audio and Video\n🗓️ 会议时间: March 31- April 3\, 20
+ 25\n📍 会议地点: Stellenbosch\, South Africa\n⏰ 原始截止时间
+  (AoE): 2025-01-17 23:59:59\n分类: 计算机网络 (NW)\nCCF B\, CORE B
+ \, THCPL B\n会议官网: https://nossdav.org/2025/\nDBLP索引: https://d
+ blp.org/db/conf/nossdav
+LOCATION:Stellenbosch\, South Africa
+URL:https://nossdav.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOSSDAV 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260116T235959
+DTEND;TZID="UTC-12:00":20260117T000059
+DTSTAMP:20260916T004659Z
+UID:93e84f61-39de-4b7e-ac08-482a28d4dc90
+DESCRIPTION:International Workshop on Network and Operating System Support
+  for Digital Audio and Video\n🗓️ 会议时间: April 8\, 2026\n📍 
+ 会议地点: Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2026-01-16 
+ 23:59:59\n分类: 计算机网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议
+ 官网: https://nossdav.org/2026/\nDBLP索引: https://dblp.org/db/conf/no
+ ssdav
+LOCATION:Hong Kong\, China
+URL:https://nossdav.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECON 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251208T235959
+DTEND;TZID="UTC-12:00":20251209T000059
+DTSTAMP:20260916T004659Z
+UID:21de0e80-4833-4f1f-9d5e-0d77538f9c4b
+DESCRIPTION:IEEE International Conference on Sensing\, Communication\, and
+  Networking\n🗓️ 会议时间: April 27-29\, 2026\n📍 会议地点: 
+ Abu Dhabi\, UAE\n⏰ 原始截止时间 (AoE): 2025-12-08 23:59:59\n分类
+ : 计算机网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://se
+ con2026.ieee-secon.org/important-dates\nDBLP索引: https://dblp.org/db/co
+ nf/secon
+LOCATION:Abu Dhabi\, UAE
+URL:https://secon2026.ieee-secon.org/important-dates
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECON 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251230T235959
+DTEND;TZID="UTC-12:00":20251231T000059
+DTSTAMP:20260916T004659Z
+UID:b1a8372b-b936-4b02-b15c-81e7b647c6e1
+DESCRIPTION:IEEE International Conference on Sensing\, Communication\, and
+  Networking\n🗓️ 会议时间: April 27-29\, 2026\n📍 会议地点: 
+ Abu Dhabi\, UAE\n⏰ 原始截止时间 (AoE): 2025-12-30 23:59:59\n分类
+ : 计算机网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://se
+ con2026.ieee-secon.org/important-dates\nDBLP索引: https://dblp.org/db/co
+ nf/secon
+LOCATION:Abu Dhabi\, UAE
+URL:https://secon2026.ieee-secon.org/important-dates
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SECON 2027 截稿日期
+DTSTART;TZID="UTC-05:00":20261130T235959
+DTEND;TZID="UTC-05:00":20261201T000059
+DTSTAMP:20260916T004659Z
+UID:04068d45-a4a1-4d95-921c-3d43802e1299
+DESCRIPTION:IEEE International Conference on Sensing\, Communication\, and
+  Networking\n🗓️ 会议时间: May 5-7\, 2027\n📍 会议地点: Lisb
+ on\, Portugal\n⏰ 原始截止时间 (UTC-5): 2026-11-30 23:59:59\n分类
+ : 计算机网络 (NW)\nCCF B\, CORE B\, THCPL B\n会议官网: https://se
+ con2027.ieee-secon.org/\nDBLP索引: https://dblp.org/db/conf/secon
+LOCATION:Lisbon\, Portugal
+URL:https://secon2027.ieee-secon.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241122T235959
+DTEND;TZID="UTC-12:00":20241123T000059
+DTSTAMP:20260916T004659Z
+UID:093dd303-7d83-46d4-9ab8-5a03a18298f4
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ 会议时间: May 27-30\, 2025\n📍 会
+ 议地点: Fort Worth\, Texas\, USA\n⏰ 原始截止时间 (AoE): 2024-11
+ -22 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n会
+ 议官网: https://wowmomconference.uta.edu/index.html\nDBLP索引: https:
+ //dblp.org/db/conf/wowmom
+LOCATION:Fort Worth\, Texas\, USA
+URL:https://wowmomconference.uta.edu/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251118T235959
+DTEND;TZID="UTC-12:00":20251119T000059
+DTSTAMP:20260916T004659Z
+UID:2879559c-3604-4608-8cb8-538c7342032b
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ 会议时间: June 16-19\, 2026\n📍 会
+ 议地点: Bologna\, Italy\n⏰ 原始截止时间 (AoE): 2025-11-18 23:59
+ :59\n分类: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n会议官网:
+  https://www.cs.unibo.it/wowmom2026/\nDBLP索引: https://dblp.org/db/conf
+ /wowmom
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251205T235959
+DTEND;TZID="UTC-12:00":20251206T000059
+DTSTAMP:20260916T004659Z
+UID:e485d920-bdde-4c44-85b0-55ece89742b0
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ 会议时间: June 16-19\, 2026\n📍 会
+ 议地点: Bologna\, Italy\n⏰ 原始截止时间 (AoE): 2025-12-05 23:59
+ :59\n分类: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n会议官网:
+  https://www.cs.unibo.it/wowmom2026/\nDBLP索引: https://dblp.org/db/conf
+ /wowmom
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+END:VEVENT
+END:VCALENDAR

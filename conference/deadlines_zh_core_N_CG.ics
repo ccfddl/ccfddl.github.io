@@ -1,0 +1,535 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:3DV 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230807T235959
+DTEND;TZID="UTC-07:00":20230808T000059
+DTSTAMP:20260916T004648Z
+UID:18c8ec07-c96c-493a-9cd5-9a16c0322a21
+DESCRIPTION:International Conference on 3D Vision\n🗓️ 会议时间: M
+ arch 18-21\, 2024\n📍 会议地点: Davos\, Switzerland\n⏰ 原始截
+ 止时间 (UTC-7): 2023-08-07 23:59:59\n分类: 计算机图形学与多
+ 媒体 (CG)\nCCF C\n会议官网: https://3dvconf.github.io/2024/\nDBLP索
+ 引: https://dblp.org/db/conf/3dim
+LOCATION:Davos\, Switzerland
+URL:https://3dvconf.github.io/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DV 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240812T235959
+DTEND;TZID="UTC-07:00":20240813T000059
+DTSTAMP:20260916T004648Z
+UID:2443b079-adf9-4f50-a532-ce93c0ffe0a5
+DESCRIPTION:International Conference on 3D Vision\n🗓️ 会议时间: M
+ arch 25-28\, 2025\n📍 会议地点: Singapore\n⏰ 原始截止时间 (U
+ TC-7): 2024-08-12 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nC
+ CF C\n会议官网: https://3dvconf.github.io/2025/\nDBLP索引: https://d
+ blp.org/db/conf/3dim
+LOCATION:Singapore
+URL:https://3dvconf.github.io/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DV 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250818T235959
+DTEND;TZID="UTC-07:00":20250819T000059
+DTSTAMP:20260916T004648Z
+UID:42afd719-d5b0-45f9-a284-cefc3643679f
+DESCRIPTION:International Conference on 3D Vision\n🗓️ 会议时间: M
+ arch 24-27\, 2026\n📍 会议地点: Metro Vancouver\, BC\, Canada\n⏰ 
+ 原始截止时间 (UTC-7): 2025-08-18 23:59:59\n分类: 计算机图形
+ 学与多媒体 (CG)\nCCF C\n会议官网: https://3dvconf.github.io/2026/
+ \nDBLP索引: https://dblp.org/db/conf/3dim
+LOCATION:Metro Vancouver\, BC\, Canada
+URL:https://3dvconf.github.io/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3DV 2027 截稿日期 [Supplementary material due Sep 2\, 2026. Al
+ l deadlines are 11:00 am PDT.]
+DTSTART;TZID="UTC-07:00":20260828T110000
+DTEND;TZID="UTC-07:00":20260828T110100
+DTSTAMP:20260916T004648Z
+UID:196dabd3-3adf-4d04-8d5b-f43815367d93
+DESCRIPTION:International Conference on 3D Vision\n🗓️ 会议时间: A
+ pril 6-9\, 2027\n📍 会议地点: Thessaloniki\, Greece\n⏰ 原始截
+ 止时间 (UTC-7): 2026-08-28 11:00:00\n分类: 计算机图形学与多
+ 媒体 (CG)\nCCF C\n会议官网: https://3dvconf.github.io/2027/\nDBLP索
+ 引: https://dblp.org/db/conf/3dim
+LOCATION:Thessaloniki\, Greece
+URL:https://3dvconf.github.io/2027/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CASA 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240305T235959
+DTEND;TZID="UTC-12:00":20240306T000059
+DTSTAMP:20260916T004648Z
+UID:0c5db9c8-7220-4f07-8eca-f629a337c1c2
+DESCRIPTION:International Conference on Computer Animation and Social Agen
+ ts\n🗓️ 会议时间: June 5-7\, 2024\n📍 会议地点: Wuhan\, Chin
+ a\n⏰ 原始截止时间 (AoE): 2024-03-05 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\n会议官网: https://casa2024.wtu.edu.cn/
+ index.htm\nDBLP索引: https://dblp.org/db/conf/ca
+LOCATION:Wuhan\, China
+URL:https://casa2024.wtu.edu.cn/index.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASA 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250308T235959
+DTEND;TZID="UTC-12:00":20250309T000059
+DTSTAMP:20260916T004648Z
+UID:16ca2bc1-7059-4e48-a642-5ad4b22c66f3
+DESCRIPTION:International Conference on Computer Animation and Social Agen
+ ts\n🗓️ 会议时间: June 2-5\, 2025\n📍 会议地点: Strasbourg\,
+  France\n⏰ 原始截止时间 (AoE): 2025-03-08 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF C\n会议官网: https://casa2025.scien
+ cesconf.org/\nDBLP索引: https://dblp.org/db/conf/ca
+LOCATION:Strasbourg\, France
+URL:https://casa2025.sciencesconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2026 截稿日期 [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20260916T004648Z
+UID:9d4f65c0-b270-41f7-97ec-926bd0a3bffe
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ 会议
+ 时间: August 12-14\, 2026\n📍 会议地点: Orillia\, Ontario\, Canada
+ \n⏰ 原始截止时间 (AoE): 2026-05-08 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\n会议官网: https://sites.google.com/view/cccg-
+ 2026/home\nDBLP索引: https://dblp.org/db/conf/cccg
+LOCATION:Orillia\, Ontario\, Canada
+URL:https://sites.google.com/view/cccg-2026/home
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CVM 2025 摘要截稿
+DTSTART:20241009T235959Z
+DTEND:20241010T000059Z
+DTSTAMP:20260916T004648Z
+UID:1f608114-cd21-4373-8ad3-46427d5dd45d
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ 会议时间: April 19-21\, 2025\n📍 会议地点: Hong Kong\, C
+ hina\n⏰ 原始截止时间 (UTC+0): 2024-10-09 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF C\n会议官网: http://iccvm.org/2025/
+ \nDBLP索引: https://dblp.org/db/conf/cvm
+LOCATION:Hong Kong\, China
+URL:http://iccvm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2025 截稿日期
+DTSTART:20241012T235959Z
+DTEND:20241013T000059Z
+DTSTAMP:20260916T004648Z
+UID:f8deb096-f2d8-477e-8161-66cc2b2b369b
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ 会议时间: April 19-21\, 2025\n📍 会议地点: Hong Kong\, C
+ hina\n⏰ 原始截止时间 (UTC+0): 2024-10-12 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF C\n会议官网: http://iccvm.org/2025/
+ \nDBLP索引: https://dblp.org/db/conf/cvm
+LOCATION:Hong Kong\, China
+URL:http://iccvm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2026 摘要截稿
+DTSTART:20251010T235959Z
+DTEND:20251011T000059Z
+DTSTAMP:20260916T004648Z
+UID:5de72de6-2c93-4f95-becd-7b2fdf29a8d5
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ 会议时间: April 10-12\, 2026\n📍 会议地点: Seoul\, Korea
+ \n⏰ 原始截止时间 (UTC+0): 2025-10-10 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF C\n会议官网: http://iccvm.org/2026/\nD
+ BLP索引: https://dblp.org/db/conf/cvm
+LOCATION:Seoul\, Korea
+URL:http://iccvm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2026 截稿日期
+DTSTART:20251013T235959Z
+DTEND:20251014T000059Z
+DTSTAMP:20260916T004648Z
+UID:a3b6341c-efad-4490-b363-67c43ef0f849
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ 会议时间: April 10-12\, 2026\n📍 会议地点: Seoul\, Korea
+ \n⏰ 原始截止时间 (UTC+0): 2025-10-13 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF C\n会议官网: http://iccvm.org/2026/\nD
+ BLP索引: https://dblp.org/db/conf/cvm
+LOCATION:Seoul\, Korea
+URL:http://iccvm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2027 摘要截稿
+DTSTART:20261023T235959Z
+DTEND:20261024T000059Z
+DTSTAMP:20260916T004648Z
+UID:3c1636ad-5886-45bf-a0d3-783b22ba3f86
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ 会议时间: April 9-11\, 2027\n📍 会议地点: Nanyang Techno
+ logical University\, Singapore\n⏰ 原始截止时间 (UTC+0): 2026-10-23
+  23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF C\n会议官
+ 网: http://iccvm.org/2027/\nDBLP索引: https://dblp.org/db/conf/cvm
+LOCATION:Nanyang Technological University\, Singapore
+URL:http://iccvm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVM 2027 截稿日期
+DTSTART:20261026T235959Z
+DTEND:20261027T000059Z
+DTSTAMP:20260916T004648Z
+UID:e16573ae-6097-4c42-8ae6-8127f78406c1
+DESCRIPTION:The international conference on Computational Visual Media\n
+ 🗓️ 会议时间: April 9-11\, 2027\n📍 会议地点: Nanyang Techno
+ logical University\, Singapore\n⏰ 原始截止时间 (UTC+0): 2026-10-26
+  23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF C\n会议官
+ 网: http://iccvm.org/2027/\nDBLP索引: https://dblp.org/db/conf/cvm
+LOCATION:Nanyang Technological University\, Singapore
+URL:http://iccvm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 摘要截稿
+DTSTART:20250401T235959Z
+DTEND:20250402T000059Z
+DTSTAMP:20260916T004648Z
+UID:7b81df55-0718-4c39-ba4c-c7c8dbe2e87d
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jun
+ e 25-27\, 2025\n📍 会议地点: Copenhagen\, Denmark\n⏰ 原始截止
+ 时间 (UTC): 2025-04-01 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\n会议官网: https://conferences.eg.org/egsr2025/\nDBLP索
+ 引: https://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 截稿日期
+DTSTART:20250407T235959Z
+DTEND:20250408T000059Z
+DTSTAMP:20260916T004648Z
+UID:512541a4-cc1c-4a85-aec7-746377350fd8
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jun
+ e 25-27\, 2025\n📍 会议地点: Copenhagen\, Denmark\n⏰ 原始截止
+ 时间 (UTC): 2025-04-07 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\n会议官网: https://conferences.eg.org/egsr2025/\nDBLP索
+ 引: https://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 摘要截稿
+DTSTART:20260408T235959Z
+DTEND:20260409T000059Z
+DTSTAMP:20260916T004648Z
+UID:de6830ea-9c62-4869-b0ef-cf58883181d0
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jul
+ y 1-3\, 2026\n📍 会议地点: Bordeaux\, France\n⏰ 原始截止时间
+  (UTC): 2026-04-08 23:59:59\n分类: 计算机图形学与多媒体 (CG)\n
+ CCF B\n会议官网: https://egsr2026.inria.fr/\nDBLP索引: https://dblp.
+ org/db/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 截稿日期
+DTSTART:20260415T235959Z
+DTEND:20260416T000059Z
+DTSTAMP:20260916T004648Z
+UID:a77fd119-b389-4b92-a22a-4b31f9d1bdc8
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jul
+ y 1-3\, 2026\n📍 会议地点: Bordeaux\, France\n⏰ 原始截止时间
+  (UTC): 2026-04-15 23:59:59\n分类: 计算机图形学与多媒体 (CG)\n
+ CCF B\n会议官网: https://egsr2026.inria.fr/\nDBLP索引: https://dblp.
+ org/db/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20260916T004648Z
+UID:0e65697c-e141-4b22-b3f9-51cd21c87c40
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ 会议时间: December 19-21\, 2025\n📍 会议地点: Bogota\,
+  Colombia\n⏰ 原始截止时间 (AoE): 2025-08-15 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\n会议官网: https://icvrv2025.aconf.or
+ g/\nDBLP索引: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250822T235959
+DTEND;TZID="UTC-12:00":20250823T000059
+DTSTAMP:20260916T004648Z
+UID:092eaf23-82c4-415a-802d-09f23a50bc88
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ 会议时间: December 19-21\, 2025\n📍 会议地点: Bogota\,
+  Colombia\n⏰ 原始截止时间 (AoE): 2025-08-22 23:59:59\n分类: 计
+ 算机图形学与多媒体 (CG)\n会议官网: https://icvrv2025.aconf.or
+ g/\nDBLP索引: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NCMMSC 2026 截稿日期
+DTSTART;TZID="UTC+08:00":20260705T235959
+DTEND;TZID="UTC+08:00":20260706T000059
+DTSTAMP:20260916T004648Z
+UID:9c46b2d4-2a95-4859-a37b-c8de4fb885d9
+DESCRIPTION:National Conference on Man-Machine Speech Communication\n🗓
+ ️ 会议时间: Nov 5-8\, 2026\n📍 会议地点: Hengqin\, China\n⏰ 
+ 原始截止时间 (UTC+8): 2026-07-05 23:59:59\n分类: 计算机图形
+ 学与多媒体 (CG)\nCCF C\n会议官网: https://www.ncmmsc.org.cn/\nDBL
+ P索引: https://dblp.org/db/conf/ncmmsc
+LOCATION:Hengqin\, China
+URL:https://www.ncmmsc.org.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2024 摘要截稿
+DTSTART:20240531T215900Z
+DTEND:20240531T220000Z
+DTSTAMP:20260916T004648Z
+UID:1d41d650-0e66-4d0c-9bf2-a5ba91d61766
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 13-16\, 2024\n📍 会议
+ 地点: Huangshan\, China\n⏰ 原始截止时间 (UTC): 2024-05-31 21:59:
+ 00\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会议
+ 官网: http://pg2024.hsu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Huangshan\, China
+URL:http://pg2024.hsu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2024 截稿日期
+DTSTART:20240607T215900Z
+DTEND:20240607T220000Z
+DTSTAMP:20260916T004648Z
+UID:66d19757-c5cf-4a7b-8159-78bf4e32c44f
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 13-16\, 2024\n📍 会议
+ 地点: Huangshan\, China\n⏰ 原始截止时间 (UTC): 2024-06-07 21:59:
+ 00\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会议
+ 官网: http://pg2024.hsu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Huangshan\, China
+URL:http://pg2024.hsu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230601T235959
+DTEND;TZID="UTC-12:00":20230602T000059
+DTSTAMP:20260916T004648Z
+UID:1b61ab9b-9872-4b0f-afbc-85c248803e34
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 10-13\, 2023\n📍 会议
+ 地点: Daejeon\, South Korea\n⏰ 原始截止时间 (AoE): 2023-06-01 23
+ :59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会
+ 议官网: https://pg2023.org/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Daejeon\, South Korea
+URL:https://pg2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230606T235959
+DTEND;TZID="UTC-12:00":20230607T000059
+DTSTAMP:20260916T004648Z
+UID:8837cfa0-8de3-444e-af49-1ca76b30f7c6
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 10-13\, 2023\n📍 会议
+ 地点: Daejeon\, South Korea\n⏰ 原始截止时间 (AoE): 2023-06-06 23
+ :59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会
+ 议官网: https://pg2023.org/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Daejeon\, South Korea
+URL:https://pg2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250530T235959
+DTEND;TZID="UTC-12:00":20250531T000059
+DTSTAMP:20260916T004648Z
+UID:191adb9c-3f1c-4d7a-bb3d-09c373db4f6e
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 14-17\, 2025\n📍 会议
+ 地点: National Chengchi University\, Taipei\, Taiwan\n⏰ 原始截止
+ 时间 (AoE): 2025-05-30 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\, THCPL B\n会议官网: https://pg2025.nccu.edu.tw/\nDBLP索
+ 引: https://dblp.org/db/conf/pg
+LOCATION:National Chengchi University\, Taipei\, Taiwan
+URL:https://pg2025.nccu.edu.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250606T235959
+DTEND;TZID="UTC-12:00":20250607T000059
+DTSTAMP:20260916T004648Z
+UID:e9647464-34b8-443c-9831-1a803cdbd900
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 14-17\, 2025\n📍 会议
+ 地点: National Chengchi University\, Taipei\, Taiwan\n⏰ 原始截止
+ 时间 (AoE): 2025-06-06 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\, THCPL B\n会议官网: https://pg2025.nccu.edu.tw/\nDBLP索
+ 引: https://dblp.org/db/conf/pg
+LOCATION:National Chengchi University\, Taipei\, Taiwan
+URL:https://pg2025.nccu.edu.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260601T235959
+DTEND;TZID="UTC-12:00":20260602T000059
+DTSTAMP:20260916T004648Z
+UID:3a0b2bbc-821f-4ce4-90c8-ed8148cf81c8
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 6-9\, 2026\n📍 会议
+ 地点: Singapore Management University\, Singapore\n⏰ 原始截止时
+ 间 (AoE): 2026-06-01 23:59:59\n分类: 计算机图形学与多媒体 (CG
+ )\nCCF B\, THCPL B\n会议官网: https://pacificgraphics2026.github.io/\n
+ DBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Singapore Management University\, Singapore
+URL:https://pacificgraphics2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260608T235959
+DTEND;TZID="UTC-12:00":20260609T000059
+DTSTAMP:20260916T004648Z
+UID:9d74ac21-6448-4d42-998b-051717b158e3
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 6-9\, 2026\n📍 会议
+ 地点: Singapore Management University\, Singapore\n⏰ 原始截止时
+ 间 (AoE): 2026-06-08 23:59:59\n分类: 计算机图形学与多媒体 (CG
+ )\nCCF B\, THCPL B\n会议官网: https://pacificgraphics2026.github.io/\n
+ DBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Singapore Management University\, Singapore
+URL:https://pacificgraphics2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2023 截稿日期
+DTSTART;TZID="UTC+08:00":20230620T235959
+DTEND;TZID="UTC+08:00":20230621T000059
+DTSTAMP:20260916T004648Z
+UID:8169ba33-ab22-46f6-b0d8-8db1d9f858a0
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ 会议时间: Oct 13-15\, 2023\n📍 会议地点: Xiamen\, Chin
+ a\n⏰ 原始截止时间 (UTC+8): 2023-06-20 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF C\n会议官网: https://prcv2023.xmu.edu.
+ cn/\nDBLP索引: https://dblp.org/db/conf/prcv
+LOCATION:Xiamen\, China
+URL:https://prcv2023.xmu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2024 截稿日期
+DTSTART;TZID="UTC+08:00":20240428T235959
+DTEND;TZID="UTC+08:00":20240429T000059
+DTSTAMP:20260916T004648Z
+UID:8d0934df-73d8-4712-85fd-ab20e2b92b56
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ 会议时间: Oct 18-20\, 2024\n📍 会议地点: Urumchi\, Chi
+ na\n⏰ 原始截止时间 (UTC+8): 2024-04-28 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF C\n会议官网: http://www.prcv.cn/\nDBLP
+ 索引: https://dblp.org/db/conf/prcv
+LOCATION:Urumchi\, China
+URL:http://www.prcv.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2025 截稿日期
+DTSTART;TZID="UTC+08:00":20250630T235959
+DTEND;TZID="UTC+08:00":20250701T000059
+DTSTAMP:20260916T004648Z
+UID:86f19224-211c-4ef1-915b-0f9d48ae8f27
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ 会议时间: Oct 16-19\, 2025\n📍 会议地点: Shanghai\, Ch
+ ina\n⏰ 原始截止时间 (UTC+8): 2025-06-30 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF C\n会议官网: http://2025.prcv.cn/\n
+ DBLP索引: https://dblp.org/db/conf/prcv
+LOCATION:Shanghai\, China
+URL:http://2025.prcv.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRCV 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260530T235959
+DTEND;TZID="UTC-12:00":20260531T000059
+DTSTAMP:20260916T004648Z
+UID:5fe3e37e-f275-4c2b-b3d5-3a63e67c1c64
+DESCRIPTION:Chinese Conference on Pattern Recognition and Computer Vision
+ \n🗓️ 会议时间: Aug 22-25\, 2026\n📍 会议地点: Harbin\, Chin
+ a\n⏰ 原始截止时间 (AoE): 2026-05-30 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\n会议官网: https://www.prcv.cn/web/#/ho
+ me\nDBLP索引: https://dblp.org/db/conf/prcv
+LOCATION:Harbin\, China
+URL:https://www.prcv.cn/web/#/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SLT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260617T235959
+DTEND;TZID="UTC-12:00":20260618T000059
+DTSTAMP:20260916T004648Z
+UID:a7952bf9-c0bb-49c0-8581-dfc1d0b9f81e
+DESCRIPTION:IEEE Spoken Language Technology (SLT) Workshop\n🗓️ 会议
+ 时间: December 13-16\, 2026\n📍 会议地点: Palermo\, Sicily\, Italy
+ \n⏰ 原始截止时间 (AoE): 2026-06-17 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\n会议官网: https://attend.ieee.org/slt-
+ 2026/\nDBLP索引: https://dblp.org/db/conf/slt
+LOCATION:Palermo\, Sicily\, Italy
+URL:https://attend.ieee.org/slt-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMI 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250414T235959
+DTEND;TZID="UTC-12:00":20250415T000059
+DTSTAMP:20260916T004648Z
+UID:c63dbaa2-3384-4719-8f24-6349819d17d0
+DESCRIPTION:Shape Modeling International\n🗓️ 会议时间: October 29
+  - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\, P.R. China
+ \n⏰ 原始截止时间 (AoE): 2025-04-14 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\n会议官网: https://smiconf.github.io/20
+ 25/\nDBLP索引: https://dblp.org/db/conf/smi
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://smiconf.github.io/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250422T235959
+DTEND;TZID="UTC-12:00":20250423T000059
+DTSTAMP:20260916T004648Z
+UID:65dd06b3-85f4-4f96-84d8-f9dcd559c307
+DESCRIPTION:Shape Modeling International\n🗓️ 会议时间: October 29
+  - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\, P.R. China
+ \n⏰ 原始截止时间 (AoE): 2025-04-22 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\n会议官网: https://smiconf.github.io/20
+ 25/\nDBLP索引: https://dblp.org/db/conf/smi
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://smiconf.github.io/2025/
+END:VEVENT
+END:VCALENDAR

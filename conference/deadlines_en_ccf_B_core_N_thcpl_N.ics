@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 Abstract Deadline
+DTSTART:20250401T235959Z
+DTEND:20250402T000059Z
+DTSTAMP:20260916T004723Z
+UID:a5417ee0-f320-4695-bd06-c0c15d4f3ec8
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: June 25-27
+ \, 2025\n📍 Location: Copenhagen\, Denmark\n⏰ Original Deadline (UTC):
+  2025-04-01 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B
+ \nConference Website: https://conferences.eg.org/egsr2025/\nDBLP Index: ht
+ tps://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 Deadline
+DTSTART:20250407T235959Z
+DTEND:20250408T000059Z
+DTSTAMP:20260916T004723Z
+UID:c1fb1ec5-cded-4800-9799-b20dd7052fde
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: June 25-27
+ \, 2025\n📍 Location: Copenhagen\, Denmark\n⏰ Original Deadline (UTC):
+  2025-04-07 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B
+ \nConference Website: https://conferences.eg.org/egsr2025/\nDBLP Index: ht
+ tps://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 Abstract Deadline
+DTSTART:20260408T235959Z
+DTEND:20260409T000059Z
+DTSTAMP:20260916T004723Z
+UID:d2e15c52-7e8e-4d3c-894a-b95842ccef8a
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: July 1-3\, 
+ 2026\n📍 Location: Bordeaux\, France\n⏰ Original Deadline (UTC): 2026-
+ 04-08 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\nConf
+ erence Website: https://egsr2026.inria.fr/\nDBLP Index: https://dblp.org/d
+ b/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 Deadline
+DTSTART:20260415T235959Z
+DTEND:20260416T000059Z
+DTSTAMP:20260916T004723Z
+UID:e982e756-d0b5-4adb-9995-61ebf32c86e5
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ Date: July 1-3\, 
+ 2026\n📍 Location: Bordeaux\, France\n⏰ Original Deadline (UTC): 2026-
+ 04-15 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF B\nConf
+ erence Website: https://egsr2026.inria.fr/\nDBLP Index: https://dblp.org/d
+ b/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COCOON 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250305T235959
+DTEND;TZID="UTC-12:00":20250306T000059
+DTSTAMP:20260916T004723Z
+UID:ca8ae2e3-8bf7-47f0-a2b7-28b33eceb401
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: August 15-17\, 2025\n📍 Location: Chengdu\, China\n⏰ Original De
+ adline (AoE): 2025-03-05 23:59:59\nCategory: 计算机科学理论 (CT)\nC
+ CF B\nConference Website: https://tcsuestc.com/cocoon2025\nDBLP Index: htt
+ ps://dblp.org/db/conf/cocoon
+LOCATION:Chengdu\, China
+URL:https://tcsuestc.com/cocoon2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250304T235959
+DTEND;TZID="UTC-12:00":20250305T000059
+DTSTAMP:20260916T004723Z
+UID:6c0d6f34-11b5-44c1-bf53-9a0486de8a8f
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: July 23-25\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (
+ AoE): 2025-03-04 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nCo
+ nference Website: https://event.ntu.edu.sg/cocoon2026\nDBLP Index: https:/
+ /dblp.org/db/conf/cocoon
+LOCATION:Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODES+ISSS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260323T235959
+DTEND;TZID="UTC-12:00":20260324T000059
+DTSTAMP:20260916T004723Z
+UID:21df56b8-69c1-42cd-a9be-de880e97065a
+DESCRIPTION:International Conference on Hardware/Software Co-design and Sy
+ stem Synthesis\n🗓️ Date: October 4-9\, 2026\n📍 Location: Barcelona
+ \, Spain\n⏰ Original Deadline (AoE): 2026-03-23 23:59:59\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\nConfere
+ nce Website: https://esweek.org/codes_isss_cfp/\nDBLP Index: https://dblp.
+ org/db/conf/codes
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/codes_isss_cfp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODES+ISSS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260330T235959
+DTEND;TZID="UTC-12:00":20260331T000059
+DTSTAMP:20260916T004723Z
+UID:3bcc3600-f81d-4726-ac3e-ae7be4448e90
+DESCRIPTION:International Conference on Hardware/Software Co-design and Sy
+ stem Synthesis\n🗓️ Date: October 4-9\, 2026\n📍 Location: Barcelona
+ \, Spain\n⏰ Original Deadline (AoE): 2026-03-30 23:59:59\nCategory: 计
+ 算机体系结构/并行与分布计算/存储系统 (DS)\nCCF B\nConfere
+ nce Website: https://esweek.org/codes_isss_cfp/\nDBLP Index: https://dblp.
+ org/db/conf/codes
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/codes_isss_cfp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HiPEAC 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260601T235959
+DTEND;TZID="UTC-12:00":20260602T000059
+DTSTAMP:20260916T004723Z
+UID:765aeb4d-58c6-4462-a9a3-178f4a447605
+DESCRIPTION:International Conference on High Performance and Embedded Arch
+ itectures and Compilers\n🗓️ Date: January 18-20\, 2027\n📍 Location
+ : Glasgow\, Scotland\, UK\n⏰ Original Deadline (AoE): 2026-06-01 23:59:5
+ 9\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS)
+ \nCCF B\nConference Website: https://www.hipeac.net/2027/glasgow/#/call-fo
+ r-papers/\nDBLP Index: https://dblp.org/db/conf/hipeac
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://www.hipeac.net/2027/glasgow/#/call-for-papers/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:LISA 2021 Deadline
+DTSTART;TZID="UTC-08:00":20210223T205959
+DTEND;TZID="UTC-08:00":20210223T210059
+DTSTAMP:20260916T004723Z
+UID:a68f2a20-50df-4b13-91e0-86e314e9d62a
+DESCRIPTION:Large Installation System Administration Conference\n🗓️ D
+ ate: June 1-3\, 2021\n📍 Location: Virtual Event\n⏰ Original Deadline 
+ (PT): 2021-02-23 20:59:59\nCategory: 计算机体系结构/并行与分布
+ 计算/存储系统 (DS)\nCCF B\nConference Website: https://www.usenix.or
+ g/conference/lisa21\nDBLP Index: https://dblp.org/db/conf/lisa
+LOCATION:Virtual Event
+URL:https://www.usenix.org/conference/lisa21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performance 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260515T235959
+DTEND;TZID="UTC-12:00":20260516T000059
+DTSTAMP:20260916T004723Z
+UID:c3fb4521-c6f0-4afc-87c0-0d5555bf4dc8
+DESCRIPTION:International Symposium on Computer Performance\, Modeling\, M
+ easurements and Evaluation\n🗓️ Date: November 3-5\, 2026\n📍 Locati
+ on: Ghent\, Belgium\n⏰ Original Deadline (AoE): 2026-05-15 23:59:59\nCat
+ egory: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF 
+ B\nConference Website: https://performance2026.github.io/call/\nDBLP Index
+ : https://dblp.org/db/conf/performance
+LOCATION:Ghent\, Belgium
+URL:https://performance2026.github.io/call/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performance 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260522T235959
+DTEND;TZID="UTC-12:00":20260523T000059
+DTSTAMP:20260916T004723Z
+UID:b8465d13-11ea-4919-bfd5-922528486d04
+DESCRIPTION:International Symposium on Computer Performance\, Modeling\, M
+ easurements and Evaluation\n🗓️ Date: November 3-5\, 2026\n📍 Locati
+ on: Ghent\, Belgium\n⏰ Original Deadline (AoE): 2026-05-22 23:59:59\nCat
+ egory: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF 
+ B\nConference Website: https://performance2026.github.io/call/\nDBLP Index
+ : https://dblp.org/db/conf/performance
+LOCATION:Ghent\, Belgium
+URL:https://performance2026.github.io/call/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2025 Deadline [First round 2025]
+DTSTART;TZID="UTC-12:00":20250314T235959
+DTEND;TZID="UTC-12:00":20250315T000059
+DTSTAMP:20260916T004723Z
+UID:c1983ff4-8e31-4915-8c6d-9462c0c63b6a
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: TBD\n📍 Location: TBD\n⏰ Original Deadline (AoE): 202
+ 5-03-14 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF B\nConfe
+ rence Website: https://iss.acm.org/2025/\nDBLP Index: https://dblp.org/db/
+ conf/tabletop
+LOCATION:TBD
+URL:https://iss.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2025 Deadline [Second round 2025]
+DTSTART;TZID="UTC-12:00":20250725T235959
+DTEND;TZID="UTC-12:00":20250726T000059
+DTSTAMP:20260916T004723Z
+UID:ffff71fd-7d5e-4d6e-bbe5-54187fa0ba86
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: TBD\n📍 Location: TBD\n⏰ Original Deadline (AoE): 202
+ 5-07-25 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF B\nConfe
+ rence Website: https://iss.acm.org/2025/\nDBLP Index: https://dblp.org/db/
+ conf/tabletop
+LOCATION:TBD
+URL:https://iss.acm.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20260212T235959
+DTEND;TZID="UTC-12:00":20260213T000059
+DTSTAMP:20260916T004723Z
+UID:74a4095c-b5f4-49bc-b4ef-3bd75239d6a2
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2026-02-12 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20260722T235959
+DTEND;TZID="UTC-12:00":20260723T000059
+DTSTAMP:20260916T004723Z
+UID:bb091a0d-744b-4bde-acc3-bff8d6f8b748
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2026-07-22 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:BIBM 2021 Deadline [Electronic submission of full papers]
+DTSTART;TZID="UTC-05:00":20210828T170000
+DTEND;TZID="UTC-05:00":20210828T170100
+DTSTAMP:20260916T004723Z
+UID:e065b854-f061-4020-bb81-219a61d67510
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 9-12\, 2021\n📍 Location: Online\n⏰ Original Dead
+ line (UTC-5): 2021-08-28 17:00:00\nCategory: 交叉/综合/新兴 (MX)\nCC
+ F B\nConference Website: https://ieeebibm.org/BIBM2021/\nDBLP Index: https
+ ://dblp.org/db/conf/bibm
+LOCATION:Online
+URL:https://ieeebibm.org/BIBM2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIBM 2022 Deadline [Electronic submission of full papers]
+DTSTART;TZID="UTC-05:00":20220821T170000
+DTEND;TZID="UTC-05:00":20220821T170100
+DTSTAMP:20260916T004723Z
+UID:0bf3de37-1d12-4d3a-add8-3b292008103e
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 6-9\, 2022\n📍 Location: Las Vegas\, NV\, USA\n⏰ 
+ Original Deadline (UTC-5): 2022-08-21 17:00:00\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\nConference Website: http://ieeebibm.org/BIBM2022/\nDBL
+ P Index: https://dblp.org/db/conf/bibm
+LOCATION:Las Vegas\, NV\, USA
+URL:http://ieeebibm.org/BIBM2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIBM 2023 Deadline [Electronic submission of full papers]
+DTSTART;TZID="UTC-05:00":20230815T170000
+DTEND;TZID="UTC-05:00":20230815T170100
+DTSTAMP:20260916T004723Z
+UID:10a1cd3f-0f1b-4835-bc39-50374ac5d205
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 5-8\, 2023\n📍 Location: Istanbul\, Turkey\n⏰ Ori
+ ginal Deadline (UTC-5): 2023-08-15 17:00:00\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\nConference Website: https://bidma.cpsc.ucalgary.ca/IEEE-B
+ IBM-2023/\nDBLP Index: https://dblp.org/db/conf/bibm
+LOCATION:Istanbul\, Turkey
+URL:https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIBM 2024 Deadline [First Round\, papers submitted by the June 20 
+ deadline will be reviewed and notified by Aug 15]
+DTSTART;TZID="UTC-05:00":20240620T170000
+DTEND;TZID="UTC-05:00":20240620T170100
+DTSTAMP:20260916T004723Z
+UID:e1d4a0c2-66b5-422f-9c29-3e3b469c1797
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 3-6\, 2024\n📍 Location: Lisbon\, Portugal\n⏰ Ori
+ ginal Deadline (UTC-5): 2024-06-20 17:00:00\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\nConference Website: https://ieeebibm.org/BIBM2024/\nDBLP 
+ Index: https://dblp.org/db/conf/bibm
+LOCATION:Lisbon\, Portugal
+URL:https://ieeebibm.org/BIBM2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIBM 2024 Deadline [Second Round\, papers submitted by the Aug 16
+ \, 2024 deadline\, will be reviewed and notified by the Oct 16\, 2024]
+DTSTART;TZID="UTC-05:00":20240816T170000
+DTEND;TZID="UTC-05:00":20240816T170100
+DTSTAMP:20260916T004723Z
+UID:91894a82-cd86-427a-a603-1472d0495787
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 3-6\, 2024\n📍 Location: Lisbon\, Portugal\n⏰ Ori
+ ginal Deadline (UTC-5): 2024-08-16 17:00:00\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\nConference Website: https://ieeebibm.org/BIBM2024/\nDBLP 
+ Index: https://dblp.org/db/conf/bibm
+LOCATION:Lisbon\, Portugal
+URL:https://ieeebibm.org/BIBM2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIBM 2025 Deadline
+DTSTART;TZID="UTC-05:00":20250803T170000
+DTEND;TZID="UTC-05:00":20250803T170100
+DTSTAMP:20260916T004723Z
+UID:ff8ab8a0-f277-450c-ab4c-aef26412893c
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 15-18\, 2025\n📍 Location: Wuhan\, China\n⏰ Origi
+ nal Deadline (UTC-5): 2025-08-03 17:00:00\nCategory: 交叉/综合/新兴 
+ (MX)\nCCF B\nConference Website: https://ieeebibm.org/BIBM2025/\nDBLP Inde
+ x: https://dblp.org/db/conf/bibm
+LOCATION:Wuhan\, China
+URL:https://ieeebibm.org/BIBM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIBM 2026 Deadline
+DTSTART;TZID="UTC-05:00":20260705T170000
+DTEND;TZID="UTC-05:00":20260705T170100
+DTSTAMP:20260916T004723Z
+UID:915f381b-cdaa-4e0f-a875-92f629e16193
+DESCRIPTION:IEEE International Conference on Bioinformatics and Biomedicin
+ e\n🗓️ Date: Dec 1-4\, 2026\n📍 Location: Dallas\, USA\n⏰ Original
+  Deadline (UTC-5): 2026-07-05 17:00:00\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF B\nConference Website: https://ieeebibm.org/BIBM2026/\nDBLP Index: 
+ https://dblp.org/db/conf/bibm
+LOCATION:Dallas\, USA
+URL:https://ieeebibm.org/BIBM2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINE 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230707T235959
+DTEND;TZID="UTC-12:00":20230708T000059
+DTSTAMP:20260916T004723Z
+UID:54876536-3b1a-4ced-80f3-d0d0349f0732
+DESCRIPTION:Conference on Web and Internet Economics\n🗓️ Date: Dec 04
+ -08\, 2023\n📍 Location: Shanghai\, China\n⏰ Original Deadline (AoE): 
+ 2023-07-07 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B\nConferenc
+ e Website: https://wine2023.shanghaitech.edu.cn/\nDBLP Index: https://dblp
+ .org/db/conf/wine
+LOCATION:Shanghai\, China
+URL:https://wine2023.shanghaitech.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINE 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240715T235959
+DTEND;TZID="UTC-12:00":20240716T000059
+DTSTAMP:20260916T004723Z
+UID:c1ccc8b4-e6ec-46ae-84d2-448dc7143074
+DESCRIPTION:Conference on Web and Internet Economics\n🗓️ Date: Decemb
+ er 2-5\, 2024\n📍 Location: Edinburgh\, United Kingdom\n⏰ Original Dea
+ dline (AoE): 2024-07-15 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF
+  B\nConference Website: https://wine2024.org/\nDBLP Index: https://dblp.or
+ g/db/conf/wine
+LOCATION:Edinburgh\, United Kingdom
+URL:https://wine2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINE 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250703T235959
+DTEND;TZID="UTC-12:00":20250704T000059
+DTSTAMP:20260916T004723Z
+UID:83a179c4-9da8-43af-ae7d-23c5d21dbb38
+DESCRIPTION:Conference on Web and Internet Economics\n🗓️ Date: Decemb
+ er 8-11\, 2025\n📍 Location: New Brunswick\, USA\n⏰ Original Deadline 
+ (AoE): 2025-07-03 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B\nCo
+ nference Website: https://wine2025.cs.rutgers.edu/\nDBLP Index: https://db
+ lp.org/db/conf/wine
+LOCATION:New Brunswick\, USA
+URL:https://wine2025.cs.rutgers.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINE 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260702T235959
+DTEND;TZID="UTC-12:00":20260703T000059
+DTSTAMP:20260916T004723Z
+UID:f6ccf1d4-1bef-4f92-a0a6-5e1345385c99
+DESCRIPTION:Conference on Web and Internet Economics\n🗓️ Date: Decemb
+ er 1-4\, 2026\n📍 Location: Hong Kong\, China\n⏰ Original Deadline (Ao
+ E): 2026-07-02 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B\nConfe
+ rence Website: https://wine2026conf.github.io/\nDBLP Index: https://dblp.o
+ rg/db/conf/wine
+LOCATION:Hong Kong\, China
+URL:https://wine2026conf.github.io/
+END:VEVENT
+END:VCALENDAR
