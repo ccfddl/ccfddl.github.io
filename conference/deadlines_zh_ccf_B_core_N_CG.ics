@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 摘要截稿
+DTSTART:20250401T235959Z
+DTEND:20250402T000059Z
+DTSTAMP:20260919T092413Z
+UID:df4bea7e-fdc2-49e1-a83a-95e7e4a8cbad
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jun
+ e 25-27\, 2025\n📍 会议地点: Copenhagen\, Denmark\n⏰ 原始截止
+ 时间 (UTC): 2025-04-01 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\n会议官网: https://conferences.eg.org/egsr2025/\nDBLP索
+ 引: https://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2025 截稿日期
+DTSTART:20250407T235959Z
+DTEND:20250408T000059Z
+DTSTAMP:20260919T092413Z
+UID:80426a3f-bdac-47bf-8fd3-83af1a242645
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jun
+ e 25-27\, 2025\n📍 会议地点: Copenhagen\, Denmark\n⏰ 原始截止
+ 时间 (UTC): 2025-04-07 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\n会议官网: https://conferences.eg.org/egsr2025/\nDBLP索
+ 引: https://dblp.org/db/conf/rt
+LOCATION:Copenhagen\, Denmark
+URL:https://conferences.eg.org/egsr2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 摘要截稿
+DTSTART:20260408T235959Z
+DTEND:20260409T000059Z
+DTSTAMP:20260919T092413Z
+UID:dd0b8175-7b93-4f16-b17f-568797ab7ae3
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jul
+ y 1-3\, 2026\n📍 会议地点: Bordeaux\, France\n⏰ 原始截止时间
+  (UTC): 2026-04-08 23:59:59\n分类: 计算机图形学与多媒体 (CG)\n
+ CCF B\n会议官网: https://egsr2026.inria.fr/\nDBLP索引: https://dblp.
+ org/db/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGSR 2026 截稿日期
+DTSTART:20260415T235959Z
+DTEND:20260416T000059Z
+DTSTAMP:20260919T092413Z
+UID:85795164-7f3a-4a19-8b6e-a5c57dc1150f
+DESCRIPTION:Eurographics Symposium on Rendering\n🗓️ 会议时间: Jul
+ y 1-3\, 2026\n📍 会议地点: Bordeaux\, France\n⏰ 原始截止时间
+  (UTC): 2026-04-15 23:59:59\n分类: 计算机图形学与多媒体 (CG)\n
+ CCF B\n会议官网: https://egsr2026.inria.fr/\nDBLP索引: https://dblp.
+ org/db/conf/rt
+LOCATION:Bordeaux\, France
+URL:https://egsr2026.inria.fr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2024 摘要截稿
+DTSTART:20240531T215900Z
+DTEND:20240531T220000Z
+DTSTAMP:20260919T092413Z
+UID:943eb3d6-0a05-4068-8407-4ca1b19c3cfc
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 13-16\, 2024\n📍 会议
+ 地点: Huangshan\, China\n⏰ 原始截止时间 (UTC): 2024-05-31 21:59:
+ 00\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会议
+ 官网: http://pg2024.hsu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Huangshan\, China
+URL:http://pg2024.hsu.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2024 截稿日期
+DTSTART:20240607T215900Z
+DTEND:20240607T220000Z
+DTSTAMP:20260919T092413Z
+UID:fbd1ce47-7802-4159-9f68-d420ff642cc1
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 13-16\, 2024\n📍 会议
+ 地点: Huangshan\, China\n⏰ 原始截止时间 (UTC): 2024-06-07 21:59:
+ 00\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会议
+ 官网: http://pg2024.hsu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Huangshan\, China
+URL:http://pg2024.hsu.edu.cn/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PG 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230601T235959
+DTEND;TZID="UTC-12:00":20230602T000059
+DTSTAMP:20260919T092413Z
+UID:77b5cac3-360c-4329-9808-14d962990dfc
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 10-13\, 2023\n📍 会议
+ 地点: Daejeon\, South Korea\n⏰ 原始截止时间 (AoE): 2023-06-01 23
+ :59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会
+ 议官网: https://pg2023.org/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Daejeon\, South Korea
+URL:https://pg2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230606T235959
+DTEND;TZID="UTC-12:00":20230607T000059
+DTSTAMP:20260919T092413Z
+UID:083d055c-bfb2-40e2-9720-c10fc75d1768
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 10-13\, 2023\n📍 会议
+ 地点: Daejeon\, South Korea\n⏰ 原始截止时间 (AoE): 2023-06-06 23
+ :59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, THCPL B\n会
+ 议官网: https://pg2023.org/\nDBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Daejeon\, South Korea
+URL:https://pg2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250530T235959
+DTEND;TZID="UTC-12:00":20250531T000059
+DTSTAMP:20260919T092413Z
+UID:84367b54-3b16-484a-bebb-e20b2e2e57a5
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 14-17\, 2025\n📍 会议
+ 地点: National Chengchi University\, Taipei\, Taiwan\n⏰ 原始截止
+ 时间 (AoE): 2025-05-30 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\, THCPL B\n会议官网: https://pg2025.nccu.edu.tw/\nDBLP索
+ 引: https://dblp.org/db/conf/pg
+LOCATION:National Chengchi University\, Taipei\, Taiwan
+URL:https://pg2025.nccu.edu.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250606T235959
+DTEND;TZID="UTC-12:00":20250607T000059
+DTSTAMP:20260919T092413Z
+UID:7da6df95-9382-45e6-ae87-cdc112038b8d
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 14-17\, 2025\n📍 会议
+ 地点: National Chengchi University\, Taipei\, Taiwan\n⏰ 原始截止
+ 时间 (AoE): 2025-06-06 23:59:59\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF B\, THCPL B\n会议官网: https://pg2025.nccu.edu.tw/\nDBLP索
+ 引: https://dblp.org/db/conf/pg
+LOCATION:National Chengchi University\, Taipei\, Taiwan
+URL:https://pg2025.nccu.edu.tw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260601T235959
+DTEND;TZID="UTC-12:00":20260602T000059
+DTSTAMP:20260919T092413Z
+UID:c211124e-8c94-4618-adbe-9294a120df11
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 6-9\, 2026\n📍 会议
+ 地点: Singapore Management University\, Singapore\n⏰ 原始截止时
+ 间 (AoE): 2026-06-01 23:59:59\n分类: 计算机图形学与多媒体 (CG
+ )\nCCF B\, THCPL B\n会议官网: https://pacificgraphics2026.github.io/\n
+ DBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Singapore Management University\, Singapore
+URL:https://pacificgraphics2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PG 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260608T235959
+DTEND;TZID="UTC-12:00":20260609T000059
+DTSTAMP:20260919T092413Z
+UID:67daf4ac-7bbc-43b9-8afd-8959ad20eff0
+DESCRIPTION:Pacific Graphics\, The Pacific Conference on Computer Graphics
+  and Applications\n🗓️ 会议时间: October 6-9\, 2026\n📍 会议
+ 地点: Singapore Management University\, Singapore\n⏰ 原始截止时
+ 间 (AoE): 2026-06-08 23:59:59\n分类: 计算机图形学与多媒体 (CG
+ )\nCCF B\, THCPL B\n会议官网: https://pacificgraphics2026.github.io/\n
+ DBLP索引: https://dblp.org/db/conf/pg
+LOCATION:Singapore Management University\, Singapore
+URL:https://pacificgraphics2026.github.io/
+END:VEVENT
+END:VCALENDAR

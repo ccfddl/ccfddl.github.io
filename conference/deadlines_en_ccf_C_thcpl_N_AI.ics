@@ -1,0 +1,612 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ACCV 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240702T235959
+DTEND;TZID="UTC-12:00":20240703T000059
+DTSTAMP:20260919T092437Z
+UID:bd0161e1-0fe8-43c0-8e5f-a1713733abf2
+DESCRIPTION:Asian Conference on Computer Vision\n🗓️ Date: December 8-
+ 12\, 2024\n📍 Location: Hanoi\, Vietnam\n⏰ Original Deadline (UTC-12):
+  2024-07-02 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE B\nConfere
+ nce Website: https://accv2024.org/\nDBLP Index: https://dblp.org/db/conf/a
+ ccv
+LOCATION:Hanoi\, Vietnam
+URL:https://accv2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCV 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260705T235959
+DTEND;TZID="UTC-12:00":20260706T000059
+DTSTAMP:20260919T092437Z
+UID:8edfb3ce-2d13-4016-967f-a8171dfd2688
+DESCRIPTION:Asian Conference on Computer Vision\n🗓️ Date: December 14
+ -18\, 2026\n📍 Location: Osaka\, Japan\n⏰ Original Deadline (UTC-12): 
+ 2026-07-05 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE B\nConferen
+ ce Website: https://accv2026.org/\nDBLP Index: https://dblp.org/db/conf/ac
+ cv
+LOCATION:Osaka\, Japan
+URL:https://accv2026.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ACML 2021 Deadline
+DTSTART;TZID="UTC-07:00":20210625T235959
+DTEND;TZID="UTC-07:00":20210626T000059
+DTSTAMP:20260919T092437Z
+UID:1d460f88-6fe1-45fe-9b04-2d49bd0475ef
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: November 1
+ 7-19\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-7): 2021-0
+ 6-25 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConference Web
+ site: http://www.acml-conf.org/2021/\nDBLP Index: https://dblp.org/db/conf
+ /acml
+LOCATION:Virtual
+URL:http://www.acml-conf.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACML 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230623T235959
+DTEND;TZID="UTC-12:00":20230624T000059
+DTSTAMP:20260919T092437Z
+UID:6070b595-5160-4dda-8e5c-d5e1d236c087
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: November 1
+ 1-14\, 2023\n📍 Location: İstanbul\, Turkey\n⏰ Original Deadline (UTC
+ -12): 2023-06-23 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nCo
+ nference Website: https://www.acml-conf.org/2023/index.html\nDBLP Index: h
+ ttps://dblp.org/db/conf/acml
+LOCATION:İstanbul\, Turkey
+URL:https://www.acml-conf.org/2023/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACML 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240703T235959
+DTEND;TZID="UTC-12:00":20240704T000059
+DTSTAMP:20260919T092437Z
+UID:dc82636a-c9c2-4dfa-a018-a0f6c0fe1054
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: December 5
+ -7\, 2024\n📍 Location: Hanoi\, Vietnam\n⏰ Original Deadline (UTC-12):
+  2024-07-03 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConfere
+ nce Website: https://www.acml-conf.org/2024/index.html\nDBLP Index: https:
+ //dblp.org/db/conf/acml
+LOCATION:Hanoi\, Vietnam
+URL:https://www.acml-conf.org/2024/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACML 2025 Deadline [Journal Track]
+DTSTART;TZID="UTC-12:00":20250530T235959
+DTEND;TZID="UTC-12:00":20250531T000059
+DTSTAMP:20260919T092437Z
+UID:d7457989-d427-492e-a0a9-3d73a856bbd9
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: December 9
+ -12\, 2025\n📍 Location: Taipei\, Taiwan\n⏰ Original Deadline (AoE): 2
+ 025-05-30 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConferenc
+ e Website: https://www.acml-conf.org/2025/\nDBLP Index: https://dblp.org/d
+ b/conf/acml
+LOCATION:Taipei\, Taiwan
+URL:https://www.acml-conf.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACML 2025 Deadline [Conference Track]
+DTSTART;TZID="UTC-12:00":20250626T235959
+DTEND;TZID="UTC-12:00":20250627T000059
+DTSTAMP:20260919T092437Z
+UID:85de85c6-f8a3-4dd9-b457-43c37835f14b
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: December 9
+ -12\, 2025\n📍 Location: Taipei\, Taiwan\n⏰ Original Deadline (AoE): 2
+ 025-06-26 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConferenc
+ e Website: https://www.acml-conf.org/2025/\nDBLP Index: https://dblp.org/d
+ b/conf/acml
+LOCATION:Taipei\, Taiwan
+URL:https://www.acml-conf.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACML 2026 Deadline [Journal Track]
+DTSTART;TZID="UTC-12:00":20260620T235959
+DTEND;TZID="UTC-12:00":20260621T000059
+DTSTAMP:20260919T092437Z
+UID:bfd26be9-0b79-44de-a8eb-6893f74a76db
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: December 1
+ -4\, 2026\n📍 Location: Melbourne\, Australia\n⏰ Original Deadline (Ao
+ E): 2026-06-20 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConf
+ erence Website: https://www.acml-conf.org/2026/\nDBLP Index: https://dblp.
+ org/db/conf/acml
+LOCATION:Melbourne\, Australia
+URL:https://www.acml-conf.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACML 2026 Deadline [Conference Track]
+DTSTART;TZID="UTC-12:00":20260705T235959
+DTEND;TZID="UTC-12:00":20260706T000059
+DTSTAMP:20260919T092437Z
+UID:31f641ec-b797-474f-95e4-349b910fe48d
+DESCRIPTION:Asian Conference on Machine Learning\n🗓️ Date: December 1
+ -4\, 2026\n📍 Location: Melbourne\, Australia\n⏰ Original Deadline (Ao
+ E): 2026-07-05 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConf
+ erence Website: https://www.acml-conf.org/2026/\nDBLP Index: https://dblp.
+ org/db/conf/acml
+LOCATION:Melbourne\, Australia
+URL:https://www.acml-conf.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CEC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250115T235959
+DTEND;TZID="UTC-12:00":20250116T000059
+DTSTAMP:20260919T092437Z
+UID:41f6764e-114e-4ad9-b08e-65f36b5b078e
+DESCRIPTION:IEEE Congress on Evolutionary Computation\n🗓️ Date: June 
+ 8-12\, 2025\n📍 Location: Hangzhou\, China\n⏰ Original Deadline (UTC-1
+ 2): 2025-01-15 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE B\nConf
+ erence Website: https://www.cec2025.org/\nDBLP Index: https://dblp.org/db/
+ conf/cec
+LOCATION:Hangzhou\, China
+URL:https://www.cec2025.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CEC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260131T235959
+DTEND;TZID="UTC-12:00":20260201T000059
+DTSTAMP:20260919T092437Z
+UID:ef2c5ad8-b5d1-41aa-a0dd-21e6386cb8ce
+DESCRIPTION:IEEE Congress on Evolutionary Computation\n🗓️ Date: June 
+ 22-26\, 2026\n📍 Location: Maastricht Exhibition & Congress Centre (MECC
+ )\, The Netherlands\n⏰ Original Deadline (UTC-12): 2026-01-31 23:59:59\n
+ Category: 人工智能 (AI)\nCCF C\, CORE B\nConference Website: https://a
+ ttend.ieee.org/wcci-2026/ieee-cec-2025/\nDBLP Index: https://dblp.org/db/c
+ onf/cec
+LOCATION:Maastricht Exhibition & Congress Centre (MECC)\, The Netherlands
+URL:https://attend.ieee.org/wcci-2026/ieee-cec-2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CEC 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270228T235959
+DTEND;TZID="UTC-12:00":20270301T000059
+DTSTAMP:20260919T092437Z
+UID:e9a89ab8-d4f5-4a29-90f2-73b4f5bcbb5c
+DESCRIPTION:IEEE Congress on Evolutionary Computation\n🗓️ Date: July 
+ 25-28\, 2027\n📍 Location: Edinburgh\, Scotland\, UK\n⏰ Original Deadl
+ ine (UTC-12): 2027-02-28 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CO
+ RE B\nConference Website: https://ieeecec.org/2027\nDBLP Index: https://db
+ lp.org/db/conf/cec
+LOCATION:Edinburgh\, Scotland\, UK
+URL:https://ieeecec.org/2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoNLL 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250314T235959
+DTEND;TZID="UTC-12:00":20250315T000059
+DTSTAMP:20260919T092437Z
+UID:45e03216-07a3-4050-8d57-b9e093ac66d2
+DESCRIPTION:Conference on Computational Natural Language Learning\n🗓️
+  Date: July 31 - August 1\, 2025\n📍 Location: Vienna\, Austria\n⏰ Ori
+ ginal Deadline (UTC-12): 2025-03-14 23:59:59\nCategory: 人工智能 (AI)
+ \nCCF C\, CORE B\nConference Website: https://www.conll.org/\nDBLP Index: 
+ https://dblp.org/db/conf/conll
+LOCATION:Vienna\, Austria
+URL:https://www.conll.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoNLL 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260219T235959
+DTEND;TZID="UTC-12:00":20260220T000059
+DTSTAMP:20260919T092437Z
+UID:95292413-a309-4973-a77e-69cbadad08d9
+DESCRIPTION:Conference on Computational Natural Language Learning\n🗓️
+  Date: July 3 - 4\, 2026\n📍 Location: San Diego\, California\, United S
+ tates\n⏰ Original Deadline (UTC-12): 2026-02-19 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF C\, CORE B\nConference Website: https://www.conll.org/
+ \nDBLP Index: https://dblp.org/db/conf/conll
+LOCATION:San Diego\, California\, United States
+URL:https://www.conll.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250821T235959
+DTEND;TZID="UTC-12:00":20250822T000059
+DTSTAMP:20260919T092437Z
+UID:e1b484fe-fd32-45ca-8313-7798bf6a3a09
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 21-24\, 2025\n📍 Location: London\, United Kin
+ gdom\n⏰ Original Deadline (UTC-12): 2025-08-21 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF C\nConference Website: https://www.adai.ai/dai/2025/in
+ dex.html\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:London\, United Kingdom
+URL:https://www.adai.ai/dai/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 Abstract Deadline [Research / Industry Track]
+DTSTART;TZID="UTC-12:00":20260727T235959
+DTEND;TZID="UTC-12:00":20260728T000059
+DTSTAMP:20260919T092437Z
+UID:a0a87cca-9554-4fc4-a6e3-b679e2b9a671
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 29-December 2\, 2026\n📍 Location: Hong Kong\,
+  China\n⏰ Original Deadline (AoE): 2026-07-27 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF C\nConference Website: https://www.adai.ai/dai/2026/index
+ .html\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 Deadline [Research / Industry Track]
+DTSTART;TZID="UTC-12:00":20260803T235959
+DTEND;TZID="UTC-12:00":20260804T000059
+DTSTAMP:20260919T092437Z
+UID:26234c62-bc24-42eb-8942-27a01fdb8bce
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 29-December 2\, 2026\n📍 Location: Hong Kong\,
+  China\n⏰ Original Deadline (AoE): 2026-08-03 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF C\nConference Website: https://www.adai.ai/dai/2026/index
+ .html\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 Deadline [AI Paper Track]
+DTSTART;TZID="UTC-12:00":20260810T235959
+DTEND;TZID="UTC-12:00":20260811T000059
+DTSTAMP:20260919T092437Z
+UID:23812bfa-7881-4cde-ba9c-eb4a8854bea0
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 29-December 2\, 2026\n📍 Location: Hong Kong\,
+  China\n⏰ Original Deadline (AoE): 2026-08-10 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF C\nConference Website: https://www.adai.ai/dai/2026/index
+ .html\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICANN 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230409T235959
+DTEND;TZID="UTC-12:00":20230410T000059
+DTSTAMP:20260919T092437Z
+UID:c8d3e8b2-ee30-4226-838b-68fbca92bf18
+DESCRIPTION:International Conference on Artificial Neural Networks\n🗓
+ ️ Date: Sept 26-29\, 2023\n📍 Location: Crete\, Greece\n⏰ Original D
+ eadline (UTC-12): 2023-04-09 23:59:59\nCategory: 人工智能 (AI)\nCCF C
+ \, CORE C\nConference Website: https://e-nns.org/icann2023/\nDBLP Index: h
+ ttps://dblp.org/db/conf/icann
+LOCATION:Crete\, Greece
+URL:https://e-nns.org/icann2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICANN 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230409T235959
+DTEND;TZID="UTC-12:00":20230410T000059
+DTSTAMP:20260919T092437Z
+UID:fda3ede9-a62d-4894-a177-42d0a6165eb3
+DESCRIPTION:International Conference on Artificial Neural Networks\n🗓
+ ️ Date: Sept 26-29\, 2023\n📍 Location: Crete\, Greece\n⏰ Original D
+ eadline (UTC-12): 2023-04-09 23:59:59\nCategory: 人工智能 (AI)\nCCF C
+ \, CORE C\nConference Website: https://e-nns.org/icann2023/\nDBLP Index: h
+ ttps://dblp.org/db/conf/icann
+LOCATION:Crete\, Greece
+URL:https://e-nns.org/icann2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICANN 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240325T235959
+DTEND;TZID="UTC-12:00":20240326T000059
+DTSTAMP:20260919T092437Z
+UID:d61a4c4f-2909-432e-9cf1-4fd0f59ca128
+DESCRIPTION:International Conference on Artificial Neural Networks\n🗓
+ ️ Date: Sept 17-20\, 2024\n📍 Location: Lugano-Viganello\, Switzerland
+ \n⏰ Original Deadline (AoE): 2024-03-25 23:59:59\nCategory: 人工智能
+  (AI)\nCCF C\, CORE C\nConference Website: https://e-nns.org/icann2024/\nD
+ BLP Index: https://dblp.org/db/conf/icann
+LOCATION:Lugano-Viganello\, Switzerland
+URL:https://e-nns.org/icann2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICANN 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250329T235959
+DTEND;TZID="UTC-12:00":20250330T000059
+DTSTAMP:20260919T092437Z
+UID:b47db6bb-0d1b-447f-956a-f172a67d32f7
+DESCRIPTION:International Conference on Artificial Neural Networks\n🗓
+ ️ Date: Sept 9-12\, 2025\n📍 Location: Kaunas\, Lithuania\n⏰ Origina
+ l Deadline (AoE): 2025-03-29 23:59:59\nCategory: 人工智能 (AI)\nCCF C
+ \, CORE C\nConference Website: https://e-nns.org/icann2025/\nDBLP Index: h
+ ttps://dblp.org/db/conf/icann
+LOCATION:Kaunas\, Lithuania
+URL:https://e-nns.org/icann2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICANN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260330T235959
+DTEND;TZID="UTC-12:00":20260331T000059
+DTSTAMP:20260919T092437Z
+UID:bf3ae1d6-9563-4f80-82a4-e5f6a13cd458
+DESCRIPTION:International Conference on Artificial Neural Networks\n🗓
+ ️ Date: Sept 14-17\, 2026\n📍 Location: Conference center of the Schoo
+ l of Psychology\, University of Padua\, Italy\n⏰ Original Deadline (AoE)
+ : 2026-03-30 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE C\nConfer
+ ence Website: https://e-nns.org/icann2026/\nDBLP Index: https://dblp.org/d
+ b/conf/icann
+LOCATION:Conference center of the School of Psychology\, University of Pad
+ ua\, Italy
+URL:https://e-nns.org/icann2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICONIP 2023 Deadline
+DTSTART;TZID="UTC-08:00":20230630T115900
+DTEND;TZID="UTC-08:00":20230630T120000
+DTSTAMP:20260919T092437Z
+UID:bedd26c0-3ff8-45e0-b259-0084ad939b6a
+DESCRIPTION:International Conference on Neural Information Processing\n
+ 🗓️ Date: Nov 20-23\, 2023\n📍 Location: Changsha\, China\n⏰ Origi
+ nal Deadline (UTC-8): 2023-06-30 11:59:00\nCategory: 人工智能 (AI)\nCC
+ F C\, CORE B\nConference Website: http://iconip2023.org/\nDBLP Index: http
+ s://dblp.org/db/conf/iconip
+LOCATION:Changsha\, China
+URL:http://iconip2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICONIP 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240722T235959
+DTEND;TZID="UTC-12:00":20240723T000059
+DTSTAMP:20260919T092437Z
+UID:e212786e-60dd-4fdc-9b75-a7dc7af98d3b
+DESCRIPTION:International Conference on Neural Information Processing\n
+ 🗓️ Date: December 2-6\, 2024\n📍 Location: Auckland\, New Zealand\n
+ ⏰ Original Deadline (UTC-12): 2024-07-22 23:59:59\nCategory: 人工智
+ 能 (AI)\nCCF C\, CORE B\nConference Website: http://iconip2024.org/\nDBLP
+  Index: https://dblp.org/db/conf/iconip
+LOCATION:Auckland\, New Zealand
+URL:http://iconip2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICONIP 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250522T235959
+DTEND;TZID="UTC-12:00":20250523T000059
+DTSTAMP:20260919T092437Z
+UID:df639321-b2ea-4d21-854c-0aac4b054152
+DESCRIPTION:International Conference on Neural Information Processing\n
+ 🗓️ Date: November 20-24\, 2025\n📍 Location: Okinawa\, Japan\n⏰ O
+ riginal Deadline (UTC-12): 2025-05-22 23:59:59\nCategory: 人工智能 (AI
+ )\nCCF C\, CORE B\nConference Website: https://iconip2025.apnns.org/\nDBLP
+  Index: https://dblp.org/db/conf/iconip
+LOCATION:Okinawa\, Japan
+URL:https://iconip2025.apnns.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICONIP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260531T235959
+DTEND;TZID="UTC-12:00":20260601T000059
+DTSTAMP:20260919T092437Z
+UID:be05b127-5e58-4aa4-a5e0-ae515ad95c73
+DESCRIPTION:International Conference on Neural Information Processing\n
+ 🗓️ Date: November 23-27\, 2026\n📍 Location: Melbourne\, Australia
+ \n⏰ Original Deadline (UTC-12): 2026-05-31 23:59:59\nCategory: 人工智
+ 能 (AI)\nCCF C\, CORE B\nConference Website: https://www.iconip2026.org/
+ \nDBLP Index: https://dblp.org/db/conf/iconip
+LOCATION:Melbourne\, Australia
+URL:https://www.iconip2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICTAI 2021 Deadline
+DTSTART;TZID="UTC-07:00":20210620T235900
+DTEND;TZID="UTC-07:00":20210621T000000
+DTSTAMP:20260919T092437Z
+UID:31d15fe2-148c-4fff-a78d-6e9dac47f447
+DESCRIPTION:International Conference on Tools with Artificial Intellignce
+ \n🗓️ Date: November 01-03\, 2021\n📍 Location: Washington DC\, USA
+ \n⏰ Original Deadline (UTC-7): 2021-06-20 23:59:00\nCategory: 人工智
+ 能 (AI)\nCCF C\, CORE B\nConference Website: https://ictai.computer.org/
+ \nDBLP Index: https://dblp.org/db/conf/ictai
+LOCATION:Washington DC\, USA
+URL:https://ictai.computer.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICTAI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260630T235900
+DTEND;TZID="UTC-12:00":20260701T000000
+DTSTAMP:20260919T092437Z
+UID:9496050d-7dc2-4fe4-a0e1-944cbb3ea5b1
+DESCRIPTION:International Conference on Tools with Artificial Intellignce
+ \n🗓️ Date: November 02-04\, 2026\n📍 Location: Boca Raton FL\, USA
+ \n⏰ Original Deadline (AoE): 2026-06-30 23:59:00\nCategory: 人工智能
+  (AI)\nCCF C\, CORE B\nConference Website: https://ictai.computer.org/2026
+ /\nDBLP Index: https://dblp.org/db/conf/ictai
+LOCATION:Boca Raton FL\, USA
+URL:https://ictai.computer.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20250411T235959
+DTEND;TZID="UTC-07:00":20250412T000059
+DTSTAMP:20260919T092437Z
+UID:ea4b1e0d-e08d-4ae5-9fce-c2961c62236a
+DESCRIPTION:International Joint Conference on Biometrics\n🗓️ Date: Se
+ ptember 8-11\, 2025\n📍 Location: Osaka\, Japan\n⏰ Original Deadline (
+ UTC-7): 2025-04-11 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE B\n
+ Conference Website: https://ijcb2025.ieee-biometrics.org/\nDBLP Index: htt
+ ps://dblp.org/db/conf/icb
+LOCATION:Osaka\, Japan
+URL:https://ijcb2025.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCB 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260430T235959
+DTEND;TZID="UTC-12:00":20260501T000059
+DTSTAMP:20260919T092437Z
+UID:5a3cd6d8-a8c9-4bee-a55d-b4ac6c509aed
+DESCRIPTION:International Joint Conference on Biometrics\n🗓️ Date: Se
+ ptember 1-4\, 2026\n📍 Location: Rome\, Italy\n⏰ Original Deadline (Ao
+ E): 2026-04-30 23:59:59\nCategory: 人工智能 (AI)\nCCF C\, CORE B\nConf
+ erence Website: https://ijcb2026.ieee-biometrics.org/\nDBLP Index: https:/
+ /dblp.org/db/conf/icb
+LOCATION:Rome\, Italy
+URL:https://ijcb2026.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSEM 2023 Deadline
+DTSTART;TZID="UTC-08:00":20230428T235900
+DTEND;TZID="UTC-08:00":20230429T000000
+DTSTAMP:20260919T092437Z
+UID:e1da0390-1b16-44c0-af7f-8bb37a74ac54
+DESCRIPTION:International Conference on Knowledge Science\, Engineering an
+ d Management\n🗓️ Date: Aug 16-18\, 2023\n📍 Location: Guangzhou\, C
+ hina\n⏰ Original Deadline (UTC-8): 2023-04-28 23:59:00\nCategory: 人工
+ 智能 (AI)\nCCF C\, CORE C\nConference Website: https://www.ksem2023.conf
+ erences.academy/\nDBLP Index: https://dblp.org/db/conf/ksem
+LOCATION:Guangzhou\, China
+URL:https://www.ksem2023.conferences.academy/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:KSEM 2024 Deadline
+DTSTART:20240215T235900Z
+DTEND:20240216T000000Z
+DTSTAMP:20260919T092437Z
+UID:aa946cb1-791f-45a8-a241-fa5f4d9b20d4
+DESCRIPTION:International Conference on Knowledge Science\, Engineering an
+ d Management\n🗓️ Date: Aug 16-18\, 2024\n📍 Location: Birmingham\n
+ ⏰ Original Deadline (UTC+0): 2024-02-15 23:59:00\nCategory: 人工智能
+  (AI)\nCCF C\, CORE C\nConference Website: https://ai-edge.net/\nDBLP Inde
+ x: https://dblp.org/db/conf/ksem
+LOCATION:Birmingham
+URL:https://ai-edge.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSEM 2025 Deadline
+DTSTART:20250320T235959Z
+DTEND:20250321T000059Z
+DTSTAMP:20260919T092437Z
+UID:7ff20813-5cf6-4ef8-9874-79c456da82f4
+DESCRIPTION:International Conference on Knowledge Science\, Engineering an
+ d Management\n🗓️ Date: August 4-6\, 2025\n📍 Location: Macao SAR\, 
+ China\n⏰ Original Deadline (UTC+0): 2025-03-20 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF C\, CORE C\nConference Website: https://ksem2025.scime
+ eting.cn/\nDBLP Index: https://dblp.org/db/conf/ksem
+LOCATION:Macao SAR\, China
+URL:https://ksem2025.scimeeting.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KSEM 2026 Deadline
+DTSTART:20260115T235959Z
+DTEND:20260116T000059Z
+DTSTAMP:20260919T092437Z
+UID:19fcee30-f485-4e94-8113-fbebe62874dc
+DESCRIPTION:International Conference on Knowledge Science\, Engineering an
+ d Management\n🗓️ Date: July 17-19\, 2026\n📍 Location: Beijing\, Ch
+ ina\n⏰ Original Deadline (UTC+0): 2026-01-15 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF C\, CORE C\nConference Website: https://ksem2026.rosc.org
+ .cn/\nDBLP Index: https://dblp.org/db/conf/ksem
+LOCATION:Beijing\, China
+URL:https://ksem2026.rosc.org.cn/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NLPCC 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250420T235959
+DTEND;TZID="UTC+08:00":20250421T000059
+DTSTAMP:20260919T092437Z
+UID:1d55f54c-9cf4-47ed-bbcb-12b8c6da80bd
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ Date: August 8-10\, 2025\n📍 Location: Urum
+ qi\, China\n⏰ Original Deadline (UTC+8): 2025-04-20 23:59:59\nCategory: 
+ 人工智能 (AI)\nCCF C\nConference Website: http://tcci.ccf.org.cn/confe
+ rence/2025/index.php\nDBLP Index: https://dblp.org/db/conf/nlpcc
+LOCATION:Urumqi\, China
+URL:http://tcci.ccf.org.cn/conference/2025/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NLPCC 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260620T235959
+DTEND;TZID="UTC+08:00":20260621T000059
+DTSTAMP:20260919T092437Z
+UID:aee2ff2a-2a04-43f8-89c9-fad256e19780
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ Date: November 3-5\, 2026\n📍 Location: Mac
+ au\, China\n⏰ Original Deadline (UTC+8): 2026-06-20 23:59:59\nCategory: 
+ 人工智能 (AI)\nCCF C\nConference Website: http://tcci.ccf.org.cn/confe
+ rence/2026/\nDBLP Index: https://dblp.org/db/conf/nlpcc
+LOCATION:Macau\, China
+URL:http://tcci.ccf.org.cn/conference/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRICAI 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240626T235959
+DTEND;TZID="UTC-12:00":20240627T000059
+DTSTAMP:20260919T092437Z
+UID:c6683770-81f0-47cc-97c0-108ca2c26054
+DESCRIPTION:Pacific Rim International Conference on Artificial Intelligenc
+ e\n🗓️ Date: Nov 18-24\, 2024\n📍 Location: Kyoto\, Japan\n⏰ Origi
+ nal Deadline (UTC-12): 2024-06-26 23:59:59\nCategory: 人工智能 (AI)\nC
+ CF C\, CORE B\nConference Website: https://www.pricai.org/2024/\nDBLP Inde
+ x: https://dblp.org/db/conf/pricai
+LOCATION:Kyoto\, Japan
+URL:https://www.pricai.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRICAI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20260919T092437Z
+UID:00bfc18a-78dc-4fc0-8fc9-a3568551bfb5
+DESCRIPTION:Pacific Rim International Conference on Artificial Intelligenc
+ e\n🗓️ Date: Nov 17-21\, 2025\n📍 Location: Wellington\, New Zealand
+ \n⏰ Original Deadline (UTC-12): 2025-06-27 23:59:59\nCategory: 人工智
+ 能 (AI)\nCCF C\, CORE B\nConference Website: https://www.pricai.org/2025/
+ \nDBLP Index: https://dblp.org/db/conf/pricai
+LOCATION:Wellington\, New Zealand
+URL:https://www.pricai.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRICAI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260627T235959
+DTEND;TZID="UTC-12:00":20260628T000059
+DTSTAMP:20260919T092437Z
+UID:3ec21c69-32e8-45e2-a19d-42298c066503
+DESCRIPTION:Pacific Rim International Conference on Artificial Intelligenc
+ e\n🗓️ Date: Nov 17-20\, 2026\n📍 Location: Guangzhou\, China\n⏰ O
+ riginal Deadline (UTC-12): 2026-06-27 23:59:59\nCategory: 人工智能 (AI
+ )\nCCF C\, CORE B\nConference Website: https://2026.pricai.org/\nDBLP Inde
+ x: https://dblp.org/db/conf/pricai
+LOCATION:Guangzhou\, China
+URL:https://2026.pricai.org/
+END:VEVENT
+END:VCALENDAR

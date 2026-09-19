@@ -1,0 +1,2683 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDE 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201001T235959
+DTEND;TZID="UTC-12:00":20201002T000059
+DTSTAMP:20260919T092448Z
+UID:e670e400-0d32-487b-87ea-8650a99e0358
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: April 19-22\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (AoE)
+ : 2020-10-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
+ \nCCF A\, CORE A*\, THCPL A\nConference Website: https://icde2021.gr/\nDBL
+ P Index: https://dblp.org/db/conf/icde
+LOCATION:Virtual
+URL:https://icde2021.gr/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDE 2022 Deadline [first round]
+DTSTART;TZID="UTC-08:00":20210721T235959
+DTEND;TZID="UTC-08:00":20210722T000059
+DTSTAMP:20260919T092448Z
+UID:b5d1aa49-d323-45e2-8fd8-a58528a63554
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 9-12\, 2022\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ Original D
+ eadline (UTC-8): 2021-07-21 23:59:59\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icd
+ e2022.ieeecomputer.my/important-dates/\nDBLP Index: https://dblp.org/db/co
+ nf/icde
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://icde2022.ieeecomputer.my/important-dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2022 Deadline [second round]
+DTSTART;TZID="UTC-08:00":20211117T235959
+DTEND;TZID="UTC-08:00":20211118T000059
+DTSTAMP:20260919T092448Z
+UID:e7113939-4718-4dcd-afd6-985ce86bfdf6
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 9-12\, 2022\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ Original D
+ eadline (UTC-8): 2021-11-17 23:59:59\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icd
+ e2022.ieeecomputer.my/important-dates/\nDBLP Index: https://dblp.org/db/co
+ nf/icde
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://icde2022.ieeecomputer.my/important-dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2023 Deadline [first round]
+DTSTART;TZID="UTC-08:00":20220425T235959
+DTEND;TZID="UTC-08:00":20220426T000059
+DTSTAMP:20260919T092448Z
+UID:1207bd6e-01a3-4c11-a929-b34de944cbcc
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: April 3-7\, 2023\n📍 Location: Anaheim\, California\, USA\n⏰ Origin
+ al Deadline (UTC-8): 2022-04-25 23:59:59\nCategory: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https:/
+ /icde2023.ics.uci.edu/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Anaheim\, California\, USA
+URL:https://icde2023.ics.uci.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2023 Deadline [second round]
+DTSTART;TZID="UTC-08:00":20220708T235959
+DTEND;TZID="UTC-08:00":20220709T000059
+DTSTAMP:20260919T092448Z
+UID:10a75335-dd23-4788-9adc-cce115609b0b
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: April 3-7\, 2023\n📍 Location: Anaheim\, California\, USA\n⏰ Origin
+ al Deadline (UTC-8): 2022-07-08 23:59:59\nCategory: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https:/
+ /icde2023.ics.uci.edu/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Anaheim\, California\, USA
+URL:https://icde2023.ics.uci.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2023 Deadline [third round]
+DTSTART;TZID="UTC-08:00":20221008T235959
+DTEND;TZID="UTC-08:00":20221009T000059
+DTSTAMP:20260919T092448Z
+UID:eec30e65-4870-42f2-b32d-39d4d510c1dc
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: April 3-7\, 2023\n📍 Location: Anaheim\, California\, USA\n⏰ Origin
+ al Deadline (UTC-8): 2022-10-08 23:59:59\nCategory: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https:/
+ /icde2023.ics.uci.edu/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Anaheim\, California\, USA
+URL:https://icde2023.ics.uci.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2024 Deadline [first round]
+DTSTART;TZID="UTC-12:00":20230728T235959
+DTEND;TZID="UTC-12:00":20230729T000059
+DTSTAMP:20260919T092448Z
+UID:a5c54a87-a786-428d-abbb-12400cc38f05
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: April 16-19\, 2024\n📍 Location: Utrecht\, Netherlands\n⏰ Original 
+ Deadline (AoE): 2023-07-28 23:59:59\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icd
+ e2024.github.io/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Utrecht\, Netherlands
+URL:https://icde2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2024 Deadline [second round]
+DTSTART;TZID="UTC-12:00":20231203T235959
+DTEND;TZID="UTC-12:00":20231204T000059
+DTSTAMP:20260919T092448Z
+UID:49e41d49-4535-42dd-af16-7b39b8045328
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: April 16-19\, 2024\n📍 Location: Utrecht\, Netherlands\n⏰ Original 
+ Deadline (AoE): 2023-12-03 23:59:59\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icd
+ e2024.github.io/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Utrecht\, Netherlands
+URL:https://icde2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2025 Deadline [first round]
+DTSTART;TZID="UTC-12:00":20240802T235959
+DTEND;TZID="UTC-12:00":20240803T000059
+DTSTAMP:20260919T092448Z
+UID:09af0fff-38ee-4a8f-aea1-0e328d91369a
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 19-23\, 2025\n📍 Location: Hong Kong\, China\n⏰ Original Deadli
+ ne (AoE): 2024-08-02 23:59:59\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://ieee-icde
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Hong Kong\, China
+URL:https://ieee-icde.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2025 Deadline [second round]
+DTSTART;TZID="UTC-12:00":20241125T235959
+DTEND;TZID="UTC-12:00":20241126T000059
+DTSTAMP:20260919T092448Z
+UID:99680143-8b37-40e2-8bd6-e1394d97ede6
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 19-23\, 2025\n📍 Location: Hong Kong\, China\n⏰ Original Deadli
+ ne (AoE): 2024-11-25 23:59:59\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://ieee-icde
+ .org/2025/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Hong Kong\, China
+URL:https://ieee-icde.org/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDE 2026 Deadline [first round]
+DTSTART;TZID="UTC-07:00":20250618T170000
+DTEND;TZID="UTC-07:00":20250618T170100
+DTSTAMP:20260919T092448Z
+UID:069a9ed6-926d-457e-8d60-91890b885d5c
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 4-8\, 2026\n📍 Location: Montréal\, Canada\n⏰ Original Deadlin
+ e (UTC-7): 2025-06-18 17:00:00\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icde2026.
+ github.io/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Montréal\, Canada
+URL:https://icde2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2026 Deadline [second round]
+DTSTART;TZID="UTC-07:00":20251027T170000
+DTEND;TZID="UTC-07:00":20251027T170100
+DTSTAMP:20260919T092448Z
+UID:7793ad01-ede4-42ca-8cc4-64b61238b4a1
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 4-8\, 2026\n📍 Location: Montréal\, Canada\n⏰ Original Deadlin
+ e (UTC-7): 2025-10-27 17:00:00\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icde2026.
+ github.io/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Montréal\, Canada
+URL:https://icde2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2027 Deadline [first round]
+DTSTART;TZID="UTC-07:00":20260611T170000
+DTEND;TZID="UTC-07:00":20260611T170100
+DTSTAMP:20260919T092448Z
+UID:b2e3e1e0-e8c1-482b-81a1-37f87abdc639
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 17-21\, 2027\n📍 Location: Copenhagen\, Denmark\n⏰ Original Dea
+ dline (UTC-7): 2026-06-11 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icd
+ e2027.github.io/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Copenhagen\, Denmark
+URL:https://icde2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2027 Deadline [second round]
+DTSTART;TZID="UTC-07:00":20261111T170000
+DTEND;TZID="UTC-07:00":20261111T170100
+DTSTAMP:20260919T092448Z
+UID:b7d19af7-2502-46b5-9742-c5de57332c43
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ Dat
+ e: May 17-21\, 2027\n📍 Location: Copenhagen\, Denmark\n⏰ Original Dea
+ dline (UTC-7): 2026-11-11 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://icd
+ e2027.github.io/\nDBLP Index: https://dblp.org/db/conf/icde
+LOCATION:Copenhagen\, Denmark
+URL:https://icde2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 Abstract Deadline [FIRST SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20240531T170000
+DTEND;TZID="UTC-07:00":20240531T170100
+DTSTAMP:20260919T092448Z
+UID:e3a48adf-ad67-479f-8286-e1dab501d3e0
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 22-27\, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline
+  (UTC-7): 2024-05-31 17:00:00\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2025.sigm
+ od.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 Deadline [FIRST SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20240607T170000
+DTEND;TZID="UTC-07:00":20240607T170100
+DTSTAMP:20260919T092448Z
+UID:3a9ab8ed-ee1c-43c1-8452-fe533ec17001
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 22-27\, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline
+  (UTC-7): 2024-06-07 17:00:00\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2025.sigm
+ od.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 Abstract Deadline [SECOND SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20241202T170000
+DTEND;TZID="UTC-07:00":20241202T170100
+DTSTAMP:20260919T092448Z
+UID:5fa90cd7-2731-4970-9d92-4d9754bd2fff
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 22-27\, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline
+  (UTC-7): 2024-12-02 17:00:00\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2025.sigm
+ od.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2025 Deadline [SECOND SUBMISSION CYCLE]
+DTSTART;TZID="UTC-07:00":20241209T170000
+DTEND;TZID="UTC-07:00":20241209T170100
+DTSTAMP:20260919T092448Z
+UID:6bbe2883-452f-46aa-a08d-261a1ce1e719
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 22-27\, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline
+  (UTC-7): 2024-12-09 17:00:00\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2025.sigm
+ od.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 Abstract Deadline [First Submission Cycle]
+DTSTART;TZID="UTC-12:00":20260523T235959
+DTEND;TZID="UTC-12:00":20260524T000059
+DTSTAMP:20260919T092448Z
+UID:cc7ee427-c97d-46a8-85a1-469bf7c6d1e5
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 13-19\, 2027\n📍 Location: Huntington Beach\, California\, USA\n
+ ⏰ Original Deadline (AoE): 2026-05-23 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website
+ : https://2027.sigmod.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 Deadline [First Submission Cycle]
+DTSTART;TZID="UTC-12:00":20260530T235959
+DTEND;TZID="UTC-12:00":20260531T000059
+DTSTAMP:20260919T092448Z
+UID:fd3dc95b-cd7e-4d7b-a243-9f59f8ec0155
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 13-19\, 2027\n📍 Location: Huntington Beach\, California\, USA\n
+ ⏰ Original Deadline (AoE): 2026-05-30 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website
+ : https://2027.sigmod.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 Abstract Deadline [Second Submission Cycle]
+DTSTART;TZID="UTC-12:00":20261203T235959
+DTEND;TZID="UTC-12:00":20261204T000059
+DTSTAMP:20260919T092448Z
+UID:e5d3cd7d-6e6a-4101-8b48-57982378e7fc
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 13-19\, 2027\n📍 Location: Huntington Beach\, California\, USA\n
+ ⏰ Original Deadline (AoE): 2026-12-03 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website
+ : https://2027.sigmod.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PODS 2027 Deadline [Second Submission Cycle]
+DTSTART;TZID="UTC-12:00":20261210T235959
+DTEND;TZID="UTC-12:00":20261211T000059
+DTSTAMP:20260919T092448Z
+UID:5e36e7a0-3e62-4f05-9124-cb5d89140497
+DESCRIPTION:ACM Symposium on Principles of Database Systems\n🗓️ Date:
+  June 13-19\, 2027\n📍 Location: Huntington Beach\, California\, USA\n
+ ⏰ Original Deadline (AoE): 2026-12-10 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A*\, THCPL A\nConference Website
+ : https://2027.sigmod.org/\nDBLP Index: https://dblp.org/db/conf/pods
+LOCATION:Huntington Beach\, California\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2021 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20210202T235959
+DTEND;TZID="UTC-12:00":20210203T000059
+DTSTAMP:20260919T092448Z
+UID:3e9bc9e1-c7a7-4ec0-ab3e-2c173df37bfc
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 11-15\, 2021\n📍 Location: Virtual\n
+ ⏰ Original Deadline (AoE): 2021-02-02 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website
+ : http://sigir.org/sigir2021/\nDBLP Index: https://dblp.org/db/conf/sigir
+LOCATION:Virtual
+URL:http://sigir.org/sigir2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210209T235959
+DTEND;TZID="UTC-12:00":20210210T000059
+DTSTAMP:20260919T092448Z
+UID:bfc11cbf-9216-457d-9506-0f1fdad66f4d
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 11-15\, 2021\n📍 Location: Virtual\n
+ ⏰ Original Deadline (AoE): 2021-02-09 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website
+ : http://sigir.org/sigir2021/\nDBLP Index: https://dblp.org/db/conf/sigir
+LOCATION:Virtual
+URL:http://sigir.org/sigir2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220121T235959
+DTEND;TZID="UTC-12:00":20220122T000059
+DTSTAMP:20260919T092448Z
+UID:c86593d5-59d4-4d67-91f9-20af52198426
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 11-15\, 2022\n📍 Location: Madrid\n
+ ⏰ Original Deadline (AoE): 2022-01-21 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website
+ : https://sigir.org/sigir2022/\nDBLP Index: https://dblp.org/db/conf/sigir
+LOCATION:Madrid
+URL:https://sigir.org/sigir2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220128T235959
+DTEND;TZID="UTC-12:00":20220129T000059
+DTSTAMP:20260919T092448Z
+UID:c20413ae-55a1-41a6-b28d-ac2e913b3e52
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 11-15\, 2022\n📍 Location: Madrid\n
+ ⏰ Original Deadline (AoE): 2022-01-28 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website
+ : https://sigir.org/sigir2022/\nDBLP Index: https://dblp.org/db/conf/sigir
+LOCATION:Madrid
+URL:https://sigir.org/sigir2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230124T235959
+DTEND;TZID="UTC-12:00":20230125T000059
+DTSTAMP:20260919T092448Z
+UID:9fc1b05f-66cb-4f92-84c1-48d2601e672d
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 23-27\, 2023\n📍 Location: Taipei\, T
+ aiwan\n⏰ Original Deadline (AoE): 2023-01-24 23:59:59\nCategory: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference 
+ Website: https://sigir.org/sigir2023/\nDBLP Index: https://dblp.org/db/con
+ f/sigir
+LOCATION:Taipei\, Taiwan
+URL:https://sigir.org/sigir2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230131T235959
+DTEND;TZID="UTC-12:00":20230201T000059
+DTSTAMP:20260919T092448Z
+UID:bd96bae8-3279-46c6-ac67-46724884452d
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 23-27\, 2023\n📍 Location: Taipei\, T
+ aiwan\n⏰ Original Deadline (AoE): 2023-01-31 23:59:59\nCategory: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference 
+ Website: https://sigir.org/sigir2023/\nDBLP Index: https://dblp.org/db/con
+ f/sigir
+LOCATION:Taipei\, Taiwan
+URL:https://sigir.org/sigir2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240119T235959
+DTEND;TZID="UTC-12:00":20240120T000059
+DTSTAMP:20260919T092448Z
+UID:a77cbb40-be76-4a58-b504-f1e8c9195582
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 14-18\, 2024\n📍 Location: Washington
+  D.C.\, USA\n⏰ Original Deadline (AoE): 2024-01-19 23:59:59\nCategory: 
+ 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConfe
+ rence Website: https://sigir-2024.github.io/index.html\nDBLP Index: https:
+ //dblp.org/db/conf/sigir
+LOCATION:Washington D.C.\, USA
+URL:https://sigir-2024.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240125T235959
+DTEND;TZID="UTC-12:00":20240126T000059
+DTSTAMP:20260919T092448Z
+UID:b8e67b83-d16a-45ce-a58f-3f5044f7ab10
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 14-18\, 2024\n📍 Location: Washington
+  D.C.\, USA\n⏰ Original Deadline (AoE): 2024-01-25 23:59:59\nCategory: 
+ 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConfe
+ rence Website: https://sigir-2024.github.io/index.html\nDBLP Index: https:
+ //dblp.org/db/conf/sigir
+LOCATION:Washington D.C.\, USA
+URL:https://sigir-2024.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250116T235959
+DTEND;TZID="UTC-12:00":20250117T000059
+DTSTAMP:20260919T092448Z
+UID:e132739e-9dcb-41a7-b0af-f431f0d6f565
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 13-18\, 2025\n📍 Location: Padova\, I
+ taly\n⏰ Original Deadline (AoE): 2025-01-16 23:59:59\nCategory: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference 
+ Website: https://sigir2025.dei.unipd.it/\nDBLP Index: https://dblp.org/db/
+ conf/sigir
+LOCATION:Padova\, Italy
+URL:https://sigir2025.dei.unipd.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250123T235959
+DTEND;TZID="UTC-12:00":20250124T000059
+DTSTAMP:20260919T092448Z
+UID:90d70589-ae78-47df-aa5e-99e9a6396650
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 13-18\, 2025\n📍 Location: Padova\, I
+ taly\n⏰ Original Deadline (AoE): 2025-01-23 23:59:59\nCategory: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference 
+ Website: https://sigir2025.dei.unipd.it/\nDBLP Index: https://dblp.org/db/
+ conf/sigir
+LOCATION:Padova\, Italy
+URL:https://sigir2025.dei.unipd.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260919T092448Z
+UID:498e639a-ddfb-453d-9241-ff73971713cc
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 20-24\, 2026\n📍 Location: Melbourne
+ \, Australia\n⏰ Original Deadline (AoE): 2026-01-15 23:59:59\nCategory: 
+ 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConfe
+ rence Website: https://sigir2026.org/en-AU\nDBLP Index: https://dblp.org/d
+ b/conf/sigir
+LOCATION:Melbourne\, Australia
+URL:https://sigir2026.org/en-AU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260122T235959
+DTEND;TZID="UTC-12:00":20260123T000059
+DTSTAMP:20260919T092448Z
+UID:5e72a421-c7a4-448a-a8c4-40be0f16ff7d
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ Date: July 20-24\, 2026\n📍 Location: Melbourne
+ \, Australia\n⏰ Original Deadline (AoE): 2026-01-22 23:59:59\nCategory: 
+ 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConfe
+ rence Website: https://sigir2026.org/en-AU\nDBLP Index: https://dblp.org/d
+ b/conf/sigir
+LOCATION:Melbourne\, Australia
+URL:https://sigir2026.org/en-AU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210208T235959
+DTEND;TZID="UTC-12:00":20210209T000059
+DTSTAMP:20260919T092448Z
+UID:c0330d55-f958-44fa-9558-ecb1b0009c43
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 14-18\, 2021\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2021-
+ 02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF A
+ \, CORE A*\, THCPL A\nConference Website: https://www.kdd.org/kdd2021/\nDB
+ LP Index: https://dblp.org/db/conf/kdd
+LOCATION:Singapore
+URL:https://www.kdd.org/kdd2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220210T235959
+DTEND;TZID="UTC-12:00":20220211T000059
+DTSTAMP:20260919T092448Z
+UID:80917eea-f664-4b14-a369-7b6daeeb14ac
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 14-18\, 2022\n📍 Location: Washington DC Convention Center\, USA\n⏰ Or
+ iginal Deadline (AoE): 2022-02-10 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.kdd.org/kdd2022/\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Washington DC Convention Center\, USA
+URL:https://www.kdd.org/kdd2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230202T235959
+DTEND;TZID="UTC-12:00":20230203T000059
+DTSTAMP:20260919T092448Z
+UID:46472258-789e-43d7-b772-cb1fa2f125d3
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 6-10\, 2023\n📍 Location: Long Beach Convention & Entertainment Center\,
+  USA\n⏰ Original Deadline (AoE): 2023-02-02 23:59:59\nCategory: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference 
+ Website: https://kdd.org/kdd2023/\nDBLP Index: https://dblp.org/db/conf/kd
+ d
+LOCATION:Long Beach Convention & Entertainment Center\, USA
+URL:https://kdd.org/kdd2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240201T235959
+DTEND;TZID="UTC-12:00":20240202T000059
+DTSTAMP:20260919T092448Z
+UID:e09472f6-b5a6-40ca-aad4-5a7f9acb537f
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 25-29\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (AoE
+ ): 2024-02-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
+ \nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2024.kdd.org/r
+ esearch-track-call-for-papers/\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Barcelona\, Spain
+URL:https://kdd2024.kdd.org/research-track-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240208T235959
+DTEND;TZID="UTC-12:00":20240209T000059
+DTSTAMP:20260919T092448Z
+UID:253d153a-98c8-49be-9487-990aceb8856b
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 25-29\, 2024\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (AoE
+ ): 2024-02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)
+ \nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2024.kdd.org/r
+ esearch-track-call-for-papers/\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Barcelona\, Spain
+URL:https://kdd2024.kdd.org/research-track-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 Abstract Deadline [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20240801T235959
+DTEND;TZID="UTC-12:00":20240802T000059
+DTSTAMP:20260919T092448Z
+UID:99649fc6-37fa-472b-8def-99be881d45e1
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
+ oE): 2024-08-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
+ B)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2025.kdd.org
+ /\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 Deadline [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20240808T235959
+DTEND;TZID="UTC-12:00":20240809T000059
+DTSTAMP:20260919T092448Z
+UID:972fbb79-f7f3-4cb5-bb40-ec804b365984
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
+ oE): 2024-08-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
+ B)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2025.kdd.org
+ /\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 Abstract Deadline [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250203T235959
+DTEND;TZID="UTC-12:00":20250204T000059
+DTSTAMP:20260919T092448Z
+UID:2da19bc6-42f8-4f70-9a0f-be6b630cd06c
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
+ oE): 2025-02-03 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
+ B)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2025.kdd.org
+ /\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 Deadline [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250210T235959
+DTEND;TZID="UTC-12:00":20250211T000059
+DTSTAMP:20260919T092448Z
+UID:7a3dd4c2-90cb-46ed-906e-76540c8ff02e
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 3-7\, 2025\n📍 Location: Toronto\, ON\, Canada\n⏰ Original Deadline (A
+ oE): 2025-02-10 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (D
+ B)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2025.kdd.org
+ /\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 Abstract Deadline [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250724T235959
+DTEND;TZID="UTC-12:00":20250725T000059
+DTSTAMP:20260919T092448Z
+UID:7b31ff18-dd8c-450c-a33b-e034509bab9b
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 9-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 202
+ 5-07-24 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://kdd2026.kdd.org/\nDBLP 
+ Index: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 Deadline [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250731T235959
+DTEND;TZID="UTC-12:00":20250801T000059
+DTSTAMP:20260919T092448Z
+UID:d2c1979e-ac8b-489e-a956-afb708d4c510
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 9-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 202
+ 5-07-31 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://kdd2026.kdd.org/\nDBLP 
+ Index: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 Abstract Deadline [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260201T235959
+DTEND;TZID="UTC-12:00":20260202T000059
+DTSTAMP:20260919T092448Z
+UID:a68d845a-4b5e-430a-87b8-ec088d3746ff
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 9-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 202
+ 6-02-01 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://kdd2026.kdd.org/\nDBLP 
+ Index: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 Deadline [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260919T092448Z
+UID:15667b9f-64f4-4cce-be35-0d81ab2b64e2
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 9-13\, 2026\n📍 Location: Jeju\, Korea\n⏰ Original Deadline (AoE): 202
+ 6-02-08 23:59:59\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://kdd2026.kdd.org/\nDBLP 
+ Index: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2027 Abstract Deadline [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260719T235959
+DTEND;TZID="UTC-12:00":20260720T000059
+DTSTAMP:20260919T092448Z
+UID:00b91cae-1ab3-4ca0-b677-3f80e912952a
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 1-5\, 2027\n📍 Location: San Jose\, California\, USA\n⏰ Original Deadl
+ ine (AoE): 2026-07-19 23:59:59\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2027.k
+ dd.org/\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:San Jose\, California\, USA
+URL:https://kdd2027.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2027 Deadline [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260726T235959
+DTEND;TZID="UTC-12:00":20260727T000059
+DTSTAMP:20260919T092448Z
+UID:166d362c-251b-4aa7-943b-d7d43ed4538d
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ Date: August 
+ 1-5\, 2027\n📍 Location: San Jose\, California\, USA\n⏰ Original Deadl
+ ine (AoE): 2026-07-26 23:59:59\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://kdd2027.k
+ dd.org/\nDBLP Index: https://dblp.org/db/conf/kdd
+LOCATION:San Jose\, California\, USA
+URL:https://kdd2027.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2021 Deadline [second round]
+DTSTART;TZID="UTC-08:00":20200922T170000
+DTEND;TZID="UTC-08:00":20200922T170100
+DTSTAMP:20260919T092449Z
+UID:bec44a3c-4105-4138-b5cc-8bebbea5634e
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 20-25
+ \, 2021\n📍 Location: Xi'an\, China\n⏰ Original Deadline (UTC-8): 2020
+ -09-22 17:00:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF A
+ \, CORE A*\, THCPL A\nConference Website: http://2021.sigmod.org/\nDBLP In
+ dex: https://dblp.org/db/conf/sigmod
+LOCATION:Xi'an\, China
+URL:http://2021.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2022 Deadline [first round]
+DTSTART;TZID="UTC-08:00":20210702T170000
+DTEND;TZID="UTC-08:00":20210702T170100
+DTSTAMP:20260919T092449Z
+UID:7b105ba8-563a-4b96-b2e9-36e6616b0946
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 12-17
+ \, 2022\n📍 Location: Philadelphia\, PA\, USA\n⏰ Original Deadline (UT
+ C-8): 2021-07-02 17:00:00\nCategory: 数据库/数据挖掘/内容检索 (
+ DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://2022.sigmod.org
+ /\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Philadelphia\, PA\, USA
+URL:http://2022.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2022 Deadline [second round]
+DTSTART;TZID="UTC-08:00":20210915T170000
+DTEND;TZID="UTC-08:00":20210915T170100
+DTSTAMP:20260919T092449Z
+UID:df03b5d0-dc7f-46f8-8982-9790193f707d
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 12-17
+ \, 2022\n📍 Location: Philadelphia\, PA\, USA\n⏰ Original Deadline (UT
+ C-8): 2021-09-15 17:00:00\nCategory: 数据库/数据挖掘/内容检索 (
+ DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://2022.sigmod.org
+ /\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Philadelphia\, PA\, USA
+URL:http://2022.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2023 Deadline [first round]
+DTSTART;TZID="UTC-08:00":20220415T235900
+DTEND;TZID="UTC-08:00":20220416T000000
+DTSTAMP:20260919T092449Z
+UID:e83b7013-6798-4cb3-b7b0-0388b061fe08
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 18-23
+ \, 2022\n📍 Location: Seattle\, WA\, USA\n⏰ Original Deadline (UTC-8):
+  2022-04-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: http://2023.sigmod.org/\nDB
+ LP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Seattle\, WA\, USA
+URL:http://2023.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2023 Deadline [second round]
+DTSTART;TZID="UTC-08:00":20220715T235900
+DTEND;TZID="UTC-08:00":20220716T000000
+DTSTAMP:20260919T092449Z
+UID:c55b124e-eafe-4c57-b7f4-121b67936568
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 18-23
+ \, 2022\n📍 Location: Seattle\, WA\, USA\n⏰ Original Deadline (UTC-8):
+  2022-07-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: http://2023.sigmod.org/\nDB
+ LP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Seattle\, WA\, USA
+URL:http://2023.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2023 Deadline [third round]
+DTSTART;TZID="UTC-08:00":20221015T235900
+DTEND;TZID="UTC-08:00":20221016T000000
+DTSTAMP:20260919T092449Z
+UID:ebd9d4f1-2a96-4b33-8b94-c8508680815f
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 18-23
+ \, 2022\n📍 Location: Seattle\, WA\, USA\n⏰ Original Deadline (UTC-8):
+  2022-10-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: http://2023.sigmod.org/\nDB
+ LP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Seattle\, WA\, USA
+URL:http://2023.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 Deadline [round 1]
+DTSTART;TZID="UTC-07:00":20230115T235900
+DTEND;TZID="UTC-07:00":20230116T000000
+DTSTAMP:20260919T092449Z
+UID:3deccdfb-f0ed-44dc-8616-d4cb80c6db9e
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 11-16
+ \, 2024\n📍 Location: Santiago\, Chile\n⏰ Original Deadline (UTC-7): 2
+ 023-01-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCC
+ F A\, CORE A*\, THCPL A\nConference Website: http://2024.sigmod.org/\nDBLP
+  Index: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 Deadline [round 2]
+DTSTART;TZID="UTC-07:00":20230415T235900
+DTEND;TZID="UTC-07:00":20230416T000000
+DTSTAMP:20260919T092449Z
+UID:93724091-a803-4400-915b-439c431c0309
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 11-16
+ \, 2024\n📍 Location: Santiago\, Chile\n⏰ Original Deadline (UTC-7): 2
+ 023-04-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCC
+ F A\, CORE A*\, THCPL A\nConference Website: http://2024.sigmod.org/\nDBLP
+  Index: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 Deadline [round 3]
+DTSTART;TZID="UTC-07:00":20230715T235900
+DTEND;TZID="UTC-07:00":20230716T000000
+DTSTAMP:20260919T092449Z
+UID:520637f1-45f4-419c-bfc6-4525f207467d
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 11-16
+ \, 2024\n📍 Location: Santiago\, Chile\n⏰ Original Deadline (UTC-7): 2
+ 023-07-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCC
+ F A\, CORE A*\, THCPL A\nConference Website: http://2024.sigmod.org/\nDBLP
+  Index: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 Deadline [round 4]
+DTSTART;TZID="UTC-07:00":20231015T235900
+DTEND;TZID="UTC-07:00":20231016T000000
+DTSTAMP:20260919T092449Z
+UID:bf449b42-16e0-4b93-9501-e6b943874a60
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 11-16
+ \, 2024\n📍 Location: Santiago\, Chile\n⏰ Original Deadline (UTC-7): 2
+ 023-10-15 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCC
+ F A\, CORE A*\, THCPL A\nConference Website: http://2024.sigmod.org/\nDBLP
+  Index: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Abstract Deadline [round 1]
+DTSTART;TZID="UTC-12:00":20240110T235900
+DTEND;TZID="UTC-12:00":20240111T000000
+DTSTAMP:20260919T092449Z
+UID:0dd1ae0f-2607-4312-96aa-0099631d1758
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-01-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Deadline [round 1]
+DTSTART;TZID="UTC-12:00":20240117T235900
+DTEND;TZID="UTC-12:00":20240118T000000
+DTSTAMP:20260919T092449Z
+UID:7ea98642-57aa-484a-948d-d121816dcef8
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-01-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Abstract Deadline [round 2]
+DTSTART;TZID="UTC-12:00":20240410T235900
+DTEND;TZID="UTC-12:00":20240411T000000
+DTSTAMP:20260919T092449Z
+UID:1e96e306-2046-4010-835d-43c1a3d35d62
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-04-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Deadline [round 2]
+DTSTART;TZID="UTC-12:00":20240417T235900
+DTEND;TZID="UTC-12:00":20240418T000000
+DTSTAMP:20260919T092449Z
+UID:21e99ad3-f0a2-4ae8-bc0f-246d07613b86
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-04-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Abstract Deadline [round 3]
+DTSTART;TZID="UTC-12:00":20240710T235900
+DTEND;TZID="UTC-12:00":20240711T000000
+DTSTAMP:20260919T092449Z
+UID:2f1e8330-c8d8-4f78-ba0a-170c06f377ac
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-07-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Deadline [round 3]
+DTSTART;TZID="UTC-12:00":20240717T235900
+DTEND;TZID="UTC-12:00":20240718T000000
+DTSTAMP:20260919T092449Z
+UID:21a7b585-e0f5-464b-8ad2-aa76afd6b14d
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-07-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Abstract Deadline [round 4]
+DTSTART;TZID="UTC-12:00":20241010T235900
+DTEND;TZID="UTC-12:00":20241011T000000
+DTSTAMP:20260919T092449Z
+UID:a9bfd804-c151-42ea-aaed-3a53985c7695
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-10-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 Deadline [round 4]
+DTSTART;TZID="UTC-12:00":20241017T235900
+DTEND;TZID="UTC-12:00":20241018T000000
+DTSTAMP:20260919T092449Z
+UID:9c5b02f3-4763-4bcc-b18d-4d5a7868def3
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 22-27
+ \, 2025\n📍 Location: Berlin\, Germany\n⏰ Original Deadline (AoE): 202
+ 4-10-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\nCCF 
+ A\, CORE A*\, THCPL A\nConference Website: https://2025.sigmod.org/\nDBLP 
+ Index: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Abstract Deadline [round 1]
+DTSTART;TZID="UTC-12:00":20250110T235900
+DTEND;TZID="UTC-12:00":20250111T000000
+DTSTAMP:20260919T092449Z
+UID:5c940553-5b6c-4ffb-a630-36b8d059f82a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-01-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Deadline [round 1]
+DTSTART;TZID="UTC-12:00":20250117T235900
+DTEND;TZID="UTC-12:00":20250118T000000
+DTSTAMP:20260919T092449Z
+UID:9e4f208e-d774-4db4-8394-35882a0f3d5b
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-01-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Abstract Deadline [round 2]
+DTSTART;TZID="UTC-12:00":20250410T235900
+DTEND;TZID="UTC-12:00":20250411T000000
+DTSTAMP:20260919T092449Z
+UID:41279c6f-c178-48b4-894d-76ff915dea4e
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-04-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Deadline [round 2]
+DTSTART;TZID="UTC-12:00":20250417T235900
+DTEND;TZID="UTC-12:00":20250418T000000
+DTSTAMP:20260919T092449Z
+UID:67164dc2-1ac9-4c59-9cb9-f248c329ae44
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-04-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Abstract Deadline [round 3]
+DTSTART;TZID="UTC-12:00":20250710T235900
+DTEND;TZID="UTC-12:00":20250711T000000
+DTSTAMP:20260919T092449Z
+UID:fea88299-87e9-4920-8bec-2e710c497093
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-07-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Deadline [round 3]
+DTSTART;TZID="UTC-12:00":20250717T235900
+DTEND;TZID="UTC-12:00":20250718T000000
+DTSTAMP:20260919T092449Z
+UID:aa520acc-ef3d-4546-b1f2-f0b8cbe517ae
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-07-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Abstract Deadline [round 4]
+DTSTART;TZID="UTC-12:00":20251010T235900
+DTEND;TZID="UTC-12:00":20251011T000000
+DTSTAMP:20260919T092449Z
+UID:e9ca8873-c429-43a6-8bc2-ab3f500b7e91
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-10-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 Deadline [round 4]
+DTSTART;TZID="UTC-12:00":20251017T235900
+DTEND;TZID="UTC-12:00":20251018T000000
+DTSTAMP:20260919T092449Z
+UID:0c1404dc-72bc-4438-bf09-d5e0fbc2c9a8
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: May 31-Jun
+ e 5\, 2026\n📍 Location: Bangalore\, India\n⏰ Original Deadline (AoE):
+  2025-10-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索 (DB)\n
+ CCF A\, CORE A*\, THCPL A\nConference Website: https://2026.sigmod.org/\nD
+ BLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Abstract Deadline [round 1]
+DTSTART;TZID="UTC-12:00":20260110T235900
+DTEND;TZID="UTC-12:00":20260111T000000
+DTSTAMP:20260919T092449Z
+UID:7e889758-fe7f-457b-b8b2-d6d7c3fbaac7
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-01-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Deadline [round 1]
+DTSTART;TZID="UTC-12:00":20260117T235900
+DTEND;TZID="UTC-12:00":20260118T000000
+DTSTAMP:20260919T092449Z
+UID:9e372326-0e71-4f27-99c3-21778fa4929a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-01-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Abstract Deadline [round 2]
+DTSTART;TZID="UTC-12:00":20260410T235900
+DTEND;TZID="UTC-12:00":20260411T000000
+DTSTAMP:20260919T092449Z
+UID:2e21e43a-310b-46d4-bbc6-518ddb7f9aad
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-04-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Deadline [round 2]
+DTSTART;TZID="UTC-12:00":20260417T235900
+DTEND;TZID="UTC-12:00":20260418T000000
+DTSTAMP:20260919T092449Z
+UID:ab628606-58d4-4c2b-a891-d46badf42a08
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-04-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Abstract Deadline [round 3]
+DTSTART;TZID="UTC-12:00":20260710T235900
+DTEND;TZID="UTC-12:00":20260711T000000
+DTSTAMP:20260919T092449Z
+UID:87e1718e-f182-448c-8214-e79a7e0b78e8
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-07-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Deadline [round 3]
+DTSTART;TZID="UTC-12:00":20260717T235900
+DTEND;TZID="UTC-12:00":20260718T000000
+DTSTAMP:20260919T092449Z
+UID:e77a394c-e46f-4f73-9a24-521ab9b43b6b
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-07-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Abstract Deadline [round 4]
+DTSTART;TZID="UTC-12:00":20261010T235900
+DTEND;TZID="UTC-12:00":20261011T000000
+DTSTAMP:20260919T092449Z
+UID:b2bd3d0b-3063-4c27-a664-9633be5b8ea2
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-10-10 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 Deadline [round 4]
+DTSTART;TZID="UTC-12:00":20261017T235900
+DTEND;TZID="UTC-12:00":20261018T000000
+DTSTAMP:20260919T092449Z
+UID:89c7cd98-bc90-454a-875f-56067b9e66c9
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ Date: June 13-19
+ \, 2027\n📍 Location: Huntington Beach\, CA\, USA\n⏰ Original Deadline
+  (AoE): 2026-10-17 23:59:00\nCategory: 数据库/数据挖掘/内容检索
+  (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://2027.sigmod.
+ org/\nDBLP Index: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20200401T170000
+DTEND;TZID="UTC-07:00":20200401T170100
+DTSTAMP:20260919T092449Z
+UID:c76a44ae-f52b-4edc-82dc-f1c68c1ff0d4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-04-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20200501T170000
+DTEND;TZID="UTC-07:00":20200501T170100
+DTSTAMP:20260919T092449Z
+UID:3b95b259-bb60-411b-a46a-90c26f96e933
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-05-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20200601T170000
+DTEND;TZID="UTC-07:00":20200601T170100
+DTSTAMP:20260919T092449Z
+UID:d991b4fe-fa89-4220-bfe0-f8b6311177f0
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-06-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20200701T170000
+DTEND;TZID="UTC-07:00":20200701T170100
+DTSTAMP:20260919T092449Z
+UID:95e82b68-f34e-4d78-88cb-81d7f352c185
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-07-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20200801T170000
+DTEND;TZID="UTC-07:00":20200801T170100
+DTSTAMP:20260919T092449Z
+UID:a246a0f0-6c21-47b6-b7a1-41be883a80ae
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-08-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20200901T170000
+DTEND;TZID="UTC-07:00":20200901T170100
+DTSTAMP:20260919T092449Z
+UID:d92f1b46-ee56-4260-aeb6-c5ae5e4ffcbf
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-09-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-07:00":20201001T170000
+DTEND;TZID="UTC-07:00":20201001T170100
+DTSTAMP:20260919T092449Z
+UID:7b3a83d7-a80f-4dbf-bd21-5bc6116dad37
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-10-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-08:00":20201101T170000
+DTEND;TZID="UTC-08:00":20201101T170100
+DTSTAMP:20260919T092449Z
+UID:49d6e87c-2384-46c0-ab50-b9854ed9d29a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-11-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-08:00":20201201T170000
+DTEND;TZID="UTC-08:00":20201201T170100
+DTSTAMP:20260919T092449Z
+UID:788a76eb-a8fe-4280-b89d-9134a5b2a1cd
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2020-12-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-08:00":20210101T170000
+DTEND;TZID="UTC-08:00":20210101T170100
+DTSTAMP:20260919T092449Z
+UID:3a09d107-e4c4-4397-9c0a-c651f8a7581d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2021-01-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-08:00":20210201T170000
+DTEND;TZID="UTC-08:00":20210201T170100
+DTSTAMP:20260919T092449Z
+UID:0bf36c05-ca98-48f3-a923-22865a7011e5
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2021-02-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 Deadline
+DTSTART;TZID="UTC-08:00":20210301T170000
+DTEND;TZID="UTC-08:00":20210301T170100
+DTSTAMP:20260919T092449Z
+UID:9387c7b9-e1ca-4a85-99ba-5096aed6d302
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 16-20\, 2021\n📍 Location: Copenhagen\, Denmark\n⏰ Original 
+ Deadline (PT): 2021-03-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2021/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210401T170000
+DTEND;TZID="UTC-07:00":20210401T170100
+DTSTAMP:20260919T092449Z
+UID:6583e5de-50ea-49a4-883f-5819186fd298
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-04-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210501T170000
+DTEND;TZID="UTC-07:00":20210501T170100
+DTSTAMP:20260919T092449Z
+UID:52557fe4-710a-421f-ae69-10db12c053fb
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-05-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210601T170000
+DTEND;TZID="UTC-07:00":20210601T170100
+DTSTAMP:20260919T092449Z
+UID:5a381542-809d-4719-9f75-102d08f9ac43
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-06-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210701T170000
+DTEND;TZID="UTC-07:00":20210701T170100
+DTSTAMP:20260919T092449Z
+UID:398125dd-bd8b-40ac-9cd1-f7a7bebd13f3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-07-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210801T170000
+DTEND;TZID="UTC-07:00":20210801T170100
+DTSTAMP:20260919T092449Z
+UID:47f9cce7-3837-4396-beb8-6ed8857b7b6a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-08-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210901T170000
+DTEND;TZID="UTC-07:00":20210901T170100
+DTSTAMP:20260919T092449Z
+UID:e464984d-7d10-45e7-a025-88e2f99f8886
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-09-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20211001T170000
+DTEND;TZID="UTC-07:00":20211001T170100
+DTSTAMP:20260919T092449Z
+UID:ad7b056e-daea-47b7-9464-ac8ac935b10c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-10-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-07:00":20211101T170000
+DTEND;TZID="UTC-07:00":20211101T170100
+DTSTAMP:20260919T092449Z
+UID:fc408b1f-abbb-4dbf-a047-b61fedc7449a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-11-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-08:00":20211201T170000
+DTEND;TZID="UTC-08:00":20211201T170100
+DTSTAMP:20260919T092449Z
+UID:30f80098-e713-4f96-962a-ba23ae772dfd
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2021-12-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-08:00":20220101T170000
+DTEND;TZID="UTC-08:00":20220101T170100
+DTSTAMP:20260919T092449Z
+UID:c8f1c9b8-b54e-49f6-a106-ed64f079ea7a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2022-01-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-08:00":20220201T170000
+DTEND;TZID="UTC-08:00":20220201T170100
+DTSTAMP:20260919T092449Z
+UID:0154b172-9b51-4f72-b0c2-a69b304da9f1
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2022-02-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 Deadline
+DTSTART;TZID="UTC-08:00":20220301T170000
+DTEND;TZID="UTC-08:00":20220301T170100
+DTSTAMP:20260919T092449Z
+UID:49d5bc1b-f239-4ee2-a828-0e8149b960e6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 05-09\, 2022\n📍 Location: Sydney\, Australia\n⏰ Original
+  Deadline (PT): 2022-03-01 17:00:00\nCategory: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://www.
+ vldb.org/2022/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20220401T170000
+DTEND;TZID="UTC-07:00":20220401T170100
+DTSTAMP:20260919T092449Z
+UID:a88c3eb5-1d79-4173-b93b-db7b63d05b29
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-04-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20220501T170000
+DTEND;TZID="UTC-07:00":20220501T170100
+DTSTAMP:20260919T092449Z
+UID:80ae17f7-0de8-4ba9-b285-e7b7f1436ed8
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-05-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20220601T170000
+DTEND;TZID="UTC-07:00":20220601T170100
+DTSTAMP:20260919T092449Z
+UID:2e95a6cc-ec79-4b58-b9ee-be79d81a034c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-06-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20220701T170000
+DTEND;TZID="UTC-07:00":20220701T170100
+DTSTAMP:20260919T092449Z
+UID:1936aaaf-7487-4aad-90ef-9b35f35c3f4b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-07-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20220801T170000
+DTEND;TZID="UTC-07:00":20220801T170100
+DTSTAMP:20260919T092449Z
+UID:13baee3a-862e-4c12-b287-31f975cd0d24
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-08-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20220901T170000
+DTEND;TZID="UTC-07:00":20220901T170100
+DTSTAMP:20260919T092449Z
+UID:df0db2ef-ef67-4046-b1a9-c3763c7dbe04
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-09-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20221001T170000
+DTEND;TZID="UTC-07:00":20221001T170100
+DTSTAMP:20260919T092449Z
+UID:87fe42ba-0cfd-432e-9fdf-8aa0e38e887d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-10-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-07:00":20221101T170000
+DTEND;TZID="UTC-07:00":20221101T170100
+DTSTAMP:20260919T092449Z
+UID:629793ae-4c4c-4178-b175-3cd48fc4d757
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-11-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-08:00":20221201T170000
+DTEND;TZID="UTC-08:00":20221201T170100
+DTSTAMP:20260919T092449Z
+UID:0a338ba7-880c-428e-9220-c13f8b16e118
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2022-12-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-08:00":20230101T170000
+DTEND;TZID="UTC-08:00":20230101T170100
+DTSTAMP:20260919T092449Z
+UID:474303f2-1238-4f00-a6be-fbb515f5f741
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2023-01-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-08:00":20230201T170000
+DTEND;TZID="UTC-08:00":20230201T170100
+DTSTAMP:20260919T092449Z
+UID:35c44493-7f66-4d04-accc-e54c5c98d27d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2023-02-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 Deadline
+DTSTART;TZID="UTC-08:00":20230301T170000
+DTEND;TZID="UTC-08:00":20230301T170100
+DTSTAMP:20260919T092449Z
+UID:9ecec3e4-9afa-449e-9c39-a62794fc92f8
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 28 - September 01\, 2023\n📍 Location: Vancouver\, Canada\n⏰
+  Original Deadline (PT): 2023-03-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2023/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230401T170000
+DTEND;TZID="UTC-07:00":20230401T170100
+DTSTAMP:20260919T092449Z
+UID:4cd6e27d-9f83-410c-919c-0c2e954d7229
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-04-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230501T170000
+DTEND;TZID="UTC-07:00":20230501T170100
+DTSTAMP:20260919T092449Z
+UID:064e475d-b1ed-4a0f-964d-d28c66b661ae
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-05-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230601T170000
+DTEND;TZID="UTC-07:00":20230601T170100
+DTSTAMP:20260919T092449Z
+UID:7f7e937a-5180-456c-bb1f-8377dce2c38e
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-06-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230701T170000
+DTEND;TZID="UTC-07:00":20230701T170100
+DTSTAMP:20260919T092449Z
+UID:641ae884-d4ce-44ea-b7c8-e9565f8fd145
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-07-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230801T170000
+DTEND;TZID="UTC-07:00":20230801T170100
+DTSTAMP:20260919T092449Z
+UID:93ee8ef4-bcf3-4ba5-b71c-bc732bd5db5c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-08-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20230901T170000
+DTEND;TZID="UTC-07:00":20230901T170100
+DTSTAMP:20260919T092449Z
+UID:746e7111-8f68-4dec-b6c4-ec5fbd27f59e
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-09-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20231001T170000
+DTEND;TZID="UTC-07:00":20231001T170100
+DTSTAMP:20260919T092449Z
+UID:bf0c2889-4ffd-43bf-ad49-6dab4f412e77
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-10-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-07:00":20231101T170000
+DTEND;TZID="UTC-07:00":20231101T170100
+DTSTAMP:20260919T092449Z
+UID:64bfbb37-917c-4f0e-bfd4-e1738ed9bce2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-11-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-08:00":20231201T170000
+DTEND;TZID="UTC-08:00":20231201T170100
+DTSTAMP:20260919T092449Z
+UID:f63b4a47-1160-4751-a95e-d2b16defcc87
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2023-12-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-08:00":20240101T170000
+DTEND;TZID="UTC-08:00":20240101T170100
+DTSTAMP:20260919T092449Z
+UID:8375a8e1-69dd-4d51-9fb8-07e75a1020e1
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2024-01-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-08:00":20240201T170000
+DTEND;TZID="UTC-08:00":20240201T170100
+DTSTAMP:20260919T092449Z
+UID:e3c0a91b-7c81-403c-a63a-193d29ce008f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2024-02-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 Deadline
+DTSTART;TZID="UTC-08:00":20240301T170000
+DTEND;TZID="UTC-08:00":20240301T170100
+DTSTAMP:20260919T092449Z
+UID:6666fad8-f5ba-4769-954c-8e0274575543
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 25-29\, 2024\n📍 Location: Guangzhou\, China (and hybrid)\n⏰
+  Original Deadline (PT): 2024-03-01 17:00:00\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: h
+ ttp://www.vldb.org/2024/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240401T170000
+DTEND;TZID="UTC-07:00":20240401T170100
+DTSTAMP:20260919T092449Z
+UID:7feaa1ad-82d3-4d7f-8096-54a3471b7e08
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-04-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240501T170000
+DTEND;TZID="UTC-07:00":20240501T170100
+DTSTAMP:20260919T092449Z
+UID:df58d3c3-c026-4dcb-993c-ce0be680fa98
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-05-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240601T170000
+DTEND;TZID="UTC-07:00":20240601T170100
+DTSTAMP:20260919T092449Z
+UID:546d3c25-a969-4eae-bf94-857e634c71e4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-06-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240701T170000
+DTEND;TZID="UTC-07:00":20240701T170100
+DTSTAMP:20260919T092449Z
+UID:0d91d2f5-4e4d-491a-8ed2-984486d219c2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-07-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240801T170000
+DTEND;TZID="UTC-07:00":20240801T170100
+DTSTAMP:20260919T092449Z
+UID:498df934-463b-47ec-a23e-1a85aec4dac9
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-08-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20240901T170000
+DTEND;TZID="UTC-07:00":20240901T170100
+DTSTAMP:20260919T092449Z
+UID:05d1eed3-d8ac-4c54-803a-29e5a2eecda3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-09-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20241001T170000
+DTEND;TZID="UTC-07:00":20241001T170100
+DTSTAMP:20260919T092449Z
+UID:45496fd2-34bf-4d74-908d-dfe5229a5a89
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-10-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-07:00":20241101T170000
+DTEND;TZID="UTC-07:00":20241101T170100
+DTSTAMP:20260919T092449Z
+UID:28eff2ee-cfc2-4a29-a03b-d7e4a38ff2ce
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-11-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-08:00":20241201T170000
+DTEND;TZID="UTC-08:00":20241201T170100
+DTSTAMP:20260919T092449Z
+UID:49efc343-5414-4c75-a338-ea8310454035
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2024-12-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250101T170000
+DTEND;TZID="UTC-08:00":20250101T170100
+DTSTAMP:20260919T092449Z
+UID:c2efe1ff-98b3-45a8-ab11-058d5122ec1d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2025-01-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250201T170000
+DTEND;TZID="UTC-08:00":20250201T170100
+DTSTAMP:20260919T092449Z
+UID:fab821d1-ce9d-4945-a793-3838a916ed4d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2025-02-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250301T170000
+DTEND;TZID="UTC-08:00":20250301T170100
+DTSTAMP:20260919T092449Z
+UID:0cbc3539-07dd-4830-b292-9efbc2123027
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: September 1-5\, 2025\n📍 Location: London\, United Kingdom\n⏰ Origi
+ nal Deadline (PT): 2025-03-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http://w
+ ww.vldb.org/2025/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250401T170000
+DTEND;TZID="UTC-07:00":20250401T170100
+DTSTAMP:20260919T092449Z
+UID:c1a0c77b-d4aa-46a3-a287-c245392dcde2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-04-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250501T170000
+DTEND;TZID="UTC-07:00":20250501T170100
+DTSTAMP:20260919T092449Z
+UID:6095f793-1b72-4eff-86b0-a6a42ec4168d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-05-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250601T170000
+DTEND;TZID="UTC-07:00":20250601T170100
+DTSTAMP:20260919T092449Z
+UID:c8ed6b2a-a402-4d79-bd6b-08840272ef70
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-06-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250701T170000
+DTEND;TZID="UTC-07:00":20250701T170100
+DTSTAMP:20260919T092449Z
+UID:5f015577-b206-4de6-9761-ae6e456a85ce
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-07-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250801T170000
+DTEND;TZID="UTC-07:00":20250801T170100
+DTSTAMP:20260919T092449Z
+UID:5c7258ea-00bc-4d80-9a7f-bef8eae0f1a8
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-08-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20250901T170000
+DTEND;TZID="UTC-07:00":20250901T170100
+DTSTAMP:20260919T092449Z
+UID:8a347674-8dea-4fe8-9b2c-fbaa7bd4d3b4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-09-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20251001T170000
+DTEND;TZID="UTC-07:00":20251001T170100
+DTSTAMP:20260919T092449Z
+UID:19ff7b83-808d-4e21-a7d3-99fc1176138f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-10-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-07:00":20251101T170000
+DTEND;TZID="UTC-07:00":20251101T170100
+DTSTAMP:20260919T092449Z
+UID:0f319d9b-635a-4646-b40b-7960fdfe4119
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-11-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-08:00":20251201T170000
+DTEND;TZID="UTC-08:00":20251201T170100
+DTSTAMP:20260919T092449Z
+UID:9fe7d012-09ca-48f6-82af-f5ffcec8f56d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2025-12-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260101T170000
+DTEND;TZID="UTC-08:00":20260101T170100
+DTSTAMP:20260919T092449Z
+UID:e4cc53af-2ec3-4c10-a437-0f066fe73942
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2026-01-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260201T170000
+DTEND;TZID="UTC-08:00":20260201T170100
+DTSTAMP:20260919T092449Z
+UID:dab48bc9-2178-4b0d-aba3-3a9ec5290629
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2026-02-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260301T170000
+DTEND;TZID="UTC-08:00":20260301T170100
+DTSTAMP:20260919T092449Z
+UID:f65d0f91-7ca8-4bf4-be31-927ca01528a2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 31 - September 4\, 2026\n📍 Location: Boston\, MA\, USA\n⏰ O
+ riginal Deadline (PT): 2026-03-01 17:00:00\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: http
+ s://www.vldb.org/2026/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260325T170000
+DTEND;TZID="UTC-07:00":20260325T170100
+DTSTAMP:20260919T092449Z
+UID:e42aac04-7bf8-44bb-b007-5045dc1bae73
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-03-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20260401T170000
+DTEND;TZID="UTC-07:00":20260401T170100
+DTSTAMP:20260919T092449Z
+UID:b71793d9-40b7-495a-a9c7-f8b90ecc2806
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-04-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260425T170000
+DTEND;TZID="UTC-07:00":20260425T170100
+DTSTAMP:20260919T092449Z
+UID:ec9c8e31-5c83-43b8-a678-023a3da714b6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-04-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20260501T170000
+DTEND;TZID="UTC-07:00":20260501T170100
+DTSTAMP:20260919T092449Z
+UID:83549f32-adee-407b-a109-746eab549694
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-05-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260525T170000
+DTEND;TZID="UTC-07:00":20260525T170100
+DTSTAMP:20260919T092449Z
+UID:b9d8bbc7-95e8-4879-9fac-c02a805019e8
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-05-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20260601T170000
+DTEND;TZID="UTC-07:00":20260601T170100
+DTSTAMP:20260919T092449Z
+UID:4eda33ad-b5b6-4cb0-a0e6-646620ccf65b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-06-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260625T170000
+DTEND;TZID="UTC-07:00":20260625T170100
+DTSTAMP:20260919T092449Z
+UID:9cd68dbd-270e-48aa-97e1-3ab75616b75b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-06-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20260701T170000
+DTEND;TZID="UTC-07:00":20260701T170100
+DTSTAMP:20260919T092449Z
+UID:7fee9727-43d5-45a7-9a0a-1ffe59c6ab6b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-07-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260725T170000
+DTEND;TZID="UTC-07:00":20260725T170100
+DTSTAMP:20260919T092449Z
+UID:ed76d9c4-df3d-4979-964f-916ce636557f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-07-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20260801T170000
+DTEND;TZID="UTC-07:00":20260801T170100
+DTSTAMP:20260919T092449Z
+UID:aa96b17f-0a33-4fcd-be2d-4d6b479ff55c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-08-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260825T170000
+DTEND;TZID="UTC-07:00":20260825T170100
+DTSTAMP:20260919T092449Z
+UID:732c7928-f71d-44b5-b29c-63420d835ebe
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-08-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20260901T170000
+DTEND;TZID="UTC-07:00":20260901T170100
+DTSTAMP:20260919T092449Z
+UID:e24552bd-af28-4df2-af26-9300cf9cbdd3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-09-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260925T170000
+DTEND;TZID="UTC-07:00":20260925T170100
+DTSTAMP:20260919T092449Z
+UID:c21a38ee-7247-495d-a6e2-33c956197936
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-09-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-07:00":20261001T170000
+DTEND;TZID="UTC-07:00":20261001T170100
+DTSTAMP:20260919T092449Z
+UID:1ad3b534-7cad-4c46-9ca3-65ab6ee6eb9f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-10-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20261025T170000
+DTEND;TZID="UTC-07:00":20261025T170100
+DTSTAMP:20260919T092449Z
+UID:2ee49619-f70f-4eeb-b386-289664694abe
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-10-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-08:00":20261101T170000
+DTEND;TZID="UTC-08:00":20261101T170100
+DTSTAMP:20260919T092449Z
+UID:7d4ad819-fe82-4470-847f-b2a6c8a01204
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-11-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20261125T170000
+DTEND;TZID="UTC-08:00":20261125T170100
+DTSTAMP:20260919T092449Z
+UID:8079ee3d-1684-4317-9de9-ced66672d840
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-11-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-08:00":20261201T170000
+DTEND;TZID="UTC-08:00":20261201T170100
+DTSTAMP:20260919T092449Z
+UID:446a0d65-5728-40e4-96d2-f0839d7c193b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-12-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20261225T170000
+DTEND;TZID="UTC-08:00":20261225T170100
+DTSTAMP:20260919T092449Z
+UID:8070be55-7647-4c87-8c53-36fdef4560c6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2026-12-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-08:00":20270101T170000
+DTEND;TZID="UTC-08:00":20270101T170100
+DTSTAMP:20260919T092449Z
+UID:971d3ae7-e017-4058-a27c-073e2aae096f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2027-01-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20270125T170000
+DTEND;TZID="UTC-08:00":20270125T170100
+DTSTAMP:20260919T092449Z
+UID:8d0c2066-175c-4646-8224-5f8e3c6dbeb2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2027-01-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-08:00":20270201T170000
+DTEND;TZID="UTC-08:00":20270201T170100
+DTSTAMP:20260919T092449Z
+UID:d681bcd4-7568-42c1-ad1d-53b8071d8507
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2027-02-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20270225T170000
+DTEND;TZID="UTC-08:00":20270225T170100
+DTSTAMP:20260919T092449Z
+UID:c814a25b-dda2-429f-9edf-21999e73d133
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2027-02-25 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 Deadline
+DTSTART;TZID="UTC-08:00":20270301T170000
+DTEND;TZID="UTC-08:00":20270301T170100
+DTSTAMP:20260919T092449Z
+UID:befeb5dc-9fe0-4297-8736-8745a4c1ab77
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ Dat
+ e: August 23 - August 27\, 2027\n📍 Location: Athens\, Greece\n⏰ Origi
+ nal Deadline (PT): 2027-03-01 17:00:00\nCategory: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\nConference Website: https://
+ www.vldb.org/2027/\nDBLP Index: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2022 Deadline
+DTSTART;TZID="UTC-12:00":20210809T235959
+DTEND;TZID="UTC-12:00":20210810T000059
+DTSTAMP:20260919T092449Z
+UID:677e9cc6-e95a-42d5-ac1b-9bab8d6c77cd
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 21-25\, 2022\n📍 Location: Phoenix\, Arizona\, USA\n
+ ⏰ Original Deadline (UTC-12): 2021-08-09 23:59:59\nCategory: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Websi
+ te: https://www.wsdm-conference.org/2022/\nDBLP Index: https://dblp.org/db
+ /conf/wsdm
+LOCATION:Phoenix\, Arizona\, USA
+URL:https://www.wsdm-conference.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2023 Deadline
+DTSTART;TZID="UTC-12:00":20220812T235959
+DTEND;TZID="UTC-12:00":20220813T000059
+DTSTAMP:20260919T092449Z
+UID:d2ee38d7-41ba-4e25-a58e-a0150970b1ee
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 27 - March 3\, 2023\n📍 Location: Singapore\n⏰ Orig
+ inal Deadline (UTC-12): 2022-08-12 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: https
+ ://www.wsdm-conference.org/2023/\nDBLP Index: https://dblp.org/db/conf/wsd
+ m
+LOCATION:Singapore
+URL:https://www.wsdm-conference.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2024 Deadline
+DTSTART;TZID="UTC-12:00":20230810T235959
+DTEND;TZID="UTC-12:00":20230811T000059
+DTSTAMP:20260919T092449Z
+UID:64bec174-ac56-4252-a439-d8eb41539534
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: March 4 - March 8\, 2024\n📍 Location: Mérida\, México\n⏰ 
+ Original Deadline (UTC-12): 2023-08-10 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://www.wsdm-conference.org/2024/\nDBLP Index: https://dblp.org/db/co
+ nf/wsdm
+LOCATION:Mérida\, México
+URL:https://www.wsdm-conference.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240814T235959
+DTEND;TZID="UTC-12:00":20240815T000059
+DTSTAMP:20260919T092449Z
+UID:b102ab22-be1f-41e5-b519-4d3ff3b0e92e
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: March 10 - March 14\, 2025\n📍 Location: Hannover\, Germany\n
+ ⏰ Original Deadline (UTC-12): 2024-08-14 23:59:59\nCategory: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Websi
+ te: https://www.wsdm-conference.org/2025/\nDBLP Index: https://dblp.org/db
+ /conf/wsdm
+LOCATION:Hannover\, Germany
+URL:https://www.wsdm-conference.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250807T235959
+DTEND;TZID="UTC-12:00":20250808T000059
+DTSTAMP:20260919T092449Z
+UID:a0fe2ca1-11dc-48a7-bcb6-282230c4c1e4
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 22 - 26\, 2026\n📍 Location: Boise\, Idaho\, USA\n⏰
+  Original Deadline (UTC-12): 2025-08-07 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://wsdm-conference.org/2026/\nDBLP Index: https://dblp.org/db/conf/w
+ sdm
+LOCATION:Boise\, Idaho\, USA
+URL:https://wsdm-conference.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250814T235959
+DTEND;TZID="UTC-12:00":20250815T000059
+DTSTAMP:20260919T092449Z
+UID:9218a93c-2f5a-4669-b324-e08cf60d781c
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 22 - 26\, 2026\n📍 Location: Boise\, Idaho\, USA\n⏰
+  Original Deadline (UTC-12): 2025-08-14 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://wsdm-conference.org/2026/\nDBLP Index: https://dblp.org/db/conf/w
+ sdm
+LOCATION:Boise\, Idaho\, USA
+URL:https://wsdm-conference.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2027 Abstract Deadline [Full Paper]
+DTSTART;TZID="UTC-12:00":20260817T235959
+DTEND;TZID="UTC-12:00":20260818T000059
+DTSTAMP:20260919T092449Z
+UID:450df07d-89f6-4136-a0d7-28df2f368cee
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 15 - 19\, 2027\n📍 Location: Cordis\, Hong Kong SAR\,
+  China\n⏰ Original Deadline (UTC-12): 2026-08-17 23:59:59\nCategory: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConferenc
+ e Website: https://wsdm-conference.org/2027/\nDBLP Index: https://dblp.org
+ /db/conf/wsdm
+LOCATION:Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2027 Deadline [Full Paper]
+DTSTART;TZID="UTC-12:00":20260824T235959
+DTEND;TZID="UTC-12:00":20260825T000059
+DTSTAMP:20260919T092449Z
+UID:94af14e7-a2d7-4a65-b6c3-0e007db7882e
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 15 - 19\, 2027\n📍 Location: Cordis\, Hong Kong SAR\,
+  China\n⏰ Original Deadline (UTC-12): 2026-08-24 23:59:59\nCategory: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConferenc
+ e Website: https://wsdm-conference.org/2027/\nDBLP Index: https://dblp.org
+ /db/conf/wsdm
+LOCATION:Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2027 Deadline [Short Paper]
+DTSTART;TZID="UTC-12:00":20261117T235959
+DTEND;TZID="UTC-12:00":20261118T000059
+DTSTAMP:20260919T092449Z
+UID:839ed15c-6512-42f8-acf6-9ab3057939bb
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 15 - 19\, 2027\n📍 Location: Cordis\, Hong Kong SAR\,
+  China\n⏰ Original Deadline (UTC-12): 2026-11-17 23:59:59\nCategory: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConferenc
+ e Website: https://wsdm-conference.org/2027/\nDBLP Index: https://dblp.org
+ /db/conf/wsdm
+LOCATION:Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+END:VEVENT
+END:VCALENDAR

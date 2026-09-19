@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2023 截稿日期 [Paper submission deadline]
+DTSTART:20230309T235959Z
+DTEND:20230310T000059Z
+DTSTAMP:20260919T092421Z
+UID:474ac958-77de-4e4d-a757-efd4c7317f11
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 8-12\, 2023\n📍 会
+ 议地点: Vancouver\, Canada\n⏰ 原始截止时间 (UTC+0): 2023-03-09 
+ 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\n会
+ 议官网: https://conferences.miccai.org/2023/en/\nDBLP索引: https://db
+ lp.org/db/conf/miccai
+LOCATION:Vancouver\, Canada
+URL:https://conferences.miccai.org/2023/en/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2024 截稿日期 [Main conference papers]
+DTSTART;TZID="UTC-08:00":20240307T235959
+DTEND;TZID="UTC-08:00":20240308T000059
+DTSTAMP:20260919T092421Z
+UID:59202857-aadb-4ac3-ad39-da2dd0941d25
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 6-10\, 2024\n📍 会
+ 议地点: Marrakesh\, Morocco\n⏰ 原始截止时间 (UTC-8): 2024-03-07
+  23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\n
+ 会议官网: https://conferences.miccai.org/2024/en/\nDBLP索引: https:/
+ /dblp.org/db/conf/miccai
+LOCATION:Marrakesh\, Morocco
+URL:https://conferences.miccai.org/2024/en/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 摘要截稿
+DTSTART;TZID="UTC-08:00":20250213T235900
+DTEND;TZID="UTC-08:00":20250214T000000
+DTSTAMP:20260919T092421Z
+UID:907a1653-14fa-4343-9905-55b2b758578c
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Sep 23-27\, 2025\n📍 会
+ 议地点: Daejeon\, Republic of Korea\n⏰ 原始截止时间 (UTC-8): 20
+ 25-02-13 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://conferences.miccai.org/2025/en/default.asp\nDB
+ LP索引: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250227T235900
+DTEND;TZID="UTC-08:00":20250228T000000
+DTSTAMP:20260919T092421Z
+UID:e1139c3d-ce38-4651-af41-864422f14d1a
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Sep 23-27\, 2025\n📍 会
+ 议地点: Daejeon\, Republic of Korea\n⏰ 原始截止时间 (UTC-8): 20
+ 25-02-27 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THC
+ PL B\n会议官网: https://conferences.miccai.org/2025/en/default.asp\nDB
+ LP索引: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 摘要截稿
+DTSTART;TZID="UTC-08:00":20260212T235900
+DTEND;TZID="UTC-08:00":20260213T000000
+DTSTAMP:20260919T092421Z
+UID:abf11b8e-63dd-4063-bfd5-8c9f653325f8
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 4-8\, 2026\n📍 会
+ 议地点: ADNEC Centre\, Abu Dhabi\, U.A.E.\n⏰ 原始截止时间 (UTC-
+ 8): 2026-02-12 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A
+ \, THCPL B\n会议官网: https://conferences.miccai.org/2026/en/IMPORTANT
+ -DATES.html\nDBLP索引: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260226T235900
+DTEND;TZID="UTC-08:00":20260227T000000
+DTSTAMP:20260919T092421Z
+UID:88aeeabd-7d9c-4881-96f9-e8380e21d31f
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ 会议时间: Oct 4-8\, 2026\n📍 会
+ 议地点: ADNEC Centre\, Abu Dhabi\, U.A.E.\n⏰ 原始截止时间 (UTC-
+ 8): 2026-02-26 23:59:00\n分类: 交叉/综合/新兴 (MX)\nCCF B\, CORE A
+ \, THCPL B\n会议官网: https://conferences.miccai.org/2026/en/IMPORTANT
+ -DATES.html\nDBLP索引: https://dblp.org/db/conf/miccai
+LOCATION:ADNEC Centre\, Abu Dhabi\, U.A.E.
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SIGCSE 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20240714T235959
+DTEND;TZID="UTC-12:00":20240715T000059
+DTSTAMP:20260919T092421Z
+UID:8d7ace8d-0ce7-4092-a97a-1e3b9442f908
+DESCRIPTION:Technical Symposium on Computer Science Education Conference\n
+ 🗓️ 会议时间: February 26 - March 1\, 2025\n📍 会议地点: Pit
+ tsburgh\, Pennsylvania\, USA\n⏰ 原始截止时间 (UTC-12): 2024-07-14 
+ 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCORE A\n会议官网: https:/
+ /sigcse2025.sigcse.org/\nDBLP索引: https://dblp.org/db/conf/sigcse
+LOCATION:Pittsburgh\, Pennsylvania\, USA
+URL:https://sigcse2025.sigcse.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCSE 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20240721T235959
+DTEND;TZID="UTC-12:00":20240722T000059
+DTSTAMP:20260919T092421Z
+UID:23abffb0-09d8-4421-a3e2-abd967314804
+DESCRIPTION:Technical Symposium on Computer Science Education Conference\n
+ 🗓️ 会议时间: February 26 - March 1\, 2025\n📍 会议地点: Pit
+ tsburgh\, Pennsylvania\, USA\n⏰ 原始截止时间 (UTC-12): 2024-07-21 
+ 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCORE A\n会议官网: https:/
+ /sigcse2025.sigcse.org/\nDBLP索引: https://dblp.org/db/conf/sigcse
+LOCATION:Pittsburgh\, Pennsylvania\, USA
+URL:https://sigcse2025.sigcse.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCSE 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20250626T235959
+DTEND;TZID="UTC-12:00":20250627T000059
+DTSTAMP:20260919T092421Z
+UID:f7078f67-a7f0-4754-85f5-332e4c10594d
+DESCRIPTION:Technical Symposium on Computer Science Education Conference\n
+ 🗓️ 会议时间: February 18-21\, 2026\n📍 会议地点: St. Louis
+ \, Missouri\, USA\n⏰ 原始截止时间 (UTC-12): 2025-06-26 23:59:59\n
+ 分类: 交叉/综合/新兴 (MX)\nCORE A\n会议官网: https://sigcse202
+ 6.sigcse.org/\nDBLP索引: https://dblp.org/db/conf/sigcse
+LOCATION:St. Louis\, Missouri\, USA
+URL:https://sigcse2026.sigcse.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCSE 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20250703T235959
+DTEND;TZID="UTC-12:00":20250704T000059
+DTSTAMP:20260919T092421Z
+UID:5cdc0ea5-5bba-404b-8123-c568a6f80b5f
+DESCRIPTION:Technical Symposium on Computer Science Education Conference\n
+ 🗓️ 会议时间: February 18-21\, 2026\n📍 会议地点: St. Louis
+ \, Missouri\, USA\n⏰ 原始截止时间 (UTC-12): 2025-07-03 23:59:59\n
+ 分类: 交叉/综合/新兴 (MX)\nCORE A\n会议官网: https://sigcse202
+ 6.sigcse.org/\nDBLP索引: https://dblp.org/db/conf/sigcse
+LOCATION:St. Louis\, Missouri\, USA
+URL:https://sigcse2026.sigcse.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCSE 2027 摘要截稿
+DTSTART;TZID="UTC-12:00":20260626T235959
+DTEND;TZID="UTC-12:00":20260627T000059
+DTSTAMP:20260919T092421Z
+UID:014a8da1-746e-401c-89ef-236867b486fe
+DESCRIPTION:Technical Symposium on Computer Science Education Conference\n
+ 🗓️ 会议时间: February 17-20\, 2027\n📍 会议地点: Sacramento
+ \, California\, USA\n⏰ 原始截止时间 (UTC-12): 2026-06-26 23:59:59
+ \n分类: 交叉/综合/新兴 (MX)\nCORE A\n会议官网: https://2027.si
+ gcse-ts.acm.org/\nDBLP索引: https://dblp.org/db/conf/sigcse
+LOCATION:Sacramento\, California\, USA
+URL:https://2027.sigcse-ts.acm.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGCSE 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20260703T235959
+DTEND;TZID="UTC-12:00":20260704T000059
+DTSTAMP:20260919T092421Z
+UID:66e96efc-6105-4335-9876-d93d923daad4
+DESCRIPTION:Technical Symposium on Computer Science Education Conference\n
+ 🗓️ 会议时间: February 17-20\, 2027\n📍 会议地点: Sacramento
+ \, California\, USA\n⏰ 原始截止时间 (UTC-12): 2026-07-03 23:59:59
+ \n分类: 交叉/综合/新兴 (MX)\nCORE A\n会议官网: https://2027.si
+ gcse-ts.acm.org/\nDBLP索引: https://dblp.org/db/conf/sigcse
+LOCATION:Sacramento\, California\, USA
+URL:https://2027.sigcse-ts.acm.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2023 摘要截稿
+DTSTART;TZID="UTC-07:00":20230609T235959
+DTEND;TZID="UTC-07:00":20230610T000059
+DTSTAMP:20260919T092421Z
+UID:e2ab5b63-1518-4ac4-bde1-3b8ff6a8c95c
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 13-16\, 2023\n📍
+  会议地点: Hamburg\, Germany\n⏰ 原始截止时间 (UTC-7): 2023-06-
+ 09 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议官
+ 网: http://sigspatial2023.sigspatial.org/\nDBLP索引: https://dblp.org/d
+ b/conf/sigspatial
+LOCATION:Hamburg\, Germany
+URL:http://sigspatial2023.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20230616T235959
+DTEND;TZID="UTC-07:00":20230617T000059
+DTSTAMP:20260919T092421Z
+UID:4bcd5b81-fcd1-4baa-84cf-fbde9bd20681
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 13-16\, 2023\n📍
+  会议地点: Hamburg\, Germany\n⏰ 原始截止时间 (UTC-7): 2023-06-
+ 16 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议官
+ 网: http://sigspatial2023.sigspatial.org/\nDBLP索引: https://dblp.org/d
+ b/conf/sigspatial
+LOCATION:Hamburg\, Germany
+URL:http://sigspatial2023.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2025 摘要截稿
+DTSTART;TZID="UTC-07:00":20250523T235959
+DTEND;TZID="UTC-07:00":20250524T000059
+DTSTAMP:20260919T092421Z
+UID:128c548e-4152-489e-8169-db47a0ecce87
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 3-6\, 2025\n📍 
+ 会议地点: Minneapolis\, MN\, USA\n⏰ 原始截止时间 (UTC-7): 2025
+ -05-23 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2025.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Minneapolis\, MN\, USA
+URL:https://sigspatial2025.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20250530T235959
+DTEND;TZID="UTC-07:00":20250531T000059
+DTSTAMP:20260919T092421Z
+UID:467fb28b-9ef3-459e-a408-8c3ac2c218a1
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 3-6\, 2025\n📍 
+ 会议地点: Minneapolis\, MN\, USA\n⏰ 原始截止时间 (UTC-7): 2025
+ -05-30 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2025.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Minneapolis\, MN\, USA
+URL:https://sigspatial2025.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2026 摘要截稿
+DTSTART;TZID="UTC-07:00":20260522T235959
+DTEND;TZID="UTC-07:00":20260523T000059
+DTSTAMP:20260919T092421Z
+UID:046f37a1-9a4b-4137-abae-a6848ef680e8
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 3-6\, 2026\n📍 
+ 会议地点: Riverside\, CA\, USA\n⏰ 原始截止时间 (UTC-7): 2026-0
+ 5-22 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2026.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Riverside\, CA\, USA
+URL:https://sigspatial2026.sigspatial.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20260529T235959
+DTEND;TZID="UTC-07:00":20260530T000059
+DTSTAMP:20260919T092421Z
+UID:b9640124-616e-408a-aa87-27de01010dbc
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 3-6\, 2026\n📍 
+ 会议地点: Riverside\, CA\, USA\n⏰ 原始截止时间 (UTC-7): 2026-0
+ 5-29 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2026.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Riverside\, CA\, USA
+URL:https://sigspatial2026.sigspatial.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HICSS 2027 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-10:00":20260615T235959
+DTEND;TZID="UTC-10:00":20260616T000059
+DTSTAMP:20260919T092453Z
+UID:7229db72-95a5-4d0e-b3a5-f9bc52c1d16f
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ Da
+ te: January 5-8\, 2027\n📍 Location: Big Island\, Hawaii\, USA\n⏰ Orig
+ inal Deadline (UTC-10): 2026-06-15 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCORE A\nConference Website: https://hicss.hawaii.edu/\nDBL
+ P Index: https://dblp.org/db/conf/hicss
+LOCATION:Big Island\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICWSM 2025 Deadline [1st Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20240515T235959
+DTEND;TZID="UTC-12:00":20240516T000059
+DTSTAMP:20260919T092453Z
+UID:7690d06a-f896-46c0-9441-d5735f6be9ed
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ Date: June 23 - 26\, 2025\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2024-05-15 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF B\, CORE A\nConference Website: https://www.icws
+ m.org/2025/index.html\nDBLP Index: https://dblp.org/db/conf/icwsm
+LOCATION:Copenhagen\, Denmark
+URL:https://www.icwsm.org/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2025 Deadline [2nd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20240915T235959
+DTEND;TZID="UTC-12:00":20240916T000059
+DTSTAMP:20260919T092453Z
+UID:846072e0-2202-43a0-9633-890378b38466
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ Date: June 23 - 26\, 2025\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2024-09-15 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF B\, CORE A\nConference Website: https://www.icws
+ m.org/2025/index.html\nDBLP Index: https://dblp.org/db/conf/icwsm
+LOCATION:Copenhagen\, Denmark
+URL:https://www.icwsm.org/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2025 Deadline [3rd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20250115T235959
+DTEND;TZID="UTC-12:00":20250116T000059
+DTSTAMP:20260919T092453Z
+UID:766544fc-7668-4fc0-9f10-20b582eb1d32
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ Date: June 23 - 26\, 2025\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2025-01-15 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF B\, CORE A\nConference Website: https://www.icws
+ m.org/2025/index.html\nDBLP Index: https://dblp.org/db/conf/icwsm
+LOCATION:Copenhagen\, Denmark
+URL:https://www.icwsm.org/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2026 Deadline [1st Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20250515T235959
+DTEND;TZID="UTC-12:00":20250516T000059
+DTSTAMP:20260919T092453Z
+UID:ed2365d2-6ceb-4988-b0cf-cb7b8a701e0a
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ Date: May 27-29\, 2026\n📍 Location: Los Angeles\, CA\, USA\n⏰
+  Original Deadline (AoE): 2025-05-15 23:59:59\nCategory: 人机交互与
+ 普适计算 (HI)\nCCF B\, CORE A\nConference Website: https://www.icwsm.o
+ rg/2026/index.html\nDBLP Index: https://dblp.org/db/conf/icwsm
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.icwsm.org/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2026 Deadline [2nd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20250915T235959
+DTEND;TZID="UTC-12:00":20250916T000059
+DTSTAMP:20260919T092453Z
+UID:091b56bd-e8a4-467d-ba6c-1e86c52a7c5b
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ Date: May 27-29\, 2026\n📍 Location: Los Angeles\, CA\, USA\n⏰
+  Original Deadline (AoE): 2025-09-15 23:59:59\nCategory: 人机交互与
+ 普适计算 (HI)\nCCF B\, CORE A\nConference Website: https://www.icwsm.o
+ rg/2026/index.html\nDBLP Index: https://dblp.org/db/conf/icwsm
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.icwsm.org/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2026 Deadline [3rd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260919T092453Z
+UID:63a35e6a-d1da-43ab-829e-1e4f4ace941a
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ Date: May 27-29\, 2026\n📍 Location: Los Angeles\, CA\, USA\n⏰
+  Original Deadline (AoE): 2026-01-15 23:59:59\nCategory: 人机交互与
+ 普适计算 (HI)\nCCF B\, CORE A\nConference Website: https://www.icwsm.o
+ rg/2026/index.html\nDBLP Index: https://dblp.org/db/conf/icwsm
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.icwsm.org/2026/index.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CCCG 2026 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20260919T092445Z
+UID:aac2adc1-3d40-46ba-8528-b83dca310ddd
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 12-14\, 2026\n📍 Location: Orillia\, Ontario\, Canada\n⏰ Origina
+ l Deadline (AoE): 2026-05-08 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nConference Website: https://sites.google.com/view/cccg-2026/h
+ ome\nDBLP Index: https://dblp.org/db/conf/cccg
+LOCATION:Orillia\, Ontario\, Canada
+URL:https://sites.google.com/view/cccg-2026/home
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20260919T092445Z
+UID:6cc275ef-6bb9-4c54-b153-15a0148c215a
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia\n
+ ⏰ Original Deadline (AoE): 2025-08-15 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2025.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250822T235959
+DTEND;TZID="UTC-12:00":20250823T000059
+DTSTAMP:20260919T092445Z
+UID:b1ea2f60-e30a-45b5-a9b8-52cc66eeac24
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia\n
+ ⏰ Original Deadline (AoE): 2025-08-22 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2025.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+END:VCALENDAR

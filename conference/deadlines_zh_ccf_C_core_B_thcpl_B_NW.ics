@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2023 截稿日期
+DTSTART;TZID="UTC-04:00":20230415T235959
+DTEND;TZID="UTC-04:00":20230416T000059
+DTSTAMP:20260919T092422Z
+UID:aad87c78-0b0d-4fd8-b15f-11577f9dd6c6
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ 会议时间: D
+ ecember 4-8\, 2023\n📍 会议地点: Kuala Lumpur\, Malaysia\n⏰ 原始
+ 截止时间 (UTC-4): 2023-04-15 23:59:59\n分类: 计算机网络 (NW)\nC
+ CF C\, CORE B\, THCPL B\n会议官网: https://globecom2023.ieee-globecom.
+ org/\nDBLP索引: https://dblp.org/db/conf/globecom
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://globecom2023.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2025 截稿日期
+DTSTART;TZID="UTC-04:00":20250415T235959
+DTEND;TZID="UTC-04:00":20250416T000059
+DTSTAMP:20260919T092422Z
+UID:0b8d463d-85ef-4886-8921-256b1c4ecf81
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ 会议时间: D
+ ecember 8-12\, 2025\n📍 会议地点: Taipei\, Taiwan\n⏰ 原始截止
+ 时间 (UTC-4): 2025-04-15 23:59:59\n分类: 计算机网络 (NW)\nCCF C\,
+  CORE B\, THCPL B\n会议官网: https://globecom2025.ieee-globecom.org/\n
+ DBLP索引: https://dblp.org/db/conf/globecom
+LOCATION:Taipei\, Taiwan
+URL:https://globecom2025.ieee-globecom.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2026 截稿日期
+DTSTART;TZID="UTC-04:00":20260503T235959
+DTEND;TZID="UTC-04:00":20260504T000059
+DTSTAMP:20260919T092422Z
+UID:4453b660-9015-4418-9aa0-cfb068655671
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ 会议时间: D
+ ecember 7-11\, 2026\n📍 会议地点: Macao\, China\n⏰ 原始截止时
+ 间 (UTC-4): 2026-05-03 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, CO
+ RE B\, THCPL B\n会议官网: https://globecom2026.ieee-globecom.org/\nDBL
+ P索引: https://dblp.org/db/conf/globecom
+LOCATION:Macao\, China
+URL:https://globecom2026.ieee-globecom.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Networking 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260919T092422Z
+UID:372ad73d-4d4f-428c-9666-b1d898bbac71
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ 会议时
+ 间: May 24-27\, 2026\n📍 会议地点: Lugano\, Switzerland\n⏰ 原始
+ 截止时间 (AoE): 2026-02-08 23:59:59\n分类: 计算机网络 (NW)\nCCF
+  C\, CORE B\, THCPL B\n会议官网: https://networking.ifip.org/2026/\nDB
+ LP索引: https://dblp.org/db/conf/networking
+LOCATION:Lugano\, Switzerland
+URL:https://networking.ifip.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20241122T235959
+DTEND;TZID="UTC-12:00":20241123T000059
+DTSTAMP:20260919T092422Z
+UID:2fbfecee-5895-406d-840c-0780b42d8356
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ 会议时间: May 27-30\, 2025\n📍 会
+ 议地点: Fort Worth\, Texas\, USA\n⏰ 原始截止时间 (AoE): 2024-11
+ -22 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n会
+ 议官网: https://wowmomconference.uta.edu/index.html\nDBLP索引: https:
+ //dblp.org/db/conf/wowmom
+LOCATION:Fort Worth\, Texas\, USA
+URL:https://wowmomconference.uta.edu/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251118T235959
+DTEND;TZID="UTC-12:00":20251119T000059
+DTSTAMP:20260919T092422Z
+UID:d2ea5886-d28a-42fd-a06f-dd5504d57c71
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ 会议时间: June 16-19\, 2026\n📍 会
+ 议地点: Bologna\, Italy\n⏰ 原始截止时间 (AoE): 2025-11-18 23:59
+ :59\n分类: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n会议官网:
+  https://www.cs.unibo.it/wowmom2026/\nDBLP索引: https://dblp.org/db/conf
+ /wowmom
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251205T235959
+DTEND;TZID="UTC-12:00":20251206T000059
+DTSTAMP:20260919T092422Z
+UID:4b13fe13-c5f0-4c3b-b472-016445168043
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ 会议时间: June 16-19\, 2026\n📍 会
+ 议地点: Bologna\, Italy\n⏰ 原始截止时间 (AoE): 2025-12-05 23:59
+ :59\n分类: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n会议官网:
+  https://www.cs.unibo.it/wowmom2026/\nDBLP索引: https://dblp.org/db/conf
+ /wowmom
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+END:VEVENT
+END:VCALENDAR

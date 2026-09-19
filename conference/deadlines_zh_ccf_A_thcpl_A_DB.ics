@@ -1,0 +1,2442 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDE 2021 截稿日期
+DTSTART;TZID="UTC-12:00":20201001T235959
+DTEND;TZID="UTC-12:00":20201002T000059
+DTSTAMP:20260919T092415Z
+UID:1a60543b-2531-4180-8076-a1a6e7c95cb4
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: April 19-22\, 2021\n📍 会议地点: Virtual\n⏰ 原始截
+ 止时间 (AoE): 2020-10-01 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://icde2021.
+ gr/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Virtual
+URL:https://icde2021.gr/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDE 2022 截稿日期 [first round]
+DTSTART;TZID="UTC-08:00":20210721T235959
+DTEND;TZID="UTC-08:00":20210722T000059
+DTSTAMP:20260919T092415Z
+UID:8b8dd65a-dfdd-4ac4-8ba2-81f100c9633b
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 9-12\, 2022\n📍 会议地点: Kuala Lumpur\, Malaysia\n
+ ⏰ 原始截止时间 (UTC-8): 2021-07-21 23:59:59\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://icde2022.ieeecomputer.my/important-dates/\nDBLP索引: https://dblp.or
+ g/db/conf/icde
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://icde2022.ieeecomputer.my/important-dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2022 截稿日期 [second round]
+DTSTART;TZID="UTC-08:00":20211117T235959
+DTEND;TZID="UTC-08:00":20211118T000059
+DTSTAMP:20260919T092416Z
+UID:926c45ca-b810-4748-ba31-3c938726a66a
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 9-12\, 2022\n📍 会议地点: Kuala Lumpur\, Malaysia\n
+ ⏰ 原始截止时间 (UTC-8): 2021-11-17 23:59:59\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://icde2022.ieeecomputer.my/important-dates/\nDBLP索引: https://dblp.or
+ g/db/conf/icde
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://icde2022.ieeecomputer.my/important-dates/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2023 截稿日期 [first round]
+DTSTART;TZID="UTC-08:00":20220425T235959
+DTEND;TZID="UTC-08:00":20220426T000059
+DTSTAMP:20260919T092416Z
+UID:625fd50a-54f8-444a-9467-dd70d0af7f35
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: April 3-7\, 2023\n📍 会议地点: Anaheim\, California\, USA
+ \n⏰ 原始截止时间 (UTC-8): 2022-04-25 23:59:59\n分类: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: h
+ ttps://icde2023.ics.uci.edu/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Anaheim\, California\, USA
+URL:https://icde2023.ics.uci.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2023 截稿日期 [second round]
+DTSTART;TZID="UTC-08:00":20220708T235959
+DTEND;TZID="UTC-08:00":20220709T000059
+DTSTAMP:20260919T092416Z
+UID:2b0dda1d-c0ae-46b1-9d7e-490b887e7087
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: April 3-7\, 2023\n📍 会议地点: Anaheim\, California\, USA
+ \n⏰ 原始截止时间 (UTC-8): 2022-07-08 23:59:59\n分类: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: h
+ ttps://icde2023.ics.uci.edu/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Anaheim\, California\, USA
+URL:https://icde2023.ics.uci.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2023 截稿日期 [third round]
+DTSTART;TZID="UTC-08:00":20221008T235959
+DTEND;TZID="UTC-08:00":20221009T000059
+DTSTAMP:20260919T092416Z
+UID:65aa4f83-f17f-43ea-b64e-8f07b1e20058
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: April 3-7\, 2023\n📍 会议地点: Anaheim\, California\, USA
+ \n⏰ 原始截止时间 (UTC-8): 2022-10-08 23:59:59\n分类: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: h
+ ttps://icde2023.ics.uci.edu/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Anaheim\, California\, USA
+URL:https://icde2023.ics.uci.edu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2024 截稿日期 [first round]
+DTSTART;TZID="UTC-12:00":20230728T235959
+DTEND;TZID="UTC-12:00":20230729T000059
+DTSTAMP:20260919T092416Z
+UID:c6869da3-6265-490c-852a-3793997215ba
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: April 16-19\, 2024\n📍 会议地点: Utrecht\, Netherlands\n
+ ⏰ 原始截止时间 (AoE): 2023-07-28 23:59:59\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://icde2024.github.io/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Utrecht\, Netherlands
+URL:https://icde2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2024 截稿日期 [second round]
+DTSTART;TZID="UTC-12:00":20231203T235959
+DTEND;TZID="UTC-12:00":20231204T000059
+DTSTAMP:20260919T092416Z
+UID:9239f530-a77e-453d-9717-c0520bc36144
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: April 16-19\, 2024\n📍 会议地点: Utrecht\, Netherlands\n
+ ⏰ 原始截止时间 (AoE): 2023-12-03 23:59:59\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://icde2024.github.io/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Utrecht\, Netherlands
+URL:https://icde2024.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2025 截稿日期 [first round]
+DTSTART;TZID="UTC-12:00":20240802T235959
+DTEND;TZID="UTC-12:00":20240803T000059
+DTSTAMP:20260919T092416Z
+UID:495fa7bf-20db-4adf-8996-fa61cfc7de1c
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 19-23\, 2025\n📍 会议地点: Hong Kong\, China\n⏰ 原
+ 始截止时间 (AoE): 2024-08-02 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://ieee-
+ icde.org/2025/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Hong Kong\, China
+URL:https://ieee-icde.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2025 截稿日期 [second round]
+DTSTART;TZID="UTC-12:00":20241125T235959
+DTEND;TZID="UTC-12:00":20241126T000059
+DTSTAMP:20260919T092416Z
+UID:d120167c-0493-4d92-9647-ddf62aa353db
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 19-23\, 2025\n📍 会议地点: Hong Kong\, China\n⏰ 原
+ 始截止时间 (AoE): 2024-11-25 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://ieee-
+ icde.org/2025/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Hong Kong\, China
+URL:https://ieee-icde.org/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICDE 2026 截稿日期 [first round]
+DTSTART;TZID="UTC-07:00":20250618T170000
+DTEND;TZID="UTC-07:00":20250618T170100
+DTSTAMP:20260919T092416Z
+UID:a8574b8d-8aa2-4cda-ac9f-b3197b6e7c83
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 4-8\, 2026\n📍 会议地点: Montréal\, Canada\n⏰ 原
+ 始截止时间 (UTC-7): 2025-06-18 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://ic
+ de2026.github.io/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Montréal\, Canada
+URL:https://icde2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2026 截稿日期 [second round]
+DTSTART;TZID="UTC-07:00":20251027T170000
+DTEND;TZID="UTC-07:00":20251027T170100
+DTSTAMP:20260919T092416Z
+UID:f0e12542-974c-46ce-86e8-ac20f03bebda
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 4-8\, 2026\n📍 会议地点: Montréal\, Canada\n⏰ 原
+ 始截止时间 (UTC-7): 2025-10-27 17:00:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://ic
+ de2026.github.io/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Montréal\, Canada
+URL:https://icde2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2027 截稿日期 [first round]
+DTSTART;TZID="UTC-07:00":20260611T170000
+DTEND;TZID="UTC-07:00":20260611T170100
+DTSTAMP:20260919T092416Z
+UID:b0b21929-caff-4b76-8810-7a3911f5d17b
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 17-21\, 2027\n📍 会议地点: Copenhagen\, Denmark\n⏰ 
+ 原始截止时间 (UTC-7): 2026-06-11 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https:/
+ /icde2027.github.io/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Copenhagen\, Denmark
+URL:https://icde2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDE 2027 截稿日期 [second round]
+DTSTART;TZID="UTC-07:00":20261111T170000
+DTEND;TZID="UTC-07:00":20261111T170100
+DTSTAMP:20260919T092416Z
+UID:6ae02f09-f320-40e1-b2b8-77256372c0ca
+DESCRIPTION:IEEE International Conference on Data Engineering\n🗓️ 会
+ 议时间: May 17-21\, 2027\n📍 会议地点: Copenhagen\, Denmark\n⏰ 
+ 原始截止时间 (UTC-7): 2026-11-11 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https:/
+ /icde2027.github.io/\nDBLP索引: https://dblp.org/db/conf/icde
+LOCATION:Copenhagen\, Denmark
+URL:https://icde2027.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2021 摘要截稿
+DTSTART;TZID="UTC-12:00":20210202T235959
+DTEND;TZID="UTC-12:00":20210203T000059
+DTSTAMP:20260919T092416Z
+UID:db6a886a-9cd6-41c2-9b0b-055736cfa29d
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 11-15\, 2021\n📍 会议地点
+ : Virtual\n⏰ 原始截止时间 (AoE): 2021-02-02 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议
+ 官网: http://sigir.org/sigir2021/\nDBLP索引: https://dblp.org/db/conf/
+ sigir
+LOCATION:Virtual
+URL:http://sigir.org/sigir2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2021 截稿日期
+DTSTART;TZID="UTC-12:00":20210209T235959
+DTEND;TZID="UTC-12:00":20210210T000059
+DTSTAMP:20260919T092416Z
+UID:2ca8d12c-00e8-4245-bf40-d58a72e52202
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 11-15\, 2021\n📍 会议地点
+ : Virtual\n⏰ 原始截止时间 (AoE): 2021-02-09 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议
+ 官网: http://sigir.org/sigir2021/\nDBLP索引: https://dblp.org/db/conf/
+ sigir
+LOCATION:Virtual
+URL:http://sigir.org/sigir2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2022 摘要截稿
+DTSTART;TZID="UTC-12:00":20220121T235959
+DTEND;TZID="UTC-12:00":20220122T000059
+DTSTAMP:20260919T092416Z
+UID:b332b727-fc54-4000-a09d-f42618fbaee9
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 11-15\, 2022\n📍 会议地点
+ : Madrid\n⏰ 原始截止时间 (AoE): 2022-01-21 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议
+ 官网: https://sigir.org/sigir2022/\nDBLP索引: https://dblp.org/db/conf
+ /sigir
+LOCATION:Madrid
+URL:https://sigir.org/sigir2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220128T235959
+DTEND;TZID="UTC-12:00":20220129T000059
+DTSTAMP:20260919T092416Z
+UID:978fcfe4-4c16-4a3c-a7b4-00f66320e03d
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 11-15\, 2022\n📍 会议地点
+ : Madrid\n⏰ 原始截止时间 (AoE): 2022-01-28 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议
+ 官网: https://sigir.org/sigir2022/\nDBLP索引: https://dblp.org/db/conf
+ /sigir
+LOCATION:Madrid
+URL:https://sigir.org/sigir2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230124T235959
+DTEND;TZID="UTC-12:00":20230125T000059
+DTSTAMP:20260919T092416Z
+UID:d408f49b-9b5d-42dc-929e-a89197b857ac
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 23-27\, 2023\n📍 会议地点
+ : Taipei\, Taiwan\n⏰ 原始截止时间 (AoE): 2023-01-24 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n
+ 会议官网: https://sigir.org/sigir2023/\nDBLP索引: https://dblp.org/d
+ b/conf/sigir
+LOCATION:Taipei\, Taiwan
+URL:https://sigir.org/sigir2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230131T235959
+DTEND;TZID="UTC-12:00":20230201T000059
+DTSTAMP:20260919T092416Z
+UID:b871c9e3-746b-40d3-8307-fc093f216aa9
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 23-27\, 2023\n📍 会议地点
+ : Taipei\, Taiwan\n⏰ 原始截止时间 (AoE): 2023-01-31 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n
+ 会议官网: https://sigir.org/sigir2023/\nDBLP索引: https://dblp.org/d
+ b/conf/sigir
+LOCATION:Taipei\, Taiwan
+URL:https://sigir.org/sigir2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2024 摘要截稿
+DTSTART;TZID="UTC-12:00":20240119T235959
+DTEND;TZID="UTC-12:00":20240120T000059
+DTSTAMP:20260919T092416Z
+UID:db3d8423-4ce2-4493-95be-8e4b2a31663f
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 14-18\, 2024\n📍 会议地点
+ : Washington D.C.\, USA\n⏰ 原始截止时间 (AoE): 2024-01-19 23:59:59
+ \n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCP
+ L A\n会议官网: https://sigir-2024.github.io/index.html\nDBLP索引: ht
+ tps://dblp.org/db/conf/sigir
+LOCATION:Washington D.C.\, USA
+URL:https://sigir-2024.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240125T235959
+DTEND;TZID="UTC-12:00":20240126T000059
+DTSTAMP:20260919T092416Z
+UID:51a20a7a-d13b-4e2f-a27a-cf1bc31e32f4
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 14-18\, 2024\n📍 会议地点
+ : Washington D.C.\, USA\n⏰ 原始截止时间 (AoE): 2024-01-25 23:59:59
+ \n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCP
+ L A\n会议官网: https://sigir-2024.github.io/index.html\nDBLP索引: ht
+ tps://dblp.org/db/conf/sigir
+LOCATION:Washington D.C.\, USA
+URL:https://sigir-2024.github.io/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250116T235959
+DTEND;TZID="UTC-12:00":20250117T000059
+DTSTAMP:20260919T092416Z
+UID:e3236c87-0d65-4eaf-b6cf-764afa183317
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 13-18\, 2025\n📍 会议地点
+ : Padova\, Italy\n⏰ 原始截止时间 (AoE): 2025-01-16 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n
+ 会议官网: https://sigir2025.dei.unipd.it/\nDBLP索引: https://dblp.or
+ g/db/conf/sigir
+LOCATION:Padova\, Italy
+URL:https://sigir2025.dei.unipd.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250123T235959
+DTEND;TZID="UTC-12:00":20250124T000059
+DTSTAMP:20260919T092416Z
+UID:3d992410-a57a-4f50-a9b4-95657e751436
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 13-18\, 2025\n📍 会议地点
+ : Padova\, Italy\n⏰ 原始截止时间 (AoE): 2025-01-23 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n
+ 会议官网: https://sigir2025.dei.unipd.it/\nDBLP索引: https://dblp.or
+ g/db/conf/sigir
+LOCATION:Padova\, Italy
+URL:https://sigir2025.dei.unipd.it/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260919T092416Z
+UID:0f42d4af-b1dc-45a3-b782-1ac26b9c4e55
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 20-24\, 2026\n📍 会议地点
+ : Melbourne\, Australia\n⏰ 原始截止时间 (AoE): 2026-01-15 23:59:59
+ \n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCP
+ L A\n会议官网: https://sigir2026.org/en-AU\nDBLP索引: https://dblp.o
+ rg/db/conf/sigir
+LOCATION:Melbourne\, Australia
+URL:https://sigir2026.org/en-AU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGIR 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260122T235959
+DTEND;TZID="UTC-12:00":20260123T000059
+DTSTAMP:20260919T092416Z
+UID:43e2164c-8ffb-4ff5-9929-0815f264aeb5
+DESCRIPTION:International Conference on Research on Development in Informa
+ tion Retrieval\n🗓️ 会议时间: July 20-24\, 2026\n📍 会议地点
+ : Melbourne\, Australia\n⏰ 原始截止时间 (AoE): 2026-01-22 23:59:59
+ \n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCP
+ L A\n会议官网: https://sigir2026.org/en-AU\nDBLP索引: https://dblp.o
+ rg/db/conf/sigir
+LOCATION:Melbourne\, Australia
+URL:https://sigir2026.org/en-AU
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2021 截稿日期
+DTSTART;TZID="UTC-12:00":20210208T235959
+DTEND;TZID="UTC-12:00":20210209T000059
+DTSTAMP:20260919T092416Z
+UID:abade31b-1955-4c86-8ce3-193cea92c9ea
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 14-18\, 2021\n📍 会议地点: Singapore\n⏰ 原始截止时间
+  (AoE): 2021-02-08 23:59:59\n分类: 数据库/数据挖掘/内容检索 (
+ DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://www.kdd.org/kdd2021/
+ \nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Singapore
+URL:https://www.kdd.org/kdd2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2022 截稿日期
+DTSTART;TZID="UTC-12:00":20220210T235959
+DTEND;TZID="UTC-12:00":20220211T000059
+DTSTAMP:20260919T092416Z
+UID:274f6937-981e-4699-824f-c3189d1fb363
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 14-18\, 2022\n📍 会议地点: Washington DC Convention Center\,
+  USA\n⏰ 原始截止时间 (AoE): 2022-02-10 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: 
+ https://www.kdd.org/kdd2022/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Washington DC Convention Center\, USA
+URL:https://www.kdd.org/kdd2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230202T235959
+DTEND;TZID="UTC-12:00":20230203T000059
+DTSTAMP:20260919T092416Z
+UID:c0c3ffa0-a70f-4d3f-821f-29bf133e25ca
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 6-10\, 2023\n📍 会议地点: Long Beach Convention & Entertainm
+ ent Center\, USA\n⏰ 原始截止时间 (AoE): 2023-02-02 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n
+ 会议官网: https://kdd.org/kdd2023/\nDBLP索引: https://dblp.org/db/co
+ nf/kdd
+LOCATION:Long Beach Convention & Entertainment Center\, USA
+URL:https://kdd.org/kdd2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2024 摘要截稿
+DTSTART;TZID="UTC-12:00":20240201T235959
+DTEND;TZID="UTC-12:00":20240202T000059
+DTSTAMP:20260919T092416Z
+UID:35023fb6-7426-4947-ae66-83fb6961c8a1
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 25-29\, 2024\n📍 会议地点: Barcelona\, Spain\n⏰ 原始截
+ 止时间 (AoE): 2024-02-01 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd2024.k
+ dd.org/research-track-call-for-papers/\nDBLP索引: https://dblp.org/db/co
+ nf/kdd
+LOCATION:Barcelona\, Spain
+URL:https://kdd2024.kdd.org/research-track-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240208T235959
+DTEND;TZID="UTC-12:00":20240209T000059
+DTSTAMP:20260919T092416Z
+UID:1cec0d75-7c4e-4323-8443-448f7db1000d
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 25-29\, 2024\n📍 会议地点: Barcelona\, Spain\n⏰ 原始截
+ 止时间 (AoE): 2024-02-08 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd2024.k
+ dd.org/research-track-call-for-papers/\nDBLP索引: https://dblp.org/db/co
+ nf/kdd
+LOCATION:Barcelona\, Spain
+URL:https://kdd2024.kdd.org/research-track-call-for-papers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 摘要截稿 [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20240801T235959
+DTEND;TZID="UTC-12:00":20240802T000059
+DTSTAMP:20260919T092416Z
+UID:a39bfc44-5557-4c15-9075-39c62b5ed647
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 3-7\, 2025\n📍 会议地点: Toronto\, ON\, Canada\n⏰ 原始
+ 截止时间 (AoE): 2024-08-01 23:59:59\n分类: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd202
+ 5.kdd.org/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 截稿日期 [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20240808T235959
+DTEND;TZID="UTC-12:00":20240809T000059
+DTSTAMP:20260919T092416Z
+UID:35fa2bc0-bc5a-4369-9395-14ff60d1bc20
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 3-7\, 2025\n📍 会议地点: Toronto\, ON\, Canada\n⏰ 原始
+ 截止时间 (AoE): 2024-08-08 23:59:59\n分类: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd202
+ 5.kdd.org/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 摘要截稿 [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250203T235959
+DTEND;TZID="UTC-12:00":20250204T000059
+DTSTAMP:20260919T092416Z
+UID:41e8b47f-907d-4c30-b53b-3b5981c2239c
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 3-7\, 2025\n📍 会议地点: Toronto\, ON\, Canada\n⏰ 原始
+ 截止时间 (AoE): 2025-02-03 23:59:59\n分类: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd202
+ 5.kdd.org/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2025 截稿日期 [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250210T235959
+DTEND;TZID="UTC-12:00":20250211T000059
+DTSTAMP:20260919T092416Z
+UID:831751f1-ee24-41e1-91f5-fd652028c1c0
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 3-7\, 2025\n📍 会议地点: Toronto\, ON\, Canada\n⏰ 原始
+ 截止时间 (AoE): 2025-02-10 23:59:59\n分类: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd202
+ 5.kdd.org/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Toronto\, ON\, Canada
+URL:https://kdd2025.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 摘要截稿 [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250724T235959
+DTEND;TZID="UTC-12:00":20250725T000059
+DTSTAMP:20260919T092416Z
+UID:710ab931-0902-47ea-97ee-fd688a5747c7
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 9-13\, 2026\n📍 会议地点: Jeju\, Korea\n⏰ 原始截止时
+ 间 (AoE): 2025-07-24 23:59:59\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd2026.kdd.org
+ /\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 截稿日期 [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20250731T235959
+DTEND;TZID="UTC-12:00":20250801T000059
+DTSTAMP:20260919T092416Z
+UID:1e21a35f-3a8f-432e-bef8-b970c669f2b1
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 9-13\, 2026\n📍 会议地点: Jeju\, Korea\n⏰ 原始截止时
+ 间 (AoE): 2025-07-31 23:59:59\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd2026.kdd.org
+ /\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 摘要截稿 [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260201T235959
+DTEND;TZID="UTC-12:00":20260202T000059
+DTSTAMP:20260919T092416Z
+UID:2da0b2b6-0e47-4698-9cc9-8974eaca99fb
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 9-13\, 2026\n📍 会议地点: Jeju\, Korea\n⏰ 原始截止时
+ 间 (AoE): 2026-02-01 23:59:59\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd2026.kdd.org
+ /\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2026 截稿日期 [2nd round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260919T092416Z
+UID:d1256926-81f9-4690-934e-0bec2cfcc5c1
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 9-13\, 2026\n📍 会议地点: Jeju\, Korea\n⏰ 原始截止时
+ 间 (AoE): 2026-02-08 23:59:59\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kdd2026.kdd.org
+ /\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:Jeju\, Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2027 摘要截稿 [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260719T235959
+DTEND;TZID="UTC-12:00":20260720T000059
+DTSTAMP:20260919T092416Z
+UID:535637aa-98c8-4282-9f0f-33f9d57eedfa
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 1-5\, 2027\n📍 会议地点: San Jose\, California\, USA\n⏰ 
+ 原始截止时间 (AoE): 2026-07-19 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kd
+ d2027.kdd.org/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:San Jose\, California\, USA
+URL:https://kdd2027.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGKDD 2027 截稿日期 [1st round of 2 total rounds]
+DTSTART;TZID="UTC-12:00":20260726T235959
+DTEND;TZID="UTC-12:00":20260727T000059
+DTSTAMP:20260919T092416Z
+UID:353779ea-aaac-427d-a9c3-d72c655e3c01
+DESCRIPTION:ACM Knowledge Discovery and Data Mining\n🗓️ 会议时间:
+  August 1-5\, 2027\n📍 会议地点: San Jose\, California\, USA\n⏰ 
+ 原始截止时间 (AoE): 2026-07-26 23:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://kd
+ d2027.kdd.org/\nDBLP索引: https://dblp.org/db/conf/kdd
+LOCATION:San Jose\, California\, USA
+URL:https://kdd2027.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2021 截稿日期 [second round]
+DTSTART;TZID="UTC-08:00":20200922T170000
+DTEND;TZID="UTC-08:00":20200922T170100
+DTSTAMP:20260919T092416Z
+UID:c85a6eef-d332-4ddd-9311-d352994eda8e
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 20-25\, 2021\n📍 会议地点: Xi'an\, China\n⏰ 原始截止时间 
+ (UTC-8): 2020-09-22 17:00:00\n分类: 数据库/数据挖掘/内容检索 
+ (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2021.sigmod.org/\nDB
+ LP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Xi'an\, China
+URL:http://2021.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2022 截稿日期 [first round]
+DTSTART;TZID="UTC-08:00":20210702T170000
+DTEND;TZID="UTC-08:00":20210702T170100
+DTSTAMP:20260919T092416Z
+UID:5cdac2cf-771f-47fc-a4c0-ce474c7f7a41
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 12-17\, 2022\n📍 会议地点: Philadelphia\, PA\, USA\n⏰ 原始截
+ 止时间 (UTC-8): 2021-07-02 17:00:00\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2022.sigmo
+ d.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Philadelphia\, PA\, USA
+URL:http://2022.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2022 截稿日期 [second round]
+DTSTART;TZID="UTC-08:00":20210915T170000
+DTEND;TZID="UTC-08:00":20210915T170100
+DTSTAMP:20260919T092416Z
+UID:18a48ce2-fe0a-4a06-ab3a-c929bffe495f
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 12-17\, 2022\n📍 会议地点: Philadelphia\, PA\, USA\n⏰ 原始截
+ 止时间 (UTC-8): 2021-09-15 17:00:00\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2022.sigmo
+ d.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Philadelphia\, PA\, USA
+URL:http://2022.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2023 截稿日期 [first round]
+DTSTART;TZID="UTC-08:00":20220415T235900
+DTEND;TZID="UTC-08:00":20220416T000000
+DTSTAMP:20260919T092416Z
+UID:f7806e4c-32ee-49ea-8aa8-976191b7184e
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 18-23\, 2022\n📍 会议地点: Seattle\, WA\, USA\n⏰ 原始截止
+ 时间 (UTC-8): 2022-04-15 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2023.sigmod.o
+ rg/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Seattle\, WA\, USA
+URL:http://2023.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2023 截稿日期 [second round]
+DTSTART;TZID="UTC-08:00":20220715T235900
+DTEND;TZID="UTC-08:00":20220716T000000
+DTSTAMP:20260919T092416Z
+UID:bef8767f-d27b-42ac-9fe8-575794ebe75a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 18-23\, 2022\n📍 会议地点: Seattle\, WA\, USA\n⏰ 原始截止
+ 时间 (UTC-8): 2022-07-15 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2023.sigmod.o
+ rg/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Seattle\, WA\, USA
+URL:http://2023.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2023 截稿日期 [third round]
+DTSTART;TZID="UTC-08:00":20221015T235900
+DTEND;TZID="UTC-08:00":20221016T000000
+DTSTAMP:20260919T092416Z
+UID:1b7f7e23-05a8-47f1-9f3c-d9c9d25c3dd3
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 18-23\, 2022\n📍 会议地点: Seattle\, WA\, USA\n⏰ 原始截止
+ 时间 (UTC-8): 2022-10-15 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2023.sigmod.o
+ rg/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Seattle\, WA\, USA
+URL:http://2023.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 截稿日期 [round 1]
+DTSTART;TZID="UTC-07:00":20230115T235900
+DTEND;TZID="UTC-07:00":20230116T000000
+DTSTAMP:20260919T092416Z
+UID:493750b7-bbdf-4e65-bf3b-e2e22d8c5050
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 11-16\, 2024\n📍 会议地点: Santiago\, Chile\n⏰ 原始截止时
+ 间 (UTC-7): 2023-01-15 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2024.sigmod.org/
+ \nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 截稿日期 [round 2]
+DTSTART;TZID="UTC-07:00":20230415T235900
+DTEND;TZID="UTC-07:00":20230416T000000
+DTSTAMP:20260919T092416Z
+UID:924bbb73-19d8-4a49-9877-eca34f1e4f1e
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 11-16\, 2024\n📍 会议地点: Santiago\, Chile\n⏰ 原始截止时
+ 间 (UTC-7): 2023-04-15 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2024.sigmod.org/
+ \nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 截稿日期 [round 3]
+DTSTART;TZID="UTC-07:00":20230715T235900
+DTEND;TZID="UTC-07:00":20230716T000000
+DTSTAMP:20260919T092416Z
+UID:0df69f36-dae7-48f3-b1dd-d059e2d54598
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 11-16\, 2024\n📍 会议地点: Santiago\, Chile\n⏰ 原始截止时
+ 间 (UTC-7): 2023-07-15 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2024.sigmod.org/
+ \nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2024 截稿日期 [round 4]
+DTSTART;TZID="UTC-07:00":20231015T235900
+DTEND;TZID="UTC-07:00":20231016T000000
+DTSTAMP:20260919T092416Z
+UID:d35e17be-c876-4f59-9a98-8d0b1053bc8c
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 11-16\, 2024\n📍 会议地点: Santiago\, Chile\n⏰ 原始截止时
+ 间 (UTC-7): 2023-10-15 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://2024.sigmod.org/
+ \nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Santiago\, Chile
+URL:http://2024.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 摘要截稿 [round 1]
+DTSTART;TZID="UTC-12:00":20240110T235900
+DTEND;TZID="UTC-12:00":20240111T000000
+DTSTAMP:20260919T092416Z
+UID:fc6ebf5b-d30a-4a45-8e6e-69c800621904
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-01-10 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 截稿日期 [round 1]
+DTSTART;TZID="UTC-12:00":20240117T235900
+DTEND;TZID="UTC-12:00":20240118T000000
+DTSTAMP:20260919T092416Z
+UID:8dd8aedf-f3b3-4c55-bb93-09c48adf613a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-01-17 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 摘要截稿 [round 2]
+DTSTART;TZID="UTC-12:00":20240410T235900
+DTEND;TZID="UTC-12:00":20240411T000000
+DTSTAMP:20260919T092416Z
+UID:205e7353-1b18-4111-8dfb-10d17033503d
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-04-10 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 截稿日期 [round 2]
+DTSTART;TZID="UTC-12:00":20240417T235900
+DTEND;TZID="UTC-12:00":20240418T000000
+DTSTAMP:20260919T092416Z
+UID:a52cbc37-f4b5-47dd-ad8f-e6a8601ec53a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-04-17 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 摘要截稿 [round 3]
+DTSTART;TZID="UTC-12:00":20240710T235900
+DTEND;TZID="UTC-12:00":20240711T000000
+DTSTAMP:20260919T092416Z
+UID:be7aa5b3-53e4-420c-9039-222588b5dc36
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-07-10 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 截稿日期 [round 3]
+DTSTART;TZID="UTC-12:00":20240717T235900
+DTEND;TZID="UTC-12:00":20240718T000000
+DTSTAMP:20260919T092416Z
+UID:e355f3ec-7602-47d3-84de-165c64f9181c
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-07-17 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 摘要截稿 [round 4]
+DTSTART;TZID="UTC-12:00":20241010T235900
+DTEND;TZID="UTC-12:00":20241011T000000
+DTSTAMP:20260919T092416Z
+UID:8cc6a270-7375-499d-9cd2-583ffc7bc113
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-10-10 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2025 截稿日期 [round 4]
+DTSTART;TZID="UTC-12:00":20241017T235900
+DTEND;TZID="UTC-12:00":20241018T000000
+DTSTAMP:20260919T092416Z
+UID:ee1f699d-c215-47f2-bacb-c02281ae42b3
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 22-27\, 2025\n📍 会议地点: Berlin\, Germany\n⏰ 原始截止时
+ 间 (AoE): 2024-10-17 23:59:00\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2025.sigmod.org
+ /\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Berlin\, Germany
+URL:https://2025.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 摘要截稿 [round 1]
+DTSTART;TZID="UTC-12:00":20250110T235900
+DTEND;TZID="UTC-12:00":20250111T000000
+DTSTAMP:20260919T092416Z
+UID:3ad6796a-dd0f-4f30-bd14-f64e0a4fcec5
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-01-10 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 截稿日期 [round 1]
+DTSTART;TZID="UTC-12:00":20250117T235900
+DTEND;TZID="UTC-12:00":20250118T000000
+DTSTAMP:20260919T092416Z
+UID:03befb30-ea37-4535-bee7-73b0ea88cdfc
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-01-17 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 摘要截稿 [round 2]
+DTSTART;TZID="UTC-12:00":20250410T235900
+DTEND;TZID="UTC-12:00":20250411T000000
+DTSTAMP:20260919T092416Z
+UID:90e742c7-15ff-4402-beba-63f255e693d2
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-04-10 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 截稿日期 [round 2]
+DTSTART;TZID="UTC-12:00":20250417T235900
+DTEND;TZID="UTC-12:00":20250418T000000
+DTSTAMP:20260919T092416Z
+UID:7f601d7a-5086-4387-b7fb-432faaccc978
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-04-17 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 摘要截稿 [round 3]
+DTSTART;TZID="UTC-12:00":20250710T235900
+DTEND;TZID="UTC-12:00":20250711T000000
+DTSTAMP:20260919T092416Z
+UID:a59f5f7b-acbe-405d-91e9-996aa1a7df54
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-07-10 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 截稿日期 [round 3]
+DTSTART;TZID="UTC-12:00":20250717T235900
+DTEND;TZID="UTC-12:00":20250718T000000
+DTSTAMP:20260919T092416Z
+UID:bae1d24e-f2f2-4636-a323-2b08a342edde
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-07-17 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 摘要截稿 [round 4]
+DTSTART;TZID="UTC-12:00":20251010T235900
+DTEND;TZID="UTC-12:00":20251011T000000
+DTSTAMP:20260919T092416Z
+UID:7304d842-b765-4546-b426-ec488f95f81c
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-10-10 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2026 截稿日期 [round 4]
+DTSTART;TZID="UTC-12:00":20251017T235900
+DTEND;TZID="UTC-12:00":20251018T000000
+DTSTAMP:20260919T092416Z
+UID:9b0ac6be-b9fc-4a79-b050-178d7735bb30
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ma
+ y 31-June 5\, 2026\n📍 会议地点: Bangalore\, India\n⏰ 原始截止
+ 时间 (AoE): 2025-10-17 23:59:00\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2026.sigmod.
+ org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Bangalore\, India
+URL:https://2026.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 摘要截稿 [round 1]
+DTSTART;TZID="UTC-12:00":20260110T235900
+DTEND;TZID="UTC-12:00":20260111T000000
+DTSTAMP:20260919T092416Z
+UID:e22e7eb8-a6aa-43e3-8425-8b5137f2cd62
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-01-10 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 截稿日期 [round 1]
+DTSTART;TZID="UTC-12:00":20260117T235900
+DTEND;TZID="UTC-12:00":20260118T000000
+DTSTAMP:20260919T092416Z
+UID:2f190355-58f9-4b4a-846b-f93f43ec6cc1
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-01-17 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 摘要截稿 [round 2]
+DTSTART;TZID="UTC-12:00":20260410T235900
+DTEND;TZID="UTC-12:00":20260411T000000
+DTSTAMP:20260919T092416Z
+UID:ad4277fa-09ff-479e-b8f8-ed4d44a1fada
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-04-10 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 截稿日期 [round 2]
+DTSTART;TZID="UTC-12:00":20260417T235900
+DTEND;TZID="UTC-12:00":20260418T000000
+DTSTAMP:20260919T092416Z
+UID:acd2b4d6-da0c-4df5-8d5c-5c73cc3302fd
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-04-17 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 摘要截稿 [round 3]
+DTSTART;TZID="UTC-12:00":20260710T235900
+DTEND;TZID="UTC-12:00":20260711T000000
+DTSTAMP:20260919T092416Z
+UID:7e76c0ea-beb6-488c-a28d-fb92388af91a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-07-10 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 截稿日期 [round 3]
+DTSTART;TZID="UTC-12:00":20260717T235900
+DTEND;TZID="UTC-12:00":20260718T000000
+DTSTAMP:20260919T092416Z
+UID:9ba99f75-3412-43a1-932f-3b2e961a3db7
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-07-17 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 摘要截稿 [round 4]
+DTSTART;TZID="UTC-12:00":20261010T235900
+DTEND;TZID="UTC-12:00":20261011T000000
+DTSTAMP:20260919T092416Z
+UID:e56af964-3d79-4a3a-bdb9-dd00f2b90f1a
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-10-10 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGMOD 2027 截稿日期 [round 4]
+DTSTART;TZID="UTC-12:00":20261017T235900
+DTEND;TZID="UTC-12:00":20261018T000000
+DTSTAMP:20260919T092416Z
+UID:cc3eb603-282d-42be-bce0-4e78d9937f72
+DESCRIPTION:ACM Conference on Management of Data\n🗓️ 会议时间: Ju
+ ne 13-19\, 2027\n📍 会议地点: Huntington Beach\, CA\, USA\n⏰ 原
+ 始截止时间 (AoE): 2026-10-17 23:59:00\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: https://2027.
+ sigmod.org/\nDBLP索引: https://dblp.org/db/conf/sigmod
+LOCATION:Huntington Beach\, CA\, USA
+URL:https://2027.sigmod.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20200401T170000
+DTEND;TZID="UTC-07:00":20200401T170100
+DTSTAMP:20260919T092416Z
+UID:4776d656-8c8e-4db6-80c0-018dde82cfca
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-04-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20200501T170000
+DTEND;TZID="UTC-07:00":20200501T170100
+DTSTAMP:20260919T092416Z
+UID:c7f29a39-dedb-4161-bdf7-a1df765176f9
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-05-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20200601T170000
+DTEND;TZID="UTC-07:00":20200601T170100
+DTSTAMP:20260919T092416Z
+UID:b1b44522-a699-44d6-87eb-8880d9b6765c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-06-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20200701T170000
+DTEND;TZID="UTC-07:00":20200701T170100
+DTSTAMP:20260919T092416Z
+UID:99e27382-4674-4872-9d44-7a0fcc3d317f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-07-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20200801T170000
+DTEND;TZID="UTC-07:00":20200801T170100
+DTSTAMP:20260919T092416Z
+UID:4b455832-8621-4c48-9dd3-4c1c313cbec0
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-08-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20200901T170000
+DTEND;TZID="UTC-07:00":20200901T170100
+DTSTAMP:20260919T092416Z
+UID:cf968a8e-35cc-4844-8fd2-c6fd1f2e7458
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-09-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-07:00":20201001T170000
+DTEND;TZID="UTC-07:00":20201001T170100
+DTSTAMP:20260919T092416Z
+UID:3098feaa-9c5b-4d56-aab6-1a0e48f5b180
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-10-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-08:00":20201101T170000
+DTEND;TZID="UTC-08:00":20201101T170100
+DTSTAMP:20260919T092416Z
+UID:89f65908-ca27-479f-9f59-caf32a478b3b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-11-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-08:00":20201201T170000
+DTEND;TZID="UTC-08:00":20201201T170100
+DTSTAMP:20260919T092416Z
+UID:115aefab-f597-43ec-9b5b-1cb9009f90c6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2020-12-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-08:00":20210101T170000
+DTEND;TZID="UTC-08:00":20210101T170100
+DTSTAMP:20260919T092416Z
+UID:94cf2c9b-28fd-4dd4-ba9d-f92a4077c6c3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2021-01-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-08:00":20210201T170000
+DTEND;TZID="UTC-08:00":20210201T170100
+DTSTAMP:20260919T092416Z
+UID:e3027c1a-8e43-404c-80e2-f5931745b284
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2021-02-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2021 截稿日期
+DTSTART;TZID="UTC-08:00":20210301T170000
+DTEND;TZID="UTC-08:00":20210301T170100
+DTSTAMP:20260919T092416Z
+UID:fb3e1bcd-1029-481b-a7fc-8f754763e7a3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 16-20\, 2021\n📍 会议地点: Copenhagen\, Denmark\n
+ ⏰ 原始截止时间 (PT): 2021-03-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2021/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Copenhagen\, Denmark
+URL:http://www.vldb.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210401T170000
+DTEND;TZID="UTC-07:00":20210401T170100
+DTSTAMP:20260919T092416Z
+UID:91d5e33c-3278-44c2-8df3-ef2729c38291
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-04-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210501T170000
+DTEND;TZID="UTC-07:00":20210501T170100
+DTSTAMP:20260919T092416Z
+UID:d3ac3fc1-cf2a-41eb-bc66-8647b884c14b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-05-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210601T170000
+DTEND;TZID="UTC-07:00":20210601T170100
+DTSTAMP:20260919T092416Z
+UID:f3b3bd48-87bb-4e68-a699-68055824f6a3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-06-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210701T170000
+DTEND;TZID="UTC-07:00":20210701T170100
+DTSTAMP:20260919T092416Z
+UID:825e3e68-de39-4bc5-ab2e-272d866486c5
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-07-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210801T170000
+DTEND;TZID="UTC-07:00":20210801T170100
+DTSTAMP:20260919T092416Z
+UID:cf5d22ec-fc9f-4a65-8fb0-5c297e751cb7
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-08-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210901T170000
+DTEND;TZID="UTC-07:00":20210901T170100
+DTSTAMP:20260919T092416Z
+UID:18419b6c-b271-42e8-8ad6-7a45e01debec
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-09-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20211001T170000
+DTEND;TZID="UTC-07:00":20211001T170100
+DTSTAMP:20260919T092416Z
+UID:90dd9adf-74dd-432d-8b28-b5d1f13e418d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-10-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20211101T170000
+DTEND;TZID="UTC-07:00":20211101T170100
+DTSTAMP:20260919T092416Z
+UID:4be5abaa-b335-4235-95a9-e1204114c564
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-11-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20211201T170000
+DTEND;TZID="UTC-08:00":20211201T170100
+DTSTAMP:20260919T092416Z
+UID:f2dfcaaf-7e7b-4645-9105-4b131ed3af99
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2021-12-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220101T170000
+DTEND;TZID="UTC-08:00":20220101T170100
+DTSTAMP:20260919T092416Z
+UID:08ebae4f-86ce-466b-9ac2-2626a503f24e
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2022-01-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220201T170000
+DTEND;TZID="UTC-08:00":20220201T170100
+DTSTAMP:20260919T092416Z
+UID:b1239a4a-98d7-4bb4-a647-fb868ee438f6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2022-02-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220301T170000
+DTEND;TZID="UTC-08:00":20220301T170100
+DTSTAMP:20260919T092416Z
+UID:6c25c8c9-0a59-4b6a-a321-556b1918ca2c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 05-09\, 2022\n📍 会议地点: Sydney\, Australia\n
+ ⏰ 原始截止时间 (PT): 2022-03-01 17:00:00\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http://
+ www.vldb.org/2022/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Sydney\, Australia
+URL:http://www.vldb.org/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20220401T170000
+DTEND;TZID="UTC-07:00":20220401T170100
+DTSTAMP:20260919T092416Z
+UID:b7556c3f-57db-45e1-9dbc-60538086aa43
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-04-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20220501T170000
+DTEND;TZID="UTC-07:00":20220501T170100
+DTSTAMP:20260919T092416Z
+UID:826b3412-0d77-44cd-81b1-22e31bf6ce8a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-05-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20220601T170000
+DTEND;TZID="UTC-07:00":20220601T170100
+DTSTAMP:20260919T092416Z
+UID:a1c102c3-56ea-476d-af37-ca4868981e64
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-06-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20220701T170000
+DTEND;TZID="UTC-07:00":20220701T170100
+DTSTAMP:20260919T092416Z
+UID:a0531205-5e66-4d3f-a3d5-f819d284d5eb
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-07-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20220801T170000
+DTEND;TZID="UTC-07:00":20220801T170100
+DTSTAMP:20260919T092416Z
+UID:64833613-de74-40b4-a5da-9f07061f8cb1
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-08-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20220901T170000
+DTEND;TZID="UTC-07:00":20220901T170100
+DTSTAMP:20260919T092416Z
+UID:507abfd4-70fa-462e-9f26-3ce3830bdfc4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-09-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20221001T170000
+DTEND;TZID="UTC-07:00":20221001T170100
+DTSTAMP:20260919T092416Z
+UID:cb2d9b51-ba0a-4d12-950a-108a00a6d225
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-10-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-07:00":20221101T170000
+DTEND;TZID="UTC-07:00":20221101T170100
+DTSTAMP:20260919T092416Z
+UID:c4091448-bc5e-4e9f-94fa-59fd874ea6da
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-11-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-08:00":20221201T170000
+DTEND;TZID="UTC-08:00":20221201T170100
+DTSTAMP:20260919T092416Z
+UID:7b6c5c32-ca19-49ba-a1cb-0713a63282db
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2022-12-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-08:00":20230101T170000
+DTEND;TZID="UTC-08:00":20230101T170100
+DTSTAMP:20260919T092416Z
+UID:909c5bd5-9d0b-4b1e-b09b-348571b7808f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2023-01-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-08:00":20230201T170000
+DTEND;TZID="UTC-08:00":20230201T170100
+DTSTAMP:20260919T092416Z
+UID:57bbc76c-84d5-48fd-b084-6376891004e4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2023-02-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2023 截稿日期
+DTSTART;TZID="UTC-08:00":20230301T170000
+DTEND;TZID="UTC-08:00":20230301T170100
+DTSTAMP:20260919T092416Z
+UID:bd6e9125-4d82-466e-a87d-6af9b96b8db8
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 28 - September 01\, 2023\n📍 会议地点: Vancouver\,
+  Canada\n⏰ 原始截止时间 (PT): 2023-03-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2023/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Vancouver\, Canada
+URL:http://www.vldb.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230401T170000
+DTEND;TZID="UTC-07:00":20230401T170100
+DTSTAMP:20260919T092416Z
+UID:a1eb46fa-b161-4046-9e69-b8dbdbe00266
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-04-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230501T170000
+DTEND;TZID="UTC-07:00":20230501T170100
+DTSTAMP:20260919T092416Z
+UID:af44e881-ac3b-4b90-9814-c54143defc02
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-05-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230601T170000
+DTEND;TZID="UTC-07:00":20230601T170100
+DTSTAMP:20260919T092416Z
+UID:b470dfbc-ab42-4e25-97b7-62803cfb9ea5
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-06-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230701T170000
+DTEND;TZID="UTC-07:00":20230701T170100
+DTSTAMP:20260919T092416Z
+UID:d5801a42-7b24-4c4f-847b-71eb55fc6ca7
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-07-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230801T170000
+DTEND;TZID="UTC-07:00":20230801T170100
+DTSTAMP:20260919T092416Z
+UID:ee883230-8af5-4aef-b035-1d77365651a4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-08-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20230901T170000
+DTEND;TZID="UTC-07:00":20230901T170100
+DTSTAMP:20260919T092416Z
+UID:ca0b6661-1ad1-4102-bef9-fcb11c0df183
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-09-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20231001T170000
+DTEND;TZID="UTC-07:00":20231001T170100
+DTSTAMP:20260919T092416Z
+UID:fd4c5dc5-0bd4-4c45-b9da-e9a1dfe1bde8
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-10-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-07:00":20231101T170000
+DTEND;TZID="UTC-07:00":20231101T170100
+DTSTAMP:20260919T092416Z
+UID:f71a360a-7fad-42fa-9111-d4fc8aeb8e98
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-11-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20231201T170000
+DTEND;TZID="UTC-08:00":20231201T170100
+DTSTAMP:20260919T092416Z
+UID:23e6317a-8417-4fd3-b419-7139631aa2ab
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2023-12-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20240101T170000
+DTEND;TZID="UTC-08:00":20240101T170100
+DTSTAMP:20260919T092416Z
+UID:0e59f196-73f9-4b38-8333-2bc582196fe9
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2024-01-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20240201T170000
+DTEND;TZID="UTC-08:00":20240201T170100
+DTSTAMP:20260919T092416Z
+UID:52551d4d-e29b-4ace-8b61-7b354c02b0bf
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2024-02-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20240301T170000
+DTEND;TZID="UTC-08:00":20240301T170100
+DTSTAMP:20260919T092416Z
+UID:fc5c54e4-3934-46ad-9839-6977093a6558
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 25-29\, 2024\n📍 会议地点: Guangzhou\, China (and 
+ hybrid)\n⏰ 原始截止时间 (PT): 2024-03-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: http://www.vldb.org/2024/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Guangzhou\, China (and hybrid)
+URL:http://www.vldb.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240401T170000
+DTEND;TZID="UTC-07:00":20240401T170100
+DTSTAMP:20260919T092416Z
+UID:8a4cecfb-f51e-4647-b6a7-78f8a6851dfb
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-04-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240501T170000
+DTEND;TZID="UTC-07:00":20240501T170100
+DTSTAMP:20260919T092416Z
+UID:8e1c5406-0091-4bfd-9493-1f3a88669d8a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-05-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240601T170000
+DTEND;TZID="UTC-07:00":20240601T170100
+DTSTAMP:20260919T092416Z
+UID:372d01ea-3e8b-4e97-99fa-f90a8d68211a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-06-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240701T170000
+DTEND;TZID="UTC-07:00":20240701T170100
+DTSTAMP:20260919T092416Z
+UID:acf3efdd-af6b-4cbe-90ec-f937749a5208
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-07-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240801T170000
+DTEND;TZID="UTC-07:00":20240801T170100
+DTSTAMP:20260919T092416Z
+UID:756b2ecf-8f0a-4efb-a9f4-2acd594fe82b
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-08-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20240901T170000
+DTEND;TZID="UTC-07:00":20240901T170100
+DTSTAMP:20260919T092416Z
+UID:b4cf19fe-f550-4430-b8fb-bad6a634d724
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-09-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20241001T170000
+DTEND;TZID="UTC-07:00":20241001T170100
+DTSTAMP:20260919T092416Z
+UID:30f1942d-a170-43ac-8ab5-0c0331b87b15
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-10-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-07:00":20241101T170000
+DTEND;TZID="UTC-07:00":20241101T170100
+DTSTAMP:20260919T092416Z
+UID:80da0ebc-1426-4e2c-a2cb-b1cdca7593bd
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-11-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20241201T170000
+DTEND;TZID="UTC-08:00":20241201T170100
+DTSTAMP:20260919T092416Z
+UID:3eb7010a-adad-4d49-b309-c991179cd3b6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2024-12-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250101T170000
+DTEND;TZID="UTC-08:00":20250101T170100
+DTSTAMP:20260919T092416Z
+UID:a26698b5-e3e9-48a3-bb9a-15a2793caf29
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2025-01-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250201T170000
+DTEND;TZID="UTC-08:00":20250201T170100
+DTSTAMP:20260919T092416Z
+UID:1f307fb7-fdf9-4c2f-9f87-6d9e87cf2999
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2025-02-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2025 截稿日期
+DTSTART;TZID="UTC-08:00":20250301T170000
+DTEND;TZID="UTC-08:00":20250301T170100
+DTSTAMP:20260919T092416Z
+UID:dc2ce1a9-bf89-4ea5-b1c8-ff442a5a1bd3
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: September 1-5\, 2025\n📍 会议地点: London\, United Kingdo
+ m\n⏰ 原始截止时间 (PT): 2025-03-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ ://www.vldb.org/2025/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:London\, United Kingdom
+URL:http://www.vldb.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250401T170000
+DTEND;TZID="UTC-07:00":20250401T170100
+DTSTAMP:20260919T092416Z
+UID:cba5401b-54db-45da-be11-36c31ecf96b7
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-04-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250501T170000
+DTEND;TZID="UTC-07:00":20250501T170100
+DTSTAMP:20260919T092416Z
+UID:91d3cbd7-fded-41a0-8f93-aa3ba0414671
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-05-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250601T170000
+DTEND;TZID="UTC-07:00":20250601T170100
+DTSTAMP:20260919T092416Z
+UID:4750bac2-67f1-432e-983f-b537563c1e0d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-06-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250701T170000
+DTEND;TZID="UTC-07:00":20250701T170100
+DTSTAMP:20260919T092416Z
+UID:5d686124-7411-4b47-a8da-43e8246994f1
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-07-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250801T170000
+DTEND;TZID="UTC-07:00":20250801T170100
+DTSTAMP:20260919T092416Z
+UID:5c28b39e-a608-4f0d-ad5a-2526b3d8ed90
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-08-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20250901T170000
+DTEND;TZID="UTC-07:00":20250901T170100
+DTSTAMP:20260919T092416Z
+UID:424dda54-3454-433a-8086-c996e92e4f9f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-09-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20251001T170000
+DTEND;TZID="UTC-07:00":20251001T170100
+DTSTAMP:20260919T092416Z
+UID:64e1e10b-bfc9-498d-9e2c-4a58a578598a
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-10-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-07:00":20251101T170000
+DTEND;TZID="UTC-07:00":20251101T170100
+DTSTAMP:20260919T092416Z
+UID:e0551875-27e9-46f5-817d-55bc43cff226
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-11-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20251201T170000
+DTEND;TZID="UTC-08:00":20251201T170100
+DTSTAMP:20260919T092416Z
+UID:1bdf9c27-425c-4ab4-ad3e-cf6d107aaf91
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2025-12-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260101T170000
+DTEND;TZID="UTC-08:00":20260101T170100
+DTSTAMP:20260919T092416Z
+UID:06ea845a-1b8f-4c94-98fd-e8417487f6f4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2026-01-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260201T170000
+DTEND;TZID="UTC-08:00":20260201T170100
+DTSTAMP:20260919T092416Z
+UID:c9935e5e-5040-4471-b6b7-fa75b8dfec0d
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2026-02-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260301T170000
+DTEND;TZID="UTC-08:00":20260301T170100
+DTSTAMP:20260919T092416Z
+UID:59dec266-7153-497d-955a-9aef1b44a956
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 31 - September 4\, 2026\n📍 会议地点: Boston\, MA
+ \, USA\n⏰ 原始截止时间 (PT): 2026-03-01 17:00:00\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官
+ 网: https://www.vldb.org/2026/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Boston\, MA\, USA
+URL:https://www.vldb.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260325T170000
+DTEND;TZID="UTC-07:00":20260325T170100
+DTSTAMP:20260919T092416Z
+UID:a7df4151-e1bb-4ec4-8111-594335f8d776
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-03-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260401T170000
+DTEND;TZID="UTC-07:00":20260401T170100
+DTSTAMP:20260919T092416Z
+UID:987ca947-d11b-47d2-a3dc-f5207a1407e1
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-04-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260425T170000
+DTEND;TZID="UTC-07:00":20260425T170100
+DTSTAMP:20260919T092416Z
+UID:2c180863-5dec-49e3-8a73-70c90d2928ca
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-04-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260501T170000
+DTEND;TZID="UTC-07:00":20260501T170100
+DTSTAMP:20260919T092416Z
+UID:dfc87685-95c4-47e6-b4f2-267cf2fda484
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-05-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260525T170000
+DTEND;TZID="UTC-07:00":20260525T170100
+DTSTAMP:20260919T092416Z
+UID:367db508-43a3-47f7-abba-51d7807aba8f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-05-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260601T170000
+DTEND;TZID="UTC-07:00":20260601T170100
+DTSTAMP:20260919T092416Z
+UID:2b6a2380-d2e2-454f-a2ab-66db0eb19d02
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-06-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260625T170000
+DTEND;TZID="UTC-07:00":20260625T170100
+DTSTAMP:20260919T092416Z
+UID:534797ec-1149-449d-accb-a0b783a0af61
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-06-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260701T170000
+DTEND;TZID="UTC-07:00":20260701T170100
+DTSTAMP:20260919T092416Z
+UID:0ac6758e-5daa-44fc-bc3d-4a9fe361f6dd
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-07-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260725T170000
+DTEND;TZID="UTC-07:00":20260725T170100
+DTSTAMP:20260919T092416Z
+UID:1c6f6e48-a7ac-4460-b09b-636b8b849dc1
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-07-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260801T170000
+DTEND;TZID="UTC-07:00":20260801T170100
+DTSTAMP:20260919T092416Z
+UID:c0ad8640-d118-4f2f-87de-b9a227f76bc4
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-08-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260825T170000
+DTEND;TZID="UTC-07:00":20260825T170100
+DTSTAMP:20260919T092416Z
+UID:c612eedd-8692-4edb-8c55-34630d07a775
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-08-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20260901T170000
+DTEND;TZID="UTC-07:00":20260901T170100
+DTSTAMP:20260919T092416Z
+UID:f0318120-8298-45d5-a586-12f85eafd636
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-09-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20260925T170000
+DTEND;TZID="UTC-07:00":20260925T170100
+DTSTAMP:20260919T092416Z
+UID:4249ffe1-137a-4550-a634-18057bd8f837
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-09-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-07:00":20261001T170000
+DTEND;TZID="UTC-07:00":20261001T170100
+DTSTAMP:20260919T092416Z
+UID:0599880f-b601-458b-978b-4d96c35f88a2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-10-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-07:00":20261025T170000
+DTEND;TZID="UTC-07:00":20261025T170100
+DTSTAMP:20260919T092416Z
+UID:55b60322-11b8-46f3-a8ac-9dd3f72896ea
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-10-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-08:00":20261101T170000
+DTEND;TZID="UTC-08:00":20261101T170100
+DTSTAMP:20260919T092416Z
+UID:98e1f510-64bd-43d8-a2da-f09ae4c0909f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-11-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-08:00":20261125T170000
+DTEND;TZID="UTC-08:00":20261125T170100
+DTSTAMP:20260919T092416Z
+UID:dea43a76-4e33-4131-9f15-c0adedc658f7
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-11-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-08:00":20261201T170000
+DTEND;TZID="UTC-08:00":20261201T170100
+DTSTAMP:20260919T092416Z
+UID:41de1e92-490d-4c50-8a16-8f8f7b5538cb
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-12-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-08:00":20261225T170000
+DTEND;TZID="UTC-08:00":20261225T170100
+DTSTAMP:20260919T092416Z
+UID:4909d3cd-909c-4b78-8549-01bc32302cf2
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2026-12-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-08:00":20270101T170000
+DTEND;TZID="UTC-08:00":20270101T170100
+DTSTAMP:20260919T092416Z
+UID:d9b488f5-f196-496c-87cb-18a590f603e6
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2027-01-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-08:00":20270125T170000
+DTEND;TZID="UTC-08:00":20270125T170100
+DTSTAMP:20260919T092416Z
+UID:a3d156b9-f1d2-403a-b2e7-d72695ac4afe
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2027-01-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-08:00":20270201T170000
+DTEND;TZID="UTC-08:00":20270201T170100
+DTSTAMP:20260919T092416Z
+UID:b46defab-b17b-460c-a270-d44455d3e62f
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2027-02-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 摘要截稿
+DTSTART;TZID="UTC-08:00":20270225T170000
+DTEND;TZID="UTC-08:00":20270225T170100
+DTSTAMP:20260919T092416Z
+UID:480c7b4e-20c9-4557-939e-50316e485b2c
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2027-02-25 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VLDB 2027 截稿日期
+DTSTART;TZID="UTC-08:00":20270301T170000
+DTEND;TZID="UTC-08:00":20270301T170100
+DTSTAMP:20260919T092416Z
+UID:a4ff75f5-1d5e-4de9-8ba7-a948ff5c79dd
+DESCRIPTION:International Conference on Very Large Data Bases\n🗓️ 会
+ 议时间: August 23 - August 27\, 2027\n📍 会议地点: Athens\, Greec
+ e\n⏰ 原始截止时间 (PT): 2027-03-01 17:00:00\n分类: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF A\, CORE A*\, THCPL A\n会议官网: http
+ s://www.vldb.org/2027/\nDBLP索引: https://dblp.org/db/conf/vldb
+LOCATION:Athens\, Greece
+URL:https://www.vldb.org/2027/
+END:VEVENT
+END:VCALENDAR

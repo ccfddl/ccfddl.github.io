@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HICSS 2027 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC-10:00":20260615T235959
+DTEND;TZID="UTC-10:00":20260616T000059
+DTSTAMP:20260919T092420Z
+UID:a6d1277c-c8df-4a21-8a61-f0eaaee6ccb4
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 5-8\, 2027\n📍 会议地点: Big Island\, Hawaii\,
+  USA\n⏰ 原始截止时间 (UTC-10): 2026-06-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu
+ /\nDBLP索引: https://dblp.org/db/conf/hicss
+LOCATION:Big Island\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICWSM 2025 截稿日期 [1st Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20240515T235959
+DTEND;TZID="UTC-12:00":20240516T000059
+DTSTAMP:20260919T092420Z
+UID:7f770f00-687f-4371-ae76-d4e4f4e1aaf8
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ 会议时间: June 23 - 26\, 2025\n📍 会议地点: Copenhagen\,
+  Denmark\n⏰ 原始截止时间 (AoE): 2024-05-15 23:59:59\n分类: 人
+ 机交互与普适计算 (HI)\nCCF B\, CORE A\n会议官网: https://www.i
+ cwsm.org/2025/index.html\nDBLP索引: https://dblp.org/db/conf/icwsm
+LOCATION:Copenhagen\, Denmark
+URL:https://www.icwsm.org/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2025 截稿日期 [2nd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20240915T235959
+DTEND;TZID="UTC-12:00":20240916T000059
+DTSTAMP:20260919T092420Z
+UID:2bb45321-75f6-4e46-a557-38d36948df4d
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ 会议时间: June 23 - 26\, 2025\n📍 会议地点: Copenhagen\,
+  Denmark\n⏰ 原始截止时间 (AoE): 2024-09-15 23:59:59\n分类: 人
+ 机交互与普适计算 (HI)\nCCF B\, CORE A\n会议官网: https://www.i
+ cwsm.org/2025/index.html\nDBLP索引: https://dblp.org/db/conf/icwsm
+LOCATION:Copenhagen\, Denmark
+URL:https://www.icwsm.org/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2025 截稿日期 [3rd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20250115T235959
+DTEND;TZID="UTC-12:00":20250116T000059
+DTSTAMP:20260919T092420Z
+UID:0bb63419-5be1-4160-b9a5-5ae36ca15170
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ 会议时间: June 23 - 26\, 2025\n📍 会议地点: Copenhagen\,
+  Denmark\n⏰ 原始截止时间 (AoE): 2025-01-15 23:59:59\n分类: 人
+ 机交互与普适计算 (HI)\nCCF B\, CORE A\n会议官网: https://www.i
+ cwsm.org/2025/index.html\nDBLP索引: https://dblp.org/db/conf/icwsm
+LOCATION:Copenhagen\, Denmark
+URL:https://www.icwsm.org/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2026 截稿日期 [1st Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20250515T235959
+DTEND;TZID="UTC-12:00":20250516T000059
+DTSTAMP:20260919T092420Z
+UID:9f1a3186-1519-4f5d-a689-9dd228f83602
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ 会议时间: May 27-29\, 2026\n📍 会议地点: Los Angeles\, C
+ A\, USA\n⏰ 原始截止时间 (AoE): 2025-05-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCCF B\, CORE A\n会议官网: https://www.icws
+ m.org/2026/index.html\nDBLP索引: https://dblp.org/db/conf/icwsm
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.icwsm.org/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2026 截稿日期 [2nd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20250915T235959
+DTEND;TZID="UTC-12:00":20250916T000059
+DTSTAMP:20260919T092420Z
+UID:2b448968-73cb-440f-be96-60678cae05ec
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ 会议时间: May 27-29\, 2026\n📍 会议地点: Los Angeles\, C
+ A\, USA\n⏰ 原始截止时间 (AoE): 2025-09-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCCF B\, CORE A\n会议官网: https://www.icws
+ m.org/2026/index.html\nDBLP索引: https://dblp.org/db/conf/icwsm
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.icwsm.org/2026/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICWSM 2026 截稿日期 [3rd Full-paper Deadline]
+DTSTART;TZID="UTC-12:00":20260115T235959
+DTEND;TZID="UTC-12:00":20260116T000059
+DTSTAMP:20260919T092420Z
+UID:577db4e7-5548-4079-bf24-0d6b2a00a03d
+DESCRIPTION:The International AAAI Conference on Web and Social Media\n
+ 🗓️ 会议时间: May 27-29\, 2026\n📍 会议地点: Los Angeles\, C
+ A\, USA\n⏰ 原始截止时间 (AoE): 2026-01-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCCF B\, CORE A\n会议官网: https://www.icws
+ m.org/2026/index.html\nDBLP索引: https://dblp.org/db/conf/icwsm
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.icwsm.org/2026/index.html
+END:VEVENT
+END:VCALENDAR

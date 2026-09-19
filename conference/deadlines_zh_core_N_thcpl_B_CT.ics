@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HSCC 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251106T235959
+DTEND;TZID="UTC-12:00":20251107T000059
+DTSTAMP:20260919T092414Z
+UID:44f4e7b1-6297-465a-9f1e-15fba6d4f996
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint Ma
+ lo\, France\n⏰ 原始截止时间 (AoE): 2025-11-06 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://www.isi
+ s.vanderbilt.edu/events/hscciccps-2026\nDBLP索引: https://dblp.org/db/co
+ nf/hybrid
+LOCATION:Saint Malo\, France
+URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSCC 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251113T235959
+DTEND;TZID="UTC-12:00":20251114T000059
+DTSTAMP:20260919T092414Z
+UID:87d05179-1bc7-429e-ad27-9652d81108af
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint Ma
+ lo\, France\n⏰ 原始截止时间 (AoE): 2025-11-13 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://www.isi
+ s.vanderbilt.edu/events/hscciccps-2026\nDBLP索引: https://dblp.org/db/co
+ nf/hybrid
+LOCATION:Saint Malo\, France
+URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
+END:VEVENT
+END:VCALENDAR

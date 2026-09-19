@@ -1,0 +1,463 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICICS 2021 截稿日期 [Paper Submission deadline]
+DTSTART;TZID="UTC-12:00":20210522T235959
+DTEND;TZID="UTC-12:00":20210523T000059
+DTSTAMP:20260919T092425Z
+UID:dffe7f9a-9ed9-4450-82e9-0fb41ec5b08f
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: September 17-19\, 2021\n📍 会议地点: Ch
+ ongqing\, China\n⏰ 原始截止时间 (AoE): 2021-05-22 23:59:59\n分类
+ : 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://icics.
+ cn/\nDBLP索引: https://dblp.org/db/conf/icics
+LOCATION:Chongqing\, China
+URL:https://icics.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICICS 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230330T235959
+DTEND;TZID="UTC-12:00":20230331T000059
+DTSTAMP:20260919T092425Z
+UID:b8d0dec5-4401-4c03-b306-e47c63d77300
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: November 18-20\, 2023\n📍 会议地点: Nan
+ kai University\, Tianjin\, China\n⏰ 原始截止时间 (AoE): 2023-03-30
+  23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官
+ 网: https://icics23.nankai.edu.cn/\nDBLP索引: https://dblp.org/db/conf/
+ icics
+LOCATION:Nankai University\, Tianjin\, China
+URL:https://icics23.nankai.edu.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICICS 2024 截稿日期 [First Cycle]
+DTSTART;TZID="UTC-12:00":20240216T235959
+DTEND;TZID="UTC-12:00":20240217T000059
+DTSTAMP:20260919T092425Z
+UID:1fe2c42c-117d-43b9-9255-9adc4a357aa0
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: August 26-28\, 2024\n📍 会议地点: Mytil
+ ene\, Greece\n⏰ 原始截止时间 (AoE): 2024-02-16 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: http://icics2024
+ .aegean.gr/\nDBLP索引: https://dblp.org/db/conf/icics
+LOCATION:Mytilene\, Greece
+URL:http://icics2024.aegean.gr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICICS 2024 截稿日期 [Second Cycle]
+DTSTART;TZID="UTC-12:00":20240419T235959
+DTEND;TZID="UTC-12:00":20240420T000059
+DTSTAMP:20260919T092425Z
+UID:ecb8f435-d8c0-4fd3-9179-521ebee39b3c
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: August 26-28\, 2024\n📍 会议地点: Mytil
+ ene\, Greece\n⏰ 原始截止时间 (AoE): 2024-04-19 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: http://icics2024
+ .aegean.gr/\nDBLP索引: https://dblp.org/db/conf/icics
+LOCATION:Mytilene\, Greece
+URL:http://icics2024.aegean.gr/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICICS 2025 截稿日期 [First round]
+DTSTART;TZID="UTC+08:00":20250228T235959
+DTEND;TZID="UTC+08:00":20250301T000059
+DTSTAMP:20260919T092425Z
+UID:11c151f3-acad-42bb-903f-850096346b55
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: October 29-31\, 2025\n📍 会议地点: Nanj
+ ing\, China\n⏰ 原始截止时间 (UTC+8): 2025-02-28 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.icic
+ s2025.org/\nDBLP索引: https://dblp.org/db/conf/icics
+LOCATION:Nanjing\, China
+URL:https://www.icics2025.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICICS 2025 截稿日期 [Second round]
+DTSTART;TZID="UTC+08:00":20250523T235959
+DTEND;TZID="UTC+08:00":20250524T000059
+DTSTAMP:20260919T092425Z
+UID:ad3c39ea-d6a6-40bb-a76b-7ce2ba52abcc
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: October 29-31\, 2025\n📍 会议地点: Nanj
+ ing\, China\n⏰ 原始截止时间 (UTC+8): 2025-05-23 23:59:59\n分类: 
+ 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.icic
+ s2025.org/\nDBLP索引: https://dblp.org/db/conf/icics
+LOCATION:Nanjing\, China
+URL:https://www.icics2025.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICICS 2026 截稿日期 [First round]
+DTSTART;TZID="UTC-12:00":20260228T235959
+DTEND;TZID="UTC-12:00":20260301T000059
+DTSTAMP:20260919T092425Z
+UID:400435db-09d4-4211-8ec3-f4ff07b3e3dd
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: October 27-30\, 2026\n📍 会议地点: Fuku
+ i\, Japan\n⏰ 原始截止时间 (AoE): 2026-02-28 23:59:59\n分类: 网
+ 络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://sulab-sever
+ .u-aizu.ac.jp/icics2026/cfp.html\nDBLP索引: https://dblp.org/db/conf/ici
+ cs
+LOCATION:Fukui\, Japan
+URL:https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICICS 2026 截稿日期 [Second round]
+DTSTART;TZID="UTC-12:00":20260523T235959
+DTEND;TZID="UTC-12:00":20260524T000059
+DTSTAMP:20260919T092425Z
+UID:0403f433-9e6a-47a0-970e-5bebcaa3ea5e
+DESCRIPTION:International Conference on Information and Communications Sec
+ urity\n🗓️ 会议时间: October 27-30\, 2026\n📍 会议地点: Fuku
+ i\, Japan\n⏰ 原始截止时间 (AoE): 2026-05-23 23:59:59\n分类: 网
+ 络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://sulab-sever
+ .u-aizu.ac.jp/icics2026/cfp.html\nDBLP索引: https://dblp.org/db/conf/ici
+ cs
+LOCATION:Fukui\, Japan
+URL:https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2021 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20210225T235959
+DTEND;TZID="UTC-12:00":20210226T000059
+DTSTAMP:20260919T092425Z
+UID:be5145a8-f1b7-4457-afc3-c7cb59a389be
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 22-25\, 2021\n📍 会议地点: Virtual\n⏰ 
+ 原始截止时间 (AoE): 2021-02-25 23:59:59\n分类: 网络与信息安
+ 全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.ihmmsec.org/
+ \nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Virtual
+URL:https://www.ihmmsec.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2024 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20240229T235959
+DTEND;TZID="UTC-12:00":20240301T000059
+DTSTAMP:20260919T092425Z
+UID:2f8e7afc-d613-4096-a20b-ac28e475baf7
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 24-26\, 2024\n📍 会议地点: Baiona\, Spain
+ \n⏰ 原始截止时间 (AoE): 2024-02-29 23:59:59\n分类: 网络与信
+ 息安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.ihmmse
+ c.org/\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Baiona\, Spain
+URL:https://www.ihmmsec.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2025 截稿日期 [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20250228T235959
+DTEND;TZID="UTC-12:00":20250301T000059
+DTSTAMP:20260919T092425Z
+UID:d83aba76-c66b-4d90-83e9-c06a9594e194
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 18-20\, 2025\n📍 会议地点: San Jose\, CA
+ \, USA\n⏰ 原始截止时间 (AoE): 2025-02-28 23:59:59\n分类: 网络
+ 与信息安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.
+ ihmmsec.org/cms/home/index.html\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:San Jose\, CA\, USA
+URL:https://www.ihmmsec.org/cms/home/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2026 截稿日期 [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20260216T235959
+DTEND;TZID="UTC-12:00":20260217T000059
+DTSTAMP:20260919T092425Z
+UID:3ac036b4-182b-46f1-9340-8803a546c0b7
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 17-19\, 2026\n📍 会议地点: Florence\, Ita
+ ly\n⏰ 原始截止时间 (AoE): 2026-02-16 23:59:59\n分类: 网络与
+ 信息安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.ihm
+ msec.org/cms/home/home2026.html\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Florence\, Italy
+URL:https://www.ihmmsec.org/cms/home/home2026.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-11:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-11:00
+TZOFFSETFROM:-1100
+TZOFFSETTO:-1100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NSPW 2021 截稿日期 [Submission deadline]
+DTSTART;TZID="UTC-11:00":20210604T235959
+DTEND;TZID="UTC-11:00":20210605T000059
+DTSTAMP:20260919T092425Z
+UID:c09331ea-9f27-4d50-bfa7-89786e9a1a60
+DESCRIPTION:New Security Paradigms Workshop\n🗓️ 会议时间: October
+  25-28\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 (UTC-11)
+ : 2021-06-04 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C
+ \n会议官网: https://www.nspw.org/2021\nDBLP索引: https://dblp.org/db
+ /conf/nspw
+LOCATION:Virtual
+URL:https://www.nspw.org/2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NSPW 2021 截稿日期 [Final version]
+DTSTART;TZID="UTC-11:00":20211124T235959
+DTEND;TZID="UTC-11:00":20211125T000059
+DTSTAMP:20260919T092425Z
+UID:49688ec1-86b6-4896-b016-f06615980cc0
+DESCRIPTION:New Security Paradigms Workshop\n🗓️ 会议时间: October
+  25-28\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 (UTC-11)
+ : 2021-11-24 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C
+ \n会议官网: https://www.nspw.org/2021\nDBLP索引: https://dblp.org/db
+ /conf/nspw
+LOCATION:Virtual
+URL:https://www.nspw.org/2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NSPW 2024 截稿日期
+DTSTART;TZID="UTC-11:00":20240412T235900
+DTEND;TZID="UTC-11:00":20240413T000000
+DTSTAMP:20260919T092425Z
+UID:ff28daa2-f69c-4410-8453-b2780c57608e
+DESCRIPTION:New Security Paradigms Workshop\n🗓️ 会议时间: Septemb
+ er 16-18\, 2024\n📍 会议地点: Bedford\, PA USA\n⏰ 原始截止时
+ 间 (UTC-11): 2024-04-12 23:59:00\n分类: 网络与信息安全 (SC)\nCCF
+  C\, CORE C\n会议官网: https://www.nspw.org/2024/cfp\nDBLP索引: http
+ s://dblp.org/db/conf/nspw
+LOCATION:Bedford\, PA USA
+URL:https://www.nspw.org/2024/cfp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NSPW 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250411T235959
+DTEND;TZID="UTC-12:00":20250412T000059
+DTSTAMP:20260919T092425Z
+UID:2d040a13-0bcc-4da0-a207-e9ffce2e156c
+DESCRIPTION:New Security Paradigms Workshop\n🗓️ 会议时间: August 
+ 24-27\, 2025\n📍 会议地点: Aerzen\, Germany\n⏰ 原始截止时间 
+ (AoE): 2025-04-11 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CO
+ RE C\n会议官网: https://www.nspw.org/2025\nDBLP索引: https://dblp.or
+ g/db/conf/nspw
+LOCATION:Aerzen\, Germany
+URL:https://www.nspw.org/2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NSPW 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260430T235959
+DTEND;TZID="UTC-12:00":20260501T000059
+DTSTAMP:20260919T092425Z
+UID:cc8e398b-544d-4c2f-b567-fb79aa365f7f
+DESCRIPTION:New Security Paradigms Workshop\n🗓️ 会议时间: Septemb
+ er 27-30\, 2026\n📍 会议地点: Victoria\, BC\, Canada\n⏰ 原始截
+ 止时间 (AoE): 2026-04-30 23:59:59\n分类: 网络与信息安全 (SC)\n
+ CCF C\, CORE C\n会议官网: https://www.nspw.org/2026\nDBLP索引: https
+ ://dblp.org/db/conf/nspw
+LOCATION:Victoria\, BC\, Canada
+URL:https://www.nspw.org/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SACMAT 2021 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20210225T235959
+DTEND;TZID="UTC-12:00":20210226T000059
+DTSTAMP:20260919T092425Z
+UID:eb816cf1-0c8a-41c0-8be4-ce73c34e681b
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\n🗓
+ ️ 会议时间: June 16-18\, 2021\n📍 会议地点: Virtual\n⏰ 原
+ 始截止时间 (AoE): 2021-02-25 23:59:59\n分类: 网络与信息安全 
+ (SC)\nCCF C\, CORE C\n会议官网: http://sacmat.dista.uninsubria.it/2021
+ /\nDBLP索引: https://dblp.org/db/conf/sacmat
+LOCATION:Virtual
+URL:http://sacmat.dista.uninsubria.it/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SACMAT 2025 截稿日期 [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20250324T235959
+DTEND;TZID="UTC-12:00":20250325T000059
+DTSTAMP:20260919T092425Z
+UID:fec6b8e9-b93d-48c5-b803-2a874f7a6107
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\n🗓
+ ️ 会议时间: July 8-10\, 2025\n📍 会议地点: Stony Brook\, NY\, 
+ USA\n⏰ 原始截止时间 (AoE): 2025-03-24 23:59:59\n分类: 网络与
+ 信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.sacmat.org/20
+ 25/index.php\nDBLP索引: https://dblp.org/db/conf/sacmat
+LOCATION:Stony Brook\, NY\, USA
+URL:https://www.sacmat.org/2025/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SACMAT 2026 截稿日期 [First Cycle]
+DTSTART;TZID="UTC-12:00":20251027T235959
+DTEND;TZID="UTC-12:00":20251028T000059
+DTSTAMP:20260919T092425Z
+UID:b7f28b6b-9c98-4e11-83e7-a88c74980ade
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\n🗓
+ ️ 会议时间: July 8-10\, 2026\n📍 会议地点: Waterloo\, Canada\n
+ ⏰ 原始截止时间 (AoE): 2025-10-27 23:59:59\n分类: 网络与信息
+ 安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.sacmat.org/2026/ind
+ ex.php\nDBLP索引: https://dblp.org/db/conf/sacmat
+LOCATION:Waterloo\, Canada
+URL:https://www.sacmat.org/2026/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SACMAT 2026 截稿日期 [Second Cycle]
+DTSTART;TZID="UTC-12:00":20260302T235959
+DTEND;TZID="UTC-12:00":20260303T000059
+DTSTAMP:20260919T092425Z
+UID:2fa3bb1b-e3a9-4a1d-a58e-69335732bbb9
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\n🗓
+ ️ 会议时间: July 8-10\, 2026\n📍 会议地点: Waterloo\, Canada\n
+ ⏰ 原始截止时间 (AoE): 2026-03-02 23:59:59\n分类: 网络与信息
+ 安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.sacmat.org/2026/ind
+ ex.php\nDBLP索引: https://dblp.org/db/conf/sacmat
+LOCATION:Waterloo\, Canada
+URL:https://www.sacmat.org/2026/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SACMAT 2027 截稿日期 [First Cycle]
+DTSTART;TZID="UTC-12:00":20261030T235959
+DTEND;TZID="UTC-12:00":20261031T000059
+DTSTAMP:20260919T092425Z
+UID:b02a7830-4d6e-49ff-913f-9560cb96a384
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\n🗓
+ ️ 会议时间: July 19-21\, 2027\n📍 会议地点: Durham\, England\,
+  United Kingdom\n⏰ 原始截止时间 (AoE): 2026-10-30 23:59:59\n分类
+ : 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.sa
+ cmat.org/2027/\nDBLP索引: https://dblp.org/db/conf/sacmat
+LOCATION:Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SACMAT 2027 截稿日期 [Second Cycle]
+DTSTART;TZID="UTC-12:00":20270212T235959
+DTEND;TZID="UTC-12:00":20270213T000059
+DTSTAMP:20260919T092425Z
+UID:34f06dc7-ee22-4daa-8397-8d88fb25ffbe
+DESCRIPTION:ACM Symposium on Access Control Models and Technologies\n🗓
+ ️ 会议时间: July 19-21\, 2027\n📍 会议地点: Durham\, England\,
+  United Kingdom\n⏰ 原始截止时间 (AoE): 2027-02-12 23:59:59\n分类
+ : 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://www.sa
+ cmat.org/2027/\nDBLP索引: https://dblp.org/db/conf/sacmat
+LOCATION:Durham\, England\, United Kingdom
+URL:https://www.sacmat.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2021 截稿日期 [Main Track Full Paper Submission dea
+ dline]
+DTSTART;TZID="UTC-12:00":20210331T235959
+DTEND;TZID="UTC-12:00":20210401T000059
+DTSTAMP:20260919T092425Z
+UID:f6adfe0c-46dd-4979-a6cd-3f7adcd75b33
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: September 6-9\, 2021\n📍 会议地
+ 点: Canterbury\, Great Britain(online)\n⏰ 原始截止时间 (AoE): 202
+ 1-03-31 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会
+ 议官网: https://securecomm.eai-conferences.org/2021/\nDBLP索引: https
+ ://dblp.org/db/conf/securecomm
+LOCATION:Canterbury\, Great Britain(online)
+URL:https://securecomm.eai-conferences.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2021 截稿日期 [Late Track Full Paper Submission dea
+ dline]
+DTSTART;TZID="UTC-12:00":20210504T235959
+DTEND;TZID="UTC-12:00":20210505T000059
+DTSTAMP:20260919T092425Z
+UID:23931624-feeb-4882-86ec-318c7d7df22a
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: September 6-9\, 2021\n📍 会议地
+ 点: Canterbury\, Great Britain(online)\n⏰ 原始截止时间 (AoE): 202
+ 1-05-04 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会
+ 议官网: https://securecomm.eai-conferences.org/2021/\nDBLP索引: https
+ ://dblp.org/db/conf/securecomm
+LOCATION:Canterbury\, Great Britain(online)
+URL:https://securecomm.eai-conferences.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230506T235959
+DTEND;TZID="UTC-12:00":20230507T000059
+DTSTAMP:20260919T092425Z
+UID:88ea1570-d4bc-4bc6-9099-bf228d29d495
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: October 19-21\, 2023\n📍 会议地
+ 点: Hong Kong SAR\, Hong Kong\n⏰ 原始截止时间 (AoE): 2023-05-06 2
+ 3:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网:
+  https://securecomm.eai-conferences.org/2023/\nDBLP索引: https://dblp.or
+ g/db/conf/securecomm
+LOCATION:Hong Kong SAR\, Hong Kong
+URL:https://securecomm.eai-conferences.org/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240510T235959
+DTEND;TZID="UTC-12:00":20240511T000059
+DTSTAMP:20260919T092425Z
+UID:fab56be2-d05f-4422-af99-c93cc98c7ed2
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: October 28-30\, 2024\n📍 会议地
+ 点: Dubai\, United Arab Emirates\n⏰ 原始截止时间 (AoE): 2024-05-1
+ 0 23:59:59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官
+ 网: https://securecomm.eai-conferences.org/2024/\nDBLP索引: https://dbl
+ p.org/db/conf/securecomm
+LOCATION:Dubai\, United Arab Emirates
+URL:https://securecomm.eai-conferences.org/2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2025 截稿日期 [Full Paper Submission deadline]
+DTSTART;TZID="UTC-12:00":20250301T235959
+DTEND;TZID="UTC-12:00":20250302T000059
+DTSTAMP:20260919T092425Z
+UID:e7d8be43-8bfd-4e9b-a933-f179b1f489a8
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: July 4-6\, 2025\n📍 会议地点: Xi
+ angtan\, China\n⏰ 原始截止时间 (AoE): 2025-03-01 23:59:59\n分类:
+  网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://securec
+ omm.eai-conferences.org/2025/\nDBLP索引: https://dblp.org/db/conf/secure
+ comm
+LOCATION:Xiangtan\, China
+URL:https://securecomm.eai-conferences.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251215T235959
+DTEND;TZID="UTC-12:00":20251216T000059
+DTSTAMP:20260919T092425Z
+UID:0719ed1e-c459-4629-9d38-72c932cd2005
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: July 21-24\, 2026\n📍 会议地点: 
+ Lancaster\, UK and hybrid\n⏰ 原始截止时间 (AoE): 2025-12-15 23:59:
+ 59\n分类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: http
+ s://securecomm.eai-conferences.org/2026/\nDBLP索引: https://dblp.org/db/
+ conf/securecomm
+LOCATION:Lancaster\, UK and hybrid
+URL:https://securecomm.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SecureComm 2027 截稿日期 [Full Paper Submission deadline]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20260919T092425Z
+UID:22fb14c5-8069-40cb-bef6-f7d7ed681b5c
+DESCRIPTION:International Conference on Security and Privacy in Communicat
+ ion Networks\n🗓️ 会议时间: October 15-18\, 2027\n📍 会议地
+ 点: Hefei\, China\n⏰ 原始截止时间 (AoE): 2027-03-01 23:59:59\n分
+ 类: 网络与信息安全 (SC)\nCCF C\, CORE C\n会议官网: https://sec
+ urecomm.eai-conferences.org/2027/\nDBLP索引: https://dblp.org/db/conf/se
+ curecomm
+LOCATION:Hefei\, China
+URL:https://securecomm.eai-conferences.org/2027/
+END:VEVENT
+END:VCALENDAR
