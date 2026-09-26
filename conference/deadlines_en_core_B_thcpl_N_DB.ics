@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PAKDD 2022 Deadline
+DTSTART;TZID="UTC-08:00":20211115T235959
+DTEND;TZID="UTC-08:00":20211116T000059
+DTSTAMP:20260926T201851Z
+UID:c80a18a5-562c-4cff-aec5-045a0e140250
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: May 16-19\, 2022\n📍 Location: Chengdu\, China\n⏰ Orig
+ inal Deadline (UTC-8): 2021-11-15 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://www.pak
+ dd.net/\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Chengdu\, China
+URL:https://www.pakdd.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2023 Deadline
+DTSTART;TZID="UTC-08:00":20221207T235959
+DTEND;TZID="UTC-08:00":20221208T000059
+DTSTAMP:20260926T201851Z
+UID:e5f1925a-9598-424c-b328-a1a9be74e6ee
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: May 25-28\, 2023\n📍 Location: Osaka\, Japan\n⏰ Origin
+ al Deadline (UTC-8): 2022-12-07 23:59:59\nCategory: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://pakdd23.pa
+ kdd.org/\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Osaka\, Japan
+URL:https://pakdd23.pakdd.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2024 Deadline
+DTSTART;TZID="UTC-08:00":20231129T235959
+DTEND;TZID="UTC-08:00":20231130T000059
+DTSTAMP:20260926T201851Z
+UID:957d3f01-e0e6-4e4e-a454-3c5dabb25dcf
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: May 7-10\, 2024\n📍 Location: Taipei\, Taiwan\n⏰ Origi
+ nal Deadline (UTC-8): 2023-11-29 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://pakdd20
+ 24.org\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Taipei\, Taiwan
+URL:https://pakdd2024.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2025 Deadline
+DTSTART;TZID="UTC-08:00":20241214T235959
+DTEND;TZID="UTC-08:00":20241215T000059
+DTSTAMP:20260926T201851Z
+UID:f30df5ce-158f-43ac-811e-715637c5f74b
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: June 10-13\, 2025\n📍 Location: Sydney\, Australia\n⏰ 
+ Original Deadline (UTC-8): 2024-12-14 23:59:59\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://pakd
+ d2025.org\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Sydney\, Australia
+URL:https://pakdd2025.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2026 Deadline
+DTSTART;TZID="UTC-08:00":20251125T235959
+DTEND;TZID="UTC-08:00":20251126T000059
+DTSTAMP:20260926T201851Z
+UID:e799387c-d78d-4d86-bfbb-b864853f0767
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: June 9-12\, 2026\n📍 Location: Hong Kong\, China\n⏰ Or
+ iginal Deadline (UTC-8): 2025-11-25 23:59:59\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: https://www.
+ pakdd2026.org/\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Hong Kong\, China
+URL:https://www.pakdd2026.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PAKDD 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261120T235959
+DTEND;TZID="UTC-12:00":20261121T000059
+DTSTAMP:20260926T201851Z
+UID:5c8bd3f4-2fcb-46a8-89bb-4d49306a2b66
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ Date: June 29-July 2\, 2027\n📍 Location: Wellington\, New Zea
+ land\n⏰ Original Deadline (AoE): 2026-11-20 23:59:59\nCategory: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\nConference Website: ht
+ tps://www.pakdd2027.org/\nDBLP Index: https://dblp.org/db/conf/pakdd
+LOCATION:Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISE 2026 Deadline [Extended submission deadline]
+DTSTART;TZID="UTC-12:00":20260630T235959
+DTEND;TZID="UTC-12:00":20260701T000059
+DTSTAMP:20260926T201851Z
+UID:6cdf24ee-8aef-472f-95b2-96c37a7cdb7b
+DESCRIPTION:International Conference on Web Information Systems Engineerin
+ g\n🗓️ Date: November 1-5\, 2026\n📍 Location: Venice\, Italy\n⏰ O
+ riginal Deadline (AoE): 2026-06-30 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE B\nConference Website: https://confere
+ nces.sigappfr.org/wise2026/\nDBLP Index: https://dblp.org/db/conf/wise
+LOCATION:Venice\, Italy
+URL:https://conferences.sigappfr.org/wise2026/
+END:VEVENT
+END:VCALENDAR

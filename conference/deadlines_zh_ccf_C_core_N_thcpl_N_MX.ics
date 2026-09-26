@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICIC 2024 截稿日期
+DTSTART;TZID="UTC+08:00":20240411T120000
+DTEND;TZID="UTC+08:00":20240411T120100
+DTSTAMP:20260926T201827Z
+UID:026c8e81-fb01-4047-8c09-062af227fa93
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ 会
+ 议时间: August 5-8\, 2024\n📍 会议地点: Tianjin\, China\n⏰ 原
+ 始截止时间 (UTC+8): 2024-04-11 12:00:00\n分类: 交叉/综合/新兴
+  (MX)\nCCF C\n会议官网: http://www.ic-icc.cn/2024/index.htm\nDBLP索
+ 引: https://dblp.org/db/conf/icic
+LOCATION:Tianjin\, China
+URL:http://www.ic-icc.cn/2024/index.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICIC 2025 截稿日期
+DTSTART;TZID="UTC+08:00":20250410T115959
+DTEND;TZID="UTC+08:00":20250410T120059
+DTSTAMP:20260926T201827Z
+UID:19056833-6a9e-4d0a-84fb-54262ad19820
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ 会
+ 议时间: July 26-29\, 2025\n📍 会议地点: Ningbo\, China\n⏰ 原
+ 始截止时间 (UTC+8): 2025-04-10 11:59:59\n分类: 交叉/综合/新兴
+  (MX)\nCCF C\n会议官网: http://www.ic-icc.cn/2025/index.php\nDBLP索
+ 引: https://dblp.org/db/conf/icic
+LOCATION:Ningbo\, China
+URL:http://www.ic-icc.cn/2025/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICIC 2026 截稿日期
+DTSTART;TZID="UTC+08:00":20260404T115959
+DTEND;TZID="UTC+08:00":20260404T120059
+DTSTAMP:20260926T201827Z
+UID:035f5cf1-ec4b-4706-8159-28e106c753df
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ 会
+ 议时间: July 22-26\, 2026\n📍 会议地点: Toronto\, Canada\n⏰ 原
+ 始截止时间 (UTC+8): 2026-04-04 11:59:59\n分类: 交叉/综合/新兴
+  (MX)\nCCF C\n会议官网: http://www.ic-icc.cn/2026/\nDBLP索引: https:
+ //dblp.org/db/conf/icic
+LOCATION:Toronto\, Canada
+URL:http://www.ic-icc.cn/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISBRA 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250401T235959
+DTEND;TZID="UTC-12:00":20250402T000059
+DTSTAMP:20260926T201827Z
+UID:7df981b5-27b8-43e1-a1b8-6cbc36ca1438
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: August 3-5\, 2025\n📍 会议地点: Helsink
+ i\, Finland\n⏰ 原始截止时间 (AoE): 2025-04-01 23:59:59\n分类: 
+ 交叉/综合/新兴 (MX)\nCCF C\n会议官网: https://www.helsinki.fi/en
+ /conferences/isbra2025\nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Helsinki\, Finland
+URL:https://www.helsinki.fi/en/conferences/isbra2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISBRA 2026 截稿日期 [Extended submission deadline]
+DTSTART;TZID="UTC-12:00":20260322T235959
+DTEND;TZID="UTC-12:00":20260323T000059
+DTSTAMP:20260926T201827Z
+UID:4f045a27-207b-455a-b23e-8efe925eac77
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: July 22-24\, 2026\n📍 会议地点: Macau\,
+  China\n⏰ 原始截止时间 (AoE): 2026-03-22 23:59:59\n分类: 交叉/
+ 综合/新兴 (MX)\nCCF C\n会议官网: https://isbra2026.scimeeting.cn/
+ \nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Macau\, China
+URL:https://isbra2026.scimeeting.cn/
+END:VEVENT
+END:VCALENDAR

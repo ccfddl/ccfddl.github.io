@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CCCG 2026 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20260512T235959
+DTEND;TZID="UTC-12:00":20260513T000059
+DTSTAMP:20260926T201848Z
+UID:18162a1c-d3cf-40b5-8c90-1e42c837a327
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 12-14\, 2026\n📍 Location: Orillia\, Ontario\, Canada\n⏰ Origina
+ l Deadline (AoE): 2026-05-12 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nConference Website: https://sites.google.com/view/cccg-2026/h
+ ome\nDBLP Index: https://dblp.org/db/conf/cccg
+LOCATION:Orillia\, Ontario\, Canada
+URL:https://sites.google.com/view/cccg-2026/home
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2024 Deadline [first round]
+DTSTART;TZID="UTC-08:00":20240314T180000
+DTEND;TZID="UTC-08:00":20240314T180100
+DTSTAMP:20260926T201848Z
+UID:df1b68a8-1cc7-43e0-a616-2657371a2194
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 26
+ -30\, 2024\n📍 Location: LYON\, FRANCE\n⏰ Original Deadline (UTC-8): 2
+ 024-03-14 18:00:00\nCategory: 计算机图形学与多媒体 (CG)\nConfere
+ nce Website: https://eusipcolyon.sciencesconf.org/\nDBLP Index: https://db
+ lp.org/db/conf/eusipco
+LOCATION:LYON\, FRANCE
+URL:https://eusipcolyon.sciencesconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250313T235959
+DTEND;TZID="UTC-12:00":20250314T000059
+DTSTAMP:20260926T201848Z
+UID:a4326d44-0ad1-4d94-bf27-7293c86b997e
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: September
+  8-12\, 2025\n📍 Location: Isola delle Femmine\, Palermo\, Italy\n⏰ Or
+ iginal Deadline (AoE): 2025-03-13 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nConference Website: https://eusipco2025.org/\nDBLP Inde
+ x: https://dblp.org/db/conf/eusipco
+LOCATION:Isola delle Femmine\, Palermo\, Italy
+URL:https://eusipco2025.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260213T235959
+DTEND;TZID="UTC-12:00":20260214T000059
+DTSTAMP:20260926T201848Z
+UID:71c64d5c-8af5-4ccd-a4fa-09707d40710d
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 31
+  - September 4\, 2026\n📍 Location: Bruges\, Belgium\n⏰ Original Deadl
+ ine (AoE): 2026-02-13 23:59:59\nCategory: 计算机图形学与多媒体 (
+ CG)\nConference Website: https://eusipco2026.org/\nDBLP Index: https://dbl
+ p.org/db/conf/eusipco
+LOCATION:Bruges\, Belgium
+URL:https://eusipco2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270206T235959
+DTEND;TZID="UTC-12:00":20270207T000059
+DTSTAMP:20260926T201848Z
+UID:63dd4ab7-330c-496f-b79f-590f96264ebf
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 30
+  - September 3\, 2027\n📍 Location: Darmstadt\, Germany\n⏰ Original De
+ adline (AoE): 2027-02-06 23:59:59\nCategory: 计算机图形学与多媒
+ 体 (CG)\nConference Website: https://eusipco2027.de/\nDBLP Index: https:/
+ /dblp.org/db/conf/eusipco
+LOCATION:Darmstadt\, Germany
+URL:https://eusipco2027.de/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20260926T201848Z
+UID:5bd716a1-4eb0-4742-bef2-19baa5a19283
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia\n
+ ⏰ Original Deadline (AoE): 2025-08-15 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2025.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250822T235959
+DTEND;TZID="UTC-12:00":20250823T000059
+DTSTAMP:20260926T201848Z
+UID:6d1b9492-6cc6-482c-82df-6705fd73f977
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia\n
+ ⏰ Original Deadline (AoE): 2025-08-22 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2025.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia
+URL:https://icvrv2025.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260815T235959
+DTEND;TZID="UTC-12:00":20260816T000059
+DTSTAMP:20260926T201848Z
+UID:3ae9c8c4-12eb-47a2-b03b-d08c7f977362
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 18-20\, 2026\n📍 Location: Valparaíso\, Chile
+ \n⏰ Original Deadline (AoE): 2026-08-15 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2026.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260822T235959
+DTEND;TZID="UTC-12:00":20260823T000059
+DTSTAMP:20260926T201848Z
+UID:f65426ef-07bb-4625-a314-b30d6ef773e8
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 18-20\, 2026\n📍 Location: Valparaíso\, Chile
+ \n⏰ Original Deadline (AoE): 2026-08-22 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2026.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+END:VEVENT
+END:VCALENDAR

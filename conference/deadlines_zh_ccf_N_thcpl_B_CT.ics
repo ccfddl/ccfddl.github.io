@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260116T235959
+DTEND;TZID="UTC-12:00":20260117T000059
+DTSTAMP:20260926T201822Z
+UID:4d55fae7-bc48-457f-aa2a-04a4b7297a71
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 28 - July 3\, 2026\n📍 会议地点: Guangzhou\, Chin
+ a\n⏰ 原始截止时间 (AoE): 2026-01-16 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2026.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Guangzhou\, China
+URL:https://2026.ieee-isit.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20270110T235959
+DTEND;TZID="UTC-12:00":20270111T000059
+DTSTAMP:20260926T201823Z
+UID:764f2e3c-64ac-4c7c-9c44-3fc599c582e6
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 27 - July 2\, 2027\n📍 会议地点: Sorrento\, Italy
+ \n⏰ 原始截止时间 (AoE): 2027-01-10 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2027.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Sorrento\, Italy
+URL:https://2027.ieee-isit.org/
+END:VEVENT
+END:VCALENDAR

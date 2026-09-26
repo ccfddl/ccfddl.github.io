@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [First round 2025]
+DTSTART;TZID="UTC-12:00":20250314T235959
+DTEND;TZID="UTC-12:00":20250315T000059
+DTSTAMP:20260926T201854Z
+UID:040c9fd8-8057-4e7f-88fa-9498261665b7
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2025-03-14 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Second round 2025]
+DTSTART;TZID="UTC-12:00":20250725T235959
+DTEND;TZID="UTC-12:00":20250726T000059
+DTSTAMP:20260926T201854Z
+UID:5f79677a-aed8-4fac-a814-6d13cf3dea2d
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2025-07-25 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20260212T235959
+DTEND;TZID="UTC-12:00":20260213T000059
+DTSTAMP:20260926T201854Z
+UID:e5e5e111-b802-4fe4-8bff-996d83107e9e
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2026-02-12 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20260722T235959
+DTEND;TZID="UTC-12:00":20260723T000059
+DTSTAMP:20260926T201854Z
+UID:9014159b-20eb-4113-aabc-efc549fa63fd
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2026-07-22 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20270210T235959
+DTEND;TZID="UTC-12:00":20270211T000059
+DTSTAMP:20260926T201854Z
+UID:e607c9d2-a058-4013-bfca-65691426ec85
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 20-23\, 2027\n📍 Location: Limassol\, Cypru
+ s\n⏰ Original Deadline (AoE): 2027-02-10 23:59:59\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2027/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270217T235959
+DTEND;TZID="UTC-12:00":20270218T000059
+DTSTAMP:20260926T201854Z
+UID:2b17b1ae-4c76-4645-aafc-e59d27cf91b0
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 20-23\, 2027\n📍 Location: Limassol\, Cypru
+ s\n⏰ Original Deadline (AoE): 2027-02-17 23:59:59\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2027/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+END:VEVENT
+END:VCALENDAR

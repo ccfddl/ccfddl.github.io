@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SPM 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250308T235959
+DTEND;TZID="UTC-12:00":20250309T000059
+DTSTAMP:20260926T201849Z
+UID:bf8e72be-3e7b-49b1-ab5d-94fc3a07daf2
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ Date: Octobe
+ r 29 - November 2\, 2025\n📍 Location: Hangzhou\, Zhejiang\, P.R. China
+ \n⏰ Original Deadline (AoE): 2025-03-08 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\nConference Website: htt
+ ps://spmconf2025.github.io/SPM2025/\nDBLP Index: https://dblp.org/db/conf/
+ sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250315T235959
+DTEND;TZID="UTC-12:00":20250316T000059
+DTSTAMP:20260926T201849Z
+UID:99c431d5-8ffd-49e0-8aa1-10914bbe6f5c
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ Date: Octobe
+ r 29 - November 2\, 2025\n📍 Location: Hangzhou\, Zhejiang\, P.R. China
+ \n⏰ Original Deadline (AoE): 2025-03-15 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\nConference Website: htt
+ ps://spmconf2025.github.io/SPM2025/\nDBLP Index: https://dblp.org/db/conf/
+ sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260926T201849Z
+UID:c4440c22-12c9-43d4-9640-2ac369282451
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ Date: July 6
+ -9\, 2026\n📍 Location: Istanbul\, Türkiye\n⏰ Original Deadline (AoE)
+ : 2026-02-08 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF 
+ B\, CORE C\, THCPL B\nConference Website: https://spmconf2026.github.io/\n
+ DBLP Index: https://dblp.org/db/conf/sma
+LOCATION:Istanbul\, Türkiye
+URL:https://spmconf2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260215T235959
+DTEND;TZID="UTC-12:00":20260216T000059
+DTSTAMP:20260926T201849Z
+UID:324eae6e-ce48-4c02-bb5b-728c9f963d09
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ Date: July 6
+ -9\, 2026\n📍 Location: Istanbul\, Türkiye\n⏰ Original Deadline (AoE)
+ : 2026-02-15 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCCF 
+ B\, CORE C\, THCPL B\nConference Website: https://spmconf2026.github.io/\n
+ DBLP Index: https://dblp.org/db/conf/sma
+LOCATION:Istanbul\, Türkiye
+URL:https://spmconf2026.github.io/
+END:VEVENT
+END:VCALENDAR

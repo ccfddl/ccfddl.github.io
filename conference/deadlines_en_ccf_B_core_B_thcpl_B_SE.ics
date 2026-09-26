@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:VMCAI 2022 Deadline [Submission deadline]
+DTSTART;TZID="UTC-12:00":20210909T235959
+DTEND;TZID="UTC-12:00":20210910T000059
+DTSTAMP:20260926T201900Z
+UID:de555130-fc05-41cc-af25-2fe94290a489
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ Date: January 16-28\, 2022\n📍 Locati
+ on: Philadelphia\, Pennsylvania\, United States\n⏰ Original Deadline (Ao
+ E): 2021-09-09 23:59:59\nCategory: 软件工程/系统软件/程序设计
+ 语言 (SE)\nCCF B\, CORE B\, THCPL B\nConference Website: https://popl22.
+ sigplan.org/home/VMCAI-2022\nDBLP Index: https://dblp.org/db/conf/vmcai
+LOCATION:Philadelphia\, Pennsylvania\, United States
+URL:https://popl22.sigplan.org/home/VMCAI-2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMCAI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250915T235959
+DTEND;TZID="UTC-12:00":20250916T000059
+DTSTAMP:20260926T201900Z
+UID:9fe30f00-3335-4237-a8d4-5e388390ee76
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ Date: January 12-13\, 2026\n📍 Locati
+ on: Rennes\, France\n⏰ Original Deadline (AoE): 2025-09-15 23:59:59\nCat
+ egory: 软件工程/系统软件/程序设计语言 (SE)\nCCF B\, CORE B\,
+  THCPL B\nConference Website: https://conf.researchr.org/home/VMCAI-2026\n
+ DBLP Index: https://dblp.org/db/conf/vmcai
+LOCATION:Rennes\, France
+URL:https://conf.researchr.org/home/VMCAI-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMCAI 2027 Deadline [Paper Registration]
+DTSTART;TZID="UTC-12:00":20260923T235959
+DTEND;TZID="UTC-12:00":20260924T000059
+DTSTAMP:20260926T201900Z
+UID:727ed75c-8ad8-44e6-b053-78b25af36715
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ Date: January 11-12\, 2027\n📍 Locati
+ on: Mexico City\, Mexico\n⏰ Original Deadline (AoE): 2026-09-23 23:59:59
+ \nCategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF B\, COR
+ E B\, THCPL B\nConference Website: https://conf.researchr.org/home/VMCAI-2
+ 027\nDBLP Index: https://dblp.org/db/conf/vmcai
+LOCATION:Mexico City\, Mexico
+URL:https://conf.researchr.org/home/VMCAI-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMCAI 2027 Deadline [Paper Submission]
+DTSTART;TZID="UTC-12:00":20260930T235959
+DTEND;TZID="UTC-12:00":20261001T000059
+DTSTAMP:20260926T201900Z
+UID:f77f7245-43a6-4bb5-bb9f-07bd540f28bc
+DESCRIPTION:International Conference on Verification\, Model Checking\, an
+ d Abstract Interpretation\n🗓️ Date: January 11-12\, 2027\n📍 Locati
+ on: Mexico City\, Mexico\n⏰ Original Deadline (AoE): 2026-09-30 23:59:59
+ \nCategory: 软件工程/系统软件/程序设计语言 (SE)\nCCF B\, COR
+ E B\, THCPL B\nConference Website: https://conf.researchr.org/home/VMCAI-2
+ 027\nDBLP Index: https://dblp.org/db/conf/vmcai
+LOCATION:Mexico City\, Mexico
+URL:https://conf.researchr.org/home/VMCAI-2027
+END:VEVENT
+END:VCALENDAR

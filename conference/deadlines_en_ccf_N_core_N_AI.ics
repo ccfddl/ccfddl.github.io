@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CICAI 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230630T235959
+DTEND;TZID="UTC+08:00":20230701T000059
+DTSTAMP:20260926T201844Z
+UID:436c6d6c-2ebb-4761-bed2-c88ed8df20e3
+DESCRIPTION:CAAI International Conference on Artificial Intelligence\n🗓
+ ️ Date: July 22-23\, 2023\n📍 Location: Fuzhou\, China\n⏰ Original D
+ eadline (UTC+8): 2023-06-30 23:59:59\nCategory: 人工智能 (AI)\nConfere
+ nce Website: https://cicai.caai.cn/\nDBLP Index: https://dblp.org/db/conf/
+ cicai
+LOCATION:Fuzhou\, China
+URL:https://cicai.caai.cn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CICAI 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260608T235959
+DTEND;TZID="UTC+08:00":20260609T000059
+DTSTAMP:20260926T201844Z
+UID:d30791ec-6dca-4f85-8c23-7daf6a92008f
+DESCRIPTION:CAAI International Conference on Artificial Intelligence\n🗓
+ ️ Date: October 17-19\, 2026\n📍 Location: Haining\, Zhejiang\, China
+ \n⏰ Original Deadline (UTC+8): 2026-06-08 23:59:59\nCategory: 人工智
+ 能 (AI)\nConference Website: https://cicai.caai.cn/index.html\nDBLP Index
+ : https://dblp.org/db/conf/cicai
+LOCATION:Haining\, Zhejiang\, China
+URL:https://cicai.caai.cn/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLM 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240322T235959
+DTEND;TZID="UTC-12:00":20240323T000059
+DTSTAMP:20260926T201844Z
+UID:0f31973e-8016-4619-94ae-537367be4815
+DESCRIPTION:Conference on Language Modeling\n🗓️ Date: October 7-9\, 2
+ 024\n📍 Location: Philadelphia\, Pennsylvania\, United States\n⏰ Origi
+ nal Deadline (AoE): 2024-03-22 23:59:59\nCategory: 人工智能 (AI)\nConf
+ erence Website: https://colmweb.org/2024/cfp.html\nDBLP Index: https://dbl
+ p.org/db/conf/colm
+LOCATION:Philadelphia\, Pennsylvania\, United States
+URL:https://colmweb.org/2024/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLM 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240329T235959
+DTEND;TZID="UTC-12:00":20240330T000059
+DTSTAMP:20260926T201844Z
+UID:c9e135d2-5928-4cb6-aaa8-0a8996289915
+DESCRIPTION:Conference on Language Modeling\n🗓️ Date: October 7-9\, 2
+ 024\n📍 Location: Philadelphia\, Pennsylvania\, United States\n⏰ Origi
+ nal Deadline (AoE): 2024-03-29 23:59:59\nCategory: 人工智能 (AI)\nConf
+ erence Website: https://colmweb.org/2024/cfp.html\nDBLP Index: https://dbl
+ p.org/db/conf/colm
+LOCATION:Philadelphia\, Pennsylvania\, United States
+URL:https://colmweb.org/2024/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLM 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250322T235959
+DTEND;TZID="UTC-12:00":20250323T000059
+DTSTAMP:20260926T201844Z
+UID:897608e2-69ac-4bfe-b80f-7da75093110f
+DESCRIPTION:Conference on Language Modeling\n🗓️ Date: October 7-10\, 
+ 2025\n📍 Location: Palais des Congrès Montreal\, Canada\n⏰ Original D
+ eadline (AoE): 2025-03-22 23:59:59\nCategory: 人工智能 (AI)\nConferenc
+ e Website: https://colmweb.org/2025/cfp.html\nDBLP Index: https://dblp.org
+ /db/conf/colm
+LOCATION:Palais des Congrès Montreal\, Canada
+URL:https://colmweb.org/2025/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250328T235959
+DTEND;TZID="UTC-12:00":20250329T000059
+DTSTAMP:20260926T201844Z
+UID:ebda249a-bcb7-44d5-8d08-f48be4889050
+DESCRIPTION:Conference on Language Modeling\n🗓️ Date: October 7-10\, 
+ 2025\n📍 Location: Palais des Congrès Montreal\, Canada\n⏰ Original D
+ eadline (AoE): 2025-03-28 23:59:59\nCategory: 人工智能 (AI)\nConferenc
+ e Website: https://colmweb.org/2025/cfp.html\nDBLP Index: https://dblp.org
+ /db/conf/colm
+LOCATION:Palais des Congrès Montreal\, Canada
+URL:https://colmweb.org/2025/cfp.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLM 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260326T235959
+DTEND;TZID="UTC-12:00":20260327T000059
+DTSTAMP:20260926T201844Z
+UID:18b7ad00-9fba-410b-b671-ecec27ac8e7a
+DESCRIPTION:Conference on Language Modeling\n🗓️ Date: October 6-9\, 2
+ 026\n📍 Location: Hilton Union Square\, San Francisco\, USA\n⏰ Origina
+ l Deadline (AoE): 2026-03-26 23:59:59\nCategory: 人工智能 (AI)\nConfer
+ ence Website: https://colm.cc/Conferences/2026/CallForPapers\nDBLP Index: 
+ https://dblp.org/db/conf/colm
+LOCATION:Hilton Union Square\, San Francisco\, USA
+URL:https://colm.cc/Conferences/2026/CallForPapers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260331T235959
+DTEND;TZID="UTC-12:00":20260401T000059
+DTSTAMP:20260926T201844Z
+UID:e03f55ba-b22f-4957-8555-6181a0f0fa0a
+DESCRIPTION:Conference on Language Modeling\n🗓️ Date: October 6-9\, 2
+ 026\n📍 Location: Hilton Union Square\, San Francisco\, USA\n⏰ Origina
+ l Deadline (AoE): 2026-03-31 23:59:59\nCategory: 人工智能 (AI)\nConfer
+ ence Website: https://colm.cc/Conferences/2026/CallForPapers\nDBLP Index: 
+ https://dblp.org/db/conf/colm
+LOCATION:Hilton Union Square\, San Francisco\, USA
+URL:https://colm.cc/Conferences/2026/CallForPapers
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CoRL 2021 Deadline [Regular Papers]
+DTSTART;TZID="UTC-07:00":20210618T235959
+DTEND;TZID="UTC-07:00":20210619T000059
+DTSTAMP:20260926T201844Z
+UID:58c584d9-0f79-474f-9b65-3eb4a8f26f54
+DESCRIPTION:The Conference on Robot Learning\n🗓️ Date: November 8-11
+ \, 2021\n📍 Location: London\, UK (Hybrid)\n⏰ Original Deadline (UTC-7
+ ): 2021-06-18 23:59:59\nCategory: 人工智能 (AI)\nConference Website: h
+ ttps://2021.corl.org/\nDBLP Index: https://dblp.org/db/conf/corl
+LOCATION:London\, UK (Hybrid)
+URL:https://2021.corl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoRL 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240606T235959
+DTEND;TZID="UTC-12:00":20240607T000059
+DTSTAMP:20260926T201844Z
+UID:2cb11a78-b2ed-4149-90cb-ae1d5c0e98d6
+DESCRIPTION:The Conference on Robot Learning\n🗓️ Date: November 6-9\,
+  2024\n📍 Location: Munich\, Germany\n⏰ Original Deadline (AoE): 2024-
+ 06-06 23:59:59\nCategory: 人工智能 (AI)\nConference Website: https://2
+ 024.corl.org/\nDBLP Index: https://dblp.org/db/conf/corl
+LOCATION:Munich\, Germany
+URL:https://2024.corl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoRL 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250430T235959
+DTEND;TZID="UTC-12:00":20250501T000059
+DTSTAMP:20260926T201844Z
+UID:fdd57715-80ba-4ef4-b604-6cdae8d6026f
+DESCRIPTION:The Conference on Robot Learning\n🗓️ Date: September 27-3
+ 0\, 2025\n📍 Location: Seoul\, Korea\n⏰ Original Deadline (AoE): 2025-
+ 04-30 23:59:59\nCategory: 人工智能 (AI)\nConference Website: https://2
+ 025.corl.org/\nDBLP Index: https://dblp.org/db/conf/corl
+LOCATION:Seoul\, Korea
+URL:https://2025.corl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoRL 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260525T235959
+DTEND;TZID="UTC-12:00":20260526T000059
+DTSTAMP:20260926T201844Z
+UID:8cfaf257-6bae-4223-a5a5-5932ef81d680
+DESCRIPTION:The Conference on Robot Learning\n🗓️ Date: November 9-12
+ \, 2026\n📍 Location: Austin\, Texas\, USA\n⏰ Original Deadline (AoE):
+  2026-05-25 23:59:59\nCategory: 人工智能 (AI)\nConference Website: htt
+ ps://www.corl.org/\nDBLP Index: https://dblp.org/db/conf/corl
+LOCATION:Austin\, Texas\, USA
+URL:https://www.corl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CoRL 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260528T235959
+DTEND;TZID="UTC-12:00":20260529T000059
+DTSTAMP:20260926T201844Z
+UID:bcb6db0f-669b-430b-b665-3c19be30db4b
+DESCRIPTION:The Conference on Robot Learning\n🗓️ Date: November 9-12
+ \, 2026\n📍 Location: Austin\, Texas\, USA\n⏰ Original Deadline (AoE):
+  2026-05-28 23:59:59\nCategory: 人工智能 (AI)\nConference Website: htt
+ ps://www.corl.org/\nDBLP Index: https://dblp.org/db/conf/corl
+LOCATION:Austin\, Texas\, USA
+URL:https://www.corl.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPAL 2024 Deadline [Proceedings Track]
+DTSTART;TZID="UTC-12:00":20230828T235900
+DTEND;TZID="UTC-12:00":20230829T000000
+DTSTAMP:20260926T201844Z
+UID:573fa5fe-f664-4aee-a4c0-718073a8fd36
+DESCRIPTION:The Conference on Parsimony and Learning\n🗓️ Date: Januar
+ y 3-6\, 2024\n📍 Location: Hong Kong\, China\n⏰ Original Deadline (AoE
+ ): 2023-08-28 23:59:00\nCategory: 人工智能 (AI)\nConference Website: h
+ ttps://2024.cpal.cc/\nDBLP Index: https://dblp.org/db/conf/cpal
+LOCATION:Hong Kong\, China
+URL:https://2024.cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPAL 2025 Deadline [Proceedings Track]
+DTSTART;TZID="UTC-12:00":20241202T235959
+DTEND;TZID="UTC-12:00":20241203T000059
+DTSTAMP:20260926T201844Z
+UID:6dbf039f-b2dd-47f8-9999-baba8ba647fe
+DESCRIPTION:The Conference on Parsimony and Learning\n🗓️ Date: March 
+ 24-27\, 2025\n📍 Location: Stanford\, California\, USA\n⏰ Original Dea
+ dline (AoE): 2024-12-02 23:59:59\nCategory: 人工智能 (AI)\nConference 
+ Website: https://2025.cpal.cc/\nDBLP Index: https://dblp.org/db/conf/cpal
+LOCATION:Stanford\, California\, USA
+URL:https://2025.cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPAL 2026 Deadline [Proceedings Track]
+DTSTART;TZID="UTC-12:00":20251212T235959
+DTEND;TZID="UTC-12:00":20251213T000059
+DTSTAMP:20260926T201844Z
+UID:81e07fff-0bbe-4ba1-ad6d-f1164f886e9e
+DESCRIPTION:The Conference on Parsimony and Learning\n🗓️ Date: March 
+ 23-26\, 2026\n📍 Location: Tübingen\, Germany\n⏰ Original Deadline (A
+ oE): 2025-12-12 23:59:59\nCategory: 人工智能 (AI)\nConference Website:
+  https://cpal.cc/2026/\nDBLP Index: https://dblp.org/db/conf/cpal
+LOCATION:Tübingen\, Germany
+URL:https://cpal.cc/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPAL 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20261123T235959
+DTEND;TZID="UTC-12:00":20261124T000059
+DTSTAMP:20260926T201844Z
+UID:44c81e1d-1d9a-4f9b-abb0-75308bdc0617
+DESCRIPTION:The Conference on Parsimony and Learning\n🗓️ Date: March 
+ 23-26\, 2027\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (AoE): 2
+ 026-11-23 23:59:59\nCategory: 人工智能 (AI)\nConference Website: https
+ ://cpal.cc/\nDBLP Index: https://dblp.org/db/conf/cpal
+LOCATION:Tokyo\, Japan
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPAL 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261205T235959
+DTEND;TZID="UTC-12:00":20261206T000059
+DTSTAMP:20260926T201844Z
+UID:3ed4d6c9-0d88-4af7-a36a-b6fc4f6060d8
+DESCRIPTION:The Conference on Parsimony and Learning\n🗓️ Date: March 
+ 23-26\, 2027\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (AoE): 2
+ 026-12-05 23:59:59\nCategory: 人工智能 (AI)\nConference Website: https
+ ://cpal.cc/\nDBLP Index: https://dblp.org/db/conf/cpal
+LOCATION:Tokyo\, Japan
+URL:https://cpal.cc/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVC 2027 Deadline [Round 1]
+DTSTART;TZID="UTC-12:00":20260901T235959
+DTEND;TZID="UTC-12:00":20260902T000059
+DTSTAMP:20260926T201844Z
+UID:99ff65de-f7cb-454c-b183-f34ec5af65dd
+DESCRIPTION:Computer Vision Conference\n🗓️ Date: April 15-16\, 2027\n
+ 📍 Location: Amsterdam\, Netherlands\n⏰ Original Deadline (AoE): 2026-
+ 09-01 23:59:59\nCategory: 人工智能 (AI)\nConference Website: https://s
+ aiconference.com/CVC\nDBLP Index: https://dblp.org/db/conf/cvc
+LOCATION:Amsterdam\, Netherlands
+URL:https://saiconference.com/CVC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CVC 2027 Deadline [Round 2]
+DTSTART;TZID="UTC-12:00":20261001T235959
+DTEND;TZID="UTC-12:00":20261002T000059
+DTSTAMP:20260926T201844Z
+UID:97581a09-0a54-4e18-a88c-dd8ce6913caa
+DESCRIPTION:Computer Vision Conference\n🗓️ Date: April 15-16\, 2027\n
+ 📍 Location: Amsterdam\, Netherlands\n⏰ Original Deadline (AoE): 2026-
+ 10-01 23:59:59\nCategory: 人工智能 (AI)\nConference Website: https://s
+ aiconference.com/CVC\nDBLP Index: https://dblp.org/db/conf/cvc
+LOCATION:Amsterdam\, Netherlands
+URL:https://saiconference.com/CVC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUVIP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260615T235959
+DTEND;TZID="UTC-12:00":20260616T000059
+DTSTAMP:20260926T201844Z
+UID:828a5a86-33c3-4ee9-990c-3e5f68ba97fe
+DESCRIPTION:European Conference on Visual Information Processing\n🗓️ 
+ Date: September 28 - October 1\, 2026\n📍 Location: Luxembourg\, Luxembo
+ urg\n⏰ Original Deadline (AoE): 2026-06-15 23:59:59\nCategory: 人工智
+ 能 (AI)\nConference Website: https://euvip2026.github.io/\nDBLP Index: ht
+ tps://dblp.org/db/conf/euvip
+LOCATION:Luxembourg\, Luxembourg
+URL:https://euvip2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOG 2025 Deadline [Regular papers: abstract August 24\, 2025 (AoE)
+ \, exact abstract time unverified\; existing paper time still needs primar
+ y confirmation]
+DTSTART;TZID="UTC-12:00":20250829T235959
+DTEND;TZID="UTC-12:00":20250830T000059
+DTSTAMP:20260926T201844Z
+UID:71800c0b-32ce-466c-b5d7-4dd9a106c402
+DESCRIPTION:Learning on Graphs Conference\n🗓️ Date: December 10-12\, 
+ 2025\n📍 Location: Arizona State University\, Phoenix\, USA\n⏰ Origina
+ l Deadline (AoE): 2025-08-29 23:59:59\nCategory: 人工智能 (AI)\nConfer
+ ence Website: https://log2025.logconference.org/\nDBLP Index: https://dblp
+ .org/db/conf/log
+LOCATION:Arizona State University\, Phoenix\, USA
+URL:https://log2025.logconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOG 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260805T235959
+DTEND;TZID="UTC-12:00":20260806T000059
+DTSTAMP:20260926T201844Z
+UID:6aa1c304-3867-442e-b73e-eaba6f99d9ca
+DESCRIPTION:Learning on Graphs Conference\n🗓️ Date: November 20-22\, 
+ 2026\n📍 Location: Northeastern University\, Boston\, USA\n⏰ Original 
+ Deadline (AoE): 2026-08-05 23:59:59\nCategory: 人工智能 (AI)\nConferen
+ ce Website: https://logconference.org/\nDBLP Index: https://dblp.org/db/co
+ nf/log
+LOCATION:Northeastern University\, Boston\, USA
+URL:https://logconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOG 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260807T235959
+DTEND;TZID="UTC-12:00":20260808T000059
+DTSTAMP:20260926T201844Z
+UID:d2637e5f-2be0-4a12-b7b7-62850d3a0f00
+DESCRIPTION:Learning on Graphs Conference\n🗓️ Date: November 20-22\, 
+ 2026\n📍 Location: Northeastern University\, Boston\, USA\n⏰ Original 
+ Deadline (AoE): 2026-08-07 23:59:59\nCategory: 人工智能 (AI)\nConferen
+ ce Website: https://logconference.org/\nDBLP Index: https://dblp.org/db/co
+ nf/log
+LOCATION:Northeastern University\, Boston\, USA
+URL:https://logconference.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ProbML 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260320T235900
+DTEND;TZID="UTC-12:00":20260321T000000
+DTSTAMP:20260926T201844Z
+UID:4137cd28-37a0-49bc-bda8-0020e2962d76
+DESCRIPTION:Symposium on Probabilistic Machine Learning\n🗓️ Date: Jul
+ y 5\, 2026\n📍 Location: Seoul\, South Korea\n⏰ Original Deadline (AoE
+ ): 2026-03-20 23:59:00\nCategory: 人工智能 (AI)\nConference Website: h
+ ttps://probml.cc\nDBLP Index: https://dblp.org/db/conf/probml
+LOCATION:Seoul\, South Korea
+URL:https://probml.cc
+END:VEVENT
+END:VCALENDAR

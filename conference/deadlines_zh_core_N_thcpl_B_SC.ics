@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SEC 2021 截稿日期 [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20210215T235959
+DTEND;TZID="UTC-12:00":20210216T000059
+DTSTAMP:20260926T201831Z
+UID:0a65d30f-80ba-4d04-b187-3b9b9d4bef7b
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ 
+ 会议时间: June 22-24\, 2021\n📍 会议地点: Oslo\, Norway\n⏰ 原
+ 始截止时间 (AoE): 2021-02-15 23:59:59\n分类: 网络与信息安全 
+ (SC)\nCCF C\, THCPL B\n会议官网: https://ifipsec.org/2021/\nDBLP索引
+ : https://dblp.org/db/conf/sec
+LOCATION:Oslo\, Norway
+URL:https://ifipsec.org/2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2025 截稿日期 [Submission deadline]
+DTSTART;TZID="UTC-12:00":20250120T235959
+DTEND;TZID="UTC-12:00":20250121T000059
+DTSTAMP:20260926T201831Z
+UID:9a65274d-ffda-4f96-abb6-e6ca24cfc625
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ 
+ 会议时间: May 21-23\, 2025\n📍 会议地点: Hotel City\, Maribor\, 
+ Slovenia\n⏰ 原始截止时间 (AoE): 2025-01-20 23:59:59\n分类: 网
+ 络与信息安全 (SC)\nCCF C\, THCPL B\n会议官网: https://sec2025.um
+ .si/\nDBLP索引: https://dblp.org/db/conf/sec
+LOCATION:Hotel City\, Maribor\, Slovenia
+URL:https://sec2025.um.si/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2026 截稿日期 [Submission deadline]
+DTSTART;TZID="UTC-12:00":20251219T235959
+DTEND;TZID="UTC-12:00":20251220T000059
+DTSTAMP:20260926T201831Z
+UID:f3d558c7-7418-4d01-a6ae-3fd6c753871e
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ 
+ 会议时间: June 09 - 11\, 2026\n📍 会议地点: Perth\, Australia\n
+ ⏰ 原始截止时间 (AoE): 2025-12-19 23:59:59\n分类: 网络与信息
+ 安全 (SC)\nCCF C\, THCPL B\n会议官网: https://ifipsec.org/index.html
+ \nDBLP索引: https://dblp.org/db/conf/sec
+LOCATION:Perth\, Australia
+URL:https://ifipsec.org/index.html
+END:VEVENT
+END:VCALENDAR

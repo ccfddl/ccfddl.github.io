@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HSCC 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20251106T235959
+DTEND;TZID="UTC-12:00":20251107T000059
+DTSTAMP:20260926T201822Z
+UID:d284906b-a514-4690-a5ba-57a21a56293e
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint Ma
+ lo\, France\n⏰ 原始截止时间 (AoE): 2025-11-06 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://www.isi
+ s.vanderbilt.edu/events/hscciccps-2026\nDBLP索引: https://dblp.org/db/co
+ nf/hybrid
+LOCATION:Saint Malo\, France
+URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSCC 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251113T235959
+DTEND;TZID="UTC-12:00":20251114T000059
+DTSTAMP:20260926T201822Z
+UID:3029ebfd-3db6-45a9-8588-be968e0b54ac
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 11-14\, 2026\n📍 会议地点: Saint Ma
+ lo\, France\n⏰ 原始截止时间 (AoE): 2025-11-13 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://www.isi
+ s.vanderbilt.edu/events/hscciccps-2026\nDBLP索引: https://dblp.org/db/co
+ nf/hybrid
+LOCATION:Saint Malo\, France
+URL:https://www.isis.vanderbilt.edu/events/hscciccps-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSCC 2027 摘要截稿
+DTSTART;TZID="UTC-12:00":20261029T235959
+DTEND;TZID="UTC-12:00":20261030T000059
+DTSTAMP:20260926T201822Z
+UID:b4de0e7c-9a01-456c-8c28-2e936a295cb3
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 17-20\, 2027\n📍 会议地点: Boulder
+ \, Colorado\, USA\n⏰ 原始截止时间 (AoE): 2026-10-29 23:59:59\n分
+ 类: 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://hs
+ cc.acm.org/2027/\nDBLP索引: https://dblp.org/db/conf/hybrid
+LOCATION:Boulder\, Colorado\, USA
+URL:https://hscc.acm.org/2027/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HSCC 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20261105T235959
+DTEND;TZID="UTC-12:00":20261106T000059
+DTSTAMP:20260926T201822Z
+UID:ef8c159c-8a6c-43c7-9bd5-b099ef8493bf
+DESCRIPTION:International Conference on Hybrid Systems: Computation and Co
+ ntrol\n🗓️ 会议时间: May 17-20\, 2027\n📍 会议地点: Boulder
+ \, Colorado\, USA\n⏰ 原始截止时间 (AoE): 2026-11-05 23:59:59\n分
+ 类: 计算机科学理论 (CT)\nCCF B\, THCPL B\n会议官网: https://hs
+ cc.acm.org/2027/\nDBLP索引: https://dblp.org/db/conf/hybrid
+LOCATION:Boulder\, Colorado\, USA
+URL:https://hscc.acm.org/2027/
+END:VEVENT
+END:VCALENDAR

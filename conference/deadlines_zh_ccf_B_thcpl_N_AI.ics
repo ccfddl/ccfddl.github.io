@@ -1,0 +1,413 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECAI 2022 摘要截稿 [Joint IJCAI-ECAI\; abstract: January 7\, 2
+ 3:59 AoE (UTC-12)\, converted to CET (UTC+1)]
+DTSTART;TZID="UTC+01:00":20220108T125900
+DTEND;TZID="UTC+01:00":20220108T130000
+DTSTAMP:20260926T201819Z
+UID:e0d11caa-a638-4750-ae8b-2986e1cdbaac
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: July 23-29\, 2022\n📍 会议地点: Vienna\, Austria\n⏰ 原始
+ 截止时间 (UTC+1): 2022-01-08 12:59:00\n分类: 人工智能 (AI)\nCCF 
+ B\, CORE A\n会议官网: https://ijcai-22.org/\nDBLP索引: https://dblp.
+ org/db/conf/ecai
+LOCATION:Vienna\, Austria
+URL:https://ijcai-22.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2022 截稿日期 [Joint IJCAI-ECAI\; abstract: January 7\, 2
+ 3:59 AoE (UTC-12)\, converted to CET (UTC+1)]
+DTSTART;TZID="UTC+01:00":20220114T235900
+DTEND;TZID="UTC+01:00":20220115T000000
+DTSTAMP:20260926T201819Z
+UID:95a2b76d-47e5-4146-b6fd-a0140da04265
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: July 23-29\, 2022\n📍 会议地点: Vienna\, Austria\n⏰ 原始
+ 截止时间 (UTC+1): 2022-01-14 23:59:00\n分类: 人工智能 (AI)\nCCF 
+ B\, CORE A\n会议官网: https://ijcai-22.org/\nDBLP索引: https://dblp.
+ org/db/conf/ecai
+LOCATION:Vienna\, Austria
+URL:https://ijcai-22.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECAI 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230502T235959
+DTEND;TZID="UTC-12:00":20230503T000059
+DTSTAMP:20260926T201819Z
+UID:4c841220-4cc5-4aec-bcdd-daf89cf8c1f9
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: September 30 - October 4\, 2023\n📍 会议地点: Kraków\, Pola
+ nd\n⏰ 原始截止时间 (UTC-12): 2023-05-02 23:59:59\n分类: 人工
+ 智能 (AI)\nCCF B\, CORE A\n会议官网: https://ecai2023.eu/\nDBLP索
+ 引: https://dblp.org/db/conf/ecai
+LOCATION:Kraków\, Poland
+URL:https://ecai2023.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230508T235959
+DTEND;TZID="UTC-12:00":20230509T000059
+DTSTAMP:20260926T201819Z
+UID:fbbc78eb-be35-4805-a932-b206abc4c44b
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: September 30 - October 4\, 2023\n📍 会议地点: Kraków\, Pola
+ nd\n⏰ 原始截止时间 (UTC-12): 2023-05-08 23:59:59\n分类: 人工
+ 智能 (AI)\nCCF B\, CORE A\n会议官网: https://ecai2023.eu/\nDBLP索
+ 引: https://dblp.org/db/conf/ecai
+LOCATION:Kraków\, Poland
+URL:https://ecai2023.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2024 摘要截稿
+DTSTART;TZID="UTC-12:00":20240419T235959
+DTEND;TZID="UTC-12:00":20240420T000059
+DTSTAMP:20260926T201819Z
+UID:64217708-3dfe-4817-8730-a18c62725857
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: October 19-24\, 2024\n📍 会议地点: Santiago de Compostela\n
+ ⏰ 原始截止时间 (UTC-12): 2024-04-19 23:59:59\n分类: 人工智能
+  (AI)\nCCF B\, CORE A\n会议官网: https://www.ecai2024.eu/\nDBLP索引:
+  https://dblp.org/db/conf/ecai
+LOCATION:Santiago de Compostela
+URL:https://www.ecai2024.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240425T235959
+DTEND;TZID="UTC-12:00":20240426T000059
+DTSTAMP:20260926T201819Z
+UID:f18842c0-15cb-44b2-a68d-57e28f83b8db
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: October 19-24\, 2024\n📍 会议地点: Santiago de Compostela\n
+ ⏰ 原始截止时间 (UTC-12): 2024-04-25 23:59:59\n分类: 人工智能
+  (AI)\nCCF B\, CORE A\n会议官网: https://www.ecai2024.eu/\nDBLP索引:
+  https://dblp.org/db/conf/ecai
+LOCATION:Santiago de Compostela
+URL:https://www.ecai2024.eu/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250429T235959
+DTEND;TZID="UTC-12:00":20250430T000059
+DTSTAMP:20260926T201819Z
+UID:6e013605-5c05-4099-8111-f3b9c6c3a808
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: October 25-30\, 2025\n📍 会议地点: Bologna\, ITALY\n⏰ 原
+ 始截止时间 (UTC-12): 2025-04-29 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE A\n会议官网: https://ecai2025.org/deadlines/\nDBLP索引:
+  https://dblp.org/db/conf/ecai
+LOCATION:Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250506T235959
+DTEND;TZID="UTC-12:00":20250507T000059
+DTSTAMP:20260926T201819Z
+UID:499e0482-8d1d-4d04-92c5-cca29eab7895
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: October 25-30\, 2025\n📍 会议地点: Bologna\, ITALY\n⏰ 原
+ 始截止时间 (UTC-12): 2025-05-06 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE A\n会议官网: https://ecai2025.org/deadlines/\nDBLP索引:
+  https://dblp.org/db/conf/ecai
+LOCATION:Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260112T235959
+DTEND;TZID="UTC-12:00":20260113T000059
+DTSTAMP:20260926T201819Z
+UID:7685565a-74c8-4cc7-b133-94ce6a8a17b5
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: August 15-21\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 原
+ 始截止时间 (UTC-12): 2026-01-12 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE A\n会议官网: https://2026.ijcai.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/ecai
+LOCATION:Bremen\, Germany
+URL:https://2026.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20260926T201819Z
+UID:a88accb1-dd0e-4d99-a8e9-c2d4028d710d
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: August 15-21\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 原
+ 始截止时间 (UTC-12): 2026-01-19 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE A\n会议官网: https://2026.ijcai.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/ecai
+LOCATION:Bremen\, Germany
+URL:https://2026.ijcai.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20270414T235959
+DTEND;TZID="UTC-12:00":20270415T000059
+DTSTAMP:20260926T201819Z
+UID:cca6b211-8e4c-4949-ae88-adb38933c8c8
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ 会议
+ 时间: October 2-7\, 2027\n📍 会议地点: Athens\, Greece\n⏰ 原始
+ 截止时间 (AoE): 2027-04-14 23:59:59\n分类: 人工智能 (AI)\nCCF B
+ \, CORE A\n会议官网: https://ecai2027.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-06:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-06:00
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 截稿日期 [Early Submission]
+DTSTART;TZID="UTC-06:00":20240226T000000
+DTEND;TZID="UTC-06:00":20240226T000100
+DTSTAMP:20260926T201819Z
+UID:c75d6f6e-aa24-43c7-a6c8-44ed1aeb7fa8
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: July 1-4\, 2024\n📍 会议地点: Merida\, Yucatan\, Mexico\n
+ ⏰ 原始截止时间 (UTC-6): 2024-02-26 00:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE C\n会议官网: https://link.springer.com/book/10.1007
+ /978-3-031-63646-2\nDBLP索引: https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://link.springer.com/book/10.1007/978-3-031-63646-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 截稿日期 [Late Submission]
+DTSTART;TZID="UTC-06:00":20240402T000000
+DTEND;TZID="UTC-06:00":20240402T000100
+DTSTAMP:20260926T201819Z
+UID:2e1b9257-f237-4c97-a58c-a9892593b76b
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: July 1-4\, 2024\n📍 会议地点: Merida\, Yucatan\, Mexico\n
+ ⏰ 原始截止时间 (UTC-6): 2024-04-02 00:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE C\n会议官网: https://link.springer.com/book/10.1007
+ /978-3-031-63646-2\nDBLP索引: https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://link.springer.com/book/10.1007/978-3-031-63646-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20260926T201819Z
+UID:523d0483-b084-4192-8c59-266e4f33b0c6
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: August 13-16\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 
+ 原始截止时间 (AoE): 2026-03-20 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE C\n会议官网: https://2026.iccbr.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260327T235959
+DTEND;TZID="UTC-12:00":20260328T000059
+DTSTAMP:20260926T201819Z
+UID:a314a408-a38b-4472-9c1b-9a0608f4dbba
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: August 13-16\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 
+ 原始截止时间 (AoE): 2026-03-27 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE C\n会议官网: https://2026.iccbr.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2021 摘要截稿
+DTSTART;TZID="UTC-12:00":20210324T235900
+DTEND;TZID="UTC-12:00":20210325T000000
+DTSTAMP:20260926T201819Z
+UID:510de100-5a66-4ea7-96b5-8b09f2d40941
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: November 3-12\, 2021\n📍 会
+ 议地点: Virtual\n⏰ 原始截止时间 (UTC-12): 2021-03-24 23:59:00\n
+ 分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://kr.org/K
+ R2021/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Virtual
+URL:https://kr.org/KR2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2021 截稿日期
+DTSTART;TZID="UTC-12:00":20210331T235900
+DTEND;TZID="UTC-12:00":20210401T000000
+DTSTAMP:20260926T201819Z
+UID:4470c20c-37d7-4386-b3b4-c5679fc5c083
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: November 3-12\, 2021\n📍 会
+ 议地点: Virtual\n⏰ 原始截止时间 (UTC-12): 2021-03-31 23:59:00\n
+ 分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://kr.org/K
+ R2021/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Virtual
+URL:https://kr.org/KR2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2023 摘要截稿
+DTSTART;TZID="UTC-12:00":20230303T235900
+DTEND;TZID="UTC-12:00":20230304T000000
+DTSTAMP:20260926T201819Z
+UID:3149ec17-35b7-4b25-af01-d7536081f348
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: Sep 2-8\, 2023\n📍 会议地
+ 点: Rhodes\, Greece\n⏰ 原始截止时间 (UTC-12): 2023-03-03 23:59:00
+ \n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://kr.org
+ /KR2023/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Rhodes\, Greece
+URL:https://kr.org/KR2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2023 截稿日期
+DTSTART;TZID="UTC-12:00":20230314T235900
+DTEND;TZID="UTC-12:00":20230315T000000
+DTSTAMP:20260926T201819Z
+UID:09863dd1-ae92-4c25-aba3-9cb24a3d142e
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: Sep 2-8\, 2023\n📍 会议地
+ 点: Rhodes\, Greece\n⏰ 原始截止时间 (UTC-12): 2023-03-14 23:59:00
+ \n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://kr.org
+ /KR2023/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Rhodes\, Greece
+URL:https://kr.org/KR2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2024 摘要截稿
+DTSTART;TZID="UTC-12:00":20240424T235959
+DTEND;TZID="UTC-12:00":20240425T000059
+DTSTAMP:20260926T201819Z
+UID:6d66d2a7-3beb-418f-8a11-87eaed8a3a79
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: November 2-8\, 2024\n📍 会议
+ 地点: Hanoi\, Vietnam\n⏰ 原始截止时间 (UTC-12): 2024-04-24 23:59
+ :59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://kr.
+ org/KR2024/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Hanoi\, Vietnam
+URL:https://kr.org/KR2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240501T235959
+DTEND;TZID="UTC-12:00":20240502T000059
+DTSTAMP:20260926T201819Z
+UID:1fdc147e-07b5-48c1-8389-4f512393ce84
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: November 2-8\, 2024\n📍 会议
+ 地点: Hanoi\, Vietnam\n⏰ 原始截止时间 (UTC-12): 2024-05-01 23:59
+ :59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://kr.
+ org/KR2024/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Hanoi\, Vietnam
+URL:https://kr.org/KR2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250507T235959
+DTEND;TZID="UTC-12:00":20250508T000059
+DTSTAMP:20260926T201819Z
+UID:1e47c17e-8f7c-4040-9e4b-1227f34afdf7
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: November 11-17\, 2025\n📍 会
+ 议地点: Melbourne\, Australia\n⏰ 原始截止时间 (UTC-12): 2025-05
+ -07 23:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: ht
+ tps://kr.org/KR2025/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Melbourne\, Australia
+URL:https://kr.org/KR2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250512T235959
+DTEND;TZID="UTC-12:00":20250513T000059
+DTSTAMP:20260926T201819Z
+UID:cf8ba25f-9286-46f6-91a7-6ab95691f2e5
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: November 11-17\, 2025\n📍 会
+ 议地点: Melbourne\, Australia\n⏰ 原始截止时间 (UTC-12): 2025-05
+ -12 23:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: ht
+ tps://kr.org/KR2025/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Melbourne\, Australia
+URL:https://kr.org/KR2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260926T201819Z
+UID:6280c881-ffea-447e-9475-e580a37eef41
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: July 20-23\, 2026\n📍 会议
+ 地点: Lisbon\, Portugal\n⏰ 原始截止时间 (UTC-12): 2026-02-08 23:
+ 59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://k
+ r.org/KR2026/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Lisbon\, Portugal
+URL:https://kr.org/KR2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260213T235959
+DTEND;TZID="UTC-12:00":20260214T000059
+DTSTAMP:20260926T201819Z
+UID:fa2cfe87-13e7-4661-b672-0e6ece5321ef
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ 会议时间: July 20-23\, 2026\n📍 会议
+ 地点: Lisbon\, Portugal\n⏰ 原始截止时间 (UTC-12): 2026-02-13 23:
+ 59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\n会议官网: https://k
+ r.org/KR2026/\nDBLP索引: https://dblp.org/db/conf/kr
+LOCATION:Lisbon\, Portugal
+URL:https://kr.org/KR2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240418T235959
+DTEND;TZID="UTC-12:00":20240419T000059
+DTSTAMP:20260926T201819Z
+UID:ff7c45e4-ccaa-4c72-a1cb-aa6f2b41a209
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ 会议时间: September 14-18\, 2024\n📍 会议地点: Unive
+ rsity of Applied Sciences Upper Austria\, Softwarepark Hagenberg\, Austria
+ \n⏰ 原始截止时间 (UTC-12): 2024-04-18 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF B\, CORE A\n会议官网: https://ppsn2024.fh-ooe.at/\nDBLP
+ 索引: https://dblp.org/db/conf/ppsn
+LOCATION:University of Applied Sciences Upper Austria\, Softwarepark Hagen
+ berg\, Austria
+URL:https://ppsn2024.fh-ooe.at/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260328T235959
+DTEND;TZID="UTC-12:00":20260329T000059
+DTSTAMP:20260926T201819Z
+UID:7c1dfd55-2794-46bf-b10c-5eb8608a86ec
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ 会议时间: August 29-September 2\, 2026\n📍 会议地点:
+  University of Trento\, Trento\, Italy\n⏰ 原始截止时间 (AoE): 2026
+ -03-28 23:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A\n会议官网: 
+ https://ppsn2026.disi.unitn.it/\nDBLP索引: https://dblp.org/db/conf/ppsn
+LOCATION:University of Trento\, Trento\, Italy
+URL:https://ppsn2026.disi.unitn.it/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:INTERACT 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20270125T235959
+DTEND;TZID="UTC-12:00":20270126T000059
+DTSTAMP:20260926T201854Z
+UID:e078df68-5b32-4860-bd5b-9932c80eb1b1
+DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interacti
+ on\n🗓️ Date: August 23-27\, 2027\n📍 Location: Tallinn\, Estonia\n
+ ⏰ Original Deadline (AoE): 2027-01-25 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\nConference Website: https://interact2027.org/
+ \nDBLP Index: https://dblp.org/db/conf/interact
+LOCATION:Tallinn\, Estonia
+URL:https://interact2027.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERACT 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270201T235959
+DTEND;TZID="UTC-12:00":20270202T000059
+DTSTAMP:20260926T201854Z
+UID:a94f58bf-c3d0-4ec0-ae75-998378cc3855
+DESCRIPTION:IFIP TC13 International Conference on Human-Computer Interacti
+ on\n🗓️ Date: August 23-27\, 2027\n📍 Location: Tallinn\, Estonia\n
+ ⏰ Original Deadline (AoE): 2027-02-01 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\nConference Website: https://interact2027.org/
+ \nDBLP Index: https://dblp.org/db/conf/interact
+LOCATION:Tallinn\, Estonia
+URL:https://interact2027.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WHC 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270129T235959
+DTEND;TZID="UTC-12:00":20270130T000059
+DTSTAMP:20260926T201854Z
+UID:100d72a9-c286-4230-9c81-ab2375484605
+DESCRIPTION:IEEE World Haptics Conference\n🗓️ Date: July 12-15\, 2027
+ \n📍 Location: Boston\, Massachusetts\, USA\n⏰ Original Deadline (AoE)
+ : 2027-01-29 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C\n
+ Conference Website: https://2027.worldhaptics.org/\nDBLP Index: https://db
+ lp.org/db/conf/haptics
+LOCATION:Boston\, Massachusetts\, USA
+URL:https://2027.worldhaptics.org/
+END:VEVENT
+END:VCALENDAR

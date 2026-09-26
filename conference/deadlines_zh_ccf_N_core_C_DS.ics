@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 截稿日期
+DTSTART;TZID="UTC+10:00":20250815T235900
+DTEND;TZID="UTC+10:00":20250816T000000
+DTSTAMP:20260926T201826Z
+UID:76d6d48c-b0bf-453a-b17e-2ec18d141e63
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: November 22-Novemb
+ er 24\, 2025\n📍 会议地点: Gold Coast\, Australia\n⏰ 原始截止
+ 时间 (UTC+10): 2025-08-15 23:59:00\n分类: 计算机体系结构/并行
+ 与分布计算/存储系统 (DS)\nCORE C\n会议官网: https://www.pd-ca
+ t.org/\nDBLP索引: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia
+URL:https://www.pd-cat.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 截稿日期 [First Cycle]
+DTSTART;TZID="UTC-12:00":20260921T235959
+DTEND;TZID="UTC-12:00":20260922T000059
+DTSTAMP:20260926T201826Z
+UID:dfa0b8b7-9d22-4a74-8f24-1bf75c507d20
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 4-6\, 202
+ 6\n📍 会议地点: Changsha\, China\n⏰ 原始截止时间 (AoE): 2026
+ -09-21 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 截稿日期 [Second Cycle]
+DTSTART;TZID="UTC-12:00":20261020T235959
+DTEND;TZID="UTC-12:00":20261021T000059
+DTSTAMP:20260926T201826Z
+UID:aa2d141b-5d7a-4a3e-af8a-af2c053cef02
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 4-6\, 202
+ 6\n📍 会议地点: Changsha\, China\n⏰ 原始截止时间 (AoE): 2026
+ -10-20 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+END:VEVENT
+END:VCALENDAR

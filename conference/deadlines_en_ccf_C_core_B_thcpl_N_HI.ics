@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:UIC 2025 Deadline [Conference Papers]
+DTSTART;TZID="UTC-04:00":20250501T235959
+DTEND;TZID="UTC-04:00":20250502T000059
+DTSTAMP:20260926T201854Z
+UID:88e85d73-0d79-4f2e-8c42-4db2f7ae574d
+DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and C
+ omputing\n🗓️ Date: Aug 18 - 22\, 2025\n📍 Location: Calgary\, Alber
+ ta\, Canada\n⏰ Original Deadline (UTC-4): 2025-05-01 23:59:59\nCategory:
+  人机交互与普适计算 (HI)\nCCF C\, CORE B\nConference Website: htt
+ ps://www.ieee-smart-world.org/2025/\nDBLP Index: https://dblp.org/db/conf/
+ uic
+LOCATION:Calgary\, Alberta\, Canada
+URL:https://www.ieee-smart-world.org/2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:UIC 2026 Deadline
+DTSTART;TZID="UTC+02:00":20260531T235959
+DTEND;TZID="UTC+02:00":20260601T000059
+DTSTAMP:20260926T201854Z
+UID:8467ac6e-68dd-4a94-a3c7-c99716212981
+DESCRIPTION:IEEE International Conference on Ubiquitous Intelligence and C
+ omputing\n🗓️ Date: Sept 7 - 11\, 2026\n📍 Location: Rende\, Italy\n
+ ⏰ Original Deadline (UTC+2): 2026-05-31 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\, CORE B\nConference Website: https://swc-ieee
+ -2026.github.io/uic/\nDBLP Index: https://dblp.org/db/conf/uic
+LOCATION:Rende\, Italy
+URL:https://swc-ieee-2026.github.io/uic/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2022 Abstract Deadline
+DTSTART;TZID="UTC-05:00":20220304T235959
+DTEND;TZID="UTC-05:00":20220305T000059
+DTSTAMP:20260926T201856Z
+UID:37630910-83d2-43de-b433-25a52e29056c
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ Date: October 17-22\, 2022\n📍 Location: Seoul\, South Kore
+ a\n⏰ Original Deadline (UTC-5): 2022-03-04 23:59:59\nCategory: 计算机
+ 网络 (NW)\nCCF B\, CORE A\, THCPL B\nConference Website: https://www.sig
+ mobile.org/mobihoc/2022/\nDBLP Index: https://dblp.org/db/conf/mobihoc
+LOCATION:Seoul\, South Korea
+URL:https://www.sigmobile.org/mobihoc/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2022 Deadline
+DTSTART;TZID="UTC-05:00":20220311T235959
+DTEND;TZID="UTC-05:00":20220312T000059
+DTSTAMP:20260926T201856Z
+UID:710c9b81-ec2b-4f72-b539-35b2bc34744c
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ Date: October 17-22\, 2022\n📍 Location: Seoul\, South Kore
+ a\n⏰ Original Deadline (UTC-5): 2022-03-11 23:59:59\nCategory: 计算机
+ 网络 (NW)\nCCF B\, CORE A\, THCPL B\nConference Website: https://www.sig
+ mobile.org/mobihoc/2022/\nDBLP Index: https://dblp.org/db/conf/mobihoc
+LOCATION:Seoul\, South Korea
+URL:https://www.sigmobile.org/mobihoc/2022/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260413T235959
+DTEND;TZID="UTC-12:00":20260414T000059
+DTSTAMP:20260926T201856Z
+UID:d37b6941-d7cc-4ff4-b66b-21c05eacecec
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ Date: November 23-26\, 2026\n📍 Location: Tokyo\, Japan\n
+ ⏰ Original Deadline (AoE): 2026-04-13 23:59:59\nCategory: 计算机网
+ 络 (NW)\nCCF B\, CORE A\, THCPL B\nConference Website: https://www.sigmob
+ ile.org/mobihoc/2026/\nDBLP Index: https://dblp.org/db/conf/mobihoc
+LOCATION:Tokyo\, Japan
+URL:https://www.sigmobile.org/mobihoc/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260420T235959
+DTEND;TZID="UTC-12:00":20260421T000059
+DTSTAMP:20260926T201856Z
+UID:b42b8f26-a82d-44c5-91bb-1b1a33a003a6
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ Date: November 23-26\, 2026\n📍 Location: Tokyo\, Japan\n
+ ⏰ Original Deadline (AoE): 2026-04-20 23:59:59\nCategory: 计算机网
+ 络 (NW)\nCCF B\, CORE A\, THCPL B\nConference Website: https://www.sigmob
+ ile.org/mobihoc/2026/\nDBLP Index: https://dblp.org/db/conf/mobihoc
+LOCATION:Tokyo\, Japan
+URL:https://www.sigmobile.org/mobihoc/2026/
+END:VEVENT
+END:VCALENDAR

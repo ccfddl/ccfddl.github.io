@@ -1,0 +1,392 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ALT 2021 截稿日期 [Official CFP and submission instructions sp
+ ecify 5:00 PM EST (UTC-5)]
+DTSTART;TZID="UTC-05:00":20200930T170000
+DTEND;TZID="UTC-05:00":20200930T170100
+DTSTAMP:20260926T201816Z
+UID:fcf4601b-9977-4395-97a3-e768a33c846a
+DESCRIPTION:International Conference on Algorithmic Learning Theory\n🗓
+ ️ 会议时间: March 16-19\, 2021\n📍 会议地点: Virtual\n⏰ 原
+ 始截止时间 (UTC-5): 2020-09-30 17:00:00\n分类: 人工智能 (AI)\nC
+ CF C\, CORE B\, THCPL B\n会议官网: https://algorithmiclearningtheory.o
+ rg/alt2021/\nDBLP索引: https://dblp.org/db/conf/alt
+LOCATION:Virtual
+URL:https://algorithmiclearningtheory.org/alt2021/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ALT 2025 截稿日期
+DTSTART:20241001T220000Z
+DTEND:20241001T220100Z
+DTSTAMP:20260926T201816Z
+UID:16a66bc6-a99b-4505-89ee-08e0006d5bdb
+DESCRIPTION:International Conference on Algorithmic Learning Theory\n🗓
+ ️ 会议时间: February 24-27\, 2025\n📍 会议地点: Milan\, Italy
+ \n⏰ 原始截止时间 (UTC+0): 2024-10-01 22:00:00\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://algorithmiclearn
+ ingtheory.org/alt2025/\nDBLP索引: https://dblp.org/db/conf/alt
+LOCATION:Milan\, Italy
+URL:https://algorithmiclearningtheory.org/alt2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ALT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20251002T235959
+DTEND;TZID="UTC-12:00":20251003T000059
+DTSTAMP:20260926T201816Z
+UID:088aa77f-5454-474d-a656-b4cb5a16e69d
+DESCRIPTION:International Conference on Algorithmic Learning Theory\n🗓
+ ️ 会议时间: February 23-26\, 2026\n📍 会议地点: Fields Institu
+ te\, Toronto\, Canada\n⏰ 原始截止时间 (AoE): 2025-10-02 23:59:59\n
+ 分类: 人工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https:/
+ /algorithmiclearningtheory.org/alt2026/\nDBLP索引: https://dblp.org/db/c
+ onf/alt
+LOCATION:Fields Institute\, Toronto\, Canada
+URL:https://algorithmiclearningtheory.org/alt2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALT 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20261012T235959
+DTEND;TZID="UTC-12:00":20261013T000059
+DTSTAMP:20260926T201816Z
+UID:13a43169-d1ea-499c-b5e2-af50940ca110
+DESCRIPTION:International Conference on Algorithmic Learning Theory\n🗓
+ ️ 会议时间: March 9-12\, 2027\n📍 会议地点: Leiden\, Netherlan
+ ds\n⏰ 原始截止时间 (AoE): 2026-10-12 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://algorithmiclearn
+ ingtheory.org/alt2027/\nDBLP索引: https://dblp.org/db/conf/alt
+LOCATION:Leiden\, Netherlands
+URL:https://algorithmiclearningtheory.org/alt2027/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FG 2021 截稿日期 [Round 1]
+DTSTART;TZID="UTC-07:00":20210501T235900
+DTEND;TZID="UTC-07:00":20210502T000000
+DTSTAMP:20260926T201816Z
+UID:0f492421-184b-4eae-8081-e1344a87ce12
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: December 15-18\, 2021\n📍 会议地点: Virt
+ ual\n⏰ 原始截止时间 (UTC-7): 2021-05-01 23:59:00\n分类: 人工
+ 智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://iab-rubric.or
+ g/fg2021/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Virtual
+URL:https://iab-rubric.org/fg2021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2021 截稿日期 [Round 2 (new submissions and revised Round 1
+  papers)]
+DTSTART;TZID="UTC-07:00":20210820T235900
+DTEND;TZID="UTC-07:00":20210821T000000
+DTSTAMP:20260926T201816Z
+UID:e5cd1cea-a887-4bce-89d8-491fc0b7a236
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: December 15-18\, 2021\n📍 会议地点: Virt
+ ual\n⏰ 原始截止时间 (UTC-7): 2021-08-20 23:59:00\n分类: 人工
+ 智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://iab-rubric.or
+ g/fg2021/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Virtual
+URL:https://iab-rubric.org/fg2021/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:FG 2024 截稿日期 [Round 1 (extended\; official literal PST)]
+DTSTART;TZID="UTC-08:00":20231002T235900
+DTEND;TZID="UTC-08:00":20231003T000000
+DTSTAMP:20260926T201816Z
+UID:5af1946a-5c9f-4bb8-b8e1-1bb254eee5ac
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 27-31\, 2024\n📍 会议地点: Istanbul
+ \, Turkey\n⏰ 原始截止时间 (UTC-8): 2023-10-02 23:59:00\n分类: 
+ 人工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2024.
+ ieee-biometrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Istanbul\, Turkey
+URL:https://fg2024.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2024 截稿日期 [Round 2 (extended)]
+DTSTART;TZID="UTC-08:00":20240126T235900
+DTEND;TZID="UTC-08:00":20240127T000000
+DTSTAMP:20260926T201816Z
+UID:d7801380-40b9-4865-8f06-93c5cc762aeb
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 27-31\, 2024\n📍 会议地点: Istanbul
+ \, Turkey\n⏰ 原始截止时间 (UTC-8): 2024-01-26 23:59:00\n分类: 
+ 人工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2024.
+ ieee-biometrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Istanbul\, Turkey
+URL:https://fg2024.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2025 截稿日期 [Round 1]
+DTSTART;TZID="UTC-08:00":20240930T235959
+DTEND;TZID="UTC-08:00":20241001T000059
+DTSTAMP:20260926T201816Z
+UID:bb35b01a-b393-41ff-adf3-724570734959
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 26-30\, 2025\n📍 会议地点: Clearwate
+ r\, USA\n⏰ 原始截止时间 (UTC-8): 2024-09-30 23:59:59\n分类: 人
+ 工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2025.iee
+ e-biometrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Clearwater\, USA
+URL:https://fg2025.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2025 截稿日期 [Round 2]
+DTSTART;TZID="UTC-08:00":20250131T235959
+DTEND;TZID="UTC-08:00":20250201T000059
+DTSTAMP:20260926T201816Z
+UID:a66f2728-7bfc-4d1d-aeba-1d516f856db1
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 26-30\, 2025\n📍 会议地点: Clearwate
+ r\, USA\n⏰ 原始截止时间 (UTC-8): 2025-01-31 23:59:59\n分类: 人
+ 工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2025.iee
+ e-biometrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Clearwater\, USA
+URL:https://fg2025.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2026 摘要截稿 [Round 1]
+DTSTART;TZID="UTC-12:00":20250925T235959
+DTEND;TZID="UTC-12:00":20250926T000059
+DTSTAMP:20260926T201816Z
+UID:5371826d-af18-4cf7-9826-ea20b348c086
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 25-29\, 2026\n📍 会议地点: Kyoto\, J
+ apan\n⏰ 原始截止时间 (AoE): 2025-09-25 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2026.ieee-biom
+ etrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Kyoto\, Japan
+URL:https://fg2026.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2026 截稿日期 [Round 1]
+DTSTART;TZID="UTC-12:00":20251006T235959
+DTEND;TZID="UTC-12:00":20251007T000059
+DTSTAMP:20260926T201816Z
+UID:b05b933b-f5cd-4651-8baa-027b2dbbe064
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 25-29\, 2026\n📍 会议地点: Kyoto\, J
+ apan\n⏰ 原始截止时间 (AoE): 2025-10-06 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2026.ieee-biom
+ etrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Kyoto\, Japan
+URL:https://fg2026.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2026 摘要截稿 [Round 2 (paper deadline extended)]
+DTSTART;TZID="UTC-12:00":20260109T235959
+DTEND;TZID="UTC-12:00":20260110T000059
+DTSTAMP:20260926T201816Z
+UID:787e1b40-0972-4f1e-85bd-b11549e821df
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 25-29\, 2026\n📍 会议地点: Kyoto\, J
+ apan\n⏰ 原始截止时间 (AoE): 2026-01-09 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2026.ieee-biom
+ etrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Kyoto\, Japan
+URL:https://fg2026.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2026 截稿日期 [Round 2 (paper deadline extended)]
+DTSTART;TZID="UTC-12:00":20260125T235959
+DTEND;TZID="UTC-12:00":20260126T000059
+DTSTAMP:20260926T201816Z
+UID:1faf84eb-51d6-49f9-b375-8eb26affa2e5
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: May 25-29\, 2026\n📍 会议地点: Kyoto\, J
+ apan\n⏰ 原始截止时间 (AoE): 2026-01-25 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2026.ieee-biom
+ etrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Kyoto\, Japan
+URL:https://fg2026.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2027 摘要截稿
+DTSTART;TZID="UTC-12:00":20261009T235959
+DTEND;TZID="UTC-12:00":20261010T000059
+DTSTAMP:20260926T201816Z
+UID:da48e68a-1804-408d-9cd5-46077106351f
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: April 26-30\, 2027\n📍 会议地点: Marrake
+ sh\, Morocco\n⏰ 原始截止时间 (AoE): 2026-10-09 23:59:59\n分类: 
+ 人工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2027.
+ ieee-biometrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Marrakesh\, Morocco
+URL:https://fg2027.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FG 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20261016T235959
+DTEND;TZID="UTC-12:00":20261017T000059
+DTSTAMP:20260926T201816Z
+UID:3f2f5201-fab4-4a0a-8512-b2ffc97988a8
+DESCRIPTION:International Conference on Automatic Face and Gesture Recogni
+ tion\n🗓️ 会议时间: April 26-30\, 2027\n📍 会议地点: Marrake
+ sh\, Morocco\n⏰ 原始截止时间 (AoE): 2026-10-16 23:59:59\n分类: 
+ 人工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://fg2027.
+ ieee-biometrics.org/\nDBLP索引: https://dblp.org/db/conf/fg
+LOCATION:Marrakesh\, Morocco
+URL:https://fg2027.ieee-biometrics.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPR 2024 摘要截稿 [First round]
+DTSTART;TZID="UTC-07:00":20240410T235959
+DTEND;TZID="UTC-07:00":20240411T000059
+DTSTAMP:20260926T201816Z
+UID:04b52080-56bd-44d9-a8ba-dee84d55e540
+DESCRIPTION:International Conference on Pattern Recognition\n🗓️ 会
+ 议时间: Dec 01-05\, 2024\n📍 会议地点: Kolkata\, India\n⏰ 原
+ 始截止时间 (UTC-7): 2024-04-10 23:59:59\n分类: 人工智能 (AI)\nC
+ CF C\, CORE B\, THCPL B\n会议官网: https://icpr2024.org/\nDBLP索引: 
+ https://dblp.org/db/conf/icpr
+LOCATION:Kolkata\, India
+URL:https://icpr2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPR 2024 截稿日期 [First round]
+DTSTART;TZID="UTC-07:00":20240417T235959
+DTEND;TZID="UTC-07:00":20240418T000059
+DTSTAMP:20260926T201816Z
+UID:96106059-d6cc-44cd-b2a8-c6385ef8ea8b
+DESCRIPTION:International Conference on Pattern Recognition\n🗓️ 会
+ 议时间: Dec 01-05\, 2024\n📍 会议地点: Kolkata\, India\n⏰ 原
+ 始截止时间 (UTC-7): 2024-04-17 23:59:59\n分类: 人工智能 (AI)\nC
+ CF C\, CORE B\, THCPL B\n会议官网: https://icpr2024.org/\nDBLP索引: 
+ https://dblp.org/db/conf/icpr
+LOCATION:Kolkata\, India
+URL:https://icpr2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPR 2024 截稿日期 [Second round (new papers\; no separate abs
+ tract deadline)]
+DTSTART;TZID="UTC-07:00":20240708T235959
+DTEND;TZID="UTC-07:00":20240709T000059
+DTSTAMP:20260926T201816Z
+UID:b03c3523-82d7-47c2-878e-7118fa778421
+DESCRIPTION:International Conference on Pattern Recognition\n🗓️ 会
+ 议时间: Dec 01-05\, 2024\n📍 会议地点: Kolkata\, India\n⏰ 原
+ 始截止时间 (UTC-7): 2024-07-08 23:59:59\n分类: 人工智能 (AI)\nC
+ CF C\, CORE B\, THCPL B\n会议官网: https://icpr2024.org/\nDBLP索引: 
+ https://dblp.org/db/conf/icpr
+LOCATION:Kolkata\, India
+URL:https://icpr2024.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPR 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260110T235959
+DTEND;TZID="UTC-12:00":20260111T000059
+DTSTAMP:20260926T201816Z
+UID:54e416cc-2e02-46b9-9588-7601f55a7f06
+DESCRIPTION:International Conference on Pattern Recognition\n🗓️ 会
+ 议时间: August 17-22\, 2026\n📍 会议地点: Lyon\, France\n⏰ 原
+ 始截止时间 (AoE): 2026-01-10 23:59:59\n分类: 人工智能 (AI)\nCCF
+  C\, CORE B\, THCPL B\n会议官网: https://icpr2026.org/\nDBLP索引: ht
+ tps://dblp.org/db/conf/icpr
+LOCATION:Lyon\, France
+URL:https://icpr2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCNN 2024 截稿日期
+DTSTART;TZID="UTC-12:00":20240129T235959
+DTEND;TZID="UTC-12:00":20240130T000059
+DTSTAMP:20260926T201816Z
+UID:bc6cdba3-285d-4c32-a467-0a8ebb856234
+DESCRIPTION:International Joint Conference on Neural Networks\n🗓️ 会
+ 议时间: June 30 - July 5\, 2024\n📍 会议地点: Yokohama\, Japan an
+ d Online\n⏰ 原始截止时间 (UTC-12): 2024-01-29 23:59:59\n分类: 
+ 人工智能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://2024.ie
+ eewcci.org/\nDBLP索引: https://dblp.org/db/conf/ijcnn
+LOCATION:Yokohama\, Japan and Online
+URL:https://2024.ieeewcci.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCNN 2025 截稿日期 [Regular papers\; final extension requires
+  further verification]
+DTSTART;TZID="UTC-12:00":20250205T235959
+DTEND;TZID="UTC-12:00":20250206T000059
+DTSTAMP:20260926T201816Z
+UID:9d19b158-0b0a-43bd-adce-e3630a414c79
+DESCRIPTION:International Joint Conference on Neural Networks\n🗓️ 会
+ 议时间: June 30 - July 5\, 2025\n📍 会议地点: Rome\, Italy\n⏰ 
+ 原始截止时间 (UTC-12): 2025-02-05 23:59:59\n分类: 人工智能 (AI
+ )\nCCF C\, CORE B\, THCPL B\n会议官网: https://2025.ijcnn.org/\nDBLP
+ 索引: https://dblp.org/db/conf/ijcnn
+LOCATION:Rome\, Italy
+URL:https://2025.ijcnn.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCNN 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260131T235959
+DTEND;TZID="UTC-12:00":20260201T000059
+DTSTAMP:20260926T201816Z
+UID:1cf2305d-d1bf-4ec4-8af8-5f5709d8967e
+DESCRIPTION:International Joint Conference on Neural Networks\n🗓️ 会
+ 议时间: June 21 - 26\, 2026\n📍 会议地点: Maastricht Exhibition &
+  Congress Center\, Maastricht\, The Netherlands\n⏰ 原始截止时间 (U
+ TC-12): 2026-01-31 23:59:59\n分类: 人工智能 (AI)\nCCF C\, CORE B\, T
+ HCPL B\n会议官网: https://attend.ieee.org/wcci-2026/\nDBLP索引: http
+ s://dblp.org/db/conf/ijcnn
+LOCATION:Maastricht Exhibition & Congress Center\, Maastricht\, The Nether
+ lands
+URL:https://attend.ieee.org/wcci-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJCNN 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20270131T235959
+DTEND;TZID="UTC-12:00":20270201T000059
+DTSTAMP:20260926T201816Z
+UID:0b44ada8-d2e9-413d-bd8a-a94c0391af35
+DESCRIPTION:International Joint Conference on Neural Networks\n🗓️ 会
+ 议时间: June 14 - 18\, 2027\n📍 会议地点: Cape Town\, South Afric
+ a\n⏰ 原始截止时间 (UTC-12): 2027-01-31 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF C\, CORE B\, THCPL B\n会议官网: https://ijcnn.org/2027\n
+ DBLP索引: https://dblp.org/db/conf/ijcnn
+LOCATION:Cape Town\, South Africa
+URL:https://ijcnn.org/2027
+END:VEVENT
+END:VCALENDAR

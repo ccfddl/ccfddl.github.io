@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2022 摘要截稿
+DTSTART;TZID="UTC-05:00":20220304T235959
+DTEND;TZID="UTC-05:00":20220305T000059
+DTSTAMP:20260926T201829Z
+UID:af3a3ab6-d211-46fb-b979-928b94aa82be
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: October 17-22\, 2022\n📍 会议地点: Seoul
+ \, South Korea\n⏰ 原始截止时间 (UTC-5): 2022-03-04 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https:/
+ /www.sigmobile.org/mobihoc/2022/\nDBLP索引: https://dblp.org/db/conf/mob
+ ihoc
+LOCATION:Seoul\, South Korea
+URL:https://www.sigmobile.org/mobihoc/2022/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2022 截稿日期
+DTSTART;TZID="UTC-05:00":20220311T235959
+DTEND;TZID="UTC-05:00":20220312T000059
+DTSTAMP:20260926T201829Z
+UID:189bec19-b252-4dd8-8cb9-a1c7129e3553
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: October 17-22\, 2022\n📍 会议地点: Seoul
+ \, South Korea\n⏰ 原始截止时间 (UTC-5): 2022-03-11 23:59:59\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https:/
+ /www.sigmobile.org/mobihoc/2022/\nDBLP索引: https://dblp.org/db/conf/mob
+ ihoc
+LOCATION:Seoul\, South Korea
+URL:https://www.sigmobile.org/mobihoc/2022/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260413T235959
+DTEND;TZID="UTC-12:00":20260414T000059
+DTSTAMP:20260926T201829Z
+UID:42024440-e698-4d46-b4e3-d4f8fb4b1fe7
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: November 23-26\, 2026\n📍 会议地点: Tokyo
+ \, Japan\n⏰ 原始截止时间 (AoE): 2026-04-13 23:59:59\n分类: 计
+ 算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https://www.sig
+ mobile.org/mobihoc/2026/\nDBLP索引: https://dblp.org/db/conf/mobihoc
+LOCATION:Tokyo\, Japan
+URL:https://www.sigmobile.org/mobihoc/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobiHoc 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260420T235959
+DTEND;TZID="UTC-12:00":20260421T000059
+DTSTAMP:20260926T201829Z
+UID:cafbe38b-5e9e-4bbc-b3b2-6972f316e2f6
+DESCRIPTION:International Symposium on Mobile Ad Hoc Networking and Comput
+ ing\n🗓️ 会议时间: November 23-26\, 2026\n📍 会议地点: Tokyo
+ \, Japan\n⏰ 原始截止时间 (AoE): 2026-04-20 23:59:59\n分类: 计
+ 算机网络 (NW)\nCCF B\, CORE A\, THCPL B\n会议官网: https://www.sig
+ mobile.org/mobihoc/2026/\nDBLP索引: https://dblp.org/db/conf/mobihoc
+LOCATION:Tokyo\, Japan
+URL:https://www.sigmobile.org/mobihoc/2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,474 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2022 Deadline
+DTSTART;TZID="UTC-08:00":20220209T155959
+DTEND;TZID="UTC-08:00":20220209T160059
+DTSTAMP:20260926T201845Z
+UID:7023a298-600e-42e8-ace6-2e92ead5d764
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ Date: July 2-5\,
+  2022\n📍 Location: London\, UK\n⏰ Original Deadline (UTC-8): 2022-02-
+ 09 15:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConfe
+ rence Website: https://learningtheory.org/colt2022/index.html\nDBLP Index:
+  https://dblp.org/db/conf/colt
+LOCATION:London\, UK
+URL:https://learningtheory.org/colt2022/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2024 Deadline
+DTSTART;TZID="UTC-05:00":20240209T155959
+DTEND;TZID="UTC-05:00":20240209T160059
+DTSTAMP:20260926T201845Z
+UID:590445bf-9909-4954-b203-44b37363e987
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ Date: June 30 - 
+ July 3\, 2024\n📍 Location: Edmonton\, Canada\n⏰ Original Deadline (UT
+ C-5): 2024-02-09 15:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, 
+ THCPL A\nConference Website: https://www.learningtheory.org/colt2024/\nDBL
+ P Index: https://dblp.org/db/conf/colt
+LOCATION:Edmonton\, Canada
+URL:https://www.learningtheory.org/colt2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLT 2025 Deadline
+DTSTART;TZID="UTC-05:00":20250206T165959
+DTEND;TZID="UTC-05:00":20250206T170059
+DTSTAMP:20260926T201845Z
+UID:a4952cf9-285b-46d9-91a9-9ab96fb0b05b
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ Date: June 30 - 
+ July 4\, 2025\n📍 Location: Lyon\, France\n⏰ Original Deadline (UTC-5)
+ : 2025-02-06 16:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, THCP
+ L A\nConference Website: https://learningtheory.org/colt2025/\nDBLP Index:
+  https://dblp.org/db/conf/colt
+LOCATION:Lyon\, France
+URL:https://learningtheory.org/colt2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260204T165959
+DTEND;TZID="UTC-12:00":20260204T170059
+DTSTAMP:20260926T201845Z
+UID:af6927ef-5338-4277-aa46-4d0752136344
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ Date: June 29 - 
+ July 3\, 2026\n📍 Location: San Diego\, California\n⏰ Original Deadlin
+ e (AoE): 2026-02-04 16:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A*
+ \, THCPL A\nConference Website: https://learningtheory.org/colt2026/\nDBLP
+  Index: https://dblp.org/db/conf/colt
+LOCATION:San Diego\, California
+URL:https://learningtheory.org/colt2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2022 Deadline
+DTSTART;TZID="UTC-08:00":20220307T115900
+DTEND;TZID="UTC-08:00":20220307T120000
+DTSTAMP:20260926T201845Z
+UID:e4201df5-cca0-438d-b7bd-4fd76c6a492b
+DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: October 
+ 23 - October 27\, 2022\n📍 Location: Tel-Aviv\, Israel\n⏰ Original Dea
+ dline (UTC-8): 2022-03-07 11:59:00\nCategory: 人工智能 (AI)\nCCF B\, C
+ ORE A*\, THCPL A\nConference Website: https://eccv2022.ecva.net/\nDBLP Ind
+ ex: https://dblp.org/db/conf/eccv
+LOCATION:Tel-Aviv\, Israel
+URL:https://eccv2022.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2024 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20240229T130000
+DTEND;TZID="UTC-08:00":20240229T130100
+DTSTAMP:20260926T201845Z
+UID:6309697a-a6f6-4f7c-bbed-e221bf82a53a
+DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: Septembe
+ r 29 - October 4\, 2024\n📍 Location: MiCo Milano\, Italy\n⏰ Original 
+ Deadline (UTC-8): 2024-02-29 13:00:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A*\, THCPL A\nConference Website: https://eccv.ecva.net/Conference
+ s/2024\nDBLP Index: https://dblp.org/db/conf/eccv
+LOCATION:MiCo Milano\, Italy
+URL:https://eccv.ecva.net/Conferences/2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2024 Deadline
+DTSTART;TZID="UTC-08:00":20240307T130000
+DTEND;TZID="UTC-08:00":20240307T130100
+DTSTAMP:20260926T201845Z
+UID:9f09c049-afc5-49a5-a554-ece991b0d5b2
+DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: Septembe
+ r 29 - October 4\, 2024\n📍 Location: MiCo Milano\, Italy\n⏰ Original 
+ Deadline (UTC-8): 2024-03-07 13:00:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A*\, THCPL A\nConference Website: https://eccv.ecva.net/Conference
+ s/2024\nDBLP Index: https://dblp.org/db/conf/eccv
+LOCATION:MiCo Milano\, Italy
+URL:https://eccv.ecva.net/Conferences/2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2026 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20260226T140000
+DTEND;TZID="UTC-08:00":20260226T140100
+DTSTAMP:20260926T201845Z
+UID:5467c350-5f48-4ef1-a271-eade9a18f323
+DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: Septembe
+ r 8 - 12\, 2026\n📍 Location: Malmö\, Sweden\n⏰ Original Deadline (UT
+ C-8): 2026-02-26 14:00:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, 
+ THCPL A\nConference Website: https://eccv.ecva.net/\nDBLP Index: https://d
+ blp.org/db/conf/eccv
+LOCATION:Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260305T140000
+DTEND;TZID="UTC-08:00":20260305T140100
+DTSTAMP:20260926T201845Z
+UID:d9c23a94-d665-4863-a6e4-0f2b1875b14a
+DESCRIPTION:European Conference on Computer Vision\n🗓️ Date: Septembe
+ r 8 - 12\, 2026\n📍 Location: Malmö\, Sweden\n⏰ Original Deadline (UT
+ C-8): 2026-03-05 14:00:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, 
+ THCPL A\nConference Website: https://eccv.ecva.net/\nDBLP Index: https://d
+ blp.org/db/conf/eccv
+LOCATION:Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2021 Abstract Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20210510T235900
+DTEND;TZID="UTC-12:00":20210511T000000
+DTSTAMP:20260926T201845Z
+UID:3d7e22c1-2d77-4e34-98a4-4213d177d88b
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 7 - 11\, 2021\n📍 Location: Punta Ca
+ na\, Dominican Republic (Hybrid)\n⏰ Original Deadline (UTC-12): 2021-05-
+ 10 23:59:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConfe
+ rence Website: https://2021.emnlp.org/\nDBLP Index: https://dblp.org/db/co
+ nf/emnlp
+LOCATION:Punta Cana\, Dominican Republic (Hybrid)
+URL:https://2021.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2021 Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20210517T235900
+DTEND;TZID="UTC-12:00":20210518T000000
+DTSTAMP:20260926T201845Z
+UID:9222ca20-1baf-432e-b857-1349e3994706
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 7 - 11\, 2021\n📍 Location: Punta Ca
+ na\, Dominican Republic (Hybrid)\n⏰ Original Deadline (UTC-12): 2021-05-
+ 17 23:59:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConfe
+ rence Website: https://2021.emnlp.org/\nDBLP Index: https://dblp.org/db/co
+ nf/emnlp
+LOCATION:Punta Cana\, Dominican Republic (Hybrid)
+URL:https://2021.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2021 Deadline [ARR pilot submission\; reviews must be ready 
+ by July 29]
+DTSTART;TZID="UTC-12:00":20210515T235900
+DTEND;TZID="UTC-12:00":20210516T000000
+DTSTAMP:20260926T201845Z
+UID:81290c68-b629-4c7c-bcb1-e54a0e3c7523
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 7 - 11\, 2021\n📍 Location: Punta Ca
+ na\, Dominican Republic (Hybrid)\n⏰ Original Deadline (UTC-12): 2021-05-
+ 15 23:59:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConfe
+ rence Website: https://2021.emnlp.org/\nDBLP Index: https://dblp.org/db/co
+ nf/emnlp
+LOCATION:Punta Cana\, Dominican Republic (Hybrid)
+URL:https://2021.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 Abstract Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20220617T235959
+DTEND;TZID="UTC-12:00":20220618T000059
+DTSTAMP:20260926T201845Z
+UID:0de05c5b-e548-4aca-a5e1-1ec998fc873b
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: December 7 - 11\, 2022\n📍 Location: Abu Dhab
+ i\n⏰ Original Deadline (UTC-12): 2022-06-17 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2022.e
+ mnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20220624T235959
+DTEND;TZID="UTC-12:00":20220625T000059
+DTSTAMP:20260926T201845Z
+UID:2081e2a5-fd19-4b66-a027-85800d27dedd
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: December 7 - 11\, 2022\n📍 Location: Abu Dhab
+ i\n⏰ Original Deadline (UTC-12): 2022-06-24 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2022.e
+ mnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 Deadline [Commitment deadline for papers reviewed by AR
+ R]
+DTSTART;TZID="UTC-12:00":20220724T235900
+DTEND;TZID="UTC-12:00":20220725T000000
+DTSTAMP:20260926T201845Z
+UID:ac66fbc1-a753-45f8-899c-c7c09aa9a2de
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: December 7 - 11\, 2022\n📍 Location: Abu Dhab
+ i\n⏰ Original Deadline (UTC-12): 2022-07-24 23:59:00\nCategory: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2022.e
+ mnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 Abstract Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20230616T235959
+DTEND;TZID="UTC-12:00":20230617T000059
+DTSTAMP:20260926T201845Z
+UID:179403e2-b72e-4c79-81b7-1e8ca51efd96
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: December 6 - 10\, 2023\n📍 Location: Singapor
+ e\n⏰ Original Deadline (UTC-12): 2023-06-16 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2023.e
+ mnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20230623T235959
+DTEND;TZID="UTC-12:00":20230624T000059
+DTSTAMP:20260926T201845Z
+UID:805d5d50-8b0c-479e-952f-1e95b839ad87
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: December 6 - 10\, 2023\n📍 Location: Singapor
+ e\n⏰ Original Deadline (UTC-12): 2023-06-23 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2023.e
+ mnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 Deadline [Commitment deadline for papers reviewed by AR
+ R]
+DTSTART;TZID="UTC-12:00":20230822T235900
+DTEND;TZID="UTC-12:00":20230823T000000
+DTSTAMP:20260926T201845Z
+UID:9494b65e-7721-433b-bb66-8c66ad9e3e0b
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: December 6 - 10\, 2023\n📍 Location: Singapor
+ e\n⏰ Original Deadline (UTC-12): 2023-08-22 23:59:00\nCategory: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2023.e
+ mnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2024 Deadline [ARR Submission]
+DTSTART;TZID="UTC-12:00":20240615T235959
+DTEND;TZID="UTC-12:00":20240616T000059
+DTSTAMP:20260926T201845Z
+UID:3c03db6f-e6e3-403d-998e-44e28947c069
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 12 - 16\, 2024\n📍 Location: Miami\,
+  Florida\, USA\n⏰ Original Deadline (UTC-12): 2024-06-15 23:59:59\nCateg
+ ory: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: htt
+ ps://2024.emnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Miami\, Florida\, USA
+URL:https://2024.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2024 Deadline [Commitment deadline for papers reviewed by AR
+ R]
+DTSTART;TZID="UTC-12:00":20240820T235900
+DTEND;TZID="UTC-12:00":20240821T000000
+DTSTAMP:20260926T201845Z
+UID:3660759e-13d2-409d-b8b6-3216243e1c02
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 12 - 16\, 2024\n📍 Location: Miami\,
+  Florida\, USA\n⏰ Original Deadline (UTC-12): 2024-08-20 23:59:00\nCateg
+ ory: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: htt
+ ps://2024.emnlp.org\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Miami\, Florida\, USA
+URL:https://2024.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2025 Deadline [ARR Submission]
+DTSTART;TZID="UTC-12:00":20250519T235959
+DTEND;TZID="UTC-12:00":20250520T000059
+DTSTAMP:20260926T201845Z
+UID:7040cd04-689f-4b5f-90dc-8c9720beab68
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 5 - 9\, 2025\n📍 Location: Suzhou\, 
+ China\n⏰ Original Deadline (UTC-12): 2025-05-19 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://202
+ 5.emnlp.org/\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Suzhou\, China
+URL:https://2025.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2025 Deadline [Commitment deadline for papers reviewed by AR
+ R]
+DTSTART;TZID="UTC-12:00":20250801T235900
+DTEND;TZID="UTC-12:00":20250802T000000
+DTSTAMP:20260926T201845Z
+UID:45374f5d-6846-4bde-87f6-1dcd960445e1
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: November 5 - 9\, 2025\n📍 Location: Suzhou\, 
+ China\n⏰ Original Deadline (UTC-12): 2025-08-01 23:59:00\nCategory: 人
+ 工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https://202
+ 5.emnlp.org/\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Suzhou\, China
+URL:https://2025.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2026 Deadline [ARR Submission]
+DTSTART;TZID="UTC-12:00":20260525T235959
+DTEND;TZID="UTC-12:00":20260526T000059
+DTSTAMP:20260926T201845Z
+UID:9cb4b69b-0202-4769-a059-67ad3b4a20c9
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: October 24 - 29\, 2026\n📍 Location: Budapest
+ \, Hungary\n⏰ Original Deadline (UTC-12): 2026-05-25 23:59:59\nCategory:
+  人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https:/
+ /2026.emnlp.org/\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2026 Deadline [Commitment deadline for papers with ARR revie
+ ws and meta-reviews]
+DTSTART;TZID="UTC-12:00":20260802T235959
+DTEND;TZID="UTC-12:00":20260803T000059
+DTSTAMP:20260926T201845Z
+UID:24964d0c-6e5b-40cf-90f2-5244a43d7388
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ Date: October 24 - 29\, 2026\n📍 Location: Budapest
+ \, Hungary\n⏰ Original Deadline (UTC-12): 2026-08-02 23:59:59\nCategory:
+  人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\nConference Website: https:/
+ /2026.emnlp.org/\nDBLP Index: https://dblp.org/db/conf/emnlp
+LOCATION:Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICRA 2022 Deadline
+DTSTART;TZID="UTC-07:00":20210915T235900
+DTEND;TZID="UTC-07:00":20210916T000000
+DTSTAMP:20260926T201845Z
+UID:57e38e2d-c0e7-4ad8-aa86-5f2e80b5509a
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ Date: May 23-27\, 2022\n📍 Location: Philadelphia (PA)\, USA\n⏰ Or
+ iginal Deadline (UTC-7): 2021-09-15 23:59:00\nCategory: 人工智能 (AI)
+ \nCCF B\, CORE A*\, THCPL A\nConference Website: https://ewh.ieee.org/soc/
+ ras/conf/fullysponsored/icra/2022/icra2022.org/\nDBLP Index: https://dblp.
+ org/db/conf/icra
+LOCATION:Philadelphia (PA)\, USA
+URL:https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.or
+ g/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2023 Deadline
+DTSTART;TZID="UTC-08:00":20220915T235959
+DTEND;TZID="UTC-08:00":20220916T000059
+DTSTAMP:20260926T201845Z
+UID:e91f33fb-99e6-4dba-8f00-29fbc63e31d1
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ Date: May 29- June 2\, 2023\n📍 Location: ExCeL London\, UK\n⏰ Ori
+ ginal Deadline (UTC-8): 2022-09-15 23:59:59\nCategory: 人工智能 (AI)\n
+ CCF B\, CORE A*\, THCPL A\nConference Website: https://ewh.ieee.org/soc/ra
+ s/conf/fullysponsored/icra/ICRA%202023/www.icra2023.org/\nDBLP Index: http
+ s://dblp.org/db/conf/icra
+LOCATION:ExCeL London\, UK
+URL:https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA%202023/www.
+ icra2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2024 Deadline
+DTSTART;TZID="UTC-08:00":20230915T235900
+DTEND;TZID="UTC-08:00":20230916T000000
+DTSTAMP:20260926T201845Z
+UID:a2a5fe73-2a0c-4805-a814-0e799e8a3238
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ Date: May 13-17\, 2024\n📍 Location: Yokohama\, Japan\n⏰ Original 
+ Deadline (UTC-8): 2023-09-15 23:59:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A*\, THCPL A\nConference Website: https://2024.ieee-icra.org\nDBLP
+  Index: https://dblp.org/db/conf/icra
+LOCATION:Yokohama\, Japan
+URL:https://2024.ieee-icra.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2025 Deadline [Extended deadline\; the official announcement 
+ explicitly specifies PST (UTC-8)]
+DTSTART;TZID="UTC-08:00":20240916T235959
+DTEND;TZID="UTC-08:00":20240917T000059
+DTSTAMP:20260926T201845Z
+UID:cca10558-37ed-48fc-b175-0a55520a2e70
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ Date: May 19-23\, 2025\n📍 Location: Atlanta (GA)\, USA\n⏰ Origina
+ l Deadline (UTC-8): 2024-09-16 23:59:59\nCategory: 人工智能 (AI)\nCCF 
+ B\, CORE A*\, THCPL A\nConference Website: https://2025.ieee-icra.org\nDBL
+ P Index: https://dblp.org/db/conf/icra
+LOCATION:Atlanta (GA)\, USA
+URL:https://2025.ieee-icra.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2026 Deadline
+DTSTART;TZID="UTC-08:00":20250915T235900
+DTEND;TZID="UTC-08:00":20250916T000000
+DTSTAMP:20260926T201845Z
+UID:52d1eba9-3ca7-4e53-89ca-8754b0142d8c
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ Date: Jun 1-5\, 2026\n📍 Location: Vienna\, Austria\n⏰ Original De
+ adline (UTC-8): 2025-09-15 23:59:00\nCategory: 人工智能 (AI)\nCCF B\, 
+ CORE A*\, THCPL A\nConference Website: https://2026.ieee-icra.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/icra
+LOCATION:Vienna\, Austria
+URL:https://2026.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2027 Deadline [Extended submission deadline]
+DTSTART;TZID="UTC-08:00":20260916T235959
+DTEND;TZID="UTC-08:00":20260917T000059
+DTSTAMP:20260926T201845Z
+UID:93265445-c07c-4d4d-86d0-a0ff6fee664b
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ Date: May 24-28\, 2027\n📍 Location: Seoul\, Republic of Korea\n⏰ 
+ Original Deadline (UTC-8): 2026-09-16 23:59:59\nCategory: 人工智能 (AI
+ )\nCCF B\, CORE A*\, THCPL A\nConference Website: https://2027.ieee-icra.o
+ rg/\nDBLP Index: https://dblp.org/db/conf/icra
+LOCATION:Seoul\, Republic of Korea
+URL:https://2027.ieee-icra.org/
+END:VEVENT
+END:VCALENDAR

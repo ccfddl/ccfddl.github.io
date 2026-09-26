@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250323T235959
+DTEND;TZID="UTC-12:00":20250324T000059
+DTSTAMP:20260926T201855Z
+UID:e3d79b1a-787c-4fb7-b63c-f798b67a8bfe
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: S
+ eptember 28 - October 3\, 2025\n📍 Location: TAIPEI\, TAIWAN\n⏰ Origin
+ al Deadline (AoE): 2025-03-23 23:59:59\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF B\, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP I
+ ndex: https://dblp.org/db/conf/emsoft
+LOCATION:TAIPEI\, TAIWAN
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250330T235959
+DTEND;TZID="UTC-12:00":20250331T000059
+DTSTAMP:20260926T201855Z
+UID:f4839c97-dc4a-4d1e-a7a3-3c1f86f2fa17
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: S
+ eptember 28 - October 3\, 2025\n📍 Location: TAIPEI\, TAIWAN\n⏰ Origin
+ al Deadline (AoE): 2025-03-30 23:59:59\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF B\, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP I
+ ndex: https://dblp.org/db/conf/emsoft
+LOCATION:TAIPEI\, TAIWAN
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260323T235959
+DTEND;TZID="UTC-12:00":20260324T000059
+DTSTAMP:20260926T201855Z
+UID:a1bbbb17-718d-46f5-9fc1-79fcc39718e2
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: O
+ ctober 4 - 9\, 2026\n📍 Location: Barcelona\, Spain\n⏰ Original Deadli
+ ne (AoE): 2026-03-23 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B
+ \, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP Index: ht
+ tps://dblp.org/db/conf/emsoft
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMSOFT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260330T235959
+DTEND;TZID="UTC-12:00":20260331T000059
+DTSTAMP:20260926T201855Z
+UID:0497066d-7f5a-4a6a-9ec5-84bf68483f16
+DESCRIPTION:International Conference on Embedded Software\n🗓️ Date: O
+ ctober 4 - 9\, 2026\n📍 Location: Barcelona\, Spain\n⏰ Original Deadli
+ ne (AoE): 2026-03-30 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF B
+ \, THCPL B\nConference Website: https://esweek.org/emsoft/\nDBLP Index: ht
+ tps://dblp.org/db/conf/emsoft
+LOCATION:Barcelona\, Spain
+URL:https://esweek.org/emsoft/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2023 Deadline [Paper submission deadline]
+DTSTART:20230309T235959Z
+DTEND:20230310T000059Z
+DTSTAMP:20260926T201855Z
+UID:cc73a512-8203-48f3-b7c2-d8a8b0983497
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Oct 8-12\, 2023\n📍 Location: Va
+ ncouver\, Canada\n⏰ Original Deadline (UTC+0): 2023-03-09 23:59:59\nCate
+ gory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConference Webs
+ ite: https://conferences.miccai.org/2023/en/\nDBLP Index: https://dblp.org
+ /db/conf/miccai
+LOCATION:Vancouver\, Canada
+URL:https://conferences.miccai.org/2023/en/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MICCAI 2024 Deadline [Main conference papers]
+DTSTART;TZID="UTC-08:00":20240307T235959
+DTEND;TZID="UTC-08:00":20240308T000059
+DTSTAMP:20260926T201855Z
+UID:9bb73234-c6fb-455d-9a06-f7b390b4a846
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Oct 6-10\, 2024\n📍 Location: Ma
+ rrakesh\, Morocco\n⏰ Original Deadline (UTC-8): 2024-03-07 23:59:59\nCat
+ egory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConference Web
+ site: https://conferences.miccai.org/2024/en/\nDBLP Index: https://dblp.or
+ g/db/conf/miccai
+LOCATION:Marrakesh\, Morocco
+URL:https://conferences.miccai.org/2024/en/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20250213T235900
+DTEND;TZID="UTC-08:00":20250214T000000
+DTSTAMP:20260926T201855Z
+UID:2c20a06c-4ed4-479b-987a-9d7cea274733
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Sep 23-27\, 2025\n📍 Location: D
+ aejeon\, Republic of Korea\n⏰ Original Deadline (UTC-8): 2025-02-13 23:5
+ 9:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConfe
+ rence Website: https://conferences.miccai.org/2025/en/default.asp\nDBLP In
+ dex: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250227T235900
+DTEND;TZID="UTC-08:00":20250228T000000
+DTSTAMP:20260926T201855Z
+UID:5357e869-7256-4ce8-8b08-7881dbd9d1f3
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: Sep 23-27\, 2025\n📍 Location: D
+ aejeon\, Republic of Korea\n⏰ Original Deadline (UTC-8): 2025-02-27 23:5
+ 9:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL B\nConfe
+ rence Website: https://conferences.miccai.org/2025/en/default.asp\nDBLP In
+ dex: https://dblp.org/db/conf/miccai
+LOCATION:Daejeon\, Republic of Korea
+URL:https://conferences.miccai.org/2025/en/default.asp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20260212T235900
+DTEND;TZID="UTC-08:00":20260213T000000
+DTSTAMP:20260926T201855Z
+UID:0d3edd0a-f4a4-489d-8560-d5e61ff06cac
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: September 27 - October 1\, 2026\n
+ 📍 Location: Strasbourg\, France\n⏰ Original Deadline (UTC-8): 2026-02
+ -12 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL 
+ B\nConference Website: https://conferences.miccai.org/2026/en/IMPORTANT-DA
+ TES.html\nDBLP Index: https://dblp.org/db/conf/miccai
+LOCATION:Strasbourg\, France
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MICCAI 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260226T235900
+DTEND;TZID="UTC-08:00":20260227T000000
+DTSTAMP:20260926T201855Z
+UID:72197f13-bdae-4ccf-87c5-d7aeca0b044c
+DESCRIPTION:International Conference on Medical Image Computing and Comput
+ er Assisted Intervention\n🗓️ Date: September 27 - October 1\, 2026\n
+ 📍 Location: Strasbourg\, France\n⏰ Original Deadline (UTC-8): 2026-02
+ -26 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF B\, CORE A\, THCPL 
+ B\nConference Website: https://conferences.miccai.org/2026/en/IMPORTANT-DA
+ TES.html\nDBLP Index: https://dblp.org/db/conf/miccai
+LOCATION:Strasbourg\, France
+URL:https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html
+END:VEVENT
+END:VCALENDAR

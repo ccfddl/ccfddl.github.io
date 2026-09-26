@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 截稿日期 [Regular Paper]
+DTSTART;TZID="UTC-12:00":20260317T235959
+DTEND;TZID="UTC-12:00":20260318T000059
+DTSTAMP:20260926T201821Z
+UID:47325643-42f5-46ab-9ada-03ab217bef95
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: September 1-4
+ \, 2026\n📍 会议地点: Madrid\, Spain\n⏰ 原始截止时间 (AoE): 
+ 2026-03-17 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE C\n
+ 会议官网: https://cog2026.org/\nDBLP索引: https://dblp.org/db/conf/c
+ ig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 截稿日期 [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20260514T235959
+DTEND;TZID="UTC-12:00":20260515T000059
+DTSTAMP:20260926T201821Z
+UID:b908665c-afba-48dc-b720-2348d81c5ed9
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: September 1-4
+ \, 2026\n📍 会议地点: Madrid\, Spain\n⏰ 原始截止时间 (AoE): 
+ 2026-05-14 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE C\n
+ 会议官网: https://cog2026.org/\nDBLP索引: https://dblp.org/db/conf/c
+ ig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 截稿日期 [Full Technical Paper]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20260926T201821Z
+UID:72df4838-8859-4b4f-a77f-9ae5c0f9e227
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: August 2-5\, 2
+ 027\n📍 会议地点: Aizuwakamatsu\, Japan\n⏰ 原始截止时间 (AoE
+ ): 2027-03-01 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE 
+ C\n会议官网: https://cog2027.u-aizu.ac.jp/\nDBLP索引: https://dblp.o
+ rg/db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 截稿日期 [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20270515T235959
+DTEND;TZID="UTC-12:00":20270516T000059
+DTSTAMP:20260926T201821Z
+UID:76e5f130-c7fe-4cd6-8569-fc1272bdc78b
+DESCRIPTION:IEEE Conference on Games\n🗓️ 会议时间: August 2-5\, 2
+ 027\n📍 会议地点: Aizuwakamatsu\, Japan\n⏰ 原始截止时间 (AoE
+ ): 2027-05-15 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCORE 
+ C\n会议官网: https://cog2027.u-aizu.ac.jp/\nDBLP索引: https://dblp.o
+ rg/db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20260926T201821Z
+UID:ca4f3a86-f059-4820-b21b-b6bb354fe418
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ 会议时间: December 1-3\, 2025\n📍 会议地
+ 点: Linz\, Austria\n⏰ 原始截止时间 (AoE): 2025-06-27 23:59:59\n
+ 分类: 计算机图形学与多媒体 (CG)\nCORE C\n会议官网: https:/
+ /vinci2025.games.cg.jku.at\nDBLP索引: https://dblp.org/db/conf/vinci
+LOCATION:Linz\, Austria
+URL:https://vinci2025.games.cg.jku.at
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260729T235959
+DTEND;TZID="UTC-12:00":20260730T000059
+DTSTAMP:20260926T201821Z
+UID:6d980cad-bdd8-4957-8607-d0b5c9d820ff
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ 会议时间: November 1-4\, 2026\n📍 会议地
+ 点: Hangzhou\, China\n⏰ 原始截止时间 (AoE): 2026-07-29 23:59:59\n
+ 分类: 计算机图形学与多媒体 (CG)\nCORE C\n会议官网: https:/
+ /vinci-symp.org/\nDBLP索引: https://dblp.org/db/conf/vinci
+LOCATION:Hangzhou\, China
+URL:https://vinci-symp.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 截稿日期
+DTSTART;TZID="UTC+10:00":20250815T235900
+DTEND;TZID="UTC+10:00":20250816T000000
+DTSTAMP:20260926T201821Z
+UID:055e62b3-460e-46fc-a67a-2d850f0df39d
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: November 22-Novemb
+ er 24\, 2025\n📍 会议地点: Gold Coast\, Australia\n⏰ 原始截止
+ 时间 (UTC+10): 2025-08-15 23:59:00\n分类: 计算机体系结构/并行
+ 与分布计算/存储系统 (DS)\nCORE C\n会议官网: https://www.pd-ca
+ t.org/\nDBLP索引: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia
+URL:https://www.pd-cat.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 截稿日期 [First Cycle]
+DTSTART;TZID="UTC-12:00":20260921T235959
+DTEND;TZID="UTC-12:00":20260922T000059
+DTSTAMP:20260926T201821Z
+UID:62070d18-8b90-4d78-8bec-9c251d8a5ca0
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 4-6\, 202
+ 6\n📍 会议地点: Changsha\, China\n⏰ 原始截止时间 (AoE): 2026
+ -09-21 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 截稿日期 [Second Cycle]
+DTSTART;TZID="UTC-12:00":20261020T235959
+DTEND;TZID="UTC-12:00":20261021T000059
+DTSTAMP:20260926T201821Z
+UID:e74d9e5a-3ed8-4f65-aaa9-7f3327cec1a6
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 4-6\, 202
+ 6\n📍 会议地点: Changsha\, China\n⏰ 原始截止时间 (AoE): 2026
+ -10-20 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+END:VEVENT
+END:VCALENDAR

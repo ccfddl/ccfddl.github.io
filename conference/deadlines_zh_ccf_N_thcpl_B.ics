@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260116T235959
+DTEND;TZID="UTC-12:00":20260117T000059
+DTSTAMP:20260926T201822Z
+UID:0bddf8af-2c07-48d6-8b4a-c13287ac542c
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 28 - July 3\, 2026\n📍 会议地点: Guangzhou\, Chin
+ a\n⏰ 原始截止时间 (AoE): 2026-01-16 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2026.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Guangzhou\, China
+URL:https://2026.ieee-isit.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20270110T235959
+DTEND;TZID="UTC-12:00":20270111T000059
+DTSTAMP:20260926T201822Z
+UID:1ab88fd8-66ff-4e2f-87f5-10665528d717
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 27 - July 2\, 2027\n📍 会议地点: Sorrento\, Italy
+ \n⏰ 原始截止时间 (AoE): 2027-01-10 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2027.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Sorrento\, Italy
+URL:https://2027.ieee-isit.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 摘要截稿
+DTSTART;TZID="UTC+10:00":20240907T195959
+DTEND;TZID="UTC+10:00":20240907T200059
+DTSTAMP:20260926T201823Z
+UID:2286a532-c5d4-4ef7-91f6-f40399e4b5de
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 12-16\, 2025\n📍 会议地点: Honolulu\, HI\, USA\n
+ ⏰ 原始截止时间 (UTC+10): 2024-09-07 19:59:59\n分类: 网络与信
+ 息安全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2025.ieee-noms
+ .org/\nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 截稿日期
+DTSTART;TZID="UTC+10:00":20240914T195959
+DTEND;TZID="UTC+10:00":20240914T200059
+DTSTAMP:20260926T201823Z
+UID:fede5f7e-6032-4e38-a052-8dfedeeff8d0
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 12-16\, 2025\n📍 会议地点: Honolulu\, HI\, USA\n
+ ⏰ 原始截止时间 (UTC+10): 2024-09-14 19:59:59\n分类: 网络与信
+ 息安全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2025.ieee-noms
+ .org/\nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2026 截稿日期
+DTSTART;TZID="UTC+10:00":20251013T195959
+DTEND;TZID="UTC+10:00":20251013T200059
+DTSTAMP:20260926T201823Z
+UID:95bf62a8-78c2-4d38-b75a-c627bd818e51
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 18-22\, 2026\n📍 会议地点: Rome\, Italy\n⏰ 原
+ 始截止时间 (UTC+10): 2025-10-13 19:59:59\n分类: 网络与信息安
+ 全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2026.ieee-noms.org/
+ \nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Rome\, Italy
+URL:https://noms2026.ieee-noms.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2027 截稿日期
+DTSTART;TZID="UTC-12:00":20261109T235959
+DTEND;TZID="UTC-12:00":20261110T000059
+DTSTAMP:20260926T201823Z
+UID:0a899aab-85af-416a-8b9d-ab4b2842c9c3
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 10-14\, 2027\n📍 会议地点: Montreal\, Canada\n⏰
+  原始截止时间 (AoE): 2026-11-09 23:59:59\n分类: 网络与信息安
+ 全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2027.ieee-noms.org/
+ \nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Montreal\, Canada
+URL:https://noms2027.ieee-noms.org/
+END:VEVENT
+END:VCALENDAR

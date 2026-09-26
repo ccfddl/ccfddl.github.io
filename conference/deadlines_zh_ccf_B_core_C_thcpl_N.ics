@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-06:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-06:00
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 截稿日期 [Early Submission]
+DTSTART;TZID="UTC-06:00":20240226T000000
+DTEND;TZID="UTC-06:00":20240226T000100
+DTSTAMP:20260926T201820Z
+UID:e84d6621-6b3c-4ede-9b37-f75762d1d1ac
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: July 1-4\, 2024\n📍 会议地点: Merida\, Yucatan\, Mexico\n
+ ⏰ 原始截止时间 (UTC-6): 2024-02-26 00:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE C\n会议官网: https://link.springer.com/book/10.1007
+ /978-3-031-63646-2\nDBLP索引: https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://link.springer.com/book/10.1007/978-3-031-63646-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 截稿日期 [Late Submission]
+DTSTART;TZID="UTC-06:00":20240402T000000
+DTEND;TZID="UTC-06:00":20240402T000100
+DTSTAMP:20260926T201820Z
+UID:2e27b0c5-7991-4acc-90e5-85cccfe46c64
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: July 1-4\, 2024\n📍 会议地点: Merida\, Yucatan\, Mexico\n
+ ⏰ 原始截止时间 (UTC-6): 2024-04-02 00:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE C\n会议官网: https://link.springer.com/book/10.1007
+ /978-3-031-63646-2\nDBLP索引: https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://link.springer.com/book/10.1007/978-3-031-63646-2
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20260926T201820Z
+UID:fb675c2a-24cc-4bd3-b078-a82a747f3f76
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: August 13-16\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 
+ 原始截止时间 (AoE): 2026-03-20 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE C\n会议官网: https://2026.iccbr.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260327T235959
+DTEND;TZID="UTC-12:00":20260328T000059
+DTSTAMP:20260926T201820Z
+UID:4d7ffd60-aa19-4bf5-a9ed-cba1664256a4
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ 会
+ 议时间: August 13-16\, 2026\n📍 会议地点: Bremen\, Germany\n⏰ 
+ 原始截止时间 (AoE): 2026-03-27 23:59:59\n分类: 人工智能 (AI)\n
+ CCF B\, CORE C\n会议官网: https://2026.iccbr.org/\nDBLP索引: https:/
+ /dblp.org/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCCN 2026 Abstract Deadline
+DTSTART;TZID="UTC-10:00":20260307T235959
+DTEND;TZID="UTC-10:00":20260308T000059
+DTSTAMP:20260926T201855Z
+UID:55176d65-479e-4739-96c3-cec5205816ef
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 27-30\, 2026\n📍 Location: Honolulu\, Hawaii
+ \, USA\n⏰ Original Deadline (UTC-10): 2026-03-07 23:59:59\nCategory: 计
+ 算机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.or
+ g/ICCCN26/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2026 Deadline
+DTSTART;TZID="UTC-10:00":20260313T235959
+DTEND;TZID="UTC-10:00":20260314T000059
+DTSTAMP:20260926T201855Z
+UID:76033276-ec3d-495b-b767-3d49a74381bf
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 27-30\, 2026\n📍 Location: Honolulu\, Hawaii
+ \, USA\n⏰ Original Deadline (UTC-10): 2026-03-13 23:59:59\nCategory: 计
+ 算机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.or
+ g/ICCCN26/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:LCN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260504T235959
+DTEND;TZID="UTC-12:00":20260505T000059
+DTSTAMP:20260926T201855Z
+UID:f9fc64ef-fa0c-47ea-af08-4b60f31771ca
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 7-9\, 2026\n📍 Location: Coimbra\, Portugal\n⏰ Original Deadline (
+ AoE): 2026-05-04 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \nConference Website: https://www.ieeelcn.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/lcn
+LOCATION:Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240902T235959
+DTEND;TZID="UTC-12:00":20240903T000059
+DTSTAMP:20260926T201855Z
+UID:8bdfc5ca-869e-4e66-95ff-6ba258d7396b
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: March 24-27\, 2025\n📍 Location: Milan\, Italy\n⏰ Original D
+ eadline (UTC-12): 2024-09-02 23:59:59\nCategory: 计算机网络 (NW)\nCCF
+  C\, CORE B\nConference Website: https://wcnc2025.ieee-wcnc.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/wcnc
+LOCATION:Milan\, Italy
+URL:https://wcnc2025.ieee-wcnc.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250914T235959
+DTEND;TZID="UTC-12:00":20250915T000059
+DTSTAMP:20260926T201855Z
+UID:8301e92d-0bfb-4bd1-9bc4-fd5621819cc7
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 13-16\, 2026\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ 
+ Original Deadline (UTC-12): 2025-09-14 23:59:59\nCategory: 计算机网络
+  (NW)\nCCF C\, CORE B\nConference Website: https://wcnc2026.ieee-wcnc.org/
+ group/21\nDBLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://wcnc2026.ieee-wcnc.org/group/21
+END:VEVENT
+END:VCALENDAR

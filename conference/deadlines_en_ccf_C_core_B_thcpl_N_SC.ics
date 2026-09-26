@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:TrustCom 2021 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC+08:00":20210430T235959
+DTEND;TZID="UTC+08:00":20210501T000059
+DTSTAMP:20260926T201858Z
+UID:a9fa4117-256c-4748-9dcd-6eb512bdb925
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ Date: October 20-22\, 2021\n📍 
+ Location: Shenyang\, China\n⏰ Original Deadline (UTC+8): 2021-04-30 23:5
+ 9:59\nCategory: 网络与信息安全 (SC)\nCCF C\, CORE B\nConference Web
+ site: https://trustcom2021.sau.edu.cn/\nDBLP Index: https://dblp.org/db/co
+ nf/trustcom
+LOCATION:Shenyang\, China
+URL:https://trustcom2021.sau.edu.cn/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:TrustCom 2022 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20220715T235959
+DTEND;TZID="UTC-12:00":20220716T000059
+DTSTAMP:20260926T201858Z
+UID:c95c1e6c-374a-4b83-a669-2b6d6d4ad8a0
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ Date: December 9-11\, 2022\n📍 
+ Location: Wuhan\, China\n⏰ Original Deadline (AoE): 2022-07-15 23:59:59
+ \nCategory: 网络与信息安全 (SC)\nCCF C\, CORE B\nConference Website
+ : http://www.ieee-hust-ncc.org/2022/TrustCom/\nDBLP Index: https://dblp.or
+ g/db/conf/trustcom
+LOCATION:Wuhan\, China
+URL:http://www.ieee-hust-ncc.org/2022/TrustCom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TrustCom 2023 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20230731T235959
+DTEND;TZID="UTC-12:00":20230801T000059
+DTSTAMP:20260926T201858Z
+UID:8c8ba69d-d065-4cdb-b8d8-0b8cc3b7881a
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ Date: November 1-3\, 2023\n📍 L
+ ocation: Exeter\, UK\n⏰ Original Deadline (AoE): 2023-07-31 23:59:59\nCa
+ tegory: 网络与信息安全 (SC)\nCCF C\, CORE B\nConference Website: ht
+ tps://hpcn.exeter.ac.uk/trustcom2023/\nDBLP Index: https://dblp.org/db/con
+ f/trustcom
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/trustcom2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TrustCom 2024 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20241001T235959
+DTEND;TZID="UTC-12:00":20241002T000059
+DTSTAMP:20260926T201858Z
+UID:9bbfa19f-039a-4ef1-9725-19b1f120d673
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ Date: December 17-21\, 2024\n📍
+  Location: Sanya\, China\n⏰ Original Deadline (AoE): 2024-10-01 23:59:59
+ \nCategory: 网络与信息安全 (SC)\nCCF C\, CORE B\nConference Website
+ : https://ieee-aiplus.org/2024/trustcom/\nDBLP Index: https://dblp.org/db/
+ conf/trustcom
+LOCATION:Sanya\, China
+URL:https://ieee-aiplus.org/2024/trustcom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TrustCom 2025 Deadline [Firm submission deadline]
+DTSTART;TZID="UTC+08:00":20250825T235959
+DTEND;TZID="UTC+08:00":20250826T000059
+DTSTAMP:20260926T201858Z
+UID:959a67c2-d14b-49dc-a4da-7d3d1998c39d
+DESCRIPTION:IEEE International Conference on Trust\, Security and Privacy 
+ in Computing and Communications\n🗓️ Date: November 14-17\, 2025\n📍
+  Location: Guiyang\, China\n⏰ Original Deadline (UTC+8): 2025-08-25 23:5
+ 9:59\nCategory: 网络与信息安全 (SC)\nCCF C\, CORE B\nConference Web
+ site: https://ieee-aiplus-2025.org/\nDBLP Index: https://dblp.org/db/conf/
+ trustcom
+LOCATION:Guiyang\, China
+URL:https://ieee-aiplus-2025.org/
+END:VEVENT
+END:VCALENDAR

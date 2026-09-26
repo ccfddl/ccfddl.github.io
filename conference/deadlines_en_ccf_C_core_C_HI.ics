@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CollaborateCom 2025 Deadline
+DTSTART;TZID="UTC-08:00":20250501T235959
+DTEND;TZID="UTC-08:00":20250502T000059
+DTSTAMP:20260926T201854Z
+UID:946805a3-15c0-4f5f-bf74-5be0fb1e3db3
+DESCRIPTION:International Conference on Collaborative Computing: Networkin
+ g\, Applications and Worksharing\n🗓️ Date: November 15-16\, 2025\n
+ 📍 Location: Shanghai\, China\n⏰ Original Deadline (UTC-8): 2025-05-01
+  23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C\, CORE C\nCon
+ ference Website: https://collaboratecom.eai-conferences.org/2025/\nDBLP In
+ dex: https://dblp.org/db/conf/colcom
+LOCATION:Shanghai\, China
+URL:https://collaboratecom.eai-conferences.org/2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CollaborateCom 2026 Deadline
+DTSTART;TZID="UTC-08:00":20260501T235959
+DTEND;TZID="UTC-08:00":20260502T000059
+DTSTAMP:20260926T201854Z
+UID:e92e49a8-b403-433f-bf84-ef139e8282b0
+DESCRIPTION:International Conference on Collaborative Computing: Networkin
+ g\, Applications and Worksharing\n🗓️ Date: November 14-15\, 2026\n
+ 📍 Location: Hong Kong SAR\, China\n⏰ Original Deadline (UTC-8): 2026-
+ 05-01 23:59:59\nCategory: 人机交互与普适计算 (HI)\nCCF C\, CORE C
+ \nConference Website: https://collaboratecom.eai-conferences.org/2026/\nDB
+ LP Index: https://dblp.org/db/conf/colcom
+LOCATION:Hong Kong SAR\, China
+URL:https://collaboratecom.eai-conferences.org/2026/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CSCWD 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211130T235959
+DTEND;TZID="UTC-12:00":20211201T000059
+DTSTAMP:20260926T201854Z
+UID:02d9fc5a-01dc-403e-98dd-d8983f816511
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 4-6\, 2022\n📍 Location: Hangzhou\, China
+ \n⏰ Original Deadline (AoE): 2021-11-30 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://8.131.80.
+ 51/cscwd2022/index.html\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Hangzhou\, China
+URL:http://8.131.80.51/cscwd2022/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221031T235959
+DTEND;TZID="UTC-12:00":20221101T000059
+DTSTAMP:20260926T201854Z
+UID:92ceded5-d936-4be8-adba-2e4f6a50f3b5
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 24-26\, 2023\n📍 Location: Rio de Janeiro
+ \, Brazil\n⏰ Original Deadline (AoE): 2022-10-31 23:59:59\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://
+ 2023.cscwd.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Rio de Janeiro\, Brazil
+URL:http://2023.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231120T235959
+DTEND;TZID="UTC-12:00":20231121T000059
+DTSTAMP:20260926T201854Z
+UID:fa2d7096-2049-4a65-9526-7087989ec4f2
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 8-10\, 2024\n📍 Location: Tianjin\, China
+ \n⏰ Original Deadline (AoE): 2023-11-20 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://2024.cscw
+ d.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Tianjin\, China
+URL:http://2024.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241115T235959
+DTEND;TZID="UTC-12:00":20241116T000059
+DTSTAMP:20260926T201854Z
+UID:994b5a04-1e43-4dfa-b063-5abf2ccc44ab
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 5-7\, 2025\n📍 Location: Compiègne\, Fra
+ nce\n⏰ Original Deadline (AoE): 2024-11-15 23:59:59\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://2025.c
+ scwd.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Compiègne\, France
+URL:http://2025.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251130T235959
+DTEND;TZID="UTC-12:00":20251201T000059
+DTSTAMP:20260926T201854Z
+UID:e39840f4-1985-481a-9217-8a91c3cb922f
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 13-15\, 2026\n📍 Location: Fuzhou\, China
+ \n⏰ Original Deadline (AoE): 2025-11-30 23:59:59\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://2026.cscw
+ d.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Fuzhou\, China
+URL:http://2026.cscwd.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCWD 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261031T235959
+DTEND;TZID="UTC-12:00":20261101T000059
+DTSTAMP:20260926T201854Z
+UID:dd6e1972-9e4a-4e06-b6fc-0a684e87b360
+DESCRIPTION:International Conference on Computer Supported Cooperative Wor
+ k in Design\n🗓️ Date: May 26-28\, 2027\n📍 Location: Brisbane\, Aus
+ tralia\n⏰ Original Deadline (AoE): 2026-10-31 23:59:59\nCategory: 人机
+ 交互与普适计算 (HI)\nCCF C\, CORE C\nConference Website: http://202
+ 7.cscwd.org\nDBLP Index: https://dblp.org/db/conf/cscwd
+LOCATION:Brisbane\, Australia
+URL:http://2027.cscwd.org
+END:VEVENT
+END:VCALENDAR

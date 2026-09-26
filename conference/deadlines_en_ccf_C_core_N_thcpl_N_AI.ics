@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:DAI 2021 Deadline [Regular papers]
+DTSTART;TZID="UTC-12:00":20210930T235900
+DTEND;TZID="UTC-12:00":20211001T000000
+DTSTAMP:20260926T201846Z
+UID:4a5c7232-e30c-4f54-b1cf-1ec83aa2af39
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: January 3-5\, 2022\n📍 Location: Shanghai\, China (Hybr
+ id)\n⏰ Original Deadline (UTC-12): 2021-09-30 23:59:00\nCategory: 人工
+ 智能 (AI)\nCCF C\nConference Website: https://adai.ai/dai/2021/index.htm
+ l\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:Shanghai\, China (Hybrid)
+URL:https://adai.ai/dai/2021/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2022 Deadline [Regular papers]
+DTSTART;TZID="UTC-12:00":20221015T235900
+DTEND;TZID="UTC-12:00":20221016T000000
+DTSTAMP:20260926T201846Z
+UID:909f0b37-a255-4138-bce7-4188450784b8
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: December 15-17\, 2022\n📍 Location: Tianjin\, China (Hy
+ brid)\n⏰ Original Deadline (UTC-12): 2022-10-15 23:59:00\nCategory: 人
+ 工智能 (AI)\nCCF C\nConference Website: https://adai.ai/dai/2022/2022.h
+ tml\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:Tianjin\, China (Hybrid)
+URL:https://adai.ai/dai/2022/2022.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2023 Deadline [Regular papers]
+DTSTART;TZID="UTC-12:00":20230915T235900
+DTEND;TZID="UTC-12:00":20230916T000000
+DTSTAMP:20260926T201846Z
+UID:7bdb1474-adb7-491d-9857-f235b590bd57
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 30-December 3\, 2023\n📍 Location: Singapore\n
+ ⏰ Original Deadline (UTC-12): 2023-09-15 23:59:00\nCategory: 人工智
+ 能 (AI)\nCCF C\nConference Website: https://adai.ai/dai/2023/\nDBLP Index
+ : https://dblp.org/db/conf/dai2
+LOCATION:Singapore
+URL:https://adai.ai/dai/2023/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2024 Deadline [Regular papers]
+DTSTART;TZID="UTC-12:00":20240910T235900
+DTEND;TZID="UTC-12:00":20240911T000000
+DTSTAMP:20260926T201846Z
+UID:c31031b6-0bf6-4b7f-a4fe-99c8b1432105
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: December 18-22\, 2024\n📍 Location: Singapore\n⏰ Orig
+ inal Deadline (UTC-12): 2024-09-10 23:59:00\nCategory: 人工智能 (AI)\n
+ CCF C\nConference Website: https://www.adai.ai/dai/2024/index.html\nDBLP I
+ ndex: https://dblp.org/db/conf/dai2
+LOCATION:Singapore
+URL:https://www.adai.ai/dai/2024/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2025 Deadline [Regular papers (extended)]
+DTSTART;TZID="UTC-12:00":20250821T235959
+DTEND;TZID="UTC-12:00":20250822T000059
+DTSTAMP:20260926T201846Z
+UID:f0cd27a3-1523-425d-a81f-2f276f7f2e27
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 21-24\, 2025\n📍 Location: London\, United Kin
+ gdom\n⏰ Original Deadline (UTC-12): 2025-08-21 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF C\nConference Website: https://www.adai.ai/dai/2025/in
+ dex.html\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:London\, United Kingdom
+URL:https://www.adai.ai/dai/2025/index.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAI 2026 Deadline [Regular research papers]
+DTSTART;TZID="UTC-12:00":20260803T235959
+DTEND;TZID="UTC-12:00":20260804T000059
+DTSTAMP:20260926T201846Z
+UID:7dd024f1-bcbb-4daf-9036-8e99870bb78c
+DESCRIPTION:International Conference on Distributed Artificial Intelligenc
+ e\n🗓️ Date: November 29-December 2\, 2026\n📍 Location: Hong Kong\,
+  China\n⏰ Original Deadline (AoE): 2026-08-03 23:59:59\nCategory: 人工
+ 智能 (AI)\nCCF C\nConference Website: https://www.adai.ai/dai/2026/index
+ .html\nDBLP Index: https://dblp.org/db/conf/dai2
+LOCATION:Hong Kong\, China
+URL:https://www.adai.ai/dai/2026/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NLPCC 2023 Deadline [English and Chinese papers\; extended deadlin
+ e]
+DTSTART;TZID="UTC+08:00":20230518T235900
+DTEND;TZID="UTC+08:00":20230519T000000
+DTSTAMP:20260926T201846Z
+UID:bfaf8068-6c9f-4f2a-b665-430046cb3fd7
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ Date: October 12-15\, 2023\n📍 Location: Fo
+ shan\, Guangdong\, China\n⏰ Original Deadline (UTC+8): 2023-05-18 23:59:
+ 00\nCategory: 人工智能 (AI)\nCCF C\nConference Website: http://tcci.cc
+ f.org.cn/conference/2023/index.php\nDBLP Index: https://dblp.org/db/conf/n
+ lpcc
+LOCATION:Foshan\, Guangdong\, China
+URL:http://tcci.ccf.org.cn/conference/2023/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NLPCC 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240611T235900
+DTEND;TZID="UTC+08:00":20240612T000000
+DTSTAMP:20260926T201846Z
+UID:5005667d-8372-427d-bfac-aaafd96908d3
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ Date: November 1-3\, 2024\n📍 Location: Han
+ gzhou\, China\n⏰ Original Deadline (UTC+8): 2024-06-11 23:59:00\nCategor
+ y: 人工智能 (AI)\nCCF C\nConference Website: http://tcci.ccf.org.cn/co
+ nference/2024/index.php\nDBLP Index: https://dblp.org/db/conf/nlpcc
+LOCATION:Hangzhou\, China
+URL:http://tcci.ccf.org.cn/conference/2024/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NLPCC 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250420T235959
+DTEND;TZID="UTC+08:00":20250421T000059
+DTSTAMP:20260926T201846Z
+UID:ad41eefd-ea43-4696-b95d-475327552c39
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ Date: August 7-9\, 2025\n📍 Location: Urumq
+ i\, China\n⏰ Original Deadline (UTC+8): 2025-04-20 23:59:59\nCategory: 
+ 人工智能 (AI)\nCCF C\nConference Website: http://tcci.ccf.org.cn/confe
+ rence/2025/index.php\nDBLP Index: https://dblp.org/db/conf/nlpcc
+LOCATION:Urumqi\, China
+URL:http://tcci.ccf.org.cn/conference/2025/index.php
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NLPCC 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260620T235959
+DTEND;TZID="UTC+08:00":20260621T000059
+DTSTAMP:20260926T201846Z
+UID:d71d9dcf-b27a-49b2-aec0-0706210911cf
+DESCRIPTION:CCF International Conference on Natural Language Processing an
+ d Chinese Computing\n🗓️ Date: November 3-5\, 2026\n📍 Location: Mac
+ au\, China\n⏰ Original Deadline (UTC+8): 2026-06-20 23:59:59\nCategory: 
+ 人工智能 (AI)\nCCF C\nConference Website: http://tcci.ccf.org.cn/confe
+ rence/2026/\nDBLP Index: https://dblp.org/db/conf/nlpcc
+LOCATION:Macau\, China
+URL:http://tcci.ccf.org.cn/conference/2026/
+END:VEVENT
+END:VCALENDAR

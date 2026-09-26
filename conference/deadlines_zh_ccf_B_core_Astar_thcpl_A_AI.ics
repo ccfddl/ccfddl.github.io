@@ -1,0 +1,474 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220209T155959
+DTEND;TZID="UTC-08:00":20220209T160059
+DTSTAMP:20260926T201818Z
+UID:4cbb0014-3449-4e82-bc1d-8f6e1b63b81a
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ly 2-5\, 2022\n📍 会议地点: London\, UK\n⏰ 原始截止时间 (UTC
+ -8): 2022-02-09 15:59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THC
+ PL A\n会议官网: https://learningtheory.org/colt2022/index.html\nDBLP
+ 索引: https://dblp.org/db/conf/colt
+LOCATION:London\, UK
+URL:https://learningtheory.org/colt2022/index.html
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2024 截稿日期
+DTSTART;TZID="UTC-05:00":20240209T155959
+DTEND;TZID="UTC-05:00":20240209T160059
+DTSTAMP:20260926T201818Z
+UID:b9019eaf-140a-4cfe-905b-cb2e65a13580
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ne 30 - July 3\, 2024\n📍 会议地点: Edmonton\, Canada\n⏰ 原始截
+ 止时间 (UTC-5): 2024-02-09 15:59:59\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A*\, THCPL A\n会议官网: https://www.learningtheory.org/colt2024/
+ \nDBLP索引: https://dblp.org/db/conf/colt
+LOCATION:Edmonton\, Canada
+URL:https://www.learningtheory.org/colt2024/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLT 2025 截稿日期
+DTSTART;TZID="UTC-05:00":20250206T165959
+DTEND;TZID="UTC-05:00":20250206T170059
+DTSTAMP:20260926T201818Z
+UID:f84f0f49-dd12-407b-b725-8c4a5c84667a
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ne 30 - July 4\, 2025\n📍 会议地点: Lyon\, France\n⏰ 原始截止
+ 时间 (UTC-5): 2025-02-06 16:59:59\n分类: 人工智能 (AI)\nCCF B\, CO
+ RE A*\, THCPL A\n会议官网: https://learningtheory.org/colt2025/\nDBLP
+ 索引: https://dblp.org/db/conf/colt
+LOCATION:Lyon\, France
+URL:https://learningtheory.org/colt2025/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLT 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260204T165959
+DTEND;TZID="UTC-12:00":20260204T170059
+DTSTAMP:20260926T201818Z
+UID:0305a3fd-a9c7-4f14-a48e-26c929fe92e5
+DESCRIPTION:Annual Conference on Learning Theory\n🗓️ 会议时间: Ju
+ ne 29 - July 3\, 2026\n📍 会议地点: San Diego\, California\n⏰ 原
+ 始截止时间 (AoE): 2026-02-04 16:59:59\n分类: 人工智能 (AI)\nCCF
+  B\, CORE A*\, THCPL A\n会议官网: https://learningtheory.org/colt2026/
+ \nDBLP索引: https://dblp.org/db/conf/colt
+LOCATION:San Diego\, California
+URL:https://learningtheory.org/colt2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2022 截稿日期
+DTSTART;TZID="UTC-08:00":20220307T115900
+DTEND;TZID="UTC-08:00":20220307T120000
+DTSTAMP:20260926T201818Z
+UID:fa77e8be-601c-4871-b390-0858d61674a2
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ October 23 - October 27\, 2022\n📍 会议地点: Tel-Aviv\, Israel\n⏰ 
+ 原始截止时间 (UTC-8): 2022-03-07 11:59:00\n分类: 人工智能 (AI)
+ \nCCF B\, CORE A*\, THCPL A\n会议官网: https://eccv2022.ecva.net/\nDBL
+ P索引: https://dblp.org/db/conf/eccv
+LOCATION:Tel-Aviv\, Israel
+URL:https://eccv2022.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2024 摘要截稿
+DTSTART;TZID="UTC-08:00":20240229T130000
+DTEND;TZID="UTC-08:00":20240229T130100
+DTSTAMP:20260926T201818Z
+UID:7af48e52-9492-44c0-a0aa-03b78489356f
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 29 - October 4\, 2024\n📍 会议地点: MiCo Milano\, Italy\n
+ ⏰ 原始截止时间 (UTC-8): 2024-02-29 13:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://eccv.ecva.net/Confe
+ rences/2024\nDBLP索引: https://dblp.org/db/conf/eccv
+LOCATION:MiCo Milano\, Italy
+URL:https://eccv.ecva.net/Conferences/2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20240307T130000
+DTEND;TZID="UTC-08:00":20240307T130100
+DTSTAMP:20260926T201818Z
+UID:f2ee8cad-c358-407b-8575-01f7db0a49fe
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 29 - October 4\, 2024\n📍 会议地点: MiCo Milano\, Italy\n
+ ⏰ 原始截止时间 (UTC-8): 2024-03-07 13:00:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://eccv.ecva.net/Confe
+ rences/2024\nDBLP索引: https://dblp.org/db/conf/eccv
+LOCATION:MiCo Milano\, Italy
+URL:https://eccv.ecva.net/Conferences/2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2026 摘要截稿
+DTSTART;TZID="UTC-08:00":20260226T140000
+DTEND;TZID="UTC-08:00":20260226T140100
+DTSTAMP:20260926T201818Z
+UID:3dfda068-508a-4030-ac25-11800d15b375
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 8 - 12\, 2026\n📍 会议地点: Malmö\, Sweden\n⏰ 原始截
+ 止时间 (UTC-8): 2026-02-26 14:00:00\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A*\, THCPL A\n会议官网: https://eccv.ecva.net/\nDBLP索引: http
+ s://dblp.org/db/conf/eccv
+LOCATION:Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCV 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20260305T140000
+DTEND;TZID="UTC-08:00":20260305T140100
+DTSTAMP:20260926T201818Z
+UID:be65ce6b-4d34-401f-8fef-22a93049bdda
+DESCRIPTION:European Conference on Computer Vision\n🗓️ 会议时间: 
+ September 8 - 12\, 2026\n📍 会议地点: Malmö\, Sweden\n⏰ 原始截
+ 止时间 (UTC-8): 2026-03-05 14:00:00\n分类: 人工智能 (AI)\nCCF B\,
+  CORE A*\, THCPL A\n会议官网: https://eccv.ecva.net/\nDBLP索引: http
+ s://dblp.org/db/conf/eccv
+LOCATION:Malmö\, Sweden
+URL:https://eccv.ecva.net/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2021 摘要截稿 [Direct submission]
+DTSTART;TZID="UTC-12:00":20210510T235900
+DTEND;TZID="UTC-12:00":20210511T000000
+DTSTAMP:20260926T201818Z
+UID:35a2dffa-1b33-4de3-b6b1-118fbe86801e
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 7 - 11\, 2021\n📍 会议地
+ 点: Punta Cana\, Dominican Republic (Hybrid)\n⏰ 原始截止时间 (UTC
+ -12): 2021-05-10 23:59:00\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://2021.emnlp.org/\nDBLP索引: https://dblp.org
+ /db/conf/emnlp
+LOCATION:Punta Cana\, Dominican Republic (Hybrid)
+URL:https://2021.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2021 截稿日期 [Direct submission]
+DTSTART;TZID="UTC-12:00":20210517T235900
+DTEND;TZID="UTC-12:00":20210518T000000
+DTSTAMP:20260926T201818Z
+UID:15573b57-d562-4336-a5d6-15d39b1bbd40
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 7 - 11\, 2021\n📍 会议地
+ 点: Punta Cana\, Dominican Republic (Hybrid)\n⏰ 原始截止时间 (UTC
+ -12): 2021-05-17 23:59:00\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://2021.emnlp.org/\nDBLP索引: https://dblp.org
+ /db/conf/emnlp
+LOCATION:Punta Cana\, Dominican Republic (Hybrid)
+URL:https://2021.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2021 截稿日期 [ARR pilot submission\; reviews must be re
+ ady by July 29]
+DTSTART;TZID="UTC-12:00":20210515T235900
+DTEND;TZID="UTC-12:00":20210516T000000
+DTSTAMP:20260926T201818Z
+UID:cebac37b-865e-45d8-92a4-8639fa679d61
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 7 - 11\, 2021\n📍 会议地
+ 点: Punta Cana\, Dominican Republic (Hybrid)\n⏰ 原始截止时间 (UTC
+ -12): 2021-05-15 23:59:00\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, TH
+ CPL A\n会议官网: https://2021.emnlp.org/\nDBLP索引: https://dblp.org
+ /db/conf/emnlp
+LOCATION:Punta Cana\, Dominican Republic (Hybrid)
+URL:https://2021.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 摘要截稿 [Direct submission]
+DTSTART;TZID="UTC-12:00":20220617T235959
+DTEND;TZID="UTC-12:00":20220618T000059
+DTSTAMP:20260926T201818Z
+UID:1bf4d801-8d64-471e-a0ca-b8952ded7342
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 7 - 11\, 2022\n📍 会议地
+ 点: Abu Dhabi\n⏰ 原始截止时间 (UTC-12): 2022-06-17 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 022.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 截稿日期 [Direct submission]
+DTSTART;TZID="UTC-12:00":20220624T235959
+DTEND;TZID="UTC-12:00":20220625T000059
+DTSTAMP:20260926T201818Z
+UID:ec050c79-3194-4a34-a91e-39510e84e5d5
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 7 - 11\, 2022\n📍 会议地
+ 点: Abu Dhabi\n⏰ 原始截止时间 (UTC-12): 2022-06-24 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 022.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2022 截稿日期 [Commitment deadline for papers reviewed b
+ y ARR]
+DTSTART;TZID="UTC-12:00":20220724T235900
+DTEND;TZID="UTC-12:00":20220725T000000
+DTSTAMP:20260926T201818Z
+UID:12b8aae6-be39-4f30-b957-f485de9db818
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 7 - 11\, 2022\n📍 会议地
+ 点: Abu Dhabi\n⏰ 原始截止时间 (UTC-12): 2022-07-24 23:59:00\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 022.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Abu Dhabi
+URL:https://2022.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 摘要截稿 [Direct submission]
+DTSTART;TZID="UTC-12:00":20230616T235959
+DTEND;TZID="UTC-12:00":20230617T000059
+DTSTAMP:20260926T201818Z
+UID:796429bd-3948-4168-8c1a-9b3bf5103344
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 6 - 10\, 2023\n📍 会议地
+ 点: Singapore\n⏰ 原始截止时间 (UTC-12): 2023-06-16 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 023.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 截稿日期 [Direct submission]
+DTSTART;TZID="UTC-12:00":20230623T235959
+DTEND;TZID="UTC-12:00":20230624T000059
+DTSTAMP:20260926T201818Z
+UID:a850eba0-8e2b-4419-9b16-56b40a966a5b
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 6 - 10\, 2023\n📍 会议地
+ 点: Singapore\n⏰ 原始截止时间 (UTC-12): 2023-06-23 23:59:59\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 023.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2023 截稿日期 [Commitment deadline for papers reviewed b
+ y ARR]
+DTSTART;TZID="UTC-12:00":20230822T235900
+DTEND;TZID="UTC-12:00":20230823T000000
+DTSTAMP:20260926T201818Z
+UID:794936b6-4a2f-49ce-8a0d-bc21dd6b62e0
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: December 6 - 10\, 2023\n📍 会议地
+ 点: Singapore\n⏰ 原始截止时间 (UTC-12): 2023-08-22 23:59:00\n分
+ 类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2
+ 023.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Singapore
+URL:https://2023.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2024 截稿日期 [ARR Submission]
+DTSTART;TZID="UTC-12:00":20240615T235959
+DTEND;TZID="UTC-12:00":20240616T000059
+DTSTAMP:20260926T201818Z
+UID:5fb2ce08-67c5-49c1-801d-464c506dd313
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 12 - 16\, 2024\n📍 会议地
+ 点: Miami\, Florida\, USA\n⏰ 原始截止时间 (UTC-12): 2024-06-15 23
+ :59:59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网
+ : https://2024.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Miami\, Florida\, USA
+URL:https://2024.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2024 截稿日期 [Commitment deadline for papers reviewed b
+ y ARR]
+DTSTART;TZID="UTC-12:00":20240820T235900
+DTEND;TZID="UTC-12:00":20240821T000000
+DTSTAMP:20260926T201818Z
+UID:c364ec37-f37d-4f97-9c41-b9c605c431e0
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 12 - 16\, 2024\n📍 会议地
+ 点: Miami\, Florida\, USA\n⏰ 原始截止时间 (UTC-12): 2024-08-20 23
+ :59:00\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网
+ : https://2024.emnlp.org\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Miami\, Florida\, USA
+URL:https://2024.emnlp.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2025 截稿日期 [ARR Submission]
+DTSTART;TZID="UTC-12:00":20250519T235959
+DTEND;TZID="UTC-12:00":20250520T000059
+DTSTAMP:20260926T201818Z
+UID:24f04f2d-3398-4da4-9348-7f924430d499
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 5 - 9\, 2025\n📍 会议地
+ 点: Suzhou\, China\n⏰ 原始截止时间 (UTC-12): 2025-05-19 23:59:59
+ \n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: http
+ s://2025.emnlp.org/\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Suzhou\, China
+URL:https://2025.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2025 截稿日期 [Commitment deadline for papers reviewed b
+ y ARR]
+DTSTART;TZID="UTC-12:00":20250801T235900
+DTEND;TZID="UTC-12:00":20250802T000000
+DTSTAMP:20260926T201818Z
+UID:3ac3e5f0-99fe-4c51-906c-d1e152a77e45
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: November 5 - 9\, 2025\n📍 会议地
+ 点: Suzhou\, China\n⏰ 原始截止时间 (UTC-12): 2025-08-01 23:59:00
+ \n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: http
+ s://2025.emnlp.org/\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Suzhou\, China
+URL:https://2025.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2026 截稿日期 [ARR Submission]
+DTSTART;TZID="UTC-12:00":20260525T235959
+DTEND;TZID="UTC-12:00":20260526T000059
+DTSTAMP:20260926T201818Z
+UID:c46e3de2-e780-43fa-8afd-3883757d013d
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: October 24 - 29\, 2026\n📍 会议地
+ 点: Budapest\, Hungary\n⏰ 原始截止时间 (UTC-12): 2026-05-25 23:59
+ :59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: h
+ ttps://2026.emnlp.org/\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMNLP 2026 截稿日期 [Commitment deadline for papers with ARR r
+ eviews and meta-reviews]
+DTSTART;TZID="UTC-12:00":20260802T235959
+DTEND;TZID="UTC-12:00":20260803T000059
+DTSTAMP:20260926T201819Z
+UID:25528b0f-a45e-4294-b1d8-8a30699ce163
+DESCRIPTION:The annual Conference on Empirical Methods in Natural Language
+  Processing\n🗓️ 会议时间: October 24 - 29\, 2026\n📍 会议地
+ 点: Budapest\, Hungary\n⏰ 原始截止时间 (UTC-12): 2026-08-02 23:59
+ :59\n分类: 人工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: h
+ ttps://2026.emnlp.org/\nDBLP索引: https://dblp.org/db/conf/emnlp
+LOCATION:Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICRA 2022 截稿日期
+DTSTART;TZID="UTC-07:00":20210915T235900
+DTEND;TZID="UTC-07:00":20210916T000000
+DTSTAMP:20260926T201819Z
+UID:37c0e73a-7144-4b94-9187-20a27fb07642
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 23-27\, 2022\n📍 会议地点: Philadelphia (PA)\,
+  USA\n⏰ 原始截止时间 (UTC-7): 2021-09-15 23:59:00\n分类: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://ewh.ieee.org
+ /soc/ras/conf/fullysponsored/icra/2022/icra2022.org/\nDBLP索引: https://
+ dblp.org/db/conf/icra
+LOCATION:Philadelphia (PA)\, USA
+URL:https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2022/icra2022.or
+ g/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2023 截稿日期
+DTSTART;TZID="UTC-08:00":20220915T235959
+DTEND;TZID="UTC-08:00":20220916T000059
+DTSTAMP:20260926T201819Z
+UID:741f47b2-3686-4edb-9817-933899055019
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 29- June 2\, 2023\n📍 会议地点: ExCeL London\,
+  UK\n⏰ 原始截止时间 (UTC-8): 2022-09-15 23:59:59\n分类: 人工
+ 智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://ewh.ieee.org
+ /soc/ras/conf/fullysponsored/icra/ICRA%202023/www.icra2023.org/\nDBLP索
+ 引: https://dblp.org/db/conf/icra
+LOCATION:ExCeL London\, UK
+URL:https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/ICRA%202023/www.
+ icra2023.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2024 截稿日期
+DTSTART;TZID="UTC-08:00":20230915T235900
+DTEND;TZID="UTC-08:00":20230916T000000
+DTSTAMP:20260926T201819Z
+UID:9217ffd4-3fd2-4e6d-af0f-a923a0286372
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 13-17\, 2024\n📍 会议地点: Yokohama\, Japan\n
+ ⏰ 原始截止时间 (UTC-8): 2023-09-15 23:59:00\n分类: 人工智能 
+ (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2024.ieee-icra.org
+ \nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Yokohama\, Japan
+URL:https://2024.ieee-icra.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2025 截稿日期 [Extended deadline\; the official announcem
+ ent explicitly specifies PST (UTC-8)]
+DTSTART;TZID="UTC-08:00":20240916T235959
+DTEND;TZID="UTC-08:00":20240917T000059
+DTSTAMP:20260926T201819Z
+UID:3181bca1-ab8e-4002-b0b8-3d0ce29d494c
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 19-23\, 2025\n📍 会议地点: Atlanta (GA)\, USA
+ \n⏰ 原始截止时间 (UTC-8): 2024-09-16 23:59:59\n分类: 人工智
+ 能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2025.ieee-icra.
+ org\nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Atlanta (GA)\, USA
+URL:https://2025.ieee-icra.org
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2026 截稿日期
+DTSTART;TZID="UTC-08:00":20250915T235900
+DTEND;TZID="UTC-08:00":20250916T000000
+DTSTAMP:20260926T201819Z
+UID:52def00b-fc87-4468-938a-5147bbb57be3
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: Jun 1-5\, 2026\n📍 会议地点: Vienna\, Austria\n⏰
+  原始截止时间 (UTC-8): 2025-09-15 23:59:00\n分类: 人工智能 (AI
+ )\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2026.ieee-icra.org/\nD
+ BLP索引: https://dblp.org/db/conf/icra
+LOCATION:Vienna\, Austria
+URL:https://2026.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICRA 2027 截稿日期 [Extended submission deadline]
+DTSTART;TZID="UTC-08:00":20260916T235959
+DTEND;TZID="UTC-08:00":20260917T000059
+DTSTAMP:20260926T201819Z
+UID:7f046020-ca57-4416-8564-d2bab226315c
+DESCRIPTION:IEEE International Conference on Robotics and Automation\n🗓
+ ️ 会议时间: May 24-28\, 2027\n📍 会议地点: Seoul\, Republic of
+  Korea\n⏰ 原始截止时间 (UTC-8): 2026-09-16 23:59:59\n分类: 人
+ 工智能 (AI)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://2027.ieee
+ -icra.org/\nDBLP索引: https://dblp.org/db/conf/icra
+LOCATION:Seoul\, Republic of Korea
+URL:https://2027.ieee-icra.org/
+END:VEVENT
+END:VCALENDAR

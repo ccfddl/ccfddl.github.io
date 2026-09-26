@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:SPM 2025 摘要截稿
+DTSTART;TZID="UTC-12:00":20250308T235959
+DTEND;TZID="UTC-12:00":20250309T000059
+DTSTAMP:20260926T201822Z
+UID:44355c74-43f1-4fb6-a6de-0be2b9dc3fbd
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : October 29 - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\,
+  P.R. China\n⏰ 原始截止时间 (AoE): 2025-03-08 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官
+ 网: https://spmconf2025.github.io/SPM2025/\nDBLP索引: https://dblp.org/
+ db/conf/sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2025 截稿日期
+DTSTART;TZID="UTC-12:00":20250315T235959
+DTEND;TZID="UTC-12:00":20250316T000059
+DTSTAMP:20260926T201822Z
+UID:9a7b2bec-701c-46dc-86bf-07997c42263d
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : October 29 - November 2\, 2025\n📍 会议地点: Hangzhou\, Zhejiang\,
+  P.R. China\n⏰ 原始截止时间 (AoE): 2025-03-15 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官
+ 网: https://spmconf2025.github.io/SPM2025/\nDBLP索引: https://dblp.org/
+ db/conf/sma
+LOCATION:Hangzhou\, Zhejiang\, P.R. China
+URL:https://spmconf2025.github.io/SPM2025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2026 摘要截稿
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20260926T201822Z
+UID:d89498fe-9496-434e-acc7-41ed322036a1
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : July 6-9\, 2026\n📍 会议地点: Istanbul\, Türkiye\n⏰ 原始截
+ 止时间 (AoE): 2026-02-08 23:59:59\n分类: 计算机图形学与多媒
+ 体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官网: https://spmconf2026.gith
+ ub.io/\nDBLP索引: https://dblp.org/db/conf/sma
+LOCATION:Istanbul\, Türkiye
+URL:https://spmconf2026.github.io/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPM 2026 截稿日期
+DTSTART;TZID="UTC-12:00":20260215T235959
+DTEND;TZID="UTC-12:00":20260216T000059
+DTSTAMP:20260926T201822Z
+UID:5df4ba94-bd13-4fb3-a830-b8d610910b29
+DESCRIPTION:Symposium on Solid and Physical Modeling\n🗓️ 会议时间
+ : July 6-9\, 2026\n📍 会议地点: Istanbul\, Türkiye\n⏰ 原始截
+ 止时间 (AoE): 2026-02-15 23:59:59\n分类: 计算机图形学与多媒
+ 体 (CG)\nCCF B\, CORE C\, THCPL B\n会议官网: https://spmconf2026.gith
+ ub.io/\nDBLP索引: https://dblp.org/db/conf/sma
+LOCATION:Istanbul\, Türkiye
+URL:https://spmconf2026.github.io/
+END:VEVENT
+END:VCALENDAR
