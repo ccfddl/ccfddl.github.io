@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISAAC 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210705T235959
+DTEND;TZID="UTC-12:00":20210706T000059
+DTSTAMP:20261004T014740Z
+UID:48f3fe73-48bb-59a4-9d72-98674602224c
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  Date: December 6-8\, 2021\n📍 Location: Fukuoka\, Japan (Hybrid)\n⏰ O
+ riginal Deadline (AoE): 2021-07-05 23:59:59\nCategory: 计算机科学理
+ 论 (CT)\nCCF C\, CORE B\nConference Website: https://tcs.inf.kyushu-u.ac.
+ jp/isaac2021/\nDBLP Index: https://dblp.org/db/conf/isaac
+LOCATION:Fukuoka\, Japan (Hybrid)
+URL:https://tcs.inf.kyushu-u.ac.jp/isaac2021/
+X-CCFDDL-CONFERENCE:ISAAC 2021
+X-CCFDDL-ID:isaac21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220627T235959
+DTEND;TZID="UTC-12:00":20220628T000059
+DTSTAMP:20261004T014740Z
+UID:3b89b950-f0f1-52c1-a911-e759e6d900ec
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  Date: December 19-21\, 2022\n📍 Location: Seoul\, Korea (Hybrid)\n⏰ O
+ riginal Deadline (AoE): 2022-06-27 23:59:59\nCategory: 计算机科学理
+ 论 (CT)\nCCF C\, CORE B\nConference Website: http://isa.hanyang.ac.kr/isa
+ ac2022/\nDBLP Index: https://dblp.org/db/conf/isaac
+LOCATION:Seoul\, Korea (Hybrid)
+URL:http://isa.hanyang.ac.kr/isaac2022/
+X-CCFDDL-CONFERENCE:ISAAC 2022
+X-CCFDDL-ID:isaac22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230630T235959
+DTEND;TZID="UTC-12:00":20230701T000059
+DTSTAMP:20261004T014740Z
+UID:f259bd7f-e3db-56b6-87a5-da36b0c9e171
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  Date: December 4-6\, 2023\n📍 Location: Kyoto\, Japan\n⏰ Original Dea
+ dline (AoE): 2023-06-30 23:59:59\nCategory: 计算机科学理论 (CT)\nCC
+ F C\, CORE B\nConference Website: https://www.kurims.kyoto-u.ac.jp/isaac/i
+ saac2023/index.html\nDBLP Index: https://dblp.org/db/conf/isaac
+LOCATION:Kyoto\, Japan
+URL:https://www.kurims.kyoto-u.ac.jp/isaac/isaac2023/index.html
+X-CCFDDL-CONFERENCE:ISAAC 2023
+X-CCFDDL-ID:isaac23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240628T235900
+DTEND;TZID="UTC-12:00":20240629T000000
+DTSTAMP:20261004T014740Z
+UID:8df9d42e-152a-5d9b-9e11-e34cc030be78
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  Date: December 9-11\, 2024\n📍 Location: Sydney\, Australia\n⏰ Origin
+ al Deadline (AoE): 2024-06-28 23:59:00\nCategory: 计算机科学理论 (C
+ T)\nCCF C\, CORE B\nConference Website: https://sites.google.com/view/isaa
+ c2024/\nDBLP Index: https://dblp.org/db/conf/isaac
+LOCATION:Sydney\, Australia
+URL:https://sites.google.com/view/isaac2024/
+X-CCFDDL-CONFERENCE:ISAAC 2024
+X-CCFDDL-ID:isaac24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250630T235900
+DTEND;TZID="UTC-12:00":20250701T000000
+DTSTAMP:20261004T014740Z
+UID:90e5e54b-bd50-5281-adbc-0176d9014fdd
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  Date: December 8-10\, 2025\n📍 Location: Tainan\, Taiwan\n⏰ Original 
+ Deadline (AoE): 2025-06-30 23:59:00\nCategory: 计算机科学理论 (CT)
+ \nCCF C\, CORE B\nConference Website: https://isaac2025.csie.ncku.edu.tw/
+ \nDBLP Index: https://dblp.org/db/conf/isaac
+LOCATION:Tainan\, Taiwan
+URL:https://isaac2025.csie.ncku.edu.tw/
+X-CCFDDL-CONFERENCE:ISAAC 2025
+X-CCFDDL-ID:isaac25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260629T235900
+DTEND;TZID="UTC-12:00":20260630T000000
+DTSTAMP:20261004T014740Z
+UID:bf213b3a-3729-5c71-8653-626d634e8e2d
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  Date: December 7-9\, 2026\n📍 Location: Hangzhou\, China\n⏰ Original 
+ Deadline (AoE): 2026-06-29 23:59:00\nCategory: 计算机科学理论 (CT)
+ \nCCF C\, CORE B\nConference Website: https://www.algo-door.com/isaac2026/
+ index.html\nDBLP Index: https://dblp.org/db/conf/isaac
+LOCATION:Hangzhou\, China
+URL:https://www.algo-door.com/isaac2026/index.html
+X-CCFDDL-CONFERENCE:ISAAC 2026
+X-CCFDDL-ID:isaac26
+END:VEVENT
+END:VCALENDAR

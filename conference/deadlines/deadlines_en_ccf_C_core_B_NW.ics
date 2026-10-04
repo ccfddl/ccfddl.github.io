@@ -1,0 +1,869 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2021 Deadline
+DTSTART;TZID="UTC-05:00":20210528T235900
+DTEND;TZID="UTC-05:00":20210529T000000
+DTSTAMP:20261004T014752Z
+UID:482d6f9e-ae51-57f9-bc3a-3564197aaca5
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 8-10\, 2021\n📍 Location: Madrid\, Spain / Hybrid\n⏰ Original Deadline
+  (UTC-5): 2021-05-28 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, COR
+ E B\, THCPL B\nConference Website: https://globecom2021.ieee-globecom.org/
+ \nDBLP Index: https://dblp.org/db/conf/globecom
+LOCATION:Madrid\, Spain / Hybrid
+URL:https://globecom2021.ieee-globecom.org/
+X-CCFDDL-CONFERENCE:GLOBECOM 2021
+X-CCFDDL-ID:globecom21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2022 Deadline
+DTSTART;TZID="UTC-04:00":20220522T235900
+DTEND;TZID="UTC-04:00":20220523T000000
+DTSTAMP:20261004T014752Z
+UID:7909f764-be69-5447-a3b5-546b95df9b57
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 5-7\, 2022\n📍 Location: Rio de Janeiro\, Brazil / Hybrid\n⏰ Original 
+ Deadline (UTC-4): 2022-05-22 23:59:00\nCategory: 计算机网络 (NW)\nCCF
+  C\, CORE B\, THCPL B\nConference Website: https://globecom2022.ieee-globe
+ com.org/\nDBLP Index: https://dblp.org/db/conf/globecom
+LOCATION:Rio de Janeiro\, Brazil / Hybrid
+URL:https://globecom2022.ieee-globecom.org/
+X-CCFDDL-CONFERENCE:GLOBECOM 2022
+X-CCFDDL-ID:globecom22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2023 Deadline
+DTSTART;TZID="UTC-04:00":20230521T235900
+DTEND;TZID="UTC-04:00":20230522T000000
+DTSTAMP:20261004T014752Z
+UID:501740f7-391b-530f-a27e-0a5e2f9098da
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 5-7\, 2023\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ Original Deadline 
+ (UTC-4): 2023-05-21 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE
+  B\, THCPL B\nConference Website: https://globecom2023.ieee-globecom.org/
+ \nDBLP Index: https://dblp.org/db/conf/globecom
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://globecom2023.ieee-globecom.org/
+X-CCFDDL-CONFERENCE:GLOBECOM 2023
+X-CCFDDL-ID:globecom23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2024 Deadline
+DTSTART;TZID="UTC-04:00":20240430T235900
+DTEND;TZID="UTC-04:00":20240501T000000
+DTSTAMP:20261004T014752Z
+UID:3b5344ae-3680-5fb1-835c-af10392fbcb0
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 9-11\, 2024\n📍 Location: Cape Town\, South Africa\n⏰ Original Deadlin
+ e (UTC-4): 2024-04-30 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CO
+ RE B\, THCPL B\nConference Website: https://globecom2024.ieee-globecom.org
+ /\nDBLP Index: https://dblp.org/db/conf/globecom
+LOCATION:Cape Town\, South Africa
+URL:https://globecom2024.ieee-globecom.org/
+X-CCFDDL-CONFERENCE:GLOBECOM 2024
+X-CCFDDL-ID:globecom24
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250502T235900
+DTEND;TZID="UTC-12:00":20250503T000000
+DTSTAMP:20261004T014752Z
+UID:9bcbee69-c804-504d-999f-892d9181c67e
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 9-11\, 2025\n📍 Location: Taipei\, Taiwan\n⏰ Original Deadline (AoE): 
+ 2025-05-02 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCP
+ L B\nConference Website: https://globecom2025.ieee-globecom.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/globecom
+LOCATION:Taipei\, Taiwan
+URL:https://globecom2025.ieee-globecom.org/
+X-CCFDDL-CONFERENCE:GLOBECOM 2025
+X-CCFDDL-ID:globecom25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBECOM 2026 Deadline
+DTSTART;TZID="UTC-04:00":20260503T235959
+DTEND;TZID="UTC-04:00":20260504T000059
+DTSTAMP:20261004T014753Z
+UID:b1ee8ecc-cca8-5a0d-a69e-5d5a0eb61836
+DESCRIPTION:IEEE Global Communications Conference\n🗓️ Date: December 
+ 7-11\, 2026\n📍 Location: Macao\, China\n⏰ Original Deadline (UTC-4): 
+ 2026-05-03 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCP
+ L B\nConference Website: https://globecom2026.ieee-globecom.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/globecom
+LOCATION:Macao\, China
+URL:https://globecom2026.ieee-globecom.org/
+X-CCFDDL-CONFERENCE:GLOBECOM 2026
+X-CCFDDL-ID:globecom26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2021 Abstract Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20210305T235900
+DTEND;TZID="UTC-12:00":20210306T000000
+DTSTAMP:20261004T014753Z
+UID:8d16a4d4-11c9-57e6-86bc-f2c7584aa184
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 19-21\, 2021\n📍 Location: Virtual\n⏰ Orig
+ inal Deadline (AoE): 2021-03-05 23:59:00\nCategory: 计算机网络 (NW)\n
+ CCF C\, CORE B\nConference Website: http://www.icccn.org/icccn21/\nDBLP In
+ dex: https://dblp.org/db/conf/icccn
+LOCATION:Virtual
+URL:http://www.icccn.org/icccn21/
+X-CCFDDL-CONFERENCE:ICCCN 2021
+X-CCFDDL-ID:icccn21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2021 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20210305T235900
+DTEND;TZID="UTC-12:00":20210306T000000
+DTSTAMP:20261004T014753Z
+UID:536c72ad-83a2-56ba-9c88-5cbbaa2e2d83
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 19-21\, 2021\n📍 Location: Virtual\n⏰ Orig
+ inal Deadline (AoE): 2021-03-05 23:59:00\nCategory: 计算机网络 (NW)\n
+ CCF C\, CORE B\nConference Website: http://www.icccn.org/icccn21/\nDBLP In
+ dex: https://dblp.org/db/conf/icccn
+LOCATION:Virtual
+URL:http://www.icccn.org/icccn21/
+X-CCFDDL-CONFERENCE:ICCCN 2021
+X-CCFDDL-ID:icccn21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2022 Deadline
+DTSTART;TZID="UTC-04:00":20220320T235900
+DTEND;TZID="UTC-04:00":20220321T000000
+DTSTAMP:20261004T014753Z
+UID:54c8c676-6cd0-5019-a340-5c7ba8e598a9
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 25-27\, 2022\n📍 Location: Virtual\n⏰ Orig
+ inal Deadline (UTC-4): 2022-03-20 23:59:00\nCategory: 计算机网络 (NW)
+ \nCCF C\, CORE B\nConference Website: http://www.icccn.org/icccn22/\nDBLP 
+ Index: https://dblp.org/db/conf/icccn
+LOCATION:Virtual
+URL:http://www.icccn.org/icccn22/
+X-CCFDDL-CONFERENCE:ICCCN 2022
+X-CCFDDL-ID:icccn22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCCN 2023 Deadline
+DTSTART;TZID="UTC-07:00":20230317T235900
+DTEND;TZID="UTC-07:00":20230318T000000
+DTSTAMP:20261004T014753Z
+UID:3a7a33a8-fdb1-5d66-beff-02d7bc0ef60a
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 24-26\, 2023\n📍 Location: Honolulu\, Hawaii
+ \, USA\n⏰ Original Deadline (PT): 2023-03-17 23:59:00\nCategory: 计算
+ 机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.org/i
+ cccn23/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/icccn23/
+X-CCFDDL-CONFERENCE:ICCCN 2023
+X-CCFDDL-ID:icccn23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2024 Deadline
+DTSTART;TZID="UTC-04:00":20240325T235900
+DTEND;TZID="UTC-04:00":20240326T000000
+DTSTAMP:20261004T014753Z
+UID:0754c074-85cc-5dee-9076-7f238224e67f
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 29-31\, 2024\n📍 Location: Big Island\, Hawa
+ ii\, USA\n⏰ Original Deadline (UTC-4): 2024-03-25 23:59:00\nCategory: 
+ 计算机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn
+ .org/icccn24/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Big Island\, Hawaii\, USA
+URL:http://www.icccn.org/icccn24/
+X-CCFDDL-CONFERENCE:ICCCN 2024
+X-CCFDDL-ID:icccn24
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCCN 2025 Deadline
+DTSTART;TZID="UTC-10:00":20250323T235900
+DTEND;TZID="UTC-10:00":20250324T000000
+DTSTAMP:20261004T014753Z
+UID:3d6f2c3b-9e0e-599e-b11b-052619b72ba5
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: August 4-7\, 2025\n📍 Location: Tokyo\, Japan\n
+ ⏰ Original Deadline (UTC-10): 2025-03-23 23:59:00\nCategory: 计算机
+ 网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.org/iccc
+ n25/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Tokyo\, Japan
+URL:http://www.icccn.org/icccn25/
+X-CCFDDL-CONFERENCE:ICCCN 2025
+X-CCFDDL-ID:icccn25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2026 Abstract Deadline
+DTSTART;TZID="UTC-10:00":20260307T235959
+DTEND;TZID="UTC-10:00":20260308T000059
+DTSTAMP:20261004T014753Z
+UID:d948dfee-c7bb-5937-8f83-9f435530f771
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 27-30\, 2026\n📍 Location: Honolulu\, Hawaii
+ \, USA\n⏰ Original Deadline (UTC-10): 2026-03-07 23:59:59\nCategory: 计
+ 算机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.or
+ g/ICCCN26/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
+X-CCFDDL-CONFERENCE:ICCCN 2026
+X-CCFDDL-ID:icccn26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCCN 2026 Deadline
+DTSTART;TZID="UTC-10:00":20260313T235959
+DTEND;TZID="UTC-10:00":20260314T000059
+DTSTAMP:20261004T014753Z
+UID:90d6b234-14a4-579b-84f8-96b1b6d624cc
+DESCRIPTION:IEEE International Conference on Computer Communications and N
+ etworks\n🗓️ Date: July 27-30\, 2026\n📍 Location: Honolulu\, Hawaii
+ \, USA\n⏰ Original Deadline (UTC-10): 2026-03-13 23:59:59\nCategory: 计
+ 算机网络 (NW)\nCCF C\, CORE B\nConference Website: http://www.icccn.or
+ g/ICCCN26/\nDBLP Index: https://dblp.org/db/conf/icccn
+LOCATION:Honolulu\, Hawaii\, USA
+URL:http://www.icccn.org/ICCCN26/
+X-CCFDDL-CONFERENCE:ICCCN 2026
+X-CCFDDL-ID:icccn26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2021 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20210531T235900
+DTEND;TZID="UTC-12:00":20210601T000000
+DTSTAMP:20261004T014753Z
+UID:b9a20f00-b99f-59a7-af84-87736d7c008a
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 4-7\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 2021-
+ 05-31 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\nConference
+  Website: https://www.ieeelcn.org/prior/LCN46/index.html\nDBLP Index: http
+ s://dblp.org/db/conf/lcn
+LOCATION:Virtual
+URL:https://www.ieeelcn.org/prior/LCN46/index.html
+X-CCFDDL-CONFERENCE:LCN 2021
+X-CCFDDL-ID:lcn21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210531T235900
+DTEND;TZID="UTC-12:00":20210601T000000
+DTSTAMP:20261004T014753Z
+UID:59196204-d9fc-539e-b88a-578a7e896eb3
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 4-7\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 2021-
+ 05-31 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\nConference
+  Website: https://www.ieeelcn.org/prior/LCN46/index.html\nDBLP Index: http
+ s://dblp.org/db/conf/lcn
+LOCATION:Virtual
+URL:https://www.ieeelcn.org/prior/LCN46/index.html
+X-CCFDDL-CONFERENCE:LCN 2021
+X-CCFDDL-ID:lcn21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220424T235900
+DTEND;TZID="UTC-12:00":20220425T000000
+DTSTAMP:20261004T014753Z
+UID:5715c7f9-2cab-5e90-923c-57293a7ec181
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Sept
+ ember 26-29\, 2022\n📍 Location: Edmonton\, Canada / Hybrid\n⏰ Origina
+ l Deadline (AoE): 2022-04-24 23:59:00\nCategory: 计算机网络 (NW)\nCCF
+  C\, CORE B\nConference Website: https://www.ieeelcn.org/prior/LCN47/index
+ .html\nDBLP Index: https://dblp.org/db/conf/lcn
+LOCATION:Edmonton\, Canada / Hybrid
+URL:https://www.ieeelcn.org/prior/LCN47/index.html
+X-CCFDDL-CONFERENCE:LCN 2022
+X-CCFDDL-ID:lcn22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220424T235900
+DTEND;TZID="UTC-12:00":20220425T000000
+DTSTAMP:20261004T014753Z
+UID:bf15ca9e-a00c-518d-9de8-1d94403024cd
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Sept
+ ember 26-29\, 2022\n📍 Location: Edmonton\, Canada / Hybrid\n⏰ Origina
+ l Deadline (AoE): 2022-04-24 23:59:00\nCategory: 计算机网络 (NW)\nCCF
+  C\, CORE B\nConference Website: https://www.ieeelcn.org/prior/LCN47/index
+ .html\nDBLP Index: https://dblp.org/db/conf/lcn
+LOCATION:Edmonton\, Canada / Hybrid
+URL:https://www.ieeelcn.org/prior/LCN47/index.html
+X-CCFDDL-CONFERENCE:LCN 2022
+X-CCFDDL-ID:lcn22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230428T235900
+DTEND;TZID="UTC-12:00":20230429T000000
+DTSTAMP:20261004T014753Z
+UID:ed4a3e83-1572-5290-b9c5-b8517a22e504
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 2-4\, 2023\n📍 Location: Daytona Beach\, FL\, USA\n⏰ Original Dead
+ line (AoE): 2023-04-28 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, C
+ ORE B\nConference Website: https://www.ieeelcn.org/prior/LCN48/index.html
+ \nDBLP Index: https://dblp.org/db/conf/lcn
+LOCATION:Daytona Beach\, FL\, USA
+URL:https://www.ieeelcn.org/prior/LCN48/index.html
+X-CCFDDL-CONFERENCE:LCN 2023
+X-CCFDDL-ID:lcn23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230428T235900
+DTEND;TZID="UTC-12:00":20230429T000000
+DTSTAMP:20261004T014753Z
+UID:988529db-51ed-5118-97e4-5aae693fdd6f
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 2-4\, 2023\n📍 Location: Daytona Beach\, FL\, USA\n⏰ Original Dead
+ line (AoE): 2023-04-28 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, C
+ ORE B\nConference Website: https://www.ieeelcn.org/prior/LCN48/index.html
+ \nDBLP Index: https://dblp.org/db/conf/lcn
+LOCATION:Daytona Beach\, FL\, USA
+URL:https://www.ieeelcn.org/prior/LCN48/index.html
+X-CCFDDL-CONFERENCE:LCN 2023
+X-CCFDDL-ID:lcn23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240503T235900
+DTEND;TZID="UTC-12:00":20240504T000000
+DTSTAMP:20261004T014753Z
+UID:ca4aaaea-3748-5099-8fef-e6d7d9ddda9f
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 8-10\, 2024\n📍 Location: Caen\, France\n⏰ Original Deadline (AoE)
+ : 2024-05-03 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\nCon
+ ference Website: https://www.ieeelcn.org/prior/LCN49/index.html\nDBLP Inde
+ x: https://dblp.org/db/conf/lcn
+LOCATION:Caen\, France
+URL:https://www.ieeelcn.org/prior/LCN49/index.html
+X-CCFDDL-CONFERENCE:LCN 2024
+X-CCFDDL-ID:lcn24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240503T235900
+DTEND;TZID="UTC-12:00":20240504T000000
+DTSTAMP:20261004T014753Z
+UID:acabb4e3-9fde-578d-a270-b8d6a994a653
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 8-10\, 2024\n📍 Location: Caen\, France\n⏰ Original Deadline (AoE)
+ : 2024-05-03 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\nCon
+ ference Website: https://www.ieeelcn.org/prior/LCN49/index.html\nDBLP Inde
+ x: https://dblp.org/db/conf/lcn
+LOCATION:Caen\, France
+URL:https://www.ieeelcn.org/prior/LCN49/index.html
+X-CCFDDL-CONFERENCE:LCN 2024
+X-CCFDDL-ID:lcn24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250511T235900
+DTEND;TZID="UTC-12:00":20250512T000000
+DTSTAMP:20261004T014753Z
+UID:701e116e-112a-54c9-9d6b-3b891485e7e2
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 14-16\, 2025\n📍 Location: Sydney\, Australia\n⏰ Original Deadline
+  (AoE): 2025-05-11 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE 
+ B\nConference Website: https://www.ieeelcn.org/prior/LCN50/index.html\nDBL
+ P Index: https://dblp.org/db/conf/lcn
+LOCATION:Sydney\, Australia
+URL:https://www.ieeelcn.org/prior/LCN50/index.html
+X-CCFDDL-CONFERENCE:LCN 2025
+X-CCFDDL-ID:lcn25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250511T235900
+DTEND;TZID="UTC-12:00":20250512T000000
+DTSTAMP:20261004T014753Z
+UID:b912a8c2-8900-5e95-91f8-4c55fb294339
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 14-16\, 2025\n📍 Location: Sydney\, Australia\n⏰ Original Deadline
+  (AoE): 2025-05-11 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE 
+ B\nConference Website: https://www.ieeelcn.org/prior/LCN50/index.html\nDBL
+ P Index: https://dblp.org/db/conf/lcn
+LOCATION:Sydney\, Australia
+URL:https://www.ieeelcn.org/prior/LCN50/index.html
+X-CCFDDL-CONFERENCE:LCN 2025
+X-CCFDDL-ID:lcn25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2026 Abstract Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20260504T235900
+DTEND;TZID="UTC-12:00":20260505T000000
+DTSTAMP:20261004T014753Z
+UID:7da14244-dba5-5f72-b91c-19d0ffc25b20
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 7-9\, 2026\n📍 Location: Coimbra\, Portugal\n⏰ Original Deadline (
+ AoE): 2026-05-04 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \nConference Website: https://www.ieeelcn.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/lcn
+LOCATION:Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
+X-CCFDDL-CONFERENCE:LCN 2026
+X-CCFDDL-ID:lcn26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LCN 2026 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20260504T235959
+DTEND;TZID="UTC-12:00":20260505T000059
+DTSTAMP:20261004T014753Z
+UID:e78ed1a1-eee4-5001-a346-ec94efe2ccc8
+DESCRIPTION:IEEE Conference on Local Computer Networks\n🗓️ Date: Octo
+ ber 7-9\, 2026\n📍 Location: Coimbra\, Portugal\n⏰ Original Deadline (
+ AoE): 2026-05-04 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \nConference Website: https://www.ieeelcn.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/lcn
+LOCATION:Coimbra\, Portugal
+URL:https://www.ieeelcn.org/
+X-CCFDDL-CONFERENCE:LCN 2026
+X-CCFDDL-ID:lcn26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Networking 2021 Abstract Deadline [Title/abstract optional\; full 
+ required]
+DTSTART;TZID="UTC+02:00":20210121T235900
+DTEND;TZID="UTC+02:00":20210122T000000
+DTSTAMP:20261004T014753Z
+UID:06f80e01-19df-53e1-84eb-eb4545628d90
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: Jun
+ e 22-24\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC+2): 202
+ 1-01-21 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B
+ \nConference Website: https://networking.ifip.org/2021/\nDBLP Index: https
+ ://dblp.org/db/conf/networking
+LOCATION:Virtual
+URL:https://networking.ifip.org/2021/
+X-CCFDDL-CONFERENCE:Networking 2021
+X-CCFDDL-ID:networking21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2021 Deadline [Title/abstract optional\; full required]
+DTSTART;TZID="UTC+02:00":20210121T235900
+DTEND;TZID="UTC+02:00":20210122T000000
+DTSTAMP:20261004T014753Z
+UID:dd297086-72a5-58a6-b5cb-ebbfac21daf6
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: Jun
+ e 22-24\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC+2): 202
+ 1-01-21 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B
+ \nConference Website: https://networking.ifip.org/2021/\nDBLP Index: https
+ ://dblp.org/db/conf/networking
+LOCATION:Virtual
+URL:https://networking.ifip.org/2021/
+X-CCFDDL-CONFERENCE:Networking 2021
+X-CCFDDL-ID:networking21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220213T235900
+DTEND;TZID="UTC-12:00":20220214T000000
+DTSTAMP:20261004T014753Z
+UID:1b2162ef-c175-5a5b-8b1f-7b9ae5ece7db
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: Jun
+ e 14-16\, 2022\n📍 Location: Catania\, Italy (Hybrid)\n⏰ Original Dead
+ line (AoE): 2022-02-13 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, C
+ ORE B\, THCPL B\nConference Website: https://networking.ifip.org/2022/\nDB
+ LP Index: https://dblp.org/db/conf/networking
+LOCATION:Catania\, Italy (Hybrid)
+URL:https://networking.ifip.org/2022/
+X-CCFDDL-CONFERENCE:Networking 2022
+X-CCFDDL-ID:networking22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220216T235900
+DTEND;TZID="UTC-12:00":20220217T000000
+DTSTAMP:20261004T014753Z
+UID:257393c6-68b1-508d-a248-1700fa122584
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: Jun
+ e 14-16\, 2022\n📍 Location: Catania\, Italy (Hybrid)\n⏰ Original Dead
+ line (AoE): 2022-02-16 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, C
+ ORE B\, THCPL B\nConference Website: https://networking.ifip.org/2022/\nDB
+ LP Index: https://dblp.org/db/conf/networking
+LOCATION:Catania\, Italy (Hybrid)
+URL:https://networking.ifip.org/2022/
+X-CCFDDL-CONFERENCE:Networking 2022
+X-CCFDDL-ID:networking22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230213T235900
+DTEND;TZID="UTC-12:00":20230214T000000
+DTSTAMP:20261004T014753Z
+UID:e4af1866-3bc3-5bad-98e4-393f02e2fee0
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: Jun
+ e 13-15\, 2023\n📍 Location: Barcelona\, Spain\n⏰ Original Deadline (A
+ oE): 2023-02-13 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\,
+  THCPL B\nConference Website: https://networking.ifip.org/2023/\nDBLP Inde
+ x: https://dblp.org/db/conf/networking
+LOCATION:Barcelona\, Spain
+URL:https://networking.ifip.org/2023/
+X-CCFDDL-CONFERENCE:Networking 2023
+X-CCFDDL-ID:networking23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240308T235900
+DTEND;TZID="UTC-12:00":20240309T000000
+DTSTAMP:20261004T014753Z
+UID:17c64bcb-53b3-5fd4-a0be-862944da6dc0
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: Jun
+ e 4-6\, 2024\n📍 Location: Thessaloniki\, Greece\n⏰ Original Deadline 
+ (AoE): 2024-03-08 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \, THCPL B\nConference Website: https://networking.ifip.org/2024/\nDBLP In
+ dex: https://dblp.org/db/conf/networking
+LOCATION:Thessaloniki\, Greece
+URL:https://networking.ifip.org/2024/
+X-CCFDDL-CONFERENCE:Networking 2024
+X-CCFDDL-ID:networking24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250314T235900
+DTEND;TZID="UTC-12:00":20250315T000000
+DTSTAMP:20261004T014753Z
+UID:b1274505-13b1-5633-bcb5-977e53818f12
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: May
+  27-29\, 2025\n📍 Location: Limassol\, Cyprus\n⏰ Original Deadline (Ao
+ E): 2025-03-14 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, 
+ THCPL B\nConference Website: https://networking.ifip.org/2025/\nDBLP Index
+ : https://dblp.org/db/conf/networking
+LOCATION:Limassol\, Cyprus
+URL:https://networking.ifip.org/2025/
+X-CCFDDL-CONFERENCE:Networking 2025
+X-CCFDDL-ID:networking25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Networking 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260228T235959
+DTEND;TZID="UTC-12:00":20260301T000059
+DTSTAMP:20261004T014753Z
+UID:2b459afe-b3fe-57c1-9f4e-69d6dc0050fb
+DESCRIPTION:IFIP International Conference on Networking\n🗓️ Date: May
+  25-27\, 2026\n📍 Location: Lugano\, Switzerland\n⏰ Original Deadline 
+ (AoE): 2026-02-28 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\, CORE B
+ \, THCPL B\nConference Website: https://networking.ifip.org/2026/\nDBLP In
+ dex: https://dblp.org/db/conf/networking
+LOCATION:Lugano\, Switzerland
+URL:https://networking.ifip.org/2026/
+X-CCFDDL-CONFERENCE:Networking 2026
+X-CCFDDL-ID:networking26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201030T235900
+DTEND;TZID="UTC-12:00":20201031T000000
+DTSTAMP:20261004T014753Z
+UID:c26ff447-82c2-5a1b-a0de-4efa61e943ed
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: March 30-April 1\, 2021\n📍 Location: Nanjing\, China / Hybrid
+ \n⏰ Original Deadline (AoE): 2020-10-30 23:59:00\nCategory: 计算机网
+ 络 (NW)\nCCF C\, CORE B\nConference Website: https://wcnc2021.ieee-wcnc.o
+ rg/\nDBLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Nanjing\, China / Hybrid
+URL:https://wcnc2021.ieee-wcnc.org/
+X-CCFDDL-CONFERENCE:WCNC 2021
+X-CCFDDL-ID:wcnc21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211015T235900
+DTEND;TZID="UTC-12:00":20211016T000000
+DTSTAMP:20261004T014753Z
+UID:cc0e25eb-e14d-5a30-b181-27cddf68d011
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 11-13\, 2022\n📍 Location: Austin\, TX\, USA / Hybrid\n
+ ⏰ Original Deadline (AoE): 2021-10-15 23:59:00\nCategory: 计算机网
+ 络 (NW)\nCCF C\, CORE B\nConference Website: https://wcnc2022.ieee-wcnc.o
+ rg/\nDBLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Austin\, TX\, USA / Hybrid
+URL:https://wcnc2022.ieee-wcnc.org/
+X-CCFDDL-CONFERENCE:WCNC 2022
+X-CCFDDL-ID:wcnc22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20220930T235900
+DTEND;TZID="UTC-12:00":20221001T000000
+DTSTAMP:20261004T014753Z
+UID:e2737724-e3d5-5f49-8ca5-f9316ce9186e
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: March 27-29\, 2023\n📍 Location: Glasgow\, Scotland\, UK\n⏰ 
+ Original Deadline (AoE): 2022-09-30 23:59:00\nCategory: 计算机网络 (N
+ W)\nCCF C\, CORE B\nConference Website: https://wcnc2023.ieee-wcnc.org/\nD
+ BLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://wcnc2023.ieee-wcnc.org/
+X-CCFDDL-CONFERENCE:WCNC 2023
+X-CCFDDL-ID:wcnc23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231025T235900
+DTEND;TZID="UTC-12:00":20231026T000000
+DTSTAMP:20261004T014753Z
+UID:f9a4f3bb-8396-5070-b451-2c690192b708
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 22-24\, 2024\n📍 Location: Dubai\, United Arab Emirates
+ \n⏰ Original Deadline (AoE): 2023-10-25 23:59:00\nCategory: 计算机网
+ 络 (NW)\nCCF C\, CORE B\nConference Website: https://wcnc2024.ieee-wcnc.o
+ rg/\nDBLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Dubai\, United Arab Emirates
+URL:https://wcnc2024.ieee-wcnc.org/
+X-CCFDDL-CONFERENCE:WCNC 2024
+X-CCFDDL-ID:wcnc24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241014T235900
+DTEND;TZID="UTC-12:00":20241015T000000
+DTSTAMP:20261004T014753Z
+UID:f81e094a-e8e3-5c5c-b0c8-830fa8f99cfe
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: March 25-27\, 2025\n📍 Location: Milan\, Italy\n⏰ Original D
+ eadline (AoE): 2024-10-14 23:59:00\nCategory: 计算机网络 (NW)\nCCF C
+ \, CORE B\nConference Website: https://wcnc2025.ieee-wcnc.org/\nDBLP Index
+ : https://dblp.org/db/conf/wcnc
+LOCATION:Milan\, Italy
+URL:https://wcnc2025.ieee-wcnc.org/
+X-CCFDDL-CONFERENCE:WCNC 2025
+X-CCFDDL-ID:wcnc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251026T235900
+DTEND;TZID="UTC-12:00":20251027T000000
+DTSTAMP:20261004T014753Z
+UID:a70e0064-c560-5bdf-8a24-6629a9aaafe7
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 14-16\, 2026\n📍 Location: Kuala Lumpur\, Malaysia\n⏰ 
+ Original Deadline (AoE): 2025-10-26 23:59:00\nCategory: 计算机网络 (N
+ W)\nCCF C\, CORE B\nConference Website: https://wcnc2026.ieee-wcnc.org/gro
+ up/21\nDBLP Index: https://dblp.org/db/conf/wcnc
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://wcnc2026.ieee-wcnc.org/group/21
+X-CCFDDL-CONFERENCE:WCNC 2026
+X-CCFDDL-ID:wcnc26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCNC 2027 Deadline [Technical papers\; official IEEE ComSoc calend
+ ar date. Clock 23:59:00 and timezone AoE are repository defaults\, not pub
+ lished cutoff precision.]
+DTSTART;TZID="UTC-12:00":20260915T235900
+DTEND;TZID="UTC-12:00":20260916T000000
+DTSTAMP:20261004T014753Z
+UID:5b0e4c66-8b71-5296-9a62-836555194b7d
+DESCRIPTION:IEEE Wireless Communications and Networking Conference\n🗓
+ ️ Date: April 5-8\, 2027\n📍 Location: Panama City\, Panama\n⏰ Origi
+ nal Deadline (AoE): 2026-09-15 23:59:00\nCategory: 计算机网络 (NW)\nC
+ CF C\, CORE B\nConference Website: https://wcnc2027.ieee-wcnc.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/wcnc
+LOCATION:Panama City\, Panama
+URL:https://wcnc2027.ieee-wcnc.org/
+X-CCFDDL-CONFERENCE:WCNC 2027
+X-CCFDDL-ID:wcnc27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201231T235900
+DTEND;TZID="UTC-12:00":20210101T000000
+DTSTAMP:20261004T014753Z
+UID:7c24f402-e59e-5562-869b-53d8f430d343
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 8-10\, 2021\n📍 Location: Vir
+ tual\n⏰ Original Deadline (AoE): 2020-12-31 23:59:00\nCategory: 计算
+ 机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Website: https://wowm
+ om2021.iit.cnr.it/\nDBLP Index: https://dblp.org/db/conf/wowmom
+LOCATION:Virtual
+URL:https://wowmom2021.iit.cnr.it/
+X-CCFDDL-CONFERENCE:WoWMoM 2021
+X-CCFDDL-ID:wowmom21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220115T235900
+DTEND;TZID="UTC-12:00":20220116T000000
+DTSTAMP:20261004T014753Z
+UID:a1c28d9d-885d-543e-bce8-cc7a6edbc1b5
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 15-16\, 2022\n📍 Location: Be
+ lfast\, Northern Ireland\, UK (Hybrid)\n⏰ Original Deadline (AoE): 2022-
+ 01-15 23:59:00\nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\n
+ Conference Website: https://computing.ulster.ac.uk/WoWMoM2022/\nDBLP Index
+ : https://dblp.org/db/conf/wowmom
+LOCATION:Belfast\, Northern Ireland\, UK (Hybrid)
+URL:https://computing.ulster.ac.uk/WoWMoM2022/
+X-CCFDDL-CONFERENCE:WoWMoM 2022
+X-CCFDDL-ID:wowmom22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230119T235900
+DTEND;TZID="UTC-12:00":20230120T000000
+DTSTAMP:20261004T014753Z
+UID:90623e52-6cdf-5243-8235-113b1501c65f
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 13-15\, 2023\n📍 Location: Bo
+ ston\, MA\, USA\n⏰ Original Deadline (AoE): 2023-01-19 23:59:00\nCategor
+ y: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Website: htt
+ ps://coe.northeastern.edu/Groups/wowmom2023/\nDBLP Index: https://dblp.org
+ /db/conf/wowmom
+LOCATION:Boston\, MA\, USA
+URL:https://coe.northeastern.edu/Groups/wowmom2023/
+X-CCFDDL-CONFERENCE:WoWMoM 2023
+X-CCFDDL-ID:wowmom23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231217T235900
+DTEND;TZID="UTC-12:00":20231218T000000
+DTSTAMP:20261004T014753Z
+UID:1ee4bfa2-3633-5461-bf7b-1c2e9f3a0baa
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 5-7\, 2024\n📍 Location: Pert
+ h\, Western Australia\n⏰ Original Deadline (AoE): 2023-12-17 23:59:00\nC
+ ategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Websit
+ e: https://cgi.cse.unsw.edu.au/~wowmom/2024/\nDBLP Index: https://dblp.org
+ /db/conf/wowmom
+LOCATION:Perth\, Western Australia
+URL:https://cgi.cse.unsw.edu.au/~wowmom/2024/
+X-CCFDDL-CONFERENCE:WoWMoM 2024
+X-CCFDDL-ID:wowmom24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241209T235900
+DTEND;TZID="UTC-12:00":20241210T000000
+DTSTAMP:20261004T014753Z
+UID:30245bdb-2db4-5c66-8476-7c080e075d4f
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: May 28-30\, 2025\n📍 Location: For
+ t Worth\, Texas\, USA\n⏰ Original Deadline (AoE): 2024-12-09 23:59:00\nC
+ ategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Websit
+ e: https://wowmomconference.uta.edu/index.html\nDBLP Index: https://dblp.o
+ rg/db/conf/wowmom
+LOCATION:Fort Worth\, Texas\, USA
+URL:https://wowmomconference.uta.edu/index.html
+X-CCFDDL-CONFERENCE:WoWMoM 2025
+X-CCFDDL-ID:wowmom25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 Abstract Deadline
+DTSTART;TZID="UTC-05:00":20251205T235959
+DTEND;TZID="UTC-05:00":20251206T000059
+DTSTAMP:20261004T014753Z
+UID:b7b47c1f-2ea9-5072-8751-807ef3efe5e5
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 17-19\, 2026\n📍 Location: Bo
+ logna\, Italy\n⏰ Original Deadline (UTC-5): 2025-12-05 23:59:59\nCategor
+ y: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Website: htt
+ ps://www.cs.unibo.it/wowmom2026/\nDBLP Index: https://dblp.org/db/conf/wow
+ mom
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+X-CCFDDL-CONFERENCE:WoWMoM 2026
+X-CCFDDL-ID:wowmom26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2026 Deadline
+DTSTART;TZID="UTC-05:00":20251215T235959
+DTEND;TZID="UTC-05:00":20251216T000059
+DTSTAMP:20261004T014753Z
+UID:bf040d1b-210e-5fe5-93d1-4caad2e51c52
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 17-19\, 2026\n📍 Location: Bo
+ logna\, Italy\n⏰ Original Deadline (UTC-5): 2025-12-15 23:59:59\nCategor
+ y: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Website: htt
+ ps://www.cs.unibo.it/wowmom2026/\nDBLP Index: https://dblp.org/db/conf/wow
+ mom
+LOCATION:Bologna\, Italy
+URL:https://www.cs.unibo.it/wowmom2026/
+X-CCFDDL-CONFERENCE:WoWMoM 2026
+X-CCFDDL-ID:wowmom26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261201T235959
+DTEND;TZID="UTC-12:00":20261202T000059
+DTSTAMP:20261004T014753Z
+UID:a4008c30-5b0a-537c-ae13-f3969858c193
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 21-24\, 2027\n📍 Location: Ir
+ vine\, California\, USA\n⏰ Original Deadline (AoE): 2026-12-01 23:59:59
+ \nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Web
+ site: https://wowmom2027.dii.unipi.it/index.html\nDBLP Index: https://dblp
+ .org/db/conf/wowmom
+LOCATION:Irvine\, California\, USA
+URL:https://wowmom2027.dii.unipi.it/index.html
+X-CCFDDL-CONFERENCE:WoWMoM 2027
+X-CCFDDL-ID:wowmom27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WoWMoM 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270210T235900
+DTEND;TZID="UTC-12:00":20270211T000000
+DTSTAMP:20261004T014753Z
+UID:3f605829-62c5-542a-b871-5c3a38f1560b
+DESCRIPTION:IEEE International Symposium on a World of Wireless\, Mobile a
+ nd Multimedia Networks\n🗓️ Date: June 21-24\, 2027\n📍 Location: Ir
+ vine\, California\, USA\n⏰ Original Deadline (AoE): 2027-02-10 23:59:00
+ \nCategory: 计算机网络 (NW)\nCCF C\, CORE B\, THCPL B\nConference Web
+ site: https://wowmom2027.dii.unipi.it/index.html\nDBLP Index: https://dblp
+ .org/db/conf/wowmom
+LOCATION:Irvine\, California\, USA
+URL:https://wowmom2027.dii.unipi.it/index.html
+X-CCFDDL-CONFERENCE:WoWMoM 2027
+X-CCFDDL-ID:wowmom27
+END:VEVENT
+END:VCALENDAR

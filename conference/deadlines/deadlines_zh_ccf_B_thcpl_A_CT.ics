@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICALP 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210212T235900
+DTEND;TZID="UTC-12:00":20210213T000000
+DTSTAMP:20261004T014637Z
+UID:30825b78-7882-57f9-b896-76a392e63045
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 12-16\, 2021\n📍 会议地点: On
+ line\n⏰ 原始截止时间 (AoE): 2021-02-12 23:59:00\n分类: 计算机
+ 科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://easyco
+ nferences.eu/icalp2021/cfp/\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Online
+URL:https://easyconferences.eu/icalp2021/cfp/
+X-CCFDDL-CONFERENCE:ICALP 2021
+X-CCFDDL-ID:icalp21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220210T235959
+DTEND;TZID="UTC-12:00":20220211T000059
+DTSTAMP:20261004T014637Z
+UID:8f531ced-789b-56ce-bfed-2bc8df3f7aaa
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 5-8\, 2022\n📍 会议地点: Pari
+ s\, France (hybrid)\n⏰ 原始截止时间 (AoE): 2022-02-10 23:59:59\n
+ 分类: 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官
+ 网: https://icalp2022.irif.fr/\nDBLP索引: https://dblp.org/db/conf/ical
+ p
+LOCATION:Paris\, France (hybrid)
+URL:https://icalp2022.irif.fr/
+X-CCFDDL-CONFERENCE:ICALP 2022
+X-CCFDDL-ID:icalp22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICALP 2023 Deadline
+DTSTART;TZID="UTC+01:00":20230211T110000
+DTEND;TZID="UTC+01:00":20230211T110100
+DTSTAMP:20261004T014637Z
+UID:f655e031-f8af-54d9-9193-de34324cee51
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 11-14\, 2023\n📍 会议地点: Pa
+ derborn\, Germany\n⏰ 原始截止时间 (UTC+1): 2023-02-11 11:00:00\n
+ 分类: 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官
+ 网: https://icalp2023.cs.upb.de/\nDBLP索引: https://dblp.org/db/conf/ic
+ alp
+LOCATION:Paderborn\, Germany
+URL:https://icalp2023.cs.upb.de/
+X-CCFDDL-CONFERENCE:ICALP 2023
+X-CCFDDL-ID:icalp23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2024 Deadline
+DTSTART;TZID="UTC+01:00":20240214T130000
+DTEND;TZID="UTC+01:00":20240214T130100
+DTSTAMP:20261004T014637Z
+UID:134db36b-ef06-5fe9-b9ab-c94a2bb672b6
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 8-12\, 2024\n📍 会议地点: Tal
+ linn\, Estonia\n⏰ 原始截止时间 (UTC+1): 2024-02-14 13:00:00\n分
+ 类: 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: 
+ https://compose.ioc.ee/icalp2024/\nDBLP索引: https://dblp.org/db/conf/ic
+ alp
+LOCATION:Tallinn\, Estonia
+URL:https://compose.ioc.ee/icalp2024/
+X-CCFDDL-CONFERENCE:ICALP 2024
+X-CCFDDL-ID:icalp24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2025 Deadline [Submissions]
+DTSTART;TZID="UTC-12:00":20250208T235959
+DTEND;TZID="UTC-12:00":20250209T000059
+DTSTAMP:20261004T014637Z
+UID:18f0a90b-a6d7-5e98-8d02-a06a590e4ba1
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 8-11\, 2025\n📍 会议地点: Aar
+ hus\, Denmark\n⏰ 原始截止时间 (AoE): 2025-02-08 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https
+ ://conferences.au.dk/icalp2025\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Aarhus\, Denmark
+URL:https://conferences.au.dk/icalp2025
+X-CCFDDL-CONFERENCE:ICALP 2025
+X-CCFDDL-ID:icalp25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260203T235900
+DTEND;TZID="UTC-12:00":20260204T000000
+DTSTAMP:20261004T014637Z
+UID:65e9ef92-4142-562c-a0fd-8765175b2cc9
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 7-10\, 2026\n📍 会议地点: Lon
+ don\, UK\n⏰ 原始截止时间 (AoE): 2026-02-03 23:59:00\n分类: 计
+ 算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://
+ icalppodcspaa2026.cs.rhul.ac.uk/\nDBLP索引: https://dblp.org/db/conf/ica
+ lp
+LOCATION:London\, UK
+URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
+X-CCFDDL-CONFERENCE:ICALP 2026
+X-CCFDDL-ID:icalp26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20261004T014637Z
+UID:5e65a045-193a-5869-a509-89fceb09be94
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 7-10\, 2026\n📍 会议地点: Lon
+ don\, UK\n⏰ 原始截止时间 (AoE): 2026-02-06 23:59:59\n分类: 计
+ 算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https://
+ icalppodcspaa2026.cs.rhul.ac.uk/\nDBLP索引: https://dblp.org/db/conf/ica
+ lp
+LOCATION:London\, UK
+URL:https://icalppodcspaa2026.cs.rhul.ac.uk/
+X-CCFDDL-CONFERENCE:ICALP 2026
+X-CCFDDL-ID:icalp26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2027 Deadline [Track B first round\; Track A and Track B sec
+ ond round TBA]
+DTSTART;TZID="UTC-12:00":20260915T235959
+DTEND;TZID="UTC-12:00":20260916T000059
+DTSTAMP:20261004T014637Z
+UID:61be329d-b5f4-5b9a-b071-d8fcc69c9c06
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 5-9\, 2027\n📍 会议地点: Krak
+ ów\, Poland\n⏰ 原始截止时间 (AoE): 2026-09-15 23:59:59\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https
+ ://icalp.uj.edu.pl/\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Kraków\, Poland
+URL:https://icalp.uj.edu.pl/
+X-CCFDDL-CONFERENCE:ICALP 2027
+X-CCFDDL-ID:icalp27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2027 Rebuttal Submission [Track B first round\; Track A and 
+ Track B second round TBA]
+DTSTART;TZID="UTC-12:00":20261109T235900
+DTEND;TZID="UTC-12:00":20261110T000000
+DTSTAMP:20261004T014637Z
+UID:7cc1ca91-8abd-5174-ae0a-e10fce4d542a
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 5-9\, 2027\n📍 会议地点: Krak
+ ów\, Poland\n⏰ 原始截止时间 (AoE): 2026-11-09 23:59:00\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https
+ ://icalp.uj.edu.pl/\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Kraków\, Poland
+URL:https://icalp.uj.edu.pl/
+X-CCFDDL-CONFERENCE:ICALP 2027
+X-CCFDDL-ID:icalp27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICALP 2027 Final Decisions [Track B first round\; Track A and Trac
+ k B second round TBA]
+DTSTART;TZID="UTC-12:00":20261208T235900
+DTEND;TZID="UTC-12:00":20261209T000000
+DTSTAMP:20261004T014637Z
+UID:ef4b85a8-2828-5b46-bccf-58156afe07b1
+DESCRIPTION:EATCS International Colloquium on Automata\, Languages\, and P
+ rogramming\n🗓️ 会议时间: July 5-9\, 2027\n📍 会议地点: Krak
+ ów\, Poland\n⏰ 原始截止时间 (AoE): 2026-12-08 23:59:00\n分类: 
+ 计算机科学理论 (CT)\nCCF B\, CORE A*\, THCPL A\n会议官网: https
+ ://icalp.uj.edu.pl/\nDBLP索引: https://dblp.org/db/conf/icalp
+LOCATION:Kraków\, Poland
+URL:https://icalp.uj.edu.pl/
+X-CCFDDL-CONFERENCE:ICALP 2027
+X-CCFDDL-ID:icalp27
+END:VEVENT
+END:VCALENDAR

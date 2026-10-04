@@ -1,0 +1,793 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:AFT 2019 Deadline
+DTSTART;TZID="UTC-12:00":20190524T235959
+DTEND;TZID="UTC-12:00":20190525T000059
+DTSTAMP:20261004T014750Z
+UID:4854ca65-68d9-5586-b5e2-1ebc3af57049
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: October 21-2
+ 3\, 2019\n📍 Location: Zurich\, Switzerland\n⏰ Original Deadline (UTC-
+ 12): 2019-05-24 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E B\nConference Website: https://aft.ifca.ai/aft19/index.html\nDBLP Index:
+  https://dblp.org/db/conf/aft
+LOCATION:Zurich\, Switzerland
+URL:https://aft.ifca.ai/aft19/index.html
+X-CCFDDL-CONFERENCE:AFT 2019
+X-CCFDDL-ID:aft19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2020 Deadline
+DTSTART;TZID="UTC-12:00":20200611T235959
+DTEND;TZID="UTC-12:00":20200612T000059
+DTSTAMP:20261004T014750Z
+UID:e1c604fb-9b20-5944-8427-a9620e40ce5d
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: October 21-2
+ 3\, 2020\n📍 Location: Online\n⏰ Original Deadline (UTC-12): 2020-06-1
+ 1 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nConferenc
+ e Website: https://aft.ifca.ai/aft20/index.html\nDBLP Index: https://dblp.
+ org/db/conf/aft
+LOCATION:Online
+URL:https://aft.ifca.ai/aft20/index.html
+X-CCFDDL-CONFERENCE:AFT 2020
+X-CCFDDL-ID:aft20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210527T235900
+DTEND;TZID="UTC-12:00":20210528T000000
+DTSTAMP:20261004T014750Z
+UID:5e739962-1cc6-5f7f-b561-9b75b37b174b
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: September 26
+ -28\, 2021\n📍 Location: Online\n⏰ Original Deadline (UTC-12): 2021-05
+ -27 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nConfere
+ nce Website: https://aft.ifca.ai/aft21/index.html\nDBLP Index: https://dbl
+ p.org/db/conf/aft
+LOCATION:Online
+URL:https://aft.ifca.ai/aft21/index.html
+X-CCFDDL-CONFERENCE:AFT 2021
+X-CCFDDL-ID:aft21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:AFT 2022 Deadline
+DTSTART;TZID="UTC-07:00":20220513T235959
+DTEND;TZID="UTC-07:00":20220514T000059
+DTSTAMP:20261004T014750Z
+UID:e456d58c-32dd-51f3-ae89-0e528ba93fa6
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: September 19
+ -21\, 2022\n📍 Location: Cambridge\, MA\, USA\n⏰ Original Deadline (UT
+ C-7): 2022-05-13 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\nConference Website: https://aft.ifca.ai/aft22/index.html\nDBLP Index
+ : https://dblp.org/db/conf/aft
+LOCATION:Cambridge\, MA\, USA
+URL:https://aft.ifca.ai/aft22/index.html
+X-CCFDDL-CONFERENCE:AFT 2022
+X-CCFDDL-ID:aft22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230615T235959
+DTEND;TZID="UTC-12:00":20230616T000059
+DTSTAMP:20261004T014750Z
+UID:4cab119d-d9d8-57d0-b056-ea739d600c0f
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: October 23-2
+ 5\, 2023\n📍 Location: Princeton\, NJ\, USA\n⏰ Original Deadline (UTC-
+ 12): 2023-06-15 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E B\nConference Website: https://aft.ifca.ai/aft23/index.html\nDBLP Index:
+  https://dblp.org/db/conf/aft
+LOCATION:Princeton\, NJ\, USA
+URL:https://aft.ifca.ai/aft23/index.html
+X-CCFDDL-CONFERENCE:AFT 2023
+X-CCFDDL-ID:aft23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240515T235959
+DTEND;TZID="UTC-12:00":20240516T000059
+DTSTAMP:20261004T014750Z
+UID:ac68970d-0f4b-5bf5-865b-42d3ba16be60
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: September 23
+ -25\, 2024\n📍 Location: Vienna\, Austria\n⏰ Original Deadline (UTC-12
+ ): 2024-05-15 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE 
+ B\nConference Website: https://aft.ifca.ai/aft24/index.html\nDBLP Index: h
+ ttps://dblp.org/db/conf/aft
+LOCATION:Vienna\, Austria
+URL:https://aft.ifca.ai/aft24/index.html
+X-CCFDDL-CONFERENCE:AFT 2024
+X-CCFDDL-ID:aft24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240522T235959
+DTEND;TZID="UTC-12:00":20240523T000059
+DTSTAMP:20261004T014750Z
+UID:b2e5969a-7c56-57a6-9219-d85130bb945a
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: September 23
+ -25\, 2024\n📍 Location: Vienna\, Austria\n⏰ Original Deadline (UTC-12
+ ): 2024-05-22 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE 
+ B\nConference Website: https://aft.ifca.ai/aft24/index.html\nDBLP Index: h
+ ttps://dblp.org/db/conf/aft
+LOCATION:Vienna\, Austria
+URL:https://aft.ifca.ai/aft24/index.html
+X-CCFDDL-CONFERENCE:AFT 2024
+X-CCFDDL-ID:aft24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250528T235959
+DTEND;TZID="UTC-12:00":20250529T000059
+DTSTAMP:20261004T014750Z
+UID:fe7a6a21-2ab2-5cb4-89ab-5023ceb0cf38
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: October 8-10
+ \, 2025\n📍 Location: Pittsburgh\, PA\, USA\n⏰ Original Deadline (UTC-
+ 12): 2025-05-28 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E B\nConference Website: https://aft.ifca.ai/aft25/index.html\nDBLP Index:
+  https://dblp.org/db/conf/aft
+LOCATION:Pittsburgh\, PA\, USA
+URL:https://aft.ifca.ai/aft25/index.html
+X-CCFDDL-CONFERENCE:AFT 2025
+X-CCFDDL-ID:aft25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260520T235959
+DTEND;TZID="UTC-12:00":20260521T000059
+DTSTAMP:20261004T014750Z
+UID:d976e663-7aec-5447-a70d-08bdf32abaea
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: October 7-9
+ \, 2026\n📍 Location: London\, UK\n⏰ Original Deadline (UTC-12): 2026-
+ 05-20 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nConfe
+ rence Website: https://aft.ifca.ai/aft26/index.html\nDBLP Index: https://d
+ blp.org/db/conf/aft
+LOCATION:London\, UK
+URL:https://aft.ifca.ai/aft26/index.html
+X-CCFDDL-CONFERENCE:AFT 2026
+X-CCFDDL-ID:aft26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260527T235959
+DTEND;TZID="UTC-12:00":20260528T000059
+DTSTAMP:20261004T014750Z
+UID:06b1d6ac-89a0-5e7b-b345-5629d6eeca8b
+DESCRIPTION:Advances in Financial Technologies\n🗓️ Date: October 7-9
+ \, 2026\n📍 Location: London\, UK\n⏰ Original Deadline (UTC-12): 2026-
+ 05-27 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nConfe
+ rence Website: https://aft.ifca.ai/aft26/index.html\nDBLP Index: https://d
+ blp.org/db/conf/aft
+LOCATION:London\, UK
+URL:https://aft.ifca.ai/aft26/index.html
+X-CCFDDL-CONFERENCE:AFT 2026
+X-CCFDDL-ID:aft26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APBC 2025 Deadline
+DTSTART:20250715T235900Z
+DTEND:20250716T000000Z
+DTSTAMP:20261004T014750Z
+UID:aad44767-9eb5-5fd0-a692-1b34ae7a1104
+DESCRIPTION:Asia Pacific Bioinformatics Conference\n🗓️ Date: Septembe
+ r 19-22\, 2025\n📍 Location: Nanjing， China\n⏰ Original Deadline (UT
+ C+0): 2025-07-15 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\nConference Website: https://bioinfo.nuaa.edu.cn/apbc2025/main.psp\nD
+ BLP Index: https://dblp.org/db/conf/apbc
+LOCATION:Nanjing， China
+URL:https://bioinfo.nuaa.edu.cn/apbc2025/main.psp
+X-CCFDDL-CONFERENCE:APBC 2025
+X-CCFDDL-ID:apbc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APBC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260717T235900
+DTEND;TZID="UTC-12:00":20260718T000000
+DTSTAMP:20261004T014750Z
+UID:0f787a87-4360-5ba8-b12e-72f532c1a0ae
+DESCRIPTION:Asia Pacific Bioinformatics Conference\n🗓️ Date: October 
+ 22-24\, 2026\n📍 Location: Hsinchu\, Taiwan， China\n⏰ Original Deadl
+ ine (AoE): 2026-07-17 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\nConference Website: https://www.apbc2026.com/home\nDBLP Index: 
+ https://dblp.org/db/conf/apbc
+LOCATION:Hsinchu\, Taiwan， China
+URL:https://www.apbc2026.com/home
+X-CCFDDL-CONFERENCE:APBC 2026
+X-CCFDDL-ID:apbc26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210905T235900
+DTEND;TZID="UTC-12:00":20210906T000000
+DTSTAMP:20261004T014750Z
+UID:79162e4b-4b23-5d9d-b5ce-6eb507ba0746
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ Date: Decem
+ ber 15-18\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (AoE): 202
+ 1-09-05 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nCon
+ ference Website: https://bigdataieee.org/BigData2021/\nDBLP Index: https:/
+ /dblp.org/db/conf/bigdataconf
+LOCATION:Virtual
+URL:https://bigdataieee.org/BigData2021/
+X-CCFDDL-CONFERENCE:BigData 2021
+X-CCFDDL-ID:bigdata21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220903T235900
+DTEND;TZID="UTC-12:00":20220904T000000
+DTSTAMP:20261004T014750Z
+UID:42afc0d5-5b16-593e-875e-55e8071202f1
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ Date: Decem
+ ber 18-20\, 2022\n📍 Location: Osaka\, Japan\n⏰ Original Deadline (AoE
+ ): 2022-09-03 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE 
+ B\nConference Website: https://bigdataieee.org/BigData2022/\nDBLP Index: h
+ ttps://dblp.org/db/conf/bigdataconf
+LOCATION:Osaka\, Japan
+URL:https://bigdataieee.org/BigData2022/
+X-CCFDDL-CONFERENCE:BigData 2022
+X-CCFDDL-ID:bigdata22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230903T235900
+DTEND;TZID="UTC-12:00":20230904T000000
+DTSTAMP:20261004T014750Z
+UID:f2c33421-8ea5-5586-8cc4-d1ca5bd9621a
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ Date: Decem
+ ber 15-18\, 2023\n📍 Location: Sorrento\, Italy\n⏰ Original Deadline (
+ AoE): 2023-09-03 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\nConference Website: https://bigdataieee.org/BigData2023/\nDBLP Index
+ : https://dblp.org/db/conf/bigdataconf
+LOCATION:Sorrento\, Italy
+URL:https://bigdataieee.org/BigData2023/
+X-CCFDDL-CONFERENCE:BigData 2023
+X-CCFDDL-ID:bigdata23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240908T235900
+DTEND;TZID="UTC-12:00":20240909T000000
+DTSTAMP:20261004T014750Z
+UID:aa610530-314d-5660-bcb8-834569b30ee5
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ Date: Decem
+ ber 16-18\, 2024\n📍 Location: Washington DC\, USA\n⏰ Original Deadlin
+ e (AoE): 2024-09-08 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\,
+  CORE B\nConference Website: https://bigdataieee.org/BigData2024/\nDBLP In
+ dex: https://dblp.org/db/conf/bigdataconf
+LOCATION:Washington DC\, USA
+URL:https://bigdataieee.org/BigData2024/
+X-CCFDDL-CONFERENCE:BigData 2024
+X-CCFDDL-ID:bigdata24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250829T235959
+DTEND;TZID="UTC-12:00":20250830T000059
+DTSTAMP:20261004T014750Z
+UID:e8b462e8-2ad1-5670-8a34-d97edbef21d9
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ Date: Decem
+ ber 9-11\, 2025\n📍 Location: Macau SAR\, China\n⏰ Original Deadline (
+ AoE): 2025-08-29 23:59:59\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\nConference Website: https://conferences.cis.um.edu.mo/ieeebigdata202
+ 5/\nDBLP Index: https://dblp.org/db/conf/bigdataconf
+LOCATION:Macau SAR\, China
+URL:https://conferences.cis.um.edu.mo/ieeebigdata2025/
+X-CCFDDL-CONFERENCE:BigData 2025
+X-CCFDDL-ID:bigdata25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260821T235959
+DTEND;TZID="UTC-12:00":20260822T000059
+DTSTAMP:20261004T014750Z
+UID:a8e59153-87f1-5294-83ce-341c46617828
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ Date: Decem
+ ber 14-17\, 2026\n📍 Location: Phoenix\, Arizona\, United State\n⏰ Ori
+ ginal Deadline (AoE): 2026-08-21 23:59:59\nCategory: 交叉/综合/新兴 
+ (MX)\nCCF C\, CORE B\nConference Website: https://bigdataieee.org/BigData2
+ 026/\nDBLP Index: https://dblp.org/db/conf/bigdataconf
+LOCATION:Phoenix\, Arizona\, United State
+URL:https://bigdataieee.org/BigData2026/
+X-CCFDDL-CONFERENCE:BigData 2026
+X-CCFDDL-ID:bigdata26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2021 Deadline [Optional early submission]
+DTSTART:20210301T050000Z
+DTEND:20210301T050100Z
+DTSTAMP:20261004T014750Z
+UID:1cf844fd-b107-520c-9b05-85ab5c139645
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : September 6-11\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UT
+ C+0): 2021-03-01 05:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\, THCPL B\nConference Website: https://conferences.computer.org/cloud
+ /2021/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Virtual
+URL:https://conferences.computer.org/cloud/2021/
+X-CCFDDL-CONFERENCE:Cloud 2021
+X-CCFDDL-ID:cloud21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2021 Deadline [Normal submission]
+DTSTART:20210430T050000Z
+DTEND:20210430T050100Z
+DTSTAMP:20261004T014750Z
+UID:5b28ea6b-589d-5704-8e70-434ecb78357e
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : September 6-11\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UT
+ C+0): 2021-04-30 05:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\, THCPL B\nConference Website: https://conferences.computer.org/cloud
+ /2021/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Virtual
+URL:https://conferences.computer.org/cloud/2021/
+X-CCFDDL-CONFERENCE:Cloud 2021
+X-CCFDDL-ID:cloud21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2022 Abstract Deadline [Abstract optional\; full required]
+DTSTART;TZID="UTC-12:00":20220322T235900
+DTEND;TZID="UTC-12:00":20220323T000000
+DTSTAMP:20261004T014750Z
+UID:7a39d31f-fb2a-5e33-95c8-930f58207034
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 11-15\, 2022\n📍 Location: Barcelona\, Spain (Hybrid)\n⏰ Origin
+ al Deadline (AoE): 2022-03-22 23:59:00\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF C\, CORE B\, THCPL B\nConference Website: https://conferences.compu
+ ter.org/cloud/2022/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Barcelona\, Spain (Hybrid)
+URL:https://conferences.computer.org/cloud/2022/
+X-CCFDDL-CONFERENCE:Cloud 2022
+X-CCFDDL-ID:cloud22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2022 Deadline [Abstract optional\; full required]
+DTSTART;TZID="UTC-12:00":20220401T235900
+DTEND;TZID="UTC-12:00":20220402T000000
+DTSTAMP:20261004T014750Z
+UID:89d2565f-c2b2-581a-aa55-a81d5e3421d3
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 11-15\, 2022\n📍 Location: Barcelona\, Spain (Hybrid)\n⏰ Origin
+ al Deadline (AoE): 2022-04-01 23:59:00\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF C\, CORE B\, THCPL B\nConference Website: https://conferences.compu
+ ter.org/cloud/2022/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Barcelona\, Spain (Hybrid)
+URL:https://conferences.computer.org/cloud/2022/
+X-CCFDDL-CONFERENCE:Cloud 2022
+X-CCFDDL-ID:cloud22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230325T235900
+DTEND;TZID="UTC-12:00":20230326T000000
+DTSTAMP:20261004T014750Z
+UID:91e860f7-29cd-5824-9047-be2894918bc1
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 3-8\, 2023\n📍 Location: Chicago\, USA (Hybrid)\n⏰ Original Dea
+ dline (AoE): 2023-03-25 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF
+  C\, CORE B\, THCPL B\nConference Website: https://conferences.computer.or
+ g/cloud/2023/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Chicago\, USA (Hybrid)
+URL:https://conferences.computer.org/cloud/2023/
+X-CCFDDL-CONFERENCE:Cloud 2023
+X-CCFDDL-ID:cloud23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240331T235900
+DTEND;TZID="UTC-12:00":20240401T000000
+DTSTAMP:20261004T014750Z
+UID:07f1f540-626d-5d5e-8e67-f2da372c7d37
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 8-11\, 2024\n📍 Location: Shenzhen\, China\n⏰ Original Deadline
+  (AoE): 2024-03-31 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, 
+ CORE B\, THCPL B\nConference Website: https://cloud.conferences.computer.o
+ rg/2024/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Shenzhen\, China
+URL:https://cloud.conferences.computer.org/2024/
+X-CCFDDL-CONFERENCE:Cloud 2024
+X-CCFDDL-ID:cloud24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250310T230000
+DTEND;TZID="UTC-12:00":20250310T230100
+DTSTAMP:20261004T014750Z
+UID:de58c889-95dc-5edb-a9c3-8f3cc84517e8
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 8-11\, 2025\n📍 Location: Helsinki\, Finland\n⏰ Original Deadli
+ ne (AoE): 2025-03-10 23:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\, THCPL B\nConference Website: https://services.conferences.comp
+ uter.org/2025/cloud/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Helsinki\, Finland
+URL:https://services.conferences.computer.org/2025/cloud/
+X-CCFDDL-CONFERENCE:Cloud 2025
+X-CCFDDL-ID:cloud25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260322T230000
+DTEND;TZID="UTC-12:00":20260322T230100
+DTSTAMP:20261004T014750Z
+UID:a10efd5b-2bec-535b-bfd6-2b0a5ca4d948
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 13-17\, 2026\n📍 Location: Sydney\, Australia\n⏰ Original Deadl
+ ine (AoE): 2026-03-22 23:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\, THCPL B\nConference Website: https://services.conferences.comp
+ uter.org/2026/cloud/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Sydney\, Australia
+URL:https://services.conferences.computer.org/2026/cloud/
+X-CCFDDL-CONFERENCE:Cloud 2026
+X-CCFDDL-ID:cloud26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230201T235959
+DTEND;TZID="UTC+08:00":20230202T000059
+DTSTAMP:20261004T014750Z
+UID:f8f22093-6053-5120-b5ba-9479782fbc76
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 27-29\, 2023\n📍 Location: Sydney\, Australia (Hybrid)\n⏰ Origin
+ al Deadline (UTC+8): 2023-02-01 23:59:59\nCategory: 交叉/综合/新兴 (
+ MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciencesociety.o
+ rg/cogsci-2023/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Sydney\, Australia (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2023/
+X-CCFDDL-CONFERENCE:CogSci 2023
+X-CCFDDL-ID:cogsci23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240201T235959
+DTEND;TZID="UTC+08:00":20240202T000059
+DTSTAMP:20261004T014750Z
+UID:b70a9a9e-f2cd-5b0b-a6a4-98bc158e60ae
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 25-27\, 2024\n📍 Location: Rotterdam\, Netherlands (Hybrid)\n⏰ O
+ riginal Deadline (UTC+8): 2024-02-01 23:59:59\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciencesoci
+ ety.org/cogsci-2024/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rotterdam\, Netherlands (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2024/
+X-CCFDDL-CONFERENCE:CogSci 2024
+X-CCFDDL-ID:cogsci24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250201T235959
+DTEND;TZID="UTC+08:00":20250202T000059
+DTSTAMP:20261004T014750Z
+UID:63724181-5d5a-55ed-9a19-586aee66e88e
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 31-August 2\, 2025\n📍 Location: San Francisco\, USA (Hybrid)\n⏰
+  Original Deadline (UTC+8): 2025-02-01 23:59:59\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciences
+ ociety.org/cogsci-2025/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:San Francisco\, USA (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2025/
+X-CCFDDL-CONFERENCE:CogSci 2025
+X-CCFDDL-ID:cogsci25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260202T235959
+DTEND;TZID="UTC-12:00":20260203T000059
+DTSTAMP:20261004T014750Z
+UID:1a8e837a-6b23-5fc9-bc8d-663015f49d9e
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 23-25\, 2026\n📍 Location: Rio de Janeiro\, Brazil (Hybrid)\n⏰ O
+ riginal Deadline (AoE): 2026-02-02 23:59:59\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciencesoci
+ ety.org/cogsci-2026/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rio de Janeiro\, Brazil (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2026/
+X-CCFDDL-CONFERENCE:CogSci 2026
+X-CCFDDL-ID:cogsci26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20211104T235900
+DTEND;TZID="UTC-12:00":20211105T000000
+DTSTAMP:20261004T014750Z
+UID:6e4ac366-f912-5459-ad2f-e7fe8e4d4fa0
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 22-25\, 2022\n📍 Location: La Jolla\, CA\, U
+ SA\n⏰ Original Deadline (AoE): 2021-11-04 23:59:00\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2022/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:La Jolla\, CA\, USA
+URL:https://recomb.org/recomb2022/
+X-CCFDDL-CONFERENCE:RECOMB 2022
+X-CCFDDL-ID:recomb22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211104T235900
+DTEND;TZID="UTC-12:00":20211105T000000
+DTSTAMP:20261004T014750Z
+UID:115a25c1-833f-56f4-872c-d22498f31167
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 22-25\, 2022\n📍 Location: La Jolla\, CA\, U
+ SA\n⏰ Original Deadline (AoE): 2021-11-04 23:59:00\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2022/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:La Jolla\, CA\, USA
+URL:https://recomb.org/recomb2022/
+X-CCFDDL-CONFERENCE:RECOMB 2022
+X-CCFDDL-ID:recomb22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20221007T235900
+DTEND;TZID="UTC-12:00":20221008T000000
+DTSTAMP:20261004T014750Z
+UID:fea2b1e5-1829-5897-abc5-db1badf0b9ed
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 16-19\, 2023\n📍 Location: Istanbul\, Turk
+ ey\n⏰ Original Deadline (AoE): 2022-10-07 23:59:00\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2023/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Istanbul\, Turkey
+URL:https://recomb.org/recomb2023/
+X-CCFDDL-CONFERENCE:RECOMB 2023
+X-CCFDDL-ID:recomb23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221014T235900
+DTEND;TZID="UTC-12:00":20221015T000000
+DTSTAMP:20261004T014751Z
+UID:1f9c2692-7240-5217-8990-de7ee7b00085
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 16-19\, 2023\n📍 Location: Istanbul\, Turk
+ ey\n⏰ Original Deadline (AoE): 2022-10-14 23:59:00\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2023/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Istanbul\, Turkey
+URL:https://recomb.org/recomb2023/
+X-CCFDDL-CONFERENCE:RECOMB 2023
+X-CCFDDL-ID:recomb23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20231023T235900
+DTEND;TZID="UTC-12:00":20231024T000000
+DTSTAMP:20261004T014751Z
+UID:da386038-b573-5c47-a8c5-c688c62b4f1d
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 29 - May 2\, 2024\n📍 Location: Cambridge
+ \, MA\, USA\n⏰ Original Deadline (AoE): 2023-10-23 23:59:00\nCategory: 
+ 交叉/综合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: h
+ ttps://recomb.org/recomb2024/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Cambridge\, MA\, USA
+URL:https://recomb.org/recomb2024/
+X-CCFDDL-CONFERENCE:RECOMB 2024
+X-CCFDDL-ID:recomb24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231103T235900
+DTEND;TZID="UTC-12:00":20231104T000000
+DTSTAMP:20261004T014751Z
+UID:01783134-3d4a-5053-9f94-e37e7d578563
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 29 - May 2\, 2024\n📍 Location: Cambridge
+ \, MA\, USA\n⏰ Original Deadline (AoE): 2023-11-03 23:59:00\nCategory: 
+ 交叉/综合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: h
+ ttps://recomb.org/recomb2024/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Cambridge\, MA\, USA
+URL:https://recomb.org/recomb2024/
+X-CCFDDL-CONFERENCE:RECOMB 2024
+X-CCFDDL-ID:recomb24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20241016T235959
+DTEND;TZID="UTC-12:00":20241017T000059
+DTSTAMP:20261004T014751Z
+UID:a97b9b6f-64ec-5ac5-b9fd-bf238281d4fa
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 26-29\, 2025\n📍 Location: Seoul\, Korea\n
+ ⏰ Original Deadline (AoE): 2024-10-16 23:59:59\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://recomb.
+ org/recomb2025/index.html\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Seoul\, Korea
+URL:https://recomb.org/recomb2025/index.html
+X-CCFDDL-CONFERENCE:RECOMB 2025
+X-CCFDDL-ID:recomb25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241025T235959
+DTEND;TZID="UTC-12:00":20241026T000059
+DTSTAMP:20261004T014751Z
+UID:c84cede3-8e06-58b8-b992-9ee7a87b161d
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: April 26-29\, 2025\n📍 Location: Seoul\, Korea\n
+ ⏰ Original Deadline (AoE): 2024-10-25 23:59:59\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://recomb.
+ org/recomb2025/index.html\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Seoul\, Korea
+URL:https://recomb.org/recomb2025/index.html
+X-CCFDDL-CONFERENCE:RECOMB 2025
+X-CCFDDL-ID:recomb25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20251107T235959
+DTEND;TZID="UTC-12:00":20251108T000059
+DTSTAMP:20261004T014751Z
+UID:2dfd7210-cc35-5600-8e14-502cdf2ead2a
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 26 - 29\, 2026\n📍 Location: Thessaloniki\, 
+ Greece\n⏰ Original Deadline (AoE): 2025-11-07 23:59:59\nCategory: 交叉
+ /综合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https:/
+ /recomb.org/recomb2026/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Thessaloniki\, Greece
+URL:https://recomb.org/recomb2026/
+X-CCFDDL-CONFERENCE:RECOMB 2026
+X-CCFDDL-ID:recomb26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251120T235959
+DTEND;TZID="UTC-12:00":20251121T000059
+DTSTAMP:20261004T014751Z
+UID:1c50ecb6-5c3a-50d2-b3a3-c797931109eb
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 26 - 29\, 2026\n📍 Location: Thessaloniki\, 
+ Greece\n⏰ Original Deadline (AoE): 2025-11-20 23:59:59\nCategory: 交叉
+ /综合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https:/
+ /recomb.org/recomb2026/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Thessaloniki\, Greece
+URL:https://recomb.org/recomb2026/
+X-CCFDDL-CONFERENCE:RECOMB 2026
+X-CCFDDL-ID:recomb26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20261028T235959
+DTEND;TZID="UTC-12:00":20261029T000059
+DTSTAMP:20261004T014751Z
+UID:ef5d3338-73bc-58f5-8262-652025b216d3
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 17-20\, 2027\n📍 Location: Toronto\, Canada
+ \n⏰ Original Deadline (AoE): 2026-10-28 23:59:59\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2027/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Toronto\, Canada
+URL:https://recomb.org/recomb2027/
+X-CCFDDL-CONFERENCE:RECOMB 2027
+X-CCFDDL-ID:recomb27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261104T235959
+DTEND;TZID="UTC-12:00":20261105T000059
+DTSTAMP:20261004T014751Z
+UID:97049b97-c2f6-5266-81ed-eef369eee866
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 17-20\, 2027\n📍 Location: Toronto\, Canada
+ \n⏰ Original Deadline (AoE): 2026-11-04 23:59:59\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2027/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Toronto\, Canada
+URL:https://recomb.org/recomb2027/
+X-CCFDDL-CONFERENCE:RECOMB 2027
+X-CCFDDL-ID:recomb27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECOMB 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20261222T235900
+DTEND;TZID="UTC-12:00":20261223T000000
+DTSTAMP:20261004T014751Z
+UID:2b3347cc-4abe-5ce5-9e97-46275a15fc63
+DESCRIPTION:International Conference on Research inComputational Molecular
+  Biology\n🗓️ Date: May 17-20\, 2027\n📍 Location: Toronto\, Canada
+ \n⏰ Original Deadline (AoE): 2026-12-22 23:59:00\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF B\, CORE B\, THCPL A\nConference Website: https://rec
+ omb.org/recomb2027/\nDBLP Index: https://dblp.org/db/conf/recomb
+LOCATION:Toronto\, Canada
+URL:https://recomb.org/recomb2027/
+X-CCFDDL-CONFERENCE:RECOMB 2027
+X-CCFDDL-ID:recomb27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230415T235900
+DTEND;TZID="UTC-12:00":20230416T000000
+DTSTAMP:20261004T014751Z
+UID:c7025c76-6194-5c85-a622-45b35b954ae6
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ Date: October 1-4\, 2023\n📍 Location: Sheraton Waikiki\, Ho
+ nolulu\, Hawaii\, USA (Hybrid)\n⏰ Original Deadline (AoE): 2023-04-15 23
+ :59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nConference We
+ bsite: https://ieeesmc2023.org/\nDBLP Index: https://dblp.org/db/conf/smc
+LOCATION:Sheraton Waikiki\, Honolulu\, Hawaii\, USA (Hybrid)
+URL:https://ieeesmc2023.org/
+X-CCFDDL-CONFERENCE:SMC 2023
+X-CCFDDL-ID:smc23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240430T235900
+DTEND;TZID="UTC-12:00":20240501T000000
+DTSTAMP:20261004T014751Z
+UID:73897df1-eb1c-5e7b-9299-e9f31b2448d3
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ Date: October 7-10\, 2024\n📍 Location: Borneo Convention Ce
+ ntre Kuching\, Sarawak\, Malaysia\n⏰ Original Deadline (AoE): 2024-04-30
+  23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\nConference
+  Website: https://www.ieeesmc2024.org/\nDBLP Index: https://dblp.org/db/co
+ nf/smc
+LOCATION:Borneo Convention Centre Kuching\, Sarawak\, Malaysia
+URL:https://www.ieeesmc2024.org/
+X-CCFDDL-CONFERENCE:SMC 2024
+X-CCFDDL-ID:smc24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250504T235959
+DTEND;TZID="UTC+08:00":20250505T000059
+DTSTAMP:20261004T014751Z
+UID:08a6843c-f2de-5c40-ab23-769cf3717a41
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ Date: October 6-8\, 2025\n📍 Location: Vienna\, Austria (Hyb
+ rid)\n⏰ Original Deadline (UTC+8): 2025-05-04 23:59:59\nCategory: 交叉
+ /综合/新兴 (MX)\nCCF C\, CORE B\nConference Website: https://www.ieees
+ mc2025.org/\nDBLP Index: https://dblp.org/db/conf/smc
+LOCATION:Vienna\, Austria (Hybrid)
+URL:https://www.ieeesmc2025.org/
+X-CCFDDL-CONFERENCE:SMC 2025
+X-CCFDDL-ID:smc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2026 Deadline
+DTSTART;TZID="UTC-07:00":20260503T235959
+DTEND;TZID="UTC-07:00":20260504T000059
+DTSTAMP:20261004T014751Z
+UID:2d992c2f-0ba2-5f0a-b807-496fb5d83e80
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ Date: October 4-7\, 2026\n📍 Location: Bellevue\, WA\, USA\n
+ ⏰ Original Deadline (UTC-7): 2026-05-03 23:59:59\nCategory: 交叉/综
+ 合/新兴 (MX)\nCCF C\, CORE B\nConference Website: https://www.ieeesmc20
+ 26.org/\nDBLP Index: https://dblp.org/db/conf/smc
+LOCATION:Bellevue\, WA\, USA
+URL:https://www.ieeesmc2026.org/
+X-CCFDDL-CONFERENCE:SMC 2026
+X-CCFDDL-ID:smc26
+END:VEVENT
+END:VCALENDAR

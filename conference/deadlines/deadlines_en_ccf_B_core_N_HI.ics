@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISS 2021 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20210228T235900
+DTEND;TZID="UTC-12:00":20210301T000000
+DTSTAMP:20261004T014750Z
+UID:d425b51a-f201-5644-9bb6-a2ba6077b60c
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 15-17\, 2021\n📍 Location: Łódź\, Poland (H
+ ybrid)\n⏰ Original Deadline (AoE): 2021-02-28 23:59:00\nCategory: 人机
+ 交互与普适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org
+ /2021/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Łódź\, Poland (Hybrid)
+URL:https://iss.acm.org/2021/
+X-CCFDDL-CONFERENCE:ISS 2021
+X-CCFDDL-ID:iss21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2021 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20210705T235900
+DTEND;TZID="UTC-12:00":20210706T000000
+DTSTAMP:20261004T014750Z
+UID:dcae4237-b2ca-564f-8519-4be6e67abb9a
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 15-17\, 2021\n📍 Location: Łódź\, Poland (H
+ ybrid)\n⏰ Original Deadline (AoE): 2021-07-05 23:59:00\nCategory: 人机
+ 交互与普适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org
+ /2021/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Łódź\, Poland (Hybrid)
+URL:https://iss.acm.org/2021/
+X-CCFDDL-CONFERENCE:ISS 2021
+X-CCFDDL-ID:iss21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2022 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20220228T235900
+DTEND;TZID="UTC-12:00":20220301T000000
+DTSTAMP:20261004T014750Z
+UID:a594762c-9296-52a1-b3a3-e5447766cf05
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 21-23\, 2022\n📍 Location: Wellington\, New Ze
+ aland (Hybrid)\n⏰ Original Deadline (AoE): 2022-02-28 23:59:00\nCategory
+ : 人机交互与普适计算 (HI)\nCCF B\nConference Website: https://iss
+ 2022.acm.org/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Wellington\, New Zealand (Hybrid)
+URL:https://iss2022.acm.org/
+X-CCFDDL-CONFERENCE:ISS 2022
+X-CCFDDL-ID:iss22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2022 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20220705T235900
+DTEND;TZID="UTC-12:00":20220706T000000
+DTSTAMP:20261004T014750Z
+UID:f6b04ce7-8271-584d-b543-16ddc4e99fd3
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 21-23\, 2022\n📍 Location: Wellington\, New Ze
+ aland (Hybrid)\n⏰ Original Deadline (AoE): 2022-07-05 23:59:00\nCategory
+ : 人机交互与普适计算 (HI)\nCCF B\nConference Website: https://iss
+ 2022.acm.org/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Wellington\, New Zealand (Hybrid)
+URL:https://iss2022.acm.org/
+X-CCFDDL-CONFERENCE:ISS 2022
+X-CCFDDL-ID:iss22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2023 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20230215T235900
+DTEND;TZID="UTC-12:00":20230216T000000
+DTSTAMP:20261004T014750Z
+UID:e431dd8b-8483-517d-8748-d3ba1172d01c
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 6-8\, 2023\n📍 Location: Pittsburgh\, PA\, USA
+  (Hybrid)\n⏰ Original Deadline (AoE): 2023-02-15 23:59:00\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF B\nConference Website: https://iss2023.
+ acm.org/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Pittsburgh\, PA\, USA (Hybrid)
+URL:https://iss2023.acm.org/
+X-CCFDDL-CONFERENCE:ISS 2023
+X-CCFDDL-ID:iss23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2023 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20230701T235900
+DTEND;TZID="UTC-12:00":20230702T000000
+DTSTAMP:20261004T014750Z
+UID:d617a260-acc4-5242-ba24-7fff5075d45a
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 6-8\, 2023\n📍 Location: Pittsburgh\, PA\, USA
+  (Hybrid)\n⏰ Original Deadline (AoE): 2023-07-01 23:59:00\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF B\nConference Website: https://iss2023.
+ acm.org/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Pittsburgh\, PA\, USA (Hybrid)
+URL:https://iss2023.acm.org/
+X-CCFDDL-CONFERENCE:ISS 2023
+X-CCFDDL-ID:iss23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2024 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20240222T235900
+DTEND;TZID="UTC-12:00":20240223T000000
+DTSTAMP:20261004T014750Z
+UID:2341ff0f-3f40-5769-94b5-552bcafea034
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: October 28-30\, 2024\n📍 Location: Vancouver\, Canada (
+ Hybrid)\n⏰ Original Deadline (AoE): 2024-02-22 23:59:00\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF B\nConference Website: https://iss2024.
+ acm.org/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Vancouver\, Canada (Hybrid)
+URL:https://iss2024.acm.org/
+X-CCFDDL-CONFERENCE:ISS 2024
+X-CCFDDL-ID:iss24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2024 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20240701T235900
+DTEND;TZID="UTC-12:00":20240702T000000
+DTSTAMP:20261004T014750Z
+UID:fb8cde64-f3d2-53d1-804b-137ae6355aca
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: October 28-30\, 2024\n📍 Location: Vancouver\, Canada (
+ Hybrid)\n⏰ Original Deadline (AoE): 2024-07-01 23:59:00\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF B\nConference Website: https://iss2024.
+ acm.org/\nDBLP Index: https://dblp.org/db/conf/tabletop
+LOCATION:Vancouver\, Canada (Hybrid)
+URL:https://iss2024.acm.org/
+X-CCFDDL-CONFERENCE:ISS 2024
+X-CCFDDL-ID:iss24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [First round 2025]
+DTSTART;TZID="UTC-12:00":20250314T235959
+DTEND;TZID="UTC-12:00":20250315T000059
+DTSTAMP:20261004T014750Z
+UID:28d30562-3ed1-59b0-8045-c7c15472b8da
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2025-03-14 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+X-CCFDDL-CONFERENCE:ISS 2026
+X-CCFDDL-ID:iss26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Second round 2025]
+DTSTART;TZID="UTC-12:00":20250725T235959
+DTEND;TZID="UTC-12:00":20250726T000059
+DTSTAMP:20261004T014750Z
+UID:8e904f94-280c-5339-8967-6e7086b2af0e
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2025-07-25 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+X-CCFDDL-CONFERENCE:ISS 2026
+X-CCFDDL-ID:iss26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Winter round]
+DTSTART;TZID="UTC-12:00":20260212T235959
+DTEND;TZID="UTC-12:00":20260213T000059
+DTSTAMP:20261004T014750Z
+UID:07f109a7-e251-5d37-8663-10bc7a836dad
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2026-02-12 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+X-CCFDDL-CONFERENCE:ISS 2026
+X-CCFDDL-ID:iss26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS 2026 Deadline [Summer round]
+DTSTART;TZID="UTC-12:00":20260722T235959
+DTEND;TZID="UTC-12:00":20260723T000059
+DTSTAMP:20261004T014750Z
+UID:f692d41f-832f-5558-b95f-86ba3aedbac7
+DESCRIPTION:ACM International Conference on Interactive Surfaces and Space
+ s\n🗓️ Date: November 23-26\, 2026\n📍 Location: Turin\, Italy\n⏰ 
+ Original Deadline (AoE): 2026-07-22 23:59:59\nCategory: 人机交互与普
+ 适计算 (HI)\nCCF B\nConference Website: https://iss.acm.org/2026/\nDBLP
+  Index: https://dblp.org/db/conf/tabletop
+LOCATION:Turin\, Italy
+URL:https://iss.acm.org/2026/
+X-CCFDDL-CONFERENCE:ISS 2026
+X-CCFDDL-ID:iss26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210204T235900
+DTEND;TZID="UTC-12:00":20210205T000000
+DTSTAMP:20261004T014750Z
+UID:efd94266-a922-5d6a-8053-bff9b2e0ee63
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 28 - October 1\, 2021\n📍 Location: Virtual
+ \n⏰ Original Deadline (AoE): 2021-02-04 23:59:00\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.org
+ /2021/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Virtual
+URL:https://mobilehci.acm.org/2021/
+X-CCFDDL-CONFERENCE:MobileHCI 2021
+X-CCFDDL-ID:mobilehci21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220203T235900
+DTEND;TZID="UTC-12:00":20220204T000000
+DTSTAMP:20261004T014750Z
+UID:d20f9bca-8d8e-546d-9d06-3dcbd64ca290
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 28-30\, 2022\n📍 Location: Vancouver\, Cana
+ da\n⏰ Original Deadline (AoE): 2022-02-03 23:59:00\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2022/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Vancouver\, Canada
+URL:https://mobilehci.acm.org/2022/
+X-CCFDDL-CONFERENCE:MobileHCI 2022
+X-CCFDDL-ID:mobilehci22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230120T235900
+DTEND;TZID="UTC-12:00":20230121T000000
+DTSTAMP:20261004T014750Z
+UID:392ce951-77a3-5b69-83cd-a4b92e5f839e
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 27-29\, 2023\n📍 Location: Athens\, Greece
+ \n⏰ Original Deadline (AoE): 2023-01-20 23:59:00\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.org
+ /2023/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Athens\, Greece
+URL:https://mobilehci.acm.org/2023/
+X-CCFDDL-CONFERENCE:MobileHCI 2023
+X-CCFDDL-ID:mobilehci23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230127T235900
+DTEND;TZID="UTC-12:00":20230128T000000
+DTSTAMP:20261004T014750Z
+UID:4260e7a5-6820-5c60-80de-e1acc110d502
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 27-29\, 2023\n📍 Location: Athens\, Greece
+ \n⏰ Original Deadline (AoE): 2023-01-27 23:59:00\nCategory: 人机交互
+ 与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.org
+ /2023/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Athens\, Greece
+URL:https://mobilehci.acm.org/2023/
+X-CCFDDL-CONFERENCE:MobileHCI 2023
+X-CCFDDL-ID:mobilehci23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240214T235900
+DTEND;TZID="UTC-12:00":20240215T000000
+DTSTAMP:20261004T014750Z
+UID:75b6f231-7341-5f26-a5fc-fb98e10afa80
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: October 1-3\, 2024\n📍 Location: Melbourne\, Australi
+ a\n⏰ Original Deadline (AoE): 2024-02-14 23:59:00\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2024/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Melbourne\, Australia
+URL:https://mobilehci.acm.org/2024/
+X-CCFDDL-CONFERENCE:MobileHCI 2024
+X-CCFDDL-ID:mobilehci24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240221T235900
+DTEND;TZID="UTC-12:00":20240222T000000
+DTSTAMP:20261004T014750Z
+UID:19773096-8651-53c5-89ff-18994727ae71
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: October 1-3\, 2024\n📍 Location: Melbourne\, Australi
+ a\n⏰ Original Deadline (AoE): 2024-02-21 23:59:00\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2024/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Melbourne\, Australia
+URL:https://mobilehci.acm.org/2024/
+X-CCFDDL-CONFERENCE:MobileHCI 2024
+X-CCFDDL-ID:mobilehci24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250130T235900
+DTEND;TZID="UTC-12:00":20250131T000000
+DTSTAMP:20261004T014750Z
+UID:69e78ef1-72cd-525a-93f2-e5382ceb8078
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 23-25\, 2025\n📍 Location: Sharm El-Sheikh
+ \, Egypt\n⏰ Original Deadline (AoE): 2025-01-30 23:59:00\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehc
+ i.acm.org/2025/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Sharm El-Sheikh\, Egypt
+URL:https://mobilehci.acm.org/2025/
+X-CCFDDL-CONFERENCE:MobileHCI 2025
+X-CCFDDL-ID:mobilehci25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250206T235900
+DTEND;TZID="UTC-12:00":20250207T000000
+DTSTAMP:20261004T014750Z
+UID:b4642b25-cc7d-5a0a-82ec-ee3cab7289ea
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 23-25\, 2025\n📍 Location: Sharm El-Sheikh
+ \, Egypt\n⏰ Original Deadline (AoE): 2025-02-06 23:59:00\nCategory: 人
+ 机交互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehc
+ i.acm.org/2025/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Sharm El-Sheikh\, Egypt
+URL:https://mobilehci.acm.org/2025/
+X-CCFDDL-CONFERENCE:MobileHCI 2025
+X-CCFDDL-ID:mobilehci25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260129T235900
+DTEND;TZID="UTC-12:00":20260130T000000
+DTSTAMP:20261004T014750Z
+UID:adfc2aa7-2ee2-5935-91f7-d8e39f978c70
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 1-3\, 2026\n📍 Location: Swansea\, Wales\, 
+ UK\n⏰ Original Deadline (AoE): 2026-01-29 23:59:00\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2026/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Swansea\, Wales\, UK
+URL:https://mobilehci.acm.org/2026/
+X-CCFDDL-CONFERENCE:MobileHCI 2026
+X-CCFDDL-ID:mobilehci26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20270210T235959
+DTEND;TZID="UTC-12:00":20270211T000059
+DTSTAMP:20261004T014750Z
+UID:422e44fe-5039-5e0f-8f4f-5d058bfedc9b
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 20-23\, 2027\n📍 Location: Limassol\, Cypru
+ s\n⏰ Original Deadline (AoE): 2027-02-10 23:59:59\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2027/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+X-CCFDDL-CONFERENCE:MobileHCI 2027
+X-CCFDDL-ID:mobilehci27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270217T235959
+DTEND;TZID="UTC-12:00":20270218T000059
+DTSTAMP:20261004T014750Z
+UID:d9281df6-e93b-591d-84df-d17fbe58d5bf
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 20-23\, 2027\n📍 Location: Limassol\, Cypru
+ s\n⏰ Original Deadline (AoE): 2027-02-17 23:59:59\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2027/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+X-CCFDDL-CONFERENCE:MobileHCI 2027
+X-CCFDDL-ID:mobilehci27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MobileHCI 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270617T235900
+DTEND;TZID="UTC-12:00":20270618T000000
+DTSTAMP:20261004T014750Z
+UID:fd66d3ae-a6e6-5f8b-b84f-a5c7ad4962e8
+DESCRIPTION:ACM International Conference on Mobile Human-Computer Interact
+ ion\n🗓️ Date: September 20-23\, 2027\n📍 Location: Limassol\, Cypru
+ s\n⏰ Original Deadline (AoE): 2027-06-17 23:59:00\nCategory: 人机交
+ 互与普适计算 (HI)\nCCF B\nConference Website: https://mobilehci.acm.
+ org/2027/\nDBLP Index: https://dblp.org/db/conf/mhci
+LOCATION:Limassol\, Cyprus
+URL:https://mobilehci.acm.org/2027/
+X-CCFDDL-CONFERENCE:MobileHCI 2027
+X-CCFDDL-ID:mobilehci27
+END:VEVENT
+END:VCALENDAR

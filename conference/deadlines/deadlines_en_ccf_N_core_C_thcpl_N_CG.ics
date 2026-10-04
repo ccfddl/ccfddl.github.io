@@ -1,0 +1,249 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210416T235900
+DTEND;TZID="UTC-12:00":20210417T000000
+DTSTAMP:20261004T014736Z
+UID:b54a20f2-c907-5932-922d-baf9b7203f18
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 17-20\, 2021\n
+ 📍 Location: Online\n⏰ Original Deadline (AoE): 2021-04-16 23:59:00\nC
+ ategory: 计算机图形学与多媒体 (CG)\nCORE C\nConference Website: 
+ https://ieee-cog.org/2021/\nDBLP Index: https://dblp.org/db/conf/cig
+LOCATION:Online
+URL:https://ieee-cog.org/2021/
+X-CCFDDL-CONFERENCE:IEEE CoG 2021
+X-CCFDDL-ID:cog21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220301T235900
+DTEND;TZID="UTC-12:00":20220302T000000
+DTSTAMP:20261004T014736Z
+UID:a37d4eb7-739d-5bae-991b-764ec1a0dde8
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 21-24\, 2022\n
+ 📍 Location: Online\n⏰ Original Deadline (AoE): 2022-03-01 23:59:00\nC
+ ategory: 计算机图形学与多媒体 (CG)\nCORE C\nConference Website: 
+ https://ieee-cog.org/2022/\nDBLP Index: https://dblp.org/db/conf/cig
+LOCATION:Online
+URL:https://ieee-cog.org/2022/
+X-CCFDDL-CONFERENCE:IEEE CoG 2022
+X-CCFDDL-ID:cog22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230317T235900
+DTEND;TZID="UTC-12:00":20230318T000000
+DTSTAMP:20261004T014736Z
+UID:3553b103-134c-5f43-b5b7-768626af3a2f
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: TBD\n📍 Location: Bo
+ ston\, MA\, USA\n⏰ Original Deadline (AoE): 2023-03-17 23:59:00\nCategor
+ y: 计算机图形学与多媒体 (CG)\nCORE C\nConference Website: https:
+ //2023.ieee-cog.org/\nDBLP Index: https://dblp.org/db/conf/cig
+LOCATION:Boston\, MA\, USA
+URL:https://2023.ieee-cog.org/
+X-CCFDDL-CONFERENCE:IEEE CoG 2023
+X-CCFDDL-ID:cog23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250315T235900
+DTEND;TZID="UTC-12:00":20250316T000000
+DTSTAMP:20261004T014736Z
+UID:121a5efd-a7f8-5d4e-81f5-e683abc236ed
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 26-29\, 2025\n
+ 📍 Location: Lisbon\, Portugal\n⏰ Original Deadline (AoE): 2025-03-15 
+ 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConferenc
+ e Website: https://cog2025.inesc-id.pt/\nDBLP Index: https://dblp.org/db/c
+ onf/cig
+LOCATION:Lisbon\, Portugal
+URL:https://cog2025.inesc-id.pt/
+X-CCFDDL-CONFERENCE:IEEE CoG 2025
+X-CCFDDL-ID:cog25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260317T235900
+DTEND;TZID="UTC-12:00":20260318T000000
+DTSTAMP:20261004T014736Z
+UID:1410bf08-9afe-57f3-9661-9646a94783c2
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: September 1-4\, 2026\n
+ 📍 Location: Madrid\, Spain\n⏰ Original Deadline (AoE): 2026-03-17 23:
+ 59:00\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConference W
+ ebsite: https://cog2026.org/\nDBLP Index: https://dblp.org/db/conf/cig
+LOCATION:Madrid\, Spain
+URL:https://cog2026.org/
+X-CCFDDL-CONFERENCE:IEEE CoG 2026
+X-CCFDDL-ID:cog26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 Deadline [Full Technical Paper]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20261004T014736Z
+UID:891ce69e-b4df-59c5-833f-bd9b62fa7d33
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 2-5\, 2027\n
+ 📍 Location: Aizuwakamatsu\, Japan\n⏰ Original Deadline (AoE): 2027-03
+ -01 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConfe
+ rence Website: https://cog2027.u-aizu.ac.jp/\nDBLP Index: https://dblp.org
+ /db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+X-CCFDDL-CONFERENCE:IEEE CoG 2027
+X-CCFDDL-ID:cog27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 Final Decisions [Full Technical Paper]
+DTSTART;TZID="UTC-12:00":20270503T235900
+DTEND;TZID="UTC-12:00":20270504T000000
+DTSTAMP:20261004T014736Z
+UID:f8d5aaec-d763-5c5b-a028-8120ab0e6b4e
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 2-5\, 2027\n
+ 📍 Location: Aizuwakamatsu\, Japan\n⏰ Original Deadline (AoE): 2027-05
+ -03 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConfe
+ rence Website: https://cog2027.u-aizu.ac.jp/\nDBLP Index: https://dblp.org
+ /db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+X-CCFDDL-CONFERENCE:IEEE CoG 2027
+X-CCFDDL-ID:cog27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 Deadline [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20270515T235959
+DTEND;TZID="UTC-12:00":20270516T000059
+DTSTAMP:20261004T014736Z
+UID:ede302fc-dd72-527d-bde1-8ca1fdd04ac2
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 2-5\, 2027\n
+ 📍 Location: Aizuwakamatsu\, Japan\n⏰ Original Deadline (AoE): 2027-05
+ -15 23:59:59\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConfe
+ rence Website: https://cog2027.u-aizu.ac.jp/\nDBLP Index: https://dblp.org
+ /db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+X-CCFDDL-CONFERENCE:IEEE CoG 2027
+X-CCFDDL-ID:cog27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IEEE CoG 2027 Final Decisions [Auxiliary Paper]
+DTSTART;TZID="UTC-12:00":20270611T235900
+DTEND;TZID="UTC-12:00":20270612T000000
+DTSTAMP:20261004T014736Z
+UID:9e33e98f-738d-5627-81e6-15a87d3649b4
+DESCRIPTION:IEEE Conference on Games\n🗓️ Date: August 2-5\, 2027\n
+ 📍 Location: Aizuwakamatsu\, Japan\n⏰ Original Deadline (AoE): 2027-06
+ -11 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nCORE C\nConfe
+ rence Website: https://cog2027.u-aizu.ac.jp/\nDBLP Index: https://dblp.org
+ /db/conf/cig
+LOCATION:Aizuwakamatsu\, Japan
+URL:https://cog2027.u-aizu.ac.jp/
+X-CCFDDL-CONFERENCE:IEEE CoG 2027
+X-CCFDDL-ID:cog27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210513T235900
+DTEND;TZID="UTC-12:00":20210514T000000
+DTSTAMP:20261004T014736Z
+UID:8ccda678-b80b-5909-add5-8b09c62495c4
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: TBD\n📍 Location: TBD\n⏰ Original Deadlin
+ e (AoE): 2021-05-13 23:59:00\nCategory: 计算机图形学与多媒体 (CG
+ )\nCORE C\nConference Website: https://hpi.de/doellner/cgs-news/papers-acc
+ epted-for-vinci-2021.html\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:TBD
+URL:https://hpi.de/doellner/cgs-news/papers-accepted-for-vinci-2021.html
+X-CCFDDL-CONFERENCE:VINCI 2021
+X-CCFDDL-ID:vinci2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220506T235900
+DTEND;TZID="UTC-12:00":20220507T000000
+DTSTAMP:20261004T014736Z
+UID:8804a115-79e8-56c0-8039-6cdb7870f7bb
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: August 16-18\, 2022\n📍 Location: Chur\, Sw
+ itzerland\n⏰ Original Deadline (AoE): 2022-05-06 23:59:00\nCategory: 计
+ 算机图形学与多媒体 (CG)\nCORE C\nConference Website: https://vinc
+ i-conf.github.io/website/\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Chur\, Switzerland
+URL:https://vinci-conf.github.io/website/
+X-CCFDDL-CONFERENCE:VINCI 2022
+X-CCFDDL-ID:vinci2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230501T235900
+DTEND;TZID="UTC-12:00":20230502T000000
+DTSTAMP:20261004T014736Z
+UID:a9e464fb-8455-5e25-b06b-1919ce34553b
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: TBD\n📍 Location: Guangzhou\, China\n⏰ Or
+ iginal Deadline (AoE): 2023-05-01 23:59:00\nCategory: 计算机图形学
+ 与多媒体 (CG)\nCORE C\nConference Website: https://www.hkust-gz.edu.cn
+ /zh/?p=5197%2F\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Guangzhou\, China
+URL:https://www.hkust-gz.edu.cn/zh/?p=5197%2F
+X-CCFDDL-CONFERENCE:VINCI 2023
+X-CCFDDL-ID:vinci2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240605T235900
+DTEND;TZID="UTC-12:00":20240606T000000
+DTSTAMP:20261004T014736Z
+UID:afb2d684-b670-5210-877e-9a6617632761
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: TBD\n📍 Location: Hsinchu\, Taiwan\n⏰ Ori
+ ginal Deadline (AoE): 2024-06-05 23:59:00\nCategory: 计算机图形学与
+ 多媒体 (CG)\nCORE C\nConference Website: https://iaa.nycu.edu.tw/?p=756
+ 5\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Hsinchu\, Taiwan
+URL:https://iaa.nycu.edu.tw/?p=7565
+X-CCFDDL-CONFERENCE:VINCI 2024
+X-CCFDDL-ID:vinci2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250627T235959
+DTEND;TZID="UTC-12:00":20250628T000059
+DTSTAMP:20261004T014736Z
+UID:c5a8e9cb-443c-59d2-8c6f-8391309a953e
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: December 1-3\, 2025\n📍 Location: Linz\, Au
+ stria\n⏰ Original Deadline (AoE): 2025-06-27 23:59:59\nCategory: 计算
+ 机图形学与多媒体 (CG)\nCORE C\nConference Website: https://vinci20
+ 25.games.cg.jku.at\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Linz\, Austria
+URL:https://vinci2025.games.cg.jku.at
+X-CCFDDL-CONFERENCE:VINCI 2025
+X-CCFDDL-ID:vinci2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VINCI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260729T235959
+DTEND;TZID="UTC-12:00":20260730T000059
+DTSTAMP:20261004T014736Z
+UID:c02c2aba-dd0c-5d04-bdba-87b359b62e10
+DESCRIPTION:International Symposium on Visual Information Communication an
+ d Interaction\n🗓️ Date: November 1-4\, 2026\n📍 Location: Hangzhou
+ \, China\n⏰ Original Deadline (AoE): 2026-07-29 23:59:59\nCategory: 计
+ 算机图形学与多媒体 (CG)\nCORE C\nConference Website: https://vinc
+ i-symp.org/\nDBLP Index: https://dblp.org/db/conf/vinci
+LOCATION:Hangzhou\, China
+URL:https://vinci-symp.org/
+X-CCFDDL-CONFERENCE:VINCI 2026
+X-CCFDDL-ID:vinci2026
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2021 Abstract Deadline [Registration / full pape
+ r]
+DTSTART:20210520T220000Z
+DTEND:20210520T220100Z
+DTSTAMP:20261004T014738Z
+UID:141a1174-e525-55ef-a721-ad97d34ba187
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  14-17\, 2021\n📍 Location: Tokyo\, Japan and Online\n⏰ Original Deadl
+ ine (UTC+0): 2021-05-20 22:00:00\nCategory: 计算机图形学与多媒体
+  (CG)\nCORE A*\nConference Website: https://sa2021.siggraph.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/siggrapha
+LOCATION:Tokyo\, Japan and Online
+URL:https://sa2021.siggraph.org/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2021
+X-CCFDDL-ID:siggrapha21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2021 Deadline [Registration / full paper]
+DTSTART:20210521T220000Z
+DTEND:20210521T220100Z
+DTSTAMP:20261004T014738Z
+UID:4e165339-96cd-5d13-830a-f05746403953
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  14-17\, 2021\n📍 Location: Tokyo\, Japan and Online\n⏰ Original Deadl
+ ine (UTC+0): 2021-05-21 22:00:00\nCategory: 计算机图形学与多媒体
+  (CG)\nCORE A*\nConference Website: https://sa2021.siggraph.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/siggrapha
+LOCATION:Tokyo\, Japan and Online
+URL:https://sa2021.siggraph.org/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2021
+X-CCFDDL-ID:siggrapha21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2022 Abstract Deadline [Registration / full pape
+ r]
+DTSTART;TZID="UTC-12:00":20220519T235900
+DTEND;TZID="UTC-12:00":20220520T000000
+DTSTAMP:20261004T014738Z
+UID:8955be66-b409-5ead-a096-51a405262aa9
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  6-9\, 2022\n📍 Location: EXCO\, Daegu\, South Korea\n⏰ Original Deadl
+ ine (UTC-12): 2022-05-19 23:59:00\nCategory: 计算机图形学与多媒
+ 体 (CG)\nCORE A*\nConference Website: https://sa2022.siggraph.org/\nDBLP 
+ Index: https://dblp.org/db/conf/siggrapha
+LOCATION:EXCO\, Daegu\, South Korea
+URL:https://sa2022.siggraph.org/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2022
+X-CCFDDL-ID:siggrapha22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2022 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20220520T235900
+DTEND;TZID="UTC-12:00":20220521T000000
+DTSTAMP:20261004T014738Z
+UID:4f9cc2cb-3d09-55cd-a3dc-2f392c7ece24
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  6-9\, 2022\n📍 Location: EXCO\, Daegu\, South Korea\n⏰ Original Deadl
+ ine (UTC-12): 2022-05-20 23:59:00\nCategory: 计算机图形学与多媒
+ 体 (CG)\nCORE A*\nConference Website: https://sa2022.siggraph.org/\nDBLP 
+ Index: https://dblp.org/db/conf/siggrapha
+LOCATION:EXCO\, Daegu\, South Korea
+URL:https://sa2022.siggraph.org/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2022
+X-CCFDDL-ID:siggrapha22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2023 Abstract Deadline [Registration / full pape
+ r]
+DTSTART;TZID="UTC-12:00":20230516T235900
+DTEND;TZID="UTC-12:00":20230517T000000
+DTSTAMP:20261004T014738Z
+UID:a6b83767-1985-5c60-9899-92d878b0ed65
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  12-15\, 2023\n📍 Location: Sydney\, Australia\n⏰ Original Deadline (U
+ TC-12): 2023-05-16 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nCORE A*\nConference Website: https://asia.siggraph.org/2023/\nDBLP Index
+ : https://dblp.org/db/conf/siggrapha
+LOCATION:Sydney\, Australia
+URL:https://asia.siggraph.org/2023/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2023
+X-CCFDDL-ID:siggrapha23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2023 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20230524T235900
+DTEND;TZID="UTC-12:00":20230525T000000
+DTSTAMP:20261004T014738Z
+UID:82945f10-a1ed-5a41-b0dd-b9f7c642ca79
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  12-15\, 2023\n📍 Location: Sydney\, Australia\n⏰ Original Deadline (U
+ TC-12): 2023-05-24 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nCORE A*\nConference Website: https://asia.siggraph.org/2023/\nDBLP Index
+ : https://dblp.org/db/conf/siggrapha
+LOCATION:Sydney\, Australia
+URL:https://asia.siggraph.org/2023/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2023
+X-CCFDDL-ID:siggrapha23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2024 Abstract Deadline [Registration / full pape
+ r]
+DTSTART;TZID="UTC-12:00":20240512T235900
+DTEND;TZID="UTC-12:00":20240513T000000
+DTSTAMP:20261004T014738Z
+UID:77b7cf55-bd08-51cc-8987-df7825c1540a
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  3-6\, 2024\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (UTC-12):
+  2024-05-12 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nCORE 
+ A*\nConference Website: https://asia.siggraph.org/2024/\nDBLP Index: https
+ ://dblp.org/db/conf/siggrapha
+LOCATION:Tokyo\, Japan
+URL:https://asia.siggraph.org/2024/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2024
+X-CCFDDL-ID:siggrapha24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2024 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20240519T235900
+DTEND;TZID="UTC-12:00":20240520T000000
+DTSTAMP:20261004T014738Z
+UID:9f967b25-86ae-5075-a52e-1d6052c23955
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  3-6\, 2024\n📍 Location: Tokyo\, Japan\n⏰ Original Deadline (UTC-12):
+  2024-05-19 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nCORE 
+ A*\nConference Website: https://asia.siggraph.org/2024/\nDBLP Index: https
+ ://dblp.org/db/conf/siggrapha
+LOCATION:Tokyo\, Japan
+URL:https://asia.siggraph.org/2024/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2024
+X-CCFDDL-ID:siggrapha24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2025 Abstract Deadline [Registration / full pape
+ r]
+DTSTART;TZID="UTC-12:00":20250516T235900
+DTEND;TZID="UTC-12:00":20250517T000000
+DTSTAMP:20261004T014738Z
+UID:272ec47f-b540-5e63-a9f2-c73801e2db5e
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  15-18\, 2025\n📍 Location: Hong Kong\, China\n⏰ Original Deadline (UT
+ C-12): 2025-05-16 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nCORE A*\nConference Website: https://asia.siggraph.org/2025/\nDBLP Index
+ : https://dblp.org/db/conf/siggrapha
+LOCATION:Hong Kong\, China
+URL:https://asia.siggraph.org/2025/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2025
+X-CCFDDL-ID:siggrapha25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2025 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20250523T235900
+DTEND;TZID="UTC-12:00":20250524T000000
+DTSTAMP:20261004T014738Z
+UID:5345c59a-c6c1-5bc5-b328-ad34c697a695
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  15-18\, 2025\n📍 Location: Hong Kong\, China\n⏰ Original Deadline (UT
+ C-12): 2025-05-23 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nCORE A*\nConference Website: https://asia.siggraph.org/2025/\nDBLP Index
+ : https://dblp.org/db/conf/siggrapha
+LOCATION:Hong Kong\, China
+URL:https://asia.siggraph.org/2025/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2025
+X-CCFDDL-ID:siggrapha25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2026 Abstract Deadline [Registration / full pape
+ r]
+DTSTART;TZID="UTC-12:00":20260505T235900
+DTEND;TZID="UTC-12:00":20260506T000000
+DTSTAMP:20261004T014738Z
+UID:2ec5d7d8-67ec-5f5b-a409-2b1176bd02e6
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  1-4\, 2026\n📍 Location: KLCC\, Kuala Lumpur\, Malaysia\n⏰ Original D
+ eadline (UTC-12): 2026-05-05 23:59:00\nCategory: 计算机图形学与多
+ 媒体 (CG)\nCORE A*\nConference Website: https://asia.siggraph.org/2026/
+ \nDBLP Index: https://dblp.org/db/conf/siggrapha
+LOCATION:KLCC\, Kuala Lumpur\, Malaysia
+URL:https://asia.siggraph.org/2026/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2026
+X-CCFDDL-ID:siggrapha26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACM SIGGRAPH ASIA 2026 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20260512T235900
+DTEND;TZID="UTC-12:00":20260513T000000
+DTSTAMP:20261004T014738Z
+UID:cd0816b6-157c-5710-9a56-68c8438373c4
+DESCRIPTION:ACM SIGGRAPH Annual Conference in Asia\n🗓️ Date: December
+  1-4\, 2026\n📍 Location: KLCC\, Kuala Lumpur\, Malaysia\n⏰ Original D
+ eadline (UTC-12): 2026-05-12 23:59:00\nCategory: 计算机图形学与多
+ 媒体 (CG)\nCORE A*\nConference Website: https://asia.siggraph.org/2026/
+ \nDBLP Index: https://dblp.org/db/conf/siggrapha
+LOCATION:KLCC\, Kuala Lumpur\, Malaysia
+URL:https://asia.siggraph.org/2026/
+X-CCFDDL-CONFERENCE:ACM SIGGRAPH ASIA 2026
+X-CCFDDL-ID:siggrapha26
+END:VEVENT
+END:VCALENDAR

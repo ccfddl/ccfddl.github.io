@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CCCG 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210510T235900
+DTEND;TZID="UTC-12:00":20210511T000000
+DTSTAMP:20261004T014735Z
+UID:a1376428-2d1a-533b-92ee-74286b30d521
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 10-12\, 2021\n📍 Location: Online\n⏰ Original Deadline (AoE): 20
+ 21-05-10 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nConferen
+ ce Website: https://projects.cs.dal.ca/cccg2021/\nDBLP Index: https://dblp
+ .org/db/conf/cccg
+LOCATION:Online
+URL:https://projects.cs.dal.ca/cccg2021/
+X-CCFDDL-CONFERENCE:CCCG 2021
+X-CCFDDL-ID:cccg2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220506T235900
+DTEND;TZID="UTC-12:00":20220507T000000
+DTSTAMP:20261004T014735Z
+UID:4902da14-1618-557e-ba56-c11fd7aaac3d
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 25-27\, 2022\n📍 Location: Toronto\, Canada\n⏰ Original Deadline
+  (AoE): 2022-05-06 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nConference Website: https://www.torontomu.ca/canadian-conference-computa
+ tional-geometry-2022/\nDBLP Index: https://dblp.org/db/conf/cccg
+LOCATION:Toronto\, Canada
+URL:https://www.torontomu.ca/canadian-conference-computational-geometry-20
+ 22/
+X-CCFDDL-CONFERENCE:CCCG 2022
+X-CCFDDL-ID:cccg2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230414T235900
+DTEND;TZID="UTC-12:00":20230415T000000
+DTSTAMP:20261004T014735Z
+UID:180f4863-df3c-50fd-b66b-aabbf4c761e6
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 2-4\, 2023\n📍 Location: Montreal\, Canada\n⏰ Original Deadline 
+ (AoE): 2023-04-14 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nConference Website: https://wadscccg2023.encs.concordia.ca/\nDBLP Index:
+  https://dblp.org/db/conf/cccg
+LOCATION:Montreal\, Canada
+URL:https://wadscccg2023.encs.concordia.ca/
+X-CCFDDL-CONFERENCE:CCCG 2023
+X-CCFDDL-ID:cccg2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240405T235900
+DTEND;TZID="UTC-12:00":20240406T000000
+DTSTAMP:20261004T014735Z
+UID:5a2452f5-ed83-5336-adab-a11e6fd42b24
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: J
+ uly 17-19\, 2024\n📍 Location: St. Catharines\, Canada\n⏰ Original Dea
+ dline (AoE): 2024-04-05 23:59:00\nCategory: 计算机图形学与多媒体
+  (CG)\nConference Website: https://brocku.ca/mathematics-science/canadian-
+ conference-on-computational-geometry-2024/\nDBLP Index: https://dblp.org/d
+ b/conf/cccg
+LOCATION:St. Catharines\, Canada
+URL:https://brocku.ca/mathematics-science/canadian-conference-on-computati
+ onal-geometry-2024/
+X-CCFDDL-CONFERENCE:CCCG 2024
+X-CCFDDL-ID:cccg2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250507T235900
+DTEND;TZID="UTC-12:00":20250508T000000
+DTSTAMP:20261004T014735Z
+UID:1e319303-a9af-5913-ab45-9640a5ba2ea7
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 13-15\, 2025\n📍 Location: Toronto\, Canada\n⏰ Original Deadline
+  (AoE): 2025-05-07 23:59:00\nCategory: 计算机图形学与多媒体 (CG)
+ \nConference Website: https://sites.google.com/view/cccgwads-2025/cccg-202
+ 5\nDBLP Index: https://dblp.org/db/conf/cccg
+LOCATION:Toronto\, Canada
+URL:https://sites.google.com/view/cccgwads-2025/cccg-2025
+X-CCFDDL-CONFERENCE:CCCG 2025
+X-CCFDDL-ID:cccg2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCCG 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260512T235959
+DTEND;TZID="UTC-12:00":20260513T000059
+DTSTAMP:20261004T014735Z
+UID:163bbb6c-e97b-55fa-8b9a-e66cf6ad6178
+DESCRIPTION:Canadian Conference on Computational Geometry\n🗓️ Date: A
+ ugust 12-14\, 2026\n📍 Location: Orillia\, Ontario\, Canada\n⏰ Origina
+ l Deadline (AoE): 2026-05-12 23:59:59\nCategory: 计算机图形学与多
+ 媒体 (CG)\nConference Website: https://sites.google.com/view/cccg-2026/h
+ ome\nDBLP Index: https://dblp.org/db/conf/cccg
+LOCATION:Orillia\, Ontario\, Canada
+URL:https://sites.google.com/view/cccg-2026/home
+X-CCFDDL-CONFERENCE:CCCG 2026
+X-CCFDDL-ID:cccg2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210301T235900
+DTEND;TZID="UTC-12:00":20210302T000000
+DTSTAMP:20261004T014735Z
+UID:4eef9d67-8026-5421-9e88-7a68c746c9f3
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 23
+ -27\, 2021\n📍 Location: Online\n⏰ Original Deadline (AoE): 2021-03-01
+  23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nConference Websi
+ te: https://web.archive.org/web/20210902042345/https://eusipco2021.org/\nD
+ BLP Index: https://dblp.org/db/conf/eusipco
+LOCATION:Online
+URL:https://web.archive.org/web/20210902042345/https://eusipco2021.org/
+X-CCFDDL-CONFERENCE:EUSIPCO 2021
+X-CCFDDL-ID:eusipco2021
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2022 Deadline
+DTSTART;TZID="UTC-10:00":20220307T235900
+DTEND;TZID="UTC-10:00":20220308T000000
+DTSTAMP:20261004T014735Z
+UID:2492332d-8caa-54b9-8f49-fa501760a33d
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 29
+  - September 2\, 2022\n📍 Location: Belgrade\, Serbia (Hybrid)\n⏰ Orig
+ inal Deadline (UTC-10): 2022-03-07 23:59:00\nCategory: 计算机图形学
+ 与多媒体 (CG)\nConference Website: https://2022.eusipco.org/\nDBLP Ind
+ ex: https://dblp.org/db/conf/eusipco
+LOCATION:Belgrade\, Serbia (Hybrid)
+URL:https://2022.eusipco.org/
+X-CCFDDL-CONFERENCE:EUSIPCO 2022
+X-CCFDDL-ID:eusipco2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230310T235900
+DTEND;TZID="UTC-12:00":20230311T000000
+DTSTAMP:20261004T014735Z
+UID:22c53299-36c2-532c-9ceb-0fdd72683372
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: September
+  4-8\, 2023\n📍 Location: Helsinki\, Finland\n⏰ Original Deadline (AoE
+ ): 2023-03-10 23:59:00\nCategory: 计算机图形学与多媒体 (CG)\nCon
+ ference Website: https://eusipco2023.org/\nDBLP Index: https://dblp.org/db
+ /conf/eusipco
+LOCATION:Helsinki\, Finland
+URL:https://eusipco2023.org/
+X-CCFDDL-CONFERENCE:EUSIPCO 2023
+X-CCFDDL-ID:eusipco2023
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2024 Deadline
+DTSTART;TZID="UTC-08:00":20240314T180000
+DTEND;TZID="UTC-08:00":20240314T180100
+DTSTAMP:20261004T014735Z
+UID:b45896b5-65eb-53e2-ba81-257ef24186e6
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 26
+ -30\, 2024\n📍 Location: LYON\, FRANCE\n⏰ Original Deadline (UTC-8): 2
+ 024-03-14 18:00:00\nCategory: 计算机图形学与多媒体 (CG)\nConfere
+ nce Website: https://eusipcolyon.sciencesconf.org/\nDBLP Index: https://db
+ lp.org/db/conf/eusipco
+LOCATION:LYON\, FRANCE
+URL:https://eusipcolyon.sciencesconf.org/
+X-CCFDDL-CONFERENCE:EUSIPCO 2024
+X-CCFDDL-ID:eusipco2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250313T235959
+DTEND;TZID="UTC-12:00":20250314T000059
+DTSTAMP:20261004T014735Z
+UID:ef3d708d-5f2b-5cb6-a834-5669ee7fa54c
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: September
+  8-12\, 2025\n📍 Location: Isola delle Femmine\, Palermo\, Italy\n⏰ Or
+ iginal Deadline (AoE): 2025-03-13 23:59:59\nCategory: 计算机图形学
+ 与多媒体 (CG)\nConference Website: https://eusipco2025.org/\nDBLP Inde
+ x: https://dblp.org/db/conf/eusipco
+LOCATION:Isola delle Femmine\, Palermo\, Italy
+URL:https://eusipco2025.org/
+X-CCFDDL-CONFERENCE:EUSIPCO 2025
+X-CCFDDL-ID:eusipco2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260213T235959
+DTEND;TZID="UTC-12:00":20260214T000059
+DTSTAMP:20261004T014735Z
+UID:6b373733-65a5-53fd-b7a7-b2fb0a2be2f1
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 31
+  - September 4\, 2026\n📍 Location: Bruges\, Belgium\n⏰ Original Deadl
+ ine (AoE): 2026-02-13 23:59:59\nCategory: 计算机图形学与多媒体 (
+ CG)\nConference Website: https://eusipco2026.org/\nDBLP Index: https://dbl
+ p.org/db/conf/eusipco
+LOCATION:Bruges\, Belgium
+URL:https://eusipco2026.org/
+X-CCFDDL-CONFERENCE:EUSIPCO 2026
+X-CCFDDL-ID:eusipco26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUSIPCO 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270206T235959
+DTEND;TZID="UTC-12:00":20270207T000059
+DTSTAMP:20261004T014735Z
+UID:ddde2ba7-25aa-517a-ba03-0855e4f4828f
+DESCRIPTION:European Signal Processing Conference\n🗓️ Date: August 30
+  - September 3\, 2027\n📍 Location: Darmstadt\, Germany\n⏰ Original De
+ adline (AoE): 2027-02-06 23:59:59\nCategory: 计算机图形学与多媒
+ 体 (CG)\nConference Website: https://eusipco2027.de/\nDBLP Index: https:/
+ /dblp.org/db/conf/eusipco
+LOCATION:Darmstadt\, Germany
+URL:https://eusipco2027.de/
+X-CCFDDL-CONFERENCE:EUSIPCO 2027
+X-CCFDDL-ID:eusipco27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210711T235900
+DTEND;TZID="UTC-12:00":20210712T000000
+DTSTAMP:20261004T014735Z
+UID:1856549b-f262-5816-86e5-df66c53313aa
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: October 17-20\, 2021\n📍 Location: Nanchang\, China\n⏰
+  Original Deadline (AoE): 2021-07-11 23:59:00\nCategory: 计算机图形
+ 学与多媒体 (CG)\nConference Website: https://icvrv2021.aconf.org/\nDB
+ LP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Nanchang\, China
+URL:https://icvrv2021.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2021
+X-CCFDDL-ID:icvrv21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220930T235900
+DTEND;TZID="UTC-12:00":20221001T000000
+DTSTAMP:20261004T014735Z
+UID:7116adec-f821-5413-a2dd-850af2fa05c8
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: November 18-20\, 2022\n📍 Location: Kunming\, China (Hyb
+ rid)\n⏰ Original Deadline (AoE): 2022-09-30 23:59:00\nCategory: 计算
+ 机图形学与多媒体 (CG)\nConference Website: https://icvrv2022.aconf
+ .org/\nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Kunming\, China (Hybrid)
+URL:https://icvrv2022.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2022
+X-CCFDDL-ID:icvrv22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240901T235900
+DTEND;TZID="UTC-12:00":20240902T000000
+DTSTAMP:20261004T014735Z
+UID:77d12d46-4d40-5c13-8ab9-8ec2ddcf3c41
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: TBD\n📍 Location: Macau SAR and Zhuhai\, China (Hybrid)
+ \n⏰ Original Deadline (AoE): 2024-09-01 23:59:00\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2024.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Macau SAR and Zhuhai\, China (Hybrid)
+URL:https://icvrv2024.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2024
+X-CCFDDL-ID:icvrv24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240908T235900
+DTEND;TZID="UTC-12:00":20240909T000000
+DTSTAMP:20261004T014735Z
+UID:78575c6a-37bb-53ac-9a7b-8b174a4fc2d0
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: TBD\n📍 Location: Macau SAR and Zhuhai\, China (Hybrid)
+ \n⏰ Original Deadline (AoE): 2024-09-08 23:59:00\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2024.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Macau SAR and Zhuhai\, China (Hybrid)
+URL:https://icvrv2024.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2024
+X-CCFDDL-ID:icvrv24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20261004T014735Z
+UID:74db57a9-b68e-5ae3-ac03-1702a88cd642
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia an
+ d Tianjin\, China (Hybrid)\n⏰ Original Deadline (AoE): 2025-08-15 23:59:
+ 59\nCategory: 计算机图形学与多媒体 (CG)\nConference Website: htt
+ ps://icvrv2025.aconf.org/\nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia and Tianjin\, China (Hybrid)
+URL:https://icvrv2025.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2025
+X-CCFDDL-ID:icvrv25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250822T235959
+DTEND;TZID="UTC-12:00":20250823T000059
+DTSTAMP:20261004T014735Z
+UID:39e35d5e-64de-534f-a415-3accbd8e41db
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 19-21\, 2025\n📍 Location: Bogota\, Colombia an
+ d Tianjin\, China (Hybrid)\n⏰ Original Deadline (AoE): 2025-08-22 23:59:
+ 59\nCategory: 计算机图形学与多媒体 (CG)\nConference Website: htt
+ ps://icvrv2025.aconf.org/\nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Bogota\, Colombia and Tianjin\, China (Hybrid)
+URL:https://icvrv2025.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2025
+X-CCFDDL-ID:icvrv25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260815T235959
+DTEND;TZID="UTC-12:00":20260816T000059
+DTSTAMP:20261004T014735Z
+UID:db382e77-1c4c-5766-bd37-d2db2d8bbeac
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 18-20\, 2026\n📍 Location: Valparaíso\, Chile
+ \n⏰ Original Deadline (AoE): 2026-08-15 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2026.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2026
+X-CCFDDL-ID:icvrv26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICVRV 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260822T235959
+DTEND;TZID="UTC-12:00":20260823T000059
+DTSTAMP:20261004T014735Z
+UID:c0a716e6-a7b5-59c8-bf83-e7611a09ec15
+DESCRIPTION:International Conference on Virtual Reality and Visualization
+ \n🗓️ Date: December 18-20\, 2026\n📍 Location: Valparaíso\, Chile
+ \n⏰ Original Deadline (AoE): 2026-08-22 23:59:59\nCategory: 计算机图
+ 形学与多媒体 (CG)\nConference Website: https://icvrv2026.aconf.org/
+ \nDBLP Index: https://dblp.org/db/conf/icvrv
+LOCATION:Valparaíso\, Chile
+URL:https://icvrv2026.aconf.org/
+X-CCFDDL-CONFERENCE:ICVRV 2026
+X-CCFDDL-ID:icvrv26
+END:VEVENT
+END:VCALENDAR

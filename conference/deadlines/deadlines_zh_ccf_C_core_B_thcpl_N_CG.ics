@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:MMM 2021 Deadline
+DTSTART;TZID="UTC-12:00":20200831T235900
+DTEND;TZID="UTC-12:00":20200901T000000
+DTSTAMP:20261004T014635Z
+UID:5f57679f-cc2c-557f-94a4-c6d8bc8ac16e
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: June 22-24\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止
+ 时间 (AoE): 2020-08-31 23:59:00\n分类: 计算机图形学与多媒体 
+ (CG)\nCCF C\, CORE B\n会议官网: https://mmm2021.cz/\nDBLP索引: https
+ ://dblp.org/db/conf/mmm
+LOCATION:Virtual
+URL:https://mmm2021.cz/
+X-CCFDDL-CONFERENCE:MMM 2021
+X-CCFDDL-ID:mmm21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2022 Deadline
+DTSTART;TZID="UTC-12:00":20210913T235900
+DTEND;TZID="UTC-12:00":20210914T000000
+DTSTAMP:20261004T014635Z
+UID:2ab06639-ff13-5937-abf0-178f42073aae
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: June 6-9\, 2022\n📍 会议地点: Phu Quoc\, Vietnam (Hybrid)
+ \n⏰ 原始截止时间 (AoE): 2021-09-13 23:59:00\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\, CORE B\n会议官网: https://mmm2022.org
+ /\nDBLP索引: https://dblp.org/db/conf/mmm
+LOCATION:Phu Quoc\, Vietnam (Hybrid)
+URL:https://mmm2022.org/
+X-CCFDDL-CONFERENCE:MMM 2022
+X-CCFDDL-ID:mmm22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2023 Deadline
+DTSTART;TZID="UTC-12:00":20220912T235900
+DTEND;TZID="UTC-12:00":20220913T000000
+DTSTAMP:20261004T014635Z
+UID:11a17471-4bf6-5337-b8cc-05b5f7ed280a
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: January 9-12\, 2023\n📍 会议地点: Bergen\, Norway (Hybrid
+ )\n⏰ 原始截止时间 (AoE): 2022-09-12 23:59:00\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\, CORE B\n会议官网: https://www.mmm2023
+ .no/\nDBLP索引: https://dblp.org/db/conf/mmm
+LOCATION:Bergen\, Norway (Hybrid)
+URL:https://www.mmm2023.no/
+X-CCFDDL-CONFERENCE:MMM 2023
+X-CCFDDL-ID:mmm23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240819T235959
+DTEND;TZID="UTC-12:00":20240820T000059
+DTSTAMP:20261004T014635Z
+UID:164c6b17-2e9d-5e59-a39f-e31cf277ed6a
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: January 8-10\, 2025\n📍 会议地点: Nara\, Japan\n⏰ 原
+ 始截止时间 (AoE): 2024-08-19 23:59:59\n分类: 计算机图形学与
+ 多媒体 (CG)\nCCF C\, CORE B\n会议官网: https://mmm2025.net/\nDBLP
+ 索引: https://dblp.org/db/conf/mmm
+LOCATION:Nara\, Japan
+URL:https://mmm2025.net/
+X-CCFDDL-CONFERENCE:MMM 2025
+X-CCFDDL-ID:mmm25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250902T235900
+DTEND;TZID="UTC-12:00":20250903T000000
+DTSTAMP:20261004T014635Z
+UID:e9d51d76-65ff-5c37-ae2c-4f1fc03aa35b
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: January 29-31\, 2026\n📍 会议地点: Prague\, Czech Republi
+ c\n⏰ 原始截止时间 (AoE): 2025-09-02 23:59:00\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF C\, CORE B\n会议官网: https://mmm2026.cz/
+ \nDBLP索引: https://dblp.org/db/conf/mmm
+LOCATION:Prague\, Czech Republic
+URL:https://mmm2026.cz/
+X-CCFDDL-CONFERENCE:MMM 2026
+X-CCFDDL-ID:mmm26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2027 Deadline [Regular papers\; extended deadline]
+DTSTART;TZID="UTC-12:00":20260830T235900
+DTEND;TZID="UTC-12:00":20260831T000000
+DTSTAMP:20261004T014635Z
+UID:66190ff1-a876-5c6e-98b7-5db42c7e23e1
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: January 5-8\, 2027\n📍 会议地点: Siem Reap\, Cambodia\n
+ ⏰ 原始截止时间 (AoE): 2026-08-30 23:59:00\n分类: 计算机图形
+ 学与多媒体 (CG)\nCCF C\, CORE B\n会议官网: https://www.mmm2027.ne
+ t/\nDBLP索引: https://dblp.org/db/conf/mmm
+LOCATION:Siem Reap\, Cambodia
+URL:https://www.mmm2027.net/
+X-CCFDDL-CONFERENCE:MMM 2027
+X-CCFDDL-ID:mmm27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MMM 2027 Final Decisions [Regular papers\; extended deadline]
+DTSTART;TZID="UTC-12:00":20261016T235900
+DTEND;TZID="UTC-12:00":20261017T000000
+DTSTAMP:20261004T014635Z
+UID:3cc690b9-b9be-5db5-b73c-91ed9a9f95db
+DESCRIPTION:International Conference on Multimedia Modeling\n🗓️ 会
+ 议时间: January 5-8\, 2027\n📍 会议地点: Siem Reap\, Cambodia\n
+ ⏰ 原始截止时间 (AoE): 2026-10-16 23:59:00\n分类: 计算机图形
+ 学与多媒体 (CG)\nCCF C\, CORE B\n会议官网: https://www.mmm2027.ne
+ t/\nDBLP索引: https://dblp.org/db/conf/mmm
+LOCATION:Siem Reap\, Cambodia
+URL:https://www.mmm2027.net/
+X-CCFDDL-CONFERENCE:MMM 2027
+X-CCFDDL-ID:mmm27
+END:VEVENT
+END:VCALENDAR

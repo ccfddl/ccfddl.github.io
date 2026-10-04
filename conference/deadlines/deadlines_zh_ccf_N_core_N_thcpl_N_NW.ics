@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2021 Deadline [Main and early-review track]
+DTSTART;TZID="UTC-12:00":20210802T235900
+DTEND;TZID="UTC-12:00":20210803T000000
+DTSTAMP:20261004T014651Z
+UID:0a7f1af2-38b5-5f5e-a7f2-c94c537d001d
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: November 9\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间 
+ (UTC-12): 2021-08-02 23:59:00\n分类: 计算机网络 (NW)\n会议官网:
+  https://wicon.eai-conferences.org/2021/\nDBLP索引: https://dblp.org/db/
+ conf/wicon
+LOCATION:Online
+URL:https://wicon.eai-conferences.org/2021/
+X-CCFDDL-CONFERENCE:WiCON 2021
+X-CCFDDL-ID:wicon2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2021 Deadline [Late track]
+DTSTART;TZID="UTC-12:00":20210906T235900
+DTEND;TZID="UTC-12:00":20210907T000000
+DTSTAMP:20261004T014651Z
+UID:0e669728-482f-53cd-ac09-4b29043c4e72
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: November 9\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间 
+ (UTC-12): 2021-09-06 23:59:00\n分类: 计算机网络 (NW)\n会议官网:
+  https://wicon.eai-conferences.org/2021/\nDBLP索引: https://dblp.org/db/
+ conf/wicon
+LOCATION:Online
+URL:https://wicon.eai-conferences.org/2021/
+X-CCFDDL-CONFERENCE:WiCON 2021
+X-CCFDDL-ID:wicon2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220717T235900
+DTEND;TZID="UTC-12:00":20220718T000000
+DTSTAMP:20261004T014651Z
+UID:e24bf236-bc22-54b1-99d1-e342967ce429
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: November 17\, 2022\n📍 会议地点: Online\n⏰ 原始截止时间
+  (UTC-12): 2022-07-17 23:59:00\n分类: 计算机网络 (NW)\n会议官网
+ : https://wicon.eai-conferences.org/2022/\nDBLP索引: https://dblp.org/db
+ /conf/wicon
+LOCATION:Online
+URL:https://wicon.eai-conferences.org/2022/
+X-CCFDDL-CONFERENCE:WiCON 2022
+X-CCFDDL-ID:wicon2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2023 Deadline [Late track]
+DTSTART;TZID="UTC-12:00":20231107T235900
+DTEND;TZID="UTC-12:00":20231108T000000
+DTSTAMP:20261004T014651Z
+UID:0b55f1b1-5337-58df-b12f-5146f983942e
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 15-16\, 2023\n📍 会议地点: Piraeus\, Greece (Hybrid)\n
+ ⏰ 原始截止时间 (UTC-12): 2023-11-07 23:59:00\n分类: 计算机网
+ 络 (NW)\n会议官网: https://wicon.eai-conferences.org/2023/\nDBLP索
+ 引: https://dblp.org/db/conf/wicon
+LOCATION:Piraeus\, Greece (Hybrid)
+URL:https://wicon.eai-conferences.org/2023/
+X-CCFDDL-CONFERENCE:WiCON 2023
+X-CCFDDL-ID:wicon2023
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+03:00
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2025 Deadline
+DTSTART;TZID="UTC+03:00":20251020T235959
+DTEND;TZID="UTC+03:00":20251021T000059
+DTSTAMP:20261004T014651Z
+UID:3f4cbbd4-460c-5661-a657-4954fb9fde91
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 19\, 2025\n📍 会议地点: Istanbul\, Turkey (Online)\n
+ ⏰ 原始截止时间 (UTC+3): 2025-10-20 23:59:59\n分类: 计算机网
+ 络 (NW)\n会议官网: https://wicon.eai-conferences.org/2025/\nDBLP索
+ 引: https://dblp.org/db/conf/wicon
+LOCATION:Istanbul\, Turkey (Online)
+URL:https://wicon.eai-conferences.org/2025/
+X-CCFDDL-CONFERENCE:WiCON 2025
+X-CCFDDL-ID:wicon2025
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2026 Deadline
+DTSTART:20260930T235959Z
+DTEND:20261001T000059Z
+DTSTAMP:20261004T014651Z
+UID:3de9888a-6087-5cf2-bcbb-69d475dc7445
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 2-4\, 2026\n📍 会议地点: Bratislava\, Slovakia (Hybrid
+ )\n⏰ 原始截止时间 (UTC+0): 2026-09-30 23:59:59\n分类: 计算机
+ 网络 (NW)\n会议官网: https://wicon.eai-conferences.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/wicon
+LOCATION:Bratislava\, Slovakia (Hybrid)
+URL:https://wicon.eai-conferences.org/2026/
+X-CCFDDL-CONFERENCE:WiCON 2026
+X-CCFDDL-ID:wicon2026
+END:VEVENT
+END:VCALENDAR

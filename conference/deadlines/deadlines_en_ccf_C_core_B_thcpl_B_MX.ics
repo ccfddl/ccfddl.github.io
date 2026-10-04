@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Cloud 2021 Deadline [Optional early submission]
+DTSTART:20210301T050000Z
+DTEND:20210301T050100Z
+DTSTAMP:20261004T014751Z
+UID:1cf844fd-b107-520c-9b05-85ab5c139645
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : September 6-11\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UT
+ C+0): 2021-03-01 05:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\, THCPL B\nConference Website: https://conferences.computer.org/cloud
+ /2021/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Virtual
+URL:https://conferences.computer.org/cloud/2021/
+X-CCFDDL-CONFERENCE:Cloud 2021
+X-CCFDDL-ID:cloud21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2021 Deadline [Normal submission]
+DTSTART:20210430T050000Z
+DTEND:20210430T050100Z
+DTSTAMP:20261004T014751Z
+UID:5b28ea6b-589d-5704-8e70-434ecb78357e
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : September 6-11\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UT
+ C+0): 2021-04-30 05:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, CO
+ RE B\, THCPL B\nConference Website: https://conferences.computer.org/cloud
+ /2021/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Virtual
+URL:https://conferences.computer.org/cloud/2021/
+X-CCFDDL-CONFERENCE:Cloud 2021
+X-CCFDDL-ID:cloud21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Cloud 2022 Abstract Deadline [Abstract optional\; full required]
+DTSTART;TZID="UTC-12:00":20220322T235900
+DTEND;TZID="UTC-12:00":20220323T000000
+DTSTAMP:20261004T014751Z
+UID:7a39d31f-fb2a-5e33-95c8-930f58207034
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 11-15\, 2022\n📍 Location: Barcelona\, Spain (Hybrid)\n⏰ Origin
+ al Deadline (AoE): 2022-03-22 23:59:00\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF C\, CORE B\, THCPL B\nConference Website: https://conferences.compu
+ ter.org/cloud/2022/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Barcelona\, Spain (Hybrid)
+URL:https://conferences.computer.org/cloud/2022/
+X-CCFDDL-CONFERENCE:Cloud 2022
+X-CCFDDL-ID:cloud22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2022 Deadline [Abstract optional\; full required]
+DTSTART;TZID="UTC-12:00":20220401T235900
+DTEND;TZID="UTC-12:00":20220402T000000
+DTSTAMP:20261004T014751Z
+UID:89d2565f-c2b2-581a-aa55-a81d5e3421d3
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 11-15\, 2022\n📍 Location: Barcelona\, Spain (Hybrid)\n⏰ Origin
+ al Deadline (AoE): 2022-04-01 23:59:00\nCategory: 交叉/综合/新兴 (MX
+ )\nCCF C\, CORE B\, THCPL B\nConference Website: https://conferences.compu
+ ter.org/cloud/2022/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Barcelona\, Spain (Hybrid)
+URL:https://conferences.computer.org/cloud/2022/
+X-CCFDDL-CONFERENCE:Cloud 2022
+X-CCFDDL-ID:cloud22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230325T235900
+DTEND;TZID="UTC-12:00":20230326T000000
+DTSTAMP:20261004T014751Z
+UID:91e860f7-29cd-5824-9047-be2894918bc1
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 3-8\, 2023\n📍 Location: Chicago\, USA (Hybrid)\n⏰ Original Dea
+ dline (AoE): 2023-03-25 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF
+  C\, CORE B\, THCPL B\nConference Website: https://conferences.computer.or
+ g/cloud/2023/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Chicago\, USA (Hybrid)
+URL:https://conferences.computer.org/cloud/2023/
+X-CCFDDL-CONFERENCE:Cloud 2023
+X-CCFDDL-ID:cloud23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240331T235900
+DTEND;TZID="UTC-12:00":20240401T000000
+DTSTAMP:20261004T014751Z
+UID:07f1f540-626d-5d5e-8e67-f2da372c7d37
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 8-11\, 2024\n📍 Location: Shenzhen\, China\n⏰ Original Deadline
+  (AoE): 2024-03-31 23:59:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C\, 
+ CORE B\, THCPL B\nConference Website: https://cloud.conferences.computer.o
+ rg/2024/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Shenzhen\, China
+URL:https://cloud.conferences.computer.org/2024/
+X-CCFDDL-CONFERENCE:Cloud 2024
+X-CCFDDL-ID:cloud24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250310T230000
+DTEND;TZID="UTC-12:00":20250310T230100
+DTSTAMP:20261004T014751Z
+UID:de58c889-95dc-5edb-a9c3-8f3cc84517e8
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 8-11\, 2025\n📍 Location: Helsinki\, Finland\n⏰ Original Deadli
+ ne (AoE): 2025-03-10 23:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\, THCPL B\nConference Website: https://services.conferences.comp
+ uter.org/2025/cloud/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Helsinki\, Finland
+URL:https://services.conferences.computer.org/2025/cloud/
+X-CCFDDL-CONFERENCE:Cloud 2025
+X-CCFDDL-ID:cloud25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260322T230000
+DTEND;TZID="UTC-12:00":20260322T230100
+DTSTAMP:20261004T014751Z
+UID:a10efd5b-2bec-535b-bfd6-2b0a5ca4d948
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ Date
+ : July 13-17\, 2026\n📍 Location: Sydney\, Australia\n⏰ Original Deadl
+ ine (AoE): 2026-03-22 23:00:00\nCategory: 交叉/综合/新兴 (MX)\nCCF C
+ \, CORE B\, THCPL B\nConference Website: https://services.conferences.comp
+ uter.org/2026/cloud/\nDBLP Index: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Sydney\, Australia
+URL:https://services.conferences.computer.org/2026/cloud/
+X-CCFDDL-CONFERENCE:Cloud 2026
+X-CCFDDL-ID:cloud26
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,358 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APNet 2021 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20210319T235900
+DTEND;TZID="UTC-04:00":20210320T000000
+DTSTAMP:20261004T014752Z
+UID:179ae809-51f6-51f1-8b01-1d9a19f24f0b
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: June 24-25
+ \, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-4): 2021-03-19
+  23:59:00\nCategory: 计算机网络 (NW)\nCCF C\nConference Website: http
+ s://conferences.sigcomm.org/events/apnet2021/\nDBLP Index: https://dblp.or
+ g/db/conf/apnet
+LOCATION:Virtual
+URL:https://conferences.sigcomm.org/events/apnet2021/
+X-CCFDDL-CONFERENCE:APNet 2021
+X-CCFDDL-ID:apnet21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2021 Deadline
+DTSTART;TZID="UTC-04:00":20210319T235900
+DTEND;TZID="UTC-04:00":20210320T000000
+DTSTAMP:20261004T014752Z
+UID:f2f7d6c0-72bc-57fd-a784-08d5277c2e18
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: June 24-25
+ \, 2021\n📍 Location: Virtual\n⏰ Original Deadline (UTC-4): 2021-03-19
+  23:59:00\nCategory: 计算机网络 (NW)\nCCF C\nConference Website: http
+ s://conferences.sigcomm.org/events/apnet2021/\nDBLP Index: https://dblp.or
+ g/db/conf/apnet
+LOCATION:Virtual
+URL:https://conferences.sigcomm.org/events/apnet2021/
+X-CCFDDL-CONFERENCE:APNet 2021
+X-CCFDDL-ID:apnet21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2022 Abstract Deadline [Optional abstract]
+DTSTART;TZID="UTC-04:00":20220318T231500
+DTEND;TZID="UTC-04:00":20220318T231600
+DTSTAMP:20261004T014752Z
+UID:0403864c-4122-5bd7-a35a-de0a844179de
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: July 1-2\, 
+ 2022\n📍 Location: Fuzhou\, China\n⏰ Original Deadline (UTC-4): 2022-0
+ 3-18 23:15:00\nCategory: 计算机网络 (NW)\nCCF C\nConference Website: 
+ https://conferences.sigcomm.org/events/apnet2022/\nDBLP Index: https://dbl
+ p.org/db/conf/apnet
+LOCATION:Fuzhou\, China
+URL:https://conferences.sigcomm.org/events/apnet2022/
+X-CCFDDL-CONFERENCE:APNet 2022
+X-CCFDDL-ID:apnet22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2022 Deadline [Optional abstract]
+DTSTART;TZID="UTC-04:00":20220318T231500
+DTEND;TZID="UTC-04:00":20220318T231600
+DTSTAMP:20261004T014752Z
+UID:8f28dcf9-b841-5394-aa89-66116a76e327
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: July 1-2\, 
+ 2022\n📍 Location: Fuzhou\, China\n⏰ Original Deadline (UTC-4): 2022-0
+ 3-18 23:15:00\nCategory: 计算机网络 (NW)\nCCF C\nConference Website: 
+ https://conferences.sigcomm.org/events/apnet2022/\nDBLP Index: https://dbl
+ p.org/db/conf/apnet
+LOCATION:Fuzhou\, China
+URL:https://conferences.sigcomm.org/events/apnet2022/
+X-CCFDDL-CONFERENCE:APNet 2022
+X-CCFDDL-ID:apnet22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2023 Deadline
+DTSTART;TZID="UTC-04:00":20230317T233000
+DTEND;TZID="UTC-04:00":20230317T233100
+DTSTAMP:20261004T014752Z
+UID:3e2431a4-f10c-5138-b515-9901ab59b119
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: June 29-30
+ \, 2023\n📍 Location: Hong Kong SAR\, China\n⏰ Original Deadline (UTC-
+ 4): 2023-03-17 23:30:00\nCategory: 计算机网络 (NW)\nCCF C\nConference
+  Website: https://conferences.sigcomm.org/events/apnet2023/\nDBLP Index: h
+ ttps://dblp.org/db/conf/apnet
+LOCATION:Hong Kong SAR\, China
+URL:https://conferences.sigcomm.org/events/apnet2023/
+X-CCFDDL-CONFERENCE:APNet 2023
+X-CCFDDL-ID:apnet23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APNet 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240308T235959
+DTEND;TZID="UTC-12:00":20240309T000059
+DTSTAMP:20261004T014752Z
+UID:52d611bb-f7bf-56dd-8ca0-ed67f9fbfff2
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: August 3-4
+ \, 2024\n📍 Location: Sydney\, Australia\, co-located with SIGCOMM'24\n
+ ⏰ Original Deadline (UTC-12): 2024-03-08 23:59:59\nCategory: 计算机
+ 网络 (NW)\nCCF C\nConference Website: https://conferences.sigcomm.org/ev
+ ents/apnet2024/\nDBLP Index: https://dblp.org/db/conf/apnet
+LOCATION:Sydney\, Australia\, co-located with SIGCOMM'24
+URL:https://conferences.sigcomm.org/events/apnet2024/
+X-CCFDDL-CONFERENCE:APNet 2024
+X-CCFDDL-ID:apnet24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240315T235959
+DTEND;TZID="UTC-12:00":20240316T000059
+DTSTAMP:20261004T014752Z
+UID:73d556c2-b741-501e-bdeb-4623f78f129c
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: August 3-4
+ \, 2024\n📍 Location: Sydney\, Australia\, co-located with SIGCOMM'24\n
+ ⏰ Original Deadline (UTC-12): 2024-03-15 23:59:59\nCategory: 计算机
+ 网络 (NW)\nCCF C\nConference Website: https://conferences.sigcomm.org/ev
+ ents/apnet2024/\nDBLP Index: https://dblp.org/db/conf/apnet
+LOCATION:Sydney\, Australia\, co-located with SIGCOMM'24
+URL:https://conferences.sigcomm.org/events/apnet2024/
+X-CCFDDL-CONFERENCE:APNet 2024
+X-CCFDDL-ID:apnet24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250306T235959
+DTEND;TZID="UTC-12:00":20250307T000059
+DTSTAMP:20261004T014752Z
+UID:935aa602-55bf-5903-8908-3587d127b239
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: August 7-8
+ \, 2025\n📍 Location: Shanghai\, China\n⏰ Original Deadline (AoE): 202
+ 5-03-06 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\nConference Websit
+ e: https://conferences.sigcomm.org/events/apnet2025/\nDBLP Index: https://
+ dblp.org/db/conf/apnet
+LOCATION:Shanghai\, China
+URL:https://conferences.sigcomm.org/events/apnet2025/
+X-CCFDDL-CONFERENCE:APNet 2025
+X-CCFDDL-ID:apnet25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250313T235959
+DTEND;TZID="UTC-12:00":20250314T000059
+DTSTAMP:20261004T014752Z
+UID:1e94a39e-6253-5b51-89e6-68c796f5db33
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: August 7-8
+ \, 2025\n📍 Location: Shanghai\, China\n⏰ Original Deadline (AoE): 202
+ 5-03-13 23:59:59\nCategory: 计算机网络 (NW)\nCCF C\nConference Websit
+ e: https://conferences.sigcomm.org/events/apnet2025/\nDBLP Index: https://
+ dblp.org/db/conf/apnet
+LOCATION:Shanghai\, China
+URL:https://conferences.sigcomm.org/events/apnet2025/
+X-CCFDDL-CONFERENCE:APNet 2025
+X-CCFDDL-ID:apnet25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260311T235959
+DTEND;TZID="UTC-12:00":20260312T000059
+DTSTAMP:20261004T014752Z
+UID:d44418b5-759e-5d81-a4b0-bd0c02feec3b
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ Date: August 6-7
+ \, 2026\n📍 Location: Singapore\n⏰ Original Deadline (AoE): 2026-03-11
+  23:59:59\nCategory: 计算机网络 (NW)\nCCF C\nConference Website: http
+ s://conferences.sigcomm.org/events/apnet2026/\nDBLP Index: https://dblp.or
+ g/db/conf/apnet
+LOCATION:Singapore
+URL:https://conferences.sigcomm.org/events/apnet2026/
+X-CCFDDL-CONFERENCE:APNet 2026
+X-CCFDDL-ID:apnet26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210803T235900
+DTEND;TZID="UTC-12:00":20210804T000000
+DTSTAMP:20261004T014752Z
+UID:af049bc0-0bfd-51eb-a885-8064394f43c5
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ Date: December 14-15\, 2021\n📍 Location: Virtual\n⏰ Origina
+ l Deadline (AoE): 2021-08-03 23:59:00\nCategory: 计算机网络 (NW)\nCCF
+  C\nConference Website: https://ieee-msn.org/2021/\nDBLP Index: https://db
+ lp.org/db/conf/msn
+LOCATION:Virtual
+URL:https://ieee-msn.org/2021/
+X-CCFDDL-CONFERENCE:MSN 2021
+X-CCFDDL-ID:msn21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220731T235900
+DTEND;TZID="UTC-12:00":20220801T000000
+DTSTAMP:20261004T014752Z
+UID:0c2350f2-eaea-589b-92f0-a1188043342a
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ Date: December 14-16\, 2022\n📍 Location: Virtual\n⏰ Origina
+ l Deadline (AoE): 2022-07-31 23:59:00\nCategory: 计算机网络 (NW)\nCCF
+  C\nConference Website: https://ieee-msn.org/2022/\nDBLP Index: https://db
+ lp.org/db/conf/msn
+LOCATION:Virtual
+URL:https://ieee-msn.org/2022/
+X-CCFDDL-CONFERENCE:MSN 2022
+X-CCFDDL-ID:msn22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2023 Deadline [Final cutoff unverified]
+DTSTART;TZID="UTC-12:00":20230805T235900
+DTEND;TZID="UTC-12:00":20230806T000000
+DTSTAMP:20261004T014752Z
+UID:6a1e0324-c792-502c-93b4-68bbb51eec08
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ Date: December 14-16\, 2023\n📍 Location: Nanjing\, China\n⏰
+  Original Deadline (AoE): 2023-08-05 23:59:00\nCategory: 计算机网络 (
+ NW)\nCCF C\nConference Website: https://ieee-msn.org/2023/\nDBLP Index: ht
+ tps://dblp.org/db/conf/msn
+LOCATION:Nanjing\, China
+URL:https://ieee-msn.org/2023/
+X-CCFDDL-CONFERENCE:MSN 2023
+X-CCFDDL-ID:msn23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240731T235959
+DTEND;TZID="UTC-12:00":20240801T000059
+DTSTAMP:20261004T014752Z
+UID:4be658a3-8114-5096-aa18-98c0f562099d
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ Date: December 20-22\, 2024\n📍 Location: Harbin\, China\n⏰ 
+ Original Deadline (UTC-12): 2024-07-31 23:59:59\nCategory: 计算机网络
+  (NW)\nCCF C\nConference Website: https://ieee-msn.org/2024/\nDBLP Index: 
+ https://dblp.org/db/conf/msn
+LOCATION:Harbin\, China
+URL:https://ieee-msn.org/2024/
+X-CCFDDL-CONFERENCE:MSN 2024
+X-CCFDDL-ID:msn24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250929T235959
+DTEND;TZID="UTC-12:00":20250930T000059
+DTSTAMP:20261004T014752Z
+UID:4c98ef00-7592-5b55-aac1-c0127842be6c
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ Date: December 3-5\, 2025\n📍 Location: Bandung\, Indonesia\n
+ ⏰ Original Deadline (UTC-12): 2025-09-29 23:59:59\nCategory: 计算机
+ 网络 (NW)\nCCF C\nConference Website: https://ieee-msn.org/2025\nDBLP In
+ dex: https://dblp.org/db/conf/msn
+LOCATION:Bandung\, Indonesia
+URL:https://ieee-msn.org/2025
+X-CCFDDL-CONFERENCE:MSN 2025
+X-CCFDDL-ID:msn25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260830T235959
+DTEND;TZID="UTC-12:00":20260831T000059
+DTSTAMP:20261004T014752Z
+UID:1bd5ddb1-c31e-5199-bee6-5f426baf8587
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ Date: December 18-20\, 2026\n📍 Location: Ningbo\, China\n⏰ 
+ Original Deadline (UTC-12): 2026-08-30 23:59:59\nCategory: 计算机网络
+  (NW)\nCCF C\nConference Website: https://ieee-msn.org/2026\nDBLP Index: h
+ ttps://dblp.org/db/conf/msn
+LOCATION:Ningbo\, China
+URL:https://ieee-msn.org/2026
+X-CCFDDL-CONFERENCE:MSN 2026
+X-CCFDDL-ID:msn26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210410T235900
+DTEND;TZID="UTC-12:00":20210411T000000
+DTSTAMP:20261004T014752Z
+UID:0f1966a5-f4ce-559d-883b-8d5b16656118
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ Date: June 25-26\, 2021\n📍 Location: Nanjing\, 
+ China\n⏰ Original Deadline (AoE): 2021-04-10 23:59:00\nCategory: 计算
+ 机网络 (NW)\nCCF C\nConference Website: http://wasa-conference.org/WASA
+ 2021/\nDBLP Index: https://dblp.org/db/conf/wasa
+LOCATION:Nanjing\, China
+URL:http://wasa-conference.org/WASA2021/
+X-CCFDDL-CONFERENCE:WASA 2021
+X-CCFDDL-ID:wasa21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2022 Deadline [2022 edition postponed to April 2023]
+DTSTART;TZID="UTC-12:00":20220524T235900
+DTEND;TZID="UTC-12:00":20220525T000000
+DTSTAMP:20261004T014752Z
+UID:f860c363-8c4f-5413-96a3-e4ee2f9efa3b
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ Date: April 7-9\, 2023\n📍 Location: Dalian\, Ch
+ ina\n⏰ Original Deadline (AoE): 2022-05-24 23:59:00\nCategory: 计算机
+ 网络 (NW)\nCCF C\nConference Website: http://wasa-conference.org/WASA202
+ 2/\nDBLP Index: https://dblp.org/db/conf/wasa
+LOCATION:Dalian\, China
+URL:http://wasa-conference.org/WASA2022/
+X-CCFDDL-CONFERENCE:WASA 2022
+X-CCFDDL-ID:wasa22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240401T235900
+DTEND;TZID="UTC-12:00":20240402T000000
+DTSTAMP:20261004T014752Z
+UID:950734f0-a7c7-5aa1-81e3-943bfc4ffaa2
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ Date: June 21-23\, 2024\n📍 Location: Qingdao\, 
+ China\n⏰ Original Deadline (AoE): 2024-04-01 23:59:00\nCategory: 计算
+ 机网络 (NW)\nCCF C\nConference Website: http://wasa-conference.org/WASA
+ 2024/\nDBLP Index: https://dblp.org/db/conf/wasa
+LOCATION:Qingdao\, China
+URL:http://wasa-conference.org/WASA2024/
+X-CCFDDL-CONFERENCE:WASA 2024
+X-CCFDDL-ID:wasa24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250215T235900
+DTEND;TZID="UTC-12:00":20250216T000000
+DTSTAMP:20261004T014752Z
+UID:1455b083-ceb3-57a7-8af5-0eabbb53bc15
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ Date: June 25-26\, 2025\n📍 Location: Tokyo\, Ja
+ pan\n⏰ Original Deadline (AoE): 2025-02-15 23:59:00\nCategory: 计算机
+ 网络 (NW)\nCCF C\nConference Website: http://wasa-conference.org/WASA202
+ 5/index.html\nDBLP Index: https://dblp.org/db/conf/wasa
+LOCATION:Tokyo\, Japan
+URL:http://wasa-conference.org/WASA2025/index.html
+X-CCFDDL-CONFERENCE:WASA 2025
+X-CCFDDL-ID:wasa25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260410T235959
+DTEND;TZID="UTC-12:00":20260411T000059
+DTSTAMP:20261004T014752Z
+UID:af22a958-aa26-56a2-b3fa-2f256933742f
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ Date: June 27-28\, 2026\n📍 Location: Xi'an\, Ch
+ ina\n⏰ Original Deadline (AoE): 2026-04-10 23:59:59\nCategory: 计算机
+ 网络 (NW)\nCCF C\nConference Website: http://wasa-conference.org/WASA202
+ 6/\nDBLP Index: https://dblp.org/db/conf/wasa
+LOCATION:Xi'an\, China
+URL:http://wasa-conference.org/WASA2026/
+X-CCFDDL-CONFERENCE:WASA 2026
+X-CCFDDL-ID:wasa26
+END:VEVENT
+END:VCALENDAR

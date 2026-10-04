@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:NOMS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211101T235900
+DTEND;TZID="UTC-12:00":20211102T000000
+DTSTAMP:20261004T014655Z
+UID:e32168c0-d440-55e2-9d67-c4cb7c9e5334
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: April 26-28\, 2022\n📍 会议地点: Budapest\, Hungary /
+  Hybrid\n⏰ 原始截止时间 (AoE): 2021-11-01 23:59:00\n分类: 网络
+ 与信息安全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2022.iee
+ e-noms.org/\nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Budapest\, Hungary / Hybrid
+URL:https://noms2022.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2022
+X-CCFDDL-ID:noms22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221021T235900
+DTEND;TZID="UTC-12:00":20221022T000000
+DTSTAMP:20261004T014655Z
+UID:ee2b9f6a-1165-5405-ae76-f639fcbc90f4
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 9-11\, 2023\n📍 会议地点: Miami\, FL\, USA\n⏰ 
+ 原始截止时间 (AoE): 2022-10-21 23:59:00\n分类: 网络与信息安
+ 全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2023.ieee-noms.org/
+ \nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Miami\, FL\, USA
+URL:https://noms2023.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2023
+X-CCFDDL-ID:noms23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231027T235900
+DTEND;TZID="UTC-12:00":20231028T000000
+DTSTAMP:20261004T014655Z
+UID:087a4d75-1293-57fb-9458-1c26f638c78f
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 7-9\, 2024\n📍 会议地点: Seoul\, South Korea\n⏰
+  原始截止时间 (AoE): 2023-10-27 23:59:00\n分类: 网络与信息安
+ 全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2024.ieee-noms.org/
+ \nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Seoul\, South Korea
+URL:https://noms2024.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2024
+X-CCFDDL-ID:noms24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241025T235900
+DTEND;TZID="UTC-12:00":20241026T000000
+DTSTAMP:20261004T014655Z
+UID:1dc55986-351a-55ea-ade7-877de44734ed
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 13-15\, 2025\n📍 会议地点: Honolulu\, HI\, USA\n
+ ⏰ 原始截止时间 (AoE): 2024-10-25 23:59:00\n分类: 网络与信息
+ 安全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2025.ieee-noms.or
+ g/\nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2025
+X-CCFDDL-ID:noms25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251110T235900
+DTEND;TZID="UTC-12:00":20251111T000000
+DTSTAMP:20261004T014655Z
+UID:fbe1ddd0-172b-590c-8aca-8c22f34e6a06
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 18-22\, 2026\n📍 会议地点: Rome\, Italy\n⏰ 原
+ 始截止时间 (AoE): 2025-11-10 23:59:00\n分类: 网络与信息安全 
+ (SC)\nCORE B\, THCPL B\n会议官网: https://noms2026.ieee-noms.org/\nDBL
+ P索引: https://dblp.org/db/conf/noms
+LOCATION:Rome\, Italy
+URL:https://noms2026.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2026
+X-CCFDDL-ID:noms26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261109T235959
+DTEND;TZID="UTC-12:00":20261110T000059
+DTSTAMP:20261004T014655Z
+UID:a257f86f-3790-5c09-bdd9-76a86dbd50fe
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  会议时间: May 10-14\, 2027\n📍 会议地点: Montreal\, Canada\n⏰
+  原始截止时间 (AoE): 2026-11-09 23:59:59\n分类: 网络与信息安
+ 全 (SC)\nCORE B\, THCPL B\n会议官网: https://noms2027.ieee-noms.org/
+ \nDBLP索引: https://dblp.org/db/conf/noms
+LOCATION:Montreal\, Canada
+URL:https://noms2027.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2027
+X-CCFDDL-ID:noms27
+END:VEVENT
+END:VCALENDAR

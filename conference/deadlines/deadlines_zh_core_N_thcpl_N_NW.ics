@@ -1,0 +1,472 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APNet 2021 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20210319T235900
+DTEND;TZID="UTC-04:00":20210320T000000
+DTSTAMP:20261004T014648Z
+UID:179ae809-51f6-51f1-8b01-1d9a19f24f0b
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Jun
+ e 24-25\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 (UTC-4)
+ : 2021-03-19 23:59:00\n分类: 计算机网络 (NW)\nCCF C\n会议官网: 
+ https://conferences.sigcomm.org/events/apnet2021/\nDBLP索引: https://dbl
+ p.org/db/conf/apnet
+LOCATION:Virtual
+URL:https://conferences.sigcomm.org/events/apnet2021/
+X-CCFDDL-CONFERENCE:APNet 2021
+X-CCFDDL-ID:apnet21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2021 Deadline
+DTSTART;TZID="UTC-04:00":20210319T235900
+DTEND;TZID="UTC-04:00":20210320T000000
+DTSTAMP:20261004T014648Z
+UID:f2f7d6c0-72bc-57fd-a784-08d5277c2e18
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Jun
+ e 24-25\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 (UTC-4)
+ : 2021-03-19 23:59:00\n分类: 计算机网络 (NW)\nCCF C\n会议官网: 
+ https://conferences.sigcomm.org/events/apnet2021/\nDBLP索引: https://dbl
+ p.org/db/conf/apnet
+LOCATION:Virtual
+URL:https://conferences.sigcomm.org/events/apnet2021/
+X-CCFDDL-CONFERENCE:APNet 2021
+X-CCFDDL-ID:apnet21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2022 Abstract Deadline [Optional abstract]
+DTSTART;TZID="UTC-04:00":20220318T231500
+DTEND;TZID="UTC-04:00":20220318T231600
+DTSTAMP:20261004T014648Z
+UID:0403864c-4122-5bd7-a35a-de0a844179de
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Jul
+ y 1-2\, 2022\n📍 会议地点: Fuzhou\, China\n⏰ 原始截止时间 (U
+ TC-4): 2022-03-18 23:15:00\n分类: 计算机网络 (NW)\nCCF C\n会议官
+ 网: https://conferences.sigcomm.org/events/apnet2022/\nDBLP索引: https:
+ //dblp.org/db/conf/apnet
+LOCATION:Fuzhou\, China
+URL:https://conferences.sigcomm.org/events/apnet2022/
+X-CCFDDL-CONFERENCE:APNet 2022
+X-CCFDDL-ID:apnet22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2022 Deadline [Optional abstract]
+DTSTART;TZID="UTC-04:00":20220318T231500
+DTEND;TZID="UTC-04:00":20220318T231600
+DTSTAMP:20261004T014648Z
+UID:8f28dcf9-b841-5394-aa89-66116a76e327
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Jul
+ y 1-2\, 2022\n📍 会议地点: Fuzhou\, China\n⏰ 原始截止时间 (U
+ TC-4): 2022-03-18 23:15:00\n分类: 计算机网络 (NW)\nCCF C\n会议官
+ 网: https://conferences.sigcomm.org/events/apnet2022/\nDBLP索引: https:
+ //dblp.org/db/conf/apnet
+LOCATION:Fuzhou\, China
+URL:https://conferences.sigcomm.org/events/apnet2022/
+X-CCFDDL-CONFERENCE:APNet 2022
+X-CCFDDL-ID:apnet22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2023 Deadline
+DTSTART;TZID="UTC-04:00":20230317T233000
+DTEND;TZID="UTC-04:00":20230317T233100
+DTSTAMP:20261004T014648Z
+UID:3e2431a4-f10c-5138-b515-9901ab59b119
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Jun
+ e 29-30\, 2023\n📍 会议地点: Hong Kong SAR\, China\n⏰ 原始截止
+ 时间 (UTC-4): 2023-03-17 23:30:00\n分类: 计算机网络 (NW)\nCCF C\n
+ 会议官网: https://conferences.sigcomm.org/events/apnet2023/\nDBLP索
+ 引: https://dblp.org/db/conf/apnet
+LOCATION:Hong Kong SAR\, China
+URL:https://conferences.sigcomm.org/events/apnet2023/
+X-CCFDDL-CONFERENCE:APNet 2023
+X-CCFDDL-ID:apnet23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APNet 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240308T235959
+DTEND;TZID="UTC-12:00":20240309T000059
+DTSTAMP:20261004T014648Z
+UID:52d611bb-f7bf-56dd-8ca0-ed67f9fbfff2
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Aug
+ ust 3-4\, 2024\n📍 会议地点: Sydney\, Australia\, co-located with SI
+ GCOMM'24\n⏰ 原始截止时间 (UTC-12): 2024-03-08 23:59:59\n分类: 
+ 计算机网络 (NW)\nCCF C\n会议官网: https://conferences.sigcomm.org
+ /events/apnet2024/\nDBLP索引: https://dblp.org/db/conf/apnet
+LOCATION:Sydney\, Australia\, co-located with SIGCOMM'24
+URL:https://conferences.sigcomm.org/events/apnet2024/
+X-CCFDDL-CONFERENCE:APNet 2024
+X-CCFDDL-ID:apnet24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240315T235959
+DTEND;TZID="UTC-12:00":20240316T000059
+DTSTAMP:20261004T014648Z
+UID:73d556c2-b741-501e-bdeb-4623f78f129c
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Aug
+ ust 3-4\, 2024\n📍 会议地点: Sydney\, Australia\, co-located with SI
+ GCOMM'24\n⏰ 原始截止时间 (UTC-12): 2024-03-15 23:59:59\n分类: 
+ 计算机网络 (NW)\nCCF C\n会议官网: https://conferences.sigcomm.org
+ /events/apnet2024/\nDBLP索引: https://dblp.org/db/conf/apnet
+LOCATION:Sydney\, Australia\, co-located with SIGCOMM'24
+URL:https://conferences.sigcomm.org/events/apnet2024/
+X-CCFDDL-CONFERENCE:APNet 2024
+X-CCFDDL-ID:apnet24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250306T235959
+DTEND;TZID="UTC-12:00":20250307T000059
+DTSTAMP:20261004T014648Z
+UID:935aa602-55bf-5903-8908-3587d127b239
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Aug
+ ust 7-8\, 2025\n📍 会议地点: Shanghai\, China\n⏰ 原始截止时
+ 间 (AoE): 2025-03-06 23:59:59\n分类: 计算机网络 (NW)\nCCF C\n会
+ 议官网: https://conferences.sigcomm.org/events/apnet2025/\nDBLP索引: 
+ https://dblp.org/db/conf/apnet
+LOCATION:Shanghai\, China
+URL:https://conferences.sigcomm.org/events/apnet2025/
+X-CCFDDL-CONFERENCE:APNet 2025
+X-CCFDDL-ID:apnet25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250313T235959
+DTEND;TZID="UTC-12:00":20250314T000059
+DTSTAMP:20261004T014648Z
+UID:1e94a39e-6253-5b51-89e6-68c796f5db33
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Aug
+ ust 7-8\, 2025\n📍 会议地点: Shanghai\, China\n⏰ 原始截止时
+ 间 (AoE): 2025-03-13 23:59:59\n分类: 计算机网络 (NW)\nCCF C\n会
+ 议官网: https://conferences.sigcomm.org/events/apnet2025/\nDBLP索引: 
+ https://dblp.org/db/conf/apnet
+LOCATION:Shanghai\, China
+URL:https://conferences.sigcomm.org/events/apnet2025/
+X-CCFDDL-CONFERENCE:APNet 2025
+X-CCFDDL-ID:apnet25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APNet 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260311T235959
+DTEND;TZID="UTC-12:00":20260312T000059
+DTSTAMP:20261004T014648Z
+UID:d44418b5-759e-5d81-a4b0-bd0c02feec3b
+DESCRIPTION:Asia-Pacific Workshop on Networking\n🗓️ 会议时间: Aug
+ ust 6-7\, 2026\n📍 会议地点: Singapore\n⏰ 原始截止时间 (AoE)
+ : 2026-03-11 23:59:59\n分类: 计算机网络 (NW)\nCCF C\n会议官网: 
+ https://conferences.sigcomm.org/events/apnet2026/\nDBLP索引: https://dbl
+ p.org/db/conf/apnet
+LOCATION:Singapore
+URL:https://conferences.sigcomm.org/events/apnet2026/
+X-CCFDDL-CONFERENCE:APNet 2026
+X-CCFDDL-ID:apnet26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210803T235900
+DTEND;TZID="UTC-12:00":20210804T000000
+DTSTAMP:20261004T014648Z
+UID:af049bc0-0bfd-51eb-a885-8064394f43c5
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ 会议时间: December 14-15\, 2021\n📍 会议地点: Virtual
+ \n⏰ 原始截止时间 (AoE): 2021-08-03 23:59:00\n分类: 计算机网
+ 络 (NW)\nCCF C\n会议官网: https://ieee-msn.org/2021/\nDBLP索引: htt
+ ps://dblp.org/db/conf/msn
+LOCATION:Virtual
+URL:https://ieee-msn.org/2021/
+X-CCFDDL-CONFERENCE:MSN 2021
+X-CCFDDL-ID:msn21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220731T235900
+DTEND;TZID="UTC-12:00":20220801T000000
+DTSTAMP:20261004T014648Z
+UID:0c2350f2-eaea-589b-92f0-a1188043342a
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ 会议时间: December 14-16\, 2022\n📍 会议地点: Virtual
+ \n⏰ 原始截止时间 (AoE): 2022-07-31 23:59:00\n分类: 计算机网
+ 络 (NW)\nCCF C\n会议官网: https://ieee-msn.org/2022/\nDBLP索引: htt
+ ps://dblp.org/db/conf/msn
+LOCATION:Virtual
+URL:https://ieee-msn.org/2022/
+X-CCFDDL-CONFERENCE:MSN 2022
+X-CCFDDL-ID:msn22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2023 Deadline [Final cutoff unverified]
+DTSTART;TZID="UTC-12:00":20230805T235900
+DTEND;TZID="UTC-12:00":20230806T000000
+DTSTAMP:20261004T014648Z
+UID:6a1e0324-c792-502c-93b4-68bbb51eec08
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ 会议时间: December 14-16\, 2023\n📍 会议地点: Nanjing
+ \, China\n⏰ 原始截止时间 (AoE): 2023-08-05 23:59:00\n分类: 计
+ 算机网络 (NW)\nCCF C\n会议官网: https://ieee-msn.org/2023/\nDBLP
+ 索引: https://dblp.org/db/conf/msn
+LOCATION:Nanjing\, China
+URL:https://ieee-msn.org/2023/
+X-CCFDDL-CONFERENCE:MSN 2023
+X-CCFDDL-ID:msn23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240731T235959
+DTEND;TZID="UTC-12:00":20240801T000059
+DTSTAMP:20261004T014648Z
+UID:4be658a3-8114-5096-aa18-98c0f562099d
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ 会议时间: December 20-22\, 2024\n📍 会议地点: Harbin\,
+  China\n⏰ 原始截止时间 (UTC-12): 2024-07-31 23:59:59\n分类: 计
+ 算机网络 (NW)\nCCF C\n会议官网: https://ieee-msn.org/2024/\nDBLP
+ 索引: https://dblp.org/db/conf/msn
+LOCATION:Harbin\, China
+URL:https://ieee-msn.org/2024/
+X-CCFDDL-CONFERENCE:MSN 2024
+X-CCFDDL-ID:msn24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250929T235959
+DTEND;TZID="UTC-12:00":20250930T000059
+DTSTAMP:20261004T014648Z
+UID:4c98ef00-7592-5b55-aac1-c0127842be6c
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ 会议时间: December 3-5\, 2025\n📍 会议地点: Bandung\, 
+ Indonesia\n⏰ 原始截止时间 (UTC-12): 2025-09-29 23:59:59\n分类: 
+ 计算机网络 (NW)\nCCF C\n会议官网: https://ieee-msn.org/2025\nDBLP
+ 索引: https://dblp.org/db/conf/msn
+LOCATION:Bandung\, Indonesia
+URL:https://ieee-msn.org/2025
+X-CCFDDL-CONFERENCE:MSN 2025
+X-CCFDDL-ID:msn25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260830T235959
+DTEND;TZID="UTC-12:00":20260831T000059
+DTSTAMP:20261004T014648Z
+UID:1bd5ddb1-c31e-5199-bee6-5f426baf8587
+DESCRIPTION:International Conference on Mobility\, Sensing and Networking
+ \n🗓️ 会议时间: December 18-20\, 2026\n📍 会议地点: Ningbo\,
+  China\n⏰ 原始截止时间 (UTC-12): 2026-08-30 23:59:59\n分类: 计
+ 算机网络 (NW)\nCCF C\n会议官网: https://ieee-msn.org/2026\nDBLP索
+ 引: https://dblp.org/db/conf/msn
+LOCATION:Ningbo\, China
+URL:https://ieee-msn.org/2026
+X-CCFDDL-CONFERENCE:MSN 2026
+X-CCFDDL-ID:msn26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210410T235900
+DTEND;TZID="UTC-12:00":20210411T000000
+DTSTAMP:20261004T014648Z
+UID:0f1966a5-f4ce-559d-883b-8d5b16656118
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ 会议时间: June 25-26\, 2021\n📍 会议地点
+ : Nanjing\, China\n⏰ 原始截止时间 (AoE): 2021-04-10 23:59:00\n分
+ 类: 计算机网络 (NW)\nCCF C\n会议官网: http://wasa-conference.org
+ /WASA2021/\nDBLP索引: https://dblp.org/db/conf/wasa
+LOCATION:Nanjing\, China
+URL:http://wasa-conference.org/WASA2021/
+X-CCFDDL-CONFERENCE:WASA 2021
+X-CCFDDL-ID:wasa21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2022 Deadline [2022 edition postponed to April 2023]
+DTSTART;TZID="UTC-12:00":20220524T235900
+DTEND;TZID="UTC-12:00":20220525T000000
+DTSTAMP:20261004T014648Z
+UID:f860c363-8c4f-5413-96a3-e4ee2f9efa3b
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ 会议时间: April 7-9\, 2023\n📍 会议地点:
+  Dalian\, China\n⏰ 原始截止时间 (AoE): 2022-05-24 23:59:00\n分类
+ : 计算机网络 (NW)\nCCF C\n会议官网: http://wasa-conference.org/WA
+ SA2022/\nDBLP索引: https://dblp.org/db/conf/wasa
+LOCATION:Dalian\, China
+URL:http://wasa-conference.org/WASA2022/
+X-CCFDDL-CONFERENCE:WASA 2022
+X-CCFDDL-ID:wasa22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240401T235900
+DTEND;TZID="UTC-12:00":20240402T000000
+DTSTAMP:20261004T014648Z
+UID:950734f0-a7c7-5aa1-81e3-943bfc4ffaa2
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ 会议时间: June 21-23\, 2024\n📍 会议地点
+ : Qingdao\, China\n⏰ 原始截止时间 (AoE): 2024-04-01 23:59:00\n分
+ 类: 计算机网络 (NW)\nCCF C\n会议官网: http://wasa-conference.org
+ /WASA2024/\nDBLP索引: https://dblp.org/db/conf/wasa
+LOCATION:Qingdao\, China
+URL:http://wasa-conference.org/WASA2024/
+X-CCFDDL-CONFERENCE:WASA 2024
+X-CCFDDL-ID:wasa24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250215T235900
+DTEND;TZID="UTC-12:00":20250216T000000
+DTSTAMP:20261004T014648Z
+UID:1455b083-ceb3-57a7-8af5-0eabbb53bc15
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ 会议时间: June 25-26\, 2025\n📍 会议地点
+ : Tokyo\, Japan\n⏰ 原始截止时间 (AoE): 2025-02-15 23:59:00\n分类
+ : 计算机网络 (NW)\nCCF C\n会议官网: http://wasa-conference.org/WA
+ SA2025/index.html\nDBLP索引: https://dblp.org/db/conf/wasa
+LOCATION:Tokyo\, Japan
+URL:http://wasa-conference.org/WASA2025/index.html
+X-CCFDDL-CONFERENCE:WASA 2025
+X-CCFDDL-ID:wasa25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260410T235959
+DTEND;TZID="UTC-12:00":20260411T000059
+DTSTAMP:20261004T014648Z
+UID:af22a958-aa26-56a2-b3fa-2f256933742f
+DESCRIPTION:International Conference on Wireless Algorithms\, Systems\, an
+ d Applications\n🗓️ 会议时间: June 27-28\, 2026\n📍 会议地点
+ : Xi'an\, China\n⏰ 原始截止时间 (AoE): 2026-04-10 23:59:59\n分类
+ : 计算机网络 (NW)\nCCF C\n会议官网: http://wasa-conference.org/WA
+ SA2026/\nDBLP索引: https://dblp.org/db/conf/wasa
+LOCATION:Xi'an\, China
+URL:http://wasa-conference.org/WASA2026/
+X-CCFDDL-CONFERENCE:WASA 2026
+X-CCFDDL-ID:wasa26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2021 Deadline [Main and early-review track]
+DTSTART;TZID="UTC-12:00":20210802T235900
+DTEND;TZID="UTC-12:00":20210803T000000
+DTSTAMP:20261004T014648Z
+UID:0a7f1af2-38b5-5f5e-a7f2-c94c537d001d
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: November 9\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间 
+ (UTC-12): 2021-08-02 23:59:00\n分类: 计算机网络 (NW)\n会议官网:
+  https://wicon.eai-conferences.org/2021/\nDBLP索引: https://dblp.org/db/
+ conf/wicon
+LOCATION:Online
+URL:https://wicon.eai-conferences.org/2021/
+X-CCFDDL-CONFERENCE:WiCON 2021
+X-CCFDDL-ID:wicon2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2021 Deadline [Late track]
+DTSTART;TZID="UTC-12:00":20210906T235900
+DTEND;TZID="UTC-12:00":20210907T000000
+DTSTAMP:20261004T014648Z
+UID:0e669728-482f-53cd-ac09-4b29043c4e72
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: November 9\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间 
+ (UTC-12): 2021-09-06 23:59:00\n分类: 计算机网络 (NW)\n会议官网:
+  https://wicon.eai-conferences.org/2021/\nDBLP索引: https://dblp.org/db/
+ conf/wicon
+LOCATION:Online
+URL:https://wicon.eai-conferences.org/2021/
+X-CCFDDL-CONFERENCE:WiCON 2021
+X-CCFDDL-ID:wicon2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220717T235900
+DTEND;TZID="UTC-12:00":20220718T000000
+DTSTAMP:20261004T014648Z
+UID:e24bf236-bc22-54b1-99d1-e342967ce429
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: November 17\, 2022\n📍 会议地点: Online\n⏰ 原始截止时间
+  (UTC-12): 2022-07-17 23:59:00\n分类: 计算机网络 (NW)\n会议官网
+ : https://wicon.eai-conferences.org/2022/\nDBLP索引: https://dblp.org/db
+ /conf/wicon
+LOCATION:Online
+URL:https://wicon.eai-conferences.org/2022/
+X-CCFDDL-CONFERENCE:WiCON 2022
+X-CCFDDL-ID:wicon2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WiCON 2023 Deadline [Late track]
+DTSTART;TZID="UTC-12:00":20231107T235900
+DTEND;TZID="UTC-12:00":20231108T000000
+DTSTAMP:20261004T014648Z
+UID:0b55f1b1-5337-58df-b12f-5146f983942e
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 15-16\, 2023\n📍 会议地点: Piraeus\, Greece (Hybrid)\n
+ ⏰ 原始截止时间 (UTC-12): 2023-11-07 23:59:00\n分类: 计算机网
+ 络 (NW)\n会议官网: https://wicon.eai-conferences.org/2023/\nDBLP索
+ 引: https://dblp.org/db/conf/wicon
+LOCATION:Piraeus\, Greece (Hybrid)
+URL:https://wicon.eai-conferences.org/2023/
+X-CCFDDL-CONFERENCE:WiCON 2023
+X-CCFDDL-ID:wicon2023
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+03:00
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2025 Deadline
+DTSTART;TZID="UTC+03:00":20251020T235959
+DTEND;TZID="UTC+03:00":20251021T000059
+DTSTAMP:20261004T014648Z
+UID:3f4cbbd4-460c-5661-a657-4954fb9fde91
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 19\, 2025\n📍 会议地点: Istanbul\, Turkey (Online)\n
+ ⏰ 原始截止时间 (UTC+3): 2025-10-20 23:59:59\n分类: 计算机网
+ 络 (NW)\n会议官网: https://wicon.eai-conferences.org/2025/\nDBLP索
+ 引: https://dblp.org/db/conf/wicon
+LOCATION:Istanbul\, Turkey (Online)
+URL:https://wicon.eai-conferences.org/2025/
+X-CCFDDL-CONFERENCE:WiCON 2025
+X-CCFDDL-ID:wicon2025
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WiCON 2026 Deadline
+DTSTART:20260930T235959Z
+DTEND:20261001T000059Z
+DTSTAMP:20261004T014648Z
+UID:3de9888a-6087-5cf2-bcbb-69d475dc7445
+DESCRIPTION:International Wireless Internet Conference\n🗓️ 会议时
+ 间: December 2-4\, 2026\n📍 会议地点: Bratislava\, Slovakia (Hybrid
+ )\n⏰ 原始截止时间 (UTC+0): 2026-09-30 23:59:59\n分类: 计算机
+ 网络 (NW)\n会议官网: https://wicon.eai-conferences.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/wicon
+LOCATION:Bratislava\, Slovakia (Hybrid)
+URL:https://wicon.eai-conferences.org/2026/
+X-CCFDDL-CONFERENCE:WiCON 2026
+X-CCFDDL-ID:wicon2026
+END:VEVENT
+END:VCALENDAR
