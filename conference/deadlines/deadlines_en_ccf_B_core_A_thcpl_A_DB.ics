@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-11:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-11:00
+TZOFFSETFROM:-1100
+TZOFFSETTO:-1100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WSDM 2021 Deadline
+DTSTART;TZID="UTC-11:00":20200816T235959
+DTEND;TZID="UTC-11:00":20200817T000059
+DTSTAMP:20261011T030956Z
+UID:413bf52a-fe99-5c48-83d3-de9c59abf8ea
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: March 8-12\, 2021\n📍 Location: Online\n⏰ Original Deadline 
+ (UTC-11): 2020-08-16 23:59:59\nCategory: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: https://www.wsdm-c
+ onference.org/2021/\nDBLP Index: https://dblp.org/db/conf/wsdm
+LOCATION:Online
+URL:https://www.wsdm-conference.org/2021/
+X-CCFDDL-CONFERENCE:WSDM 2021
+X-CCFDDL-ID:wsdm21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WSDM 2022 Deadline
+DTSTART;TZID="UTC-12:00":20210813T235959
+DTEND;TZID="UTC-12:00":20210814T000059
+DTSTAMP:20261011T030956Z
+UID:333a32ef-5d77-5c2a-98e0-aa0359abab04
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 22-24\, 2022\n📍 Location: Online\n⏰ Original Deadl
+ ine (UTC-12): 2021-08-13 23:59:59\nCategory: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: https://www.wsd
+ m-conference.org/2022/\nDBLP Index: https://dblp.org/db/conf/wsdm
+LOCATION:Online
+URL:https://www.wsdm-conference.org/2022/
+X-CCFDDL-CONFERENCE:WSDM 2022
+X-CCFDDL-ID:wsdm22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2023 Deadline
+DTSTART;TZID="UTC-12:00":20220812T235959
+DTEND;TZID="UTC-12:00":20220813T000059
+DTSTAMP:20261011T030956Z
+UID:26395022-cbe2-5a99-9933-457f2fb60661
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 28 - March 2\, 2023\n📍 Location: Singapore / Online
+ \n⏰ Original Deadline (UTC-12): 2022-08-12 23:59:59\nCategory: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Webs
+ ite: https://www.wsdm-conference.org/2023/\nDBLP Index: https://dblp.org/d
+ b/conf/wsdm
+LOCATION:Singapore / Online
+URL:https://www.wsdm-conference.org/2023/
+X-CCFDDL-CONFERENCE:WSDM 2023
+X-CCFDDL-ID:wsdm23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2024 Deadline
+DTSTART;TZID="UTC-12:00":20230810T235959
+DTEND;TZID="UTC-12:00":20230811T000059
+DTSTAMP:20261011T030956Z
+UID:8174c982-d0d9-5961-aa9e-629cef0b543c
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: March 5-7\, 2024\n📍 Location: Mérida\, México / Online\n⏰
+  Original Deadline (UTC-12): 2023-08-10 23:59:59\nCategory: 数据库/数
+ 据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website:
+  https://www.wsdm-conference.org/2024/\nDBLP Index: https://dblp.org/db/co
+ nf/wsdm
+LOCATION:Mérida\, México / Online
+URL:https://www.wsdm-conference.org/2024/
+X-CCFDDL-CONFERENCE:WSDM 2024
+X-CCFDDL-ID:wsdm24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240809T235959
+DTEND;TZID="UTC-12:00":20240810T000059
+DTSTAMP:20261011T030956Z
+UID:96cce2f9-a849-5e5b-b8c2-b1bfdafc9a73
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: March 11-13\, 2025\n📍 Location: Hannover\, Germany\n⏰ Origi
+ nal Deadline (UTC-12): 2024-08-09 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: https
+ ://www.wsdm-conference.org/2025/\nDBLP Index: https://dblp.org/db/conf/wsd
+ m
+LOCATION:Hannover\, Germany
+URL:https://www.wsdm-conference.org/2025/
+X-CCFDDL-CONFERENCE:WSDM 2025
+X-CCFDDL-ID:wsdm25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240814T235959
+DTEND;TZID="UTC-12:00":20240815T000059
+DTSTAMP:20261011T030956Z
+UID:b04e23c2-b737-57dc-b890-a01362b8158c
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: March 11-13\, 2025\n📍 Location: Hannover\, Germany\n⏰ Origi
+ nal Deadline (UTC-12): 2024-08-14 23:59:59\nCategory: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: https
+ ://www.wsdm-conference.org/2025/\nDBLP Index: https://dblp.org/db/conf/wsd
+ m
+LOCATION:Hannover\, Germany
+URL:https://www.wsdm-conference.org/2025/
+X-CCFDDL-CONFERENCE:WSDM 2025
+X-CCFDDL-ID:wsdm25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250807T235959
+DTEND;TZID="UTC-12:00":20250808T000059
+DTSTAMP:20261011T030956Z
+UID:edef0fb4-daab-5922-a85f-0de1e6ae240f
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 23-25\, 2026\n📍 Location: Boise\, Idaho\, USA\n⏰ O
+ riginal Deadline (UTC-12): 2025-08-07 23:59:59\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: ht
+ tps://wsdm-conference.org/2026/\nDBLP Index: https://dblp.org/db/conf/wsdm
+LOCATION:Boise\, Idaho\, USA
+URL:https://wsdm-conference.org/2026/
+X-CCFDDL-CONFERENCE:WSDM 2026
+X-CCFDDL-ID:wsdm26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250814T235959
+DTEND;TZID="UTC-12:00":20250815T000059
+DTSTAMP:20261011T030956Z
+UID:c2792d0a-a498-5a8c-ade2-321b9d005b78
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 23-25\, 2026\n📍 Location: Boise\, Idaho\, USA\n⏰ O
+ riginal Deadline (UTC-12): 2025-08-14 23:59:59\nCategory: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConference Website: ht
+ tps://wsdm-conference.org/2026/\nDBLP Index: https://dblp.org/db/conf/wsdm
+LOCATION:Boise\, Idaho\, USA
+URL:https://wsdm-conference.org/2026/
+X-CCFDDL-CONFERENCE:WSDM 2026
+X-CCFDDL-ID:wsdm26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2027 Abstract Deadline [Full Paper]
+DTSTART;TZID="UTC-12:00":20260817T235959
+DTEND;TZID="UTC-12:00":20260818T000059
+DTSTAMP:20261011T030956Z
+UID:07e87b06-11db-59e0-9af2-177612c74c38
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 15 - 19\, 2027\n📍 Location: Cordis\, Hong Kong SAR\,
+  China\n⏰ Original Deadline (UTC-12): 2026-08-17 23:59:59\nCategory: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConferenc
+ e Website: https://wsdm-conference.org/2027/\nDBLP Index: https://dblp.org
+ /db/conf/wsdm
+LOCATION:Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+X-CCFDDL-CONFERENCE:WSDM 2027
+X-CCFDDL-ID:wsdm27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2027 Deadline [Full Paper]
+DTSTART;TZID="UTC-12:00":20260824T235959
+DTEND;TZID="UTC-12:00":20260825T000059
+DTSTAMP:20261011T030956Z
+UID:0d650c3d-2faf-533c-8e5a-ce4c71bd1fad
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 15 - 19\, 2027\n📍 Location: Cordis\, Hong Kong SAR\,
+  China\n⏰ Original Deadline (UTC-12): 2026-08-24 23:59:59\nCategory: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConferenc
+ e Website: https://wsdm-conference.org/2027/\nDBLP Index: https://dblp.org
+ /db/conf/wsdm
+LOCATION:Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+X-CCFDDL-CONFERENCE:WSDM 2027
+X-CCFDDL-ID:wsdm27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WSDM 2027 Final Decisions [Full Paper]
+DTSTART;TZID="UTC-12:00":20261102T235959
+DTEND;TZID="UTC-12:00":20261103T000059
+DTSTAMP:20261011T030956Z
+UID:c1356b1b-17e3-5f61-a552-0b1a7299d764
+DESCRIPTION:International Conference on Web Search and Data Mining\n🗓
+ ️ Date: February 15 - 19\, 2027\n📍 Location: Cordis\, Hong Kong SAR\,
+  China\n⏰ Original Deadline (UTC-12): 2026-11-02 23:59:59\nCategory: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF B\, CORE A\, THCPL A\nConferenc
+ e Website: https://wsdm-conference.org/2027/\nDBLP Index: https://dblp.org
+ /db/conf/wsdm
+LOCATION:Cordis\, Hong Kong SAR\, China
+URL:https://wsdm-conference.org/2027/
+X-CCFDDL-CONFERENCE:WSDM 2027
+X-CCFDDL-ID:wsdm27
+END:VEVENT
+END:VCALENDAR

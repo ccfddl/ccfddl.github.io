@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HICSS 2021 Deadline
+DTSTART;TZID="UTC-10:00":20200715T235959
+DTEND;TZID="UTC-10:00":20200716T000059
+DTSTAMP:20261011T030856Z
+UID:8baec7fe-8925-5fa8-8a89-35fd767afbdd
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: TBD\n📍 会议地点: Virtual\n⏰ 原始截止时间 (UTC
+ -10): 2020-07-15 23:59:59\n分类: 人机交互与普适计算 (HI)\nCORE 
+ A\n会议官网: https://hicss.hawaii.edu/\nDBLP索引: https://dblp.org/d
+ b/conf/hicss
+LOCATION:Virtual
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2021
+X-CCFDDL-ID:hicss21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2022 Deadline
+DTSTART;TZID="UTC-10:00":20210615T235959
+DTEND;TZID="UTC-10:00":20210616T000059
+DTSTAMP:20261011T030856Z
+UID:9c5dfd81-11ce-5e60-b6e3-5fb8137684c5
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 3-7\, 2022\n📍 会议地点: Virtual\n⏰ 原始
+ 截止时间 (UTC-10): 2021-06-15 23:59:59\n分类: 人机交互与普适
+ 计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu/\nDBLP索引: 
+ https://dblp.org/db/conf/hicss
+LOCATION:Virtual
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2022
+X-CCFDDL-ID:hicss22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2023 Deadline
+DTSTART;TZID="UTC-10:00":20220615T235959
+DTEND;TZID="UTC-10:00":20220616T000059
+DTSTAMP:20261011T030856Z
+UID:349a47ac-6595-52e5-894f-496ef5bf60db
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: TBD\n📍 会议地点: Maui\, Hawaii\, USA (hybrid)\n⏰ 
+ 原始截止时间 (UTC-10): 2022-06-15 23:59:59\n分类: 人机交互与
+ 普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu/\nDBLP
+ 索引: https://dblp.org/db/conf/hicss
+LOCATION:Maui\, Hawaii\, USA (hybrid)
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2023
+X-CCFDDL-ID:hicss23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2024 Deadline
+DTSTART;TZID="UTC-10:00":20230615T235959
+DTEND;TZID="UTC-10:00":20230616T000059
+DTSTAMP:20261011T030856Z
+UID:44b6be05-5230-5816-acd2-c25fdfd82beb
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 4-6\, 2024\n📍 会议地点: Honolulu\, Hawaii\, U
+ SA\n⏰ 原始截止时间 (UTC-10): 2023-06-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu
+ /\nDBLP索引: https://dblp.org/db/conf/hicss
+LOCATION:Honolulu\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2024
+X-CCFDDL-ID:hicss24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2025 Deadline
+DTSTART;TZID="UTC-10:00":20240615T235959
+DTEND;TZID="UTC-10:00":20240616T000059
+DTSTAMP:20261011T030856Z
+UID:8ebb8782-7e75-5e01-9b8c-34514c9cba00
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 8-10\, 2025\n📍 会议地点: Waikoloa\, Hawaii\, 
+ USA\n⏰ 原始截止时间 (UTC-10): 2024-06-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu
+ /\nDBLP索引: https://dblp.org/db/conf/hicss
+LOCATION:Waikoloa\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2025
+X-CCFDDL-ID:hicss25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2026 Deadline
+DTSTART;TZID="UTC-10:00":20250615T235959
+DTEND;TZID="UTC-10:00":20250616T000059
+DTSTAMP:20261011T030856Z
+UID:a00333ab-9e48-55bf-9ed6-b4b00729d6e4
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 7-9\, 2026\n📍 会议地点: Maui\, Hawaii\, USA\n
+ ⏰ 原始截止时间 (UTC-10): 2025-06-15 23:59:59\n分类: 人机交互
+ 与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu/\nDBL
+ P索引: https://dblp.org/db/conf/hicss
+LOCATION:Maui\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2026
+X-CCFDDL-ID:hicss26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2027 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-10:00":20260615T235959
+DTEND;TZID="UTC-10:00":20260616T000059
+DTSTAMP:20261011T030856Z
+UID:bcc9ad10-c333-5a85-92a9-b4aa5a1c36cd
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 5-8\, 2027\n📍 会议地点: Big Island\, Hawaii\,
+  USA\n⏰ 原始截止时间 (UTC-10): 2026-06-15 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu
+ /\nDBLP索引: https://dblp.org/db/conf/hicss
+LOCATION:Big Island\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2027
+X-CCFDDL-ID:hicss27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HICSS 2027 Final Decisions [Paper Submission Deadline]
+DTSTART;TZID="UTC-10:00":20260911T235959
+DTEND;TZID="UTC-10:00":20260912T000059
+DTSTAMP:20261011T030856Z
+UID:fc8fbd38-0b95-539f-addd-a8ad6ac3272c
+DESCRIPTION:Hawaii International Conference on System Sciences\n🗓️ 
+ 会议时间: January 5-8\, 2027\n📍 会议地点: Big Island\, Hawaii\,
+  USA\n⏰ 原始截止时间 (UTC-10): 2026-09-11 23:59:59\n分类: 人机
+ 交互与普适计算 (HI)\nCORE A\n会议官网: https://hicss.hawaii.edu
+ /\nDBLP索引: https://dblp.org/db/conf/hicss
+LOCATION:Big Island\, Hawaii\, USA
+URL:https://hicss.hawaii.edu/
+X-CCFDDL-CONFERENCE:HICSS 2027
+X-CCFDDL-ID:hicss27
+END:VEVENT
+END:VCALENDAR

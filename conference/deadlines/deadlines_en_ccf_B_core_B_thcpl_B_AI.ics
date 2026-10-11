@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COLING 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220517T235959
+DTEND;TZID="UTC-12:00":20220518T000059
+DTSTAMP:20261011T030942Z
+UID:6cab567d-cc1e-5fd9-a259-707be9ee9662
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: October 12-15\, 2022\n📍 Location: Gyeongju\, Republic of Korea (
+ Hybrid)\n⏰ Original Deadline (AoE): 2022-05-17 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF B\, CORE B\, THCPL B\nConference Website: https://coli
+ ng2022.org/\nDBLP Index: https://dblp.org/db/conf/coling
+LOCATION:Gyeongju\, Republic of Korea (Hybrid)
+URL:https://coling2022.org/
+X-CCFDDL-CONFERENCE:COLING 2022
+X-CCFDDL-ID:coling22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231020T235959
+DTEND;TZID="UTC-12:00":20231021T000059
+DTSTAMP:20261011T030942Z
+UID:67e47284-ad96-5165-9c1f-250d349e8ee2
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: May 22-24\, 2024\n📍 Location: Torino\, Italy (Hybrid)\n⏰ Origi
+ nal Deadline (UTC-12): 2023-10-20 23:59:59\nCategory: 人工智能 (AI)\nC
+ CF B\, CORE B\, THCPL B\nConference Website: https://lrec-coling-2024.lrec
+ -conf.org/\nDBLP Index: https://dblp.org/db/conf/coling
+LOCATION:Torino\, Italy (Hybrid)
+URL:https://lrec-coling-2024.lrec-conf.org/
+X-CCFDDL-CONFERENCE:COLING 2024
+X-CCFDDL-ID:coling24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2025 Deadline [ARR June cycle]
+DTSTART;TZID="UTC-12:00":20240615T235959
+DTEND;TZID="UTC-12:00":20240616T000059
+DTSTAMP:20261011T030942Z
+UID:6d659aff-4ebd-5499-9bd0-ebd155dd1ded
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: January 21-24 (in-person) and 27-28 (virtual)\, 2025\n📍 Location
+ : Abu Dhabi\, UAE / Online\n⏰ Original Deadline (UTC-12): 2024-06-15 23:
+ 59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE B\, THCPL B\nConference W
+ ebsite: https://coling2025.org/\nDBLP Index: https://dblp.org/db/conf/coli
+ ng
+LOCATION:Abu Dhabi\, UAE / Online
+URL:https://coling2025.org/
+X-CCFDDL-CONFERENCE:COLING 2025
+X-CCFDDL-ID:coling25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2025 Deadline [ARR August cycle]
+DTSTART;TZID="UTC-12:00":20240815T235959
+DTEND;TZID="UTC-12:00":20240816T000059
+DTSTAMP:20261011T030942Z
+UID:bc8ddb6c-f4f3-52d9-9558-669a023e6018
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: January 21-24 (in-person) and 27-28 (virtual)\, 2025\n📍 Location
+ : Abu Dhabi\, UAE / Online\n⏰ Original Deadline (UTC-12): 2024-08-15 23:
+ 59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE B\, THCPL B\nConference W
+ ebsite: https://coling2025.org/\nDBLP Index: https://dblp.org/db/conf/coli
+ ng
+LOCATION:Abu Dhabi\, UAE / Online
+URL:https://coling2025.org/
+X-CCFDDL-CONFERENCE:COLING 2025
+X-CCFDDL-ID:coling25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2025 Deadline [Direct submission]
+DTSTART;TZID="UTC-12:00":20240916T235959
+DTEND;TZID="UTC-12:00":20240917T000059
+DTSTAMP:20261011T030942Z
+UID:099094f3-bd7f-543d-b56a-67ed1961aff5
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: January 21-24 (in-person) and 27-28 (virtual)\, 2025\n📍 Location
+ : Abu Dhabi\, UAE / Online\n⏰ Original Deadline (UTC-12): 2024-09-16 23:
+ 59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE B\, THCPL B\nConference W
+ ebsite: https://coling2025.org/\nDBLP Index: https://dblp.org/db/conf/coli
+ ng
+LOCATION:Abu Dhabi\, UAE / Online
+URL:https://coling2025.org/
+X-CCFDDL-CONFERENCE:COLING 2025
+X-CCFDDL-ID:coling25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2025 Deadline [Commitment deadline for papers reviewed by A
+ RR]
+DTSTART;TZID="UTC-12:00":20241020T235959
+DTEND;TZID="UTC-12:00":20241021T000059
+DTSTAMP:20261011T030942Z
+UID:f8d38a4b-e2bc-5737-8e4e-e9618be13317
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: January 21-24 (in-person) and 27-28 (virtual)\, 2025\n📍 Location
+ : Abu Dhabi\, UAE / Online\n⏰ Original Deadline (UTC-12): 2024-10-20 23:
+ 59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE B\, THCPL B\nConference W
+ ebsite: https://coling2025.org/\nDBLP Index: https://dblp.org/db/conf/coli
+ ng
+LOCATION:Abu Dhabi\, UAE / Online
+URL:https://coling2025.org/
+X-CCFDDL-CONFERENCE:COLING 2025
+X-CCFDDL-ID:coling25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2027 Deadline [ARR Submission]
+DTSTART;TZID="UTC-12:00":20261012T235959
+DTEND;TZID="UTC-12:00":20261013T000059
+DTSTAMP:20261011T030942Z
+UID:ba0bd6e3-2450-5489-947e-ace8187be147
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: May 9-14\, 2027\n📍 Location: Macau SAR\, China\n⏰ Original Dea
+ dline (UTC-12): 2026-10-12 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, 
+ CORE B\, THCPL B\nConference Website: https://2027.coling-iccl.org/\nDBLP 
+ Index: https://dblp.org/db/conf/coling
+LOCATION:Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+X-CCFDDL-CONFERENCE:COLING 2027
+X-CCFDDL-ID:coling27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2027 Rebuttal Submission [ARR Submission]
+DTSTART;TZID="UTC-12:00":20261130T235959
+DTEND;TZID="UTC-12:00":20261201T000059
+DTSTAMP:20261011T030942Z
+UID:12c9c6c8-0f03-57cf-995c-a40dd02819ab
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: May 9-14\, 2027\n📍 Location: Macau SAR\, China\n⏰ Original Dea
+ dline (UTC-12): 2026-11-30 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, 
+ CORE B\, THCPL B\nConference Website: https://2027.coling-iccl.org/\nDBLP 
+ Index: https://dblp.org/db/conf/coling
+LOCATION:Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+X-CCFDDL-CONFERENCE:COLING 2027
+X-CCFDDL-ID:coling27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2027 Deadline [COLING commitment after ARR meta-reviews\; r
+ eviewed papers only]
+DTSTART;TZID="UTC-12:00":20261223T235959
+DTEND;TZID="UTC-12:00":20261224T000059
+DTSTAMP:20261011T030942Z
+UID:673b1eea-3d85-5c45-8e4a-bad67aac9ca9
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: May 9-14\, 2027\n📍 Location: Macau SAR\, China\n⏰ Original Dea
+ dline (UTC-12): 2026-12-23 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, 
+ CORE B\, THCPL B\nConference Website: https://2027.coling-iccl.org/\nDBLP 
+ Index: https://dblp.org/db/conf/coling
+LOCATION:Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+X-CCFDDL-CONFERENCE:COLING 2027
+X-CCFDDL-ID:coling27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLING 2027 Final Decisions [COLING commitment after ARR meta-revi
+ ews\; reviewed papers only]
+DTSTART;TZID="UTC-12:00":20270210T235959
+DTEND;TZID="UTC-12:00":20270211T000059
+DTSTAMP:20261011T030942Z
+UID:16c977be-84f8-5c89-8f1e-79bee5335e34
+DESCRIPTION:International Conference on Computational Linguistics\n🗓️
+  Date: May 9-14\, 2027\n📍 Location: Macau SAR\, China\n⏰ Original Dea
+ dline (UTC-12): 2027-02-10 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, 
+ CORE B\, THCPL B\nConference Website: https://2027.coling-iccl.org/\nDBLP 
+ Index: https://dblp.org/db/conf/coling
+LOCATION:Macau SAR\, China
+URL:https://2027.coling-iccl.org/
+X-CCFDDL-CONFERENCE:COLING 2027
+X-CCFDDL-ID:coling27
+END:VEVENT
+END:VCALENDAR

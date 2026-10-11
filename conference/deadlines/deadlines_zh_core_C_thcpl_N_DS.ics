@@ -1,0 +1,422 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPCC 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210915T235959
+DTEND;TZID="UTC-12:00":20210916T000059
+DTSTAMP:20261011T030854Z
+UID:254f316b-db52-5670-a46b-ccf2a70a2e8e
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: December 20-22\, 2021\n📍 会议
+ 地点: Haikou\, China\n⏰ 原始截止时间 (AoE): 2021-09-15 23:59:59
+ \n分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\nC
+ CF C\, CORE C\n会议官网: https://www.ieee-hpcc.org/2021/\nDBLP索引: 
+ https://dblp.org/db/conf/hpcc
+LOCATION:Haikou\, China
+URL:https://www.ieee-hpcc.org/2021/
+X-CCFDDL-CONFERENCE:HPCC 2021
+X-CCFDDL-ID:hpcc2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPCC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220920T235959
+DTEND;TZID="UTC-12:00":20220921T000059
+DTSTAMP:20261011T030854Z
+UID:66497f2c-daef-5b34-8956-83289b8d1961
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: December 18-21\, 2022\n📍 会议
+ 地点: Chengdu\, China\n⏰ 原始截止时间 (AoE): 2022-09-20 23:59:59
+ \n分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\nC
+ CF C\, CORE C\n会议官网: https://www.ieee-hpcc.org/2022/\nDBLP索引: 
+ https://dblp.org/db/conf/hpcc
+LOCATION:Chengdu\, China
+URL:https://www.ieee-hpcc.org/2022/
+X-CCFDDL-CONFERENCE:HPCC 2022
+X-CCFDDL-ID:hpcc2022
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HPCC 2023 Deadline
+DTSTART;TZID="UTC-10:00":20230915T235959
+DTEND;TZID="UTC-10:00":20230916T000059
+DTSTAMP:20261011T030854Z
+UID:0206bf43-c572-5cb9-a7f8-21f1f6c18df7
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: December 13-15\, 2023\n📍 会议
+ 地点: Melbourne\, Australia\n⏰ 原始截止时间 (UTC-10): 2023-09-15
+  23:59:59\n分类: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCCF C\, CORE C\n会议官网: http://www.swinflow.org/confs/2023
+ /hpcc/\nDBLP索引: https://dblp.org/db/conf/hpcc
+LOCATION:Melbourne\, Australia
+URL:http://www.swinflow.org/confs/2023/hpcc/
+X-CCFDDL-CONFERENCE:HPCC 2023
+X-CCFDDL-ID:hpcc2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPCC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240815T235959
+DTEND;TZID="UTC-12:00":20240816T000059
+DTSTAMP:20261011T030854Z
+UID:eca878a1-c82c-562e-b41e-8dc0aea94d1a
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: TBD\n📍 会议地点: Wuhan\, Ch
+ ina\n⏰ 原始截止时间 (AoE): 2024-08-15 23:59:59\n分类: 计算机
+ 体系结构/并行与分布计算/存储系统 (DS)\nCCF C\, CORE C\n会
+ 议官网: http://www.ieee-hust-ncc.org/2024/HPCC/index.html\nDBLP索引: 
+ https://dblp.org/db/conf/hpcc
+LOCATION:Wuhan\, China
+URL:http://www.ieee-hust-ncc.org/2024/HPCC/index.html
+X-CCFDDL-CONFERENCE:HPCC 2024
+X-CCFDDL-ID:hpcc2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPCC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250518T235959
+DTEND;TZID="UTC-12:00":20250519T000059
+DTSTAMP:20261011T030854Z
+UID:add5dff0-ec61-59fa-a9c1-f05b6cfa21cc
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: August 13-15\, 2025\n📍 会议
+ 地点: Exeter\, UK\n⏰ 原始截止时间 (AoE): 2025-05-18 23:59:59\n
+ 分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF
+  C\, CORE C\n会议官网: https://hpcn.exeter.ac.uk/hpcc2025/\nDBLP索引
+ : https://dblp.org/db/conf/hpcc
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/hpcc2025/
+X-CCFDDL-CONFERENCE:HPCC 2025
+X-CCFDDL-ID:hpcc2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HPCC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260805T235959
+DTEND;TZID="UTC-12:00":20260806T000059
+DTSTAMP:20261011T030854Z
+UID:8b516d02-efad-5252-b28f-6ff023bf2d0b
+DESCRIPTION:IEEE International Conference on High Performance Computing an
+ d Communications\n🗓️ 会议时间: October 29 - November 2\, 2026\n
+ 📍 会议地点: Luoyang\, Henan\, China\n⏰ 原始截止时间 (AoE): 
+ 2026-08-05 23:59:59\n分类: 计算机体系结构/并行与分布计算/
+ 存储系统 (DS)\nCCF C\, CORE C\n会议官网: https://ieee-hyper-intell
+ igence.org/2026/hpcc/\nDBLP索引: https://dblp.org/db/conf/hpcc
+LOCATION:Luoyang\, Henan\, China
+URL:https://ieee-hyper-intelligence.org/2026/hpcc/
+X-CCFDDL-CONFERENCE:HPCC 2026
+X-CCFDDL-ID:hpcc2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210929T235959
+DTEND;TZID="UTC-12:00":20210930T000059
+DTSTAMP:20261011T030854Z
+UID:f96e8e65-05a4-504f-8c0d-fa5493f5a5ff
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: December 3-5\, 2021\n📍 会议
+ 地点: Online\n⏰ 原始截止时间 (AoE): 2021-09-29 23:59:59\n分类:
+  计算机体系结构/并行与分布计算/存储系统 (DS)\nCCF C\, CO
+ RE C\n会议官网: https://nsclab.org/ica3pp2021/\nDBLP索引: https://db
+ lp.org/db/conf/ica3pp
+LOCATION:Online
+URL:https://nsclab.org/ica3pp2021/
+X-CCFDDL-CONFERENCE:ICA3PP 2021
+X-CCFDDL-ID:ica3pp21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220630T235959
+DTEND;TZID="UTC-12:00":20220701T000059
+DTSTAMP:20261011T030854Z
+UID:c39e1ddf-fdfd-505d-ade5-da281f360bc0
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 10-12\, 2022\n📍 会
+ 议地点: Copenhagen\, Denmark (Online)\n⏰ 原始截止时间 (AoE): 20
+ 22-06-30 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCCF C\, CORE C\n会议官网: https://ica3pp2022.compute.d
+ tu.dk/\nDBLP索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Copenhagen\, Denmark (Online)
+URL:https://ica3pp2022.compute.dtu.dk/
+X-CCFDDL-CONFERENCE:ICA3PP 2022
+X-CCFDDL-ID:ica3pp22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2023 Deadline
+DTSTART;TZID="UTC-08:00":20230530T235959
+DTEND;TZID="UTC-08:00":20230531T000059
+DTSTAMP:20261011T030854Z
+UID:d7e93414-da67-5506-a42d-40f0279b03c0
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 20-22\, 2023\n📍 会
+ 议地点: Tianjin\, China\n⏰ 原始截止时间 (UTC-8): 2023-05-30 23:
+ 59:59\n分类: 计算机体系结构/并行与分布计算/存储系统 (D
+ S)\nCCF C\, CORE C\n会议官网: http://tjutanklab.com/ica3pp2023/\nDBLP
+ 索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Tianjin\, China
+URL:http://tjutanklab.com/ica3pp2023/
+X-CCFDDL-CONFERENCE:ICA3PP 2023
+X-CCFDDL-ID:ica3pp23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240609T235959
+DTEND;TZID="UTC-12:00":20240610T000059
+DTSTAMP:20261011T030854Z
+UID:2161ec90-cdd6-5003-8c08-5a8cedaa03ff
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 29-31\, 2024\n📍 会
+ 议地点: Macau\, China\n⏰ 原始截止时间 (AoE): 2024-06-09 23:59:5
+ 9\n分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\n
+ CCF C\, CORE C\n会议官网: https://ica3pp2024.scimeeting.cn/en/web/inde
+ x/21666\nDBLP索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Macau\, China
+URL:https://ica3pp2024.scimeeting.cn/en/web/index/21666
+X-CCFDDL-CONFERENCE:ICA3PP 2024
+X-CCFDDL-ID:ica3pp24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250810T235959
+DTEND;TZID="UTC-12:00":20250811T000059
+DTSTAMP:20261011T030854Z
+UID:b7f61645-3309-526b-9b63-2db21a700689
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 30 - November 1\, 2025\n
+ 📍 会议地点: Zhengzhou\, Henan\, China\n⏰ 原始截止时间 (AoE)
+ : 2025-08-10 23:59:59\n分类: 计算机体系结构/并行与分布计算
+ /存储系统 (DS)\nCCF C\, CORE C\n会议官网: https://ieee-cybermatics
+ .org/2025/ica3pp/\nDBLP索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Zhengzhou\, Henan\, China
+URL:https://ieee-cybermatics.org/2025/ica3pp/
+X-CCFDDL-CONFERENCE:ICA3PP 2025
+X-CCFDDL-ID:ica3pp25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICA3PP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260725T235959
+DTEND;TZID="UTC-12:00":20260726T000059
+DTSTAMP:20261011T030854Z
+UID:6e790680-e7a7-5272-85f0-ebb397f02a7e
+DESCRIPTION:International Conference on Algorithms and Architectures for P
+ arallel Processing\n🗓️ 会议时间: October 26-28\, 2026\n📍 会
+ 议地点: Exeter\, UK\n⏰ 原始截止时间 (AoE): 2026-07-25 23:59:59
+ \n分类: 计算机体系结构/并行与分布计算/存储系统 (DS)\nC
+ CF C\, CORE C\n会议官网: https://hpcn.exeter.ac.uk/ica3pp2026/\nDBLP
+ 索引: https://dblp.org/db/conf/ica3pp
+LOCATION:Exeter\, UK
+URL:https://hpcn.exeter.ac.uk/ica3pp2026/
+X-CCFDDL-CONFERENCE:ICA3PP 2026
+X-CCFDDL-ID:ica3pp26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210709T235959
+DTEND;TZID="UTC-12:00":20210710T000059
+DTSTAMP:20261011T030854Z
+UID:03278f36-bec2-5733-866b-38150d1b2aba
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ 会议时间: September 30-October 3\, 20
+ 21\n📍 会议地点: New York\, USA\n⏰ 原始截止时间 (AoE): 2021-
+ 07-09 23:59:59\n分类: 计算机体系结构/并行与分布计算/存储
+ 系统 (DS)\nCCF C\, CORE C\n会议官网: http://www.cloud-conf.net/ispa2
+ 021/\nDBLP索引: https://dblp.org/db/conf/ispa
+LOCATION:New York\, USA
+URL:http://www.cloud-conf.net/ispa2021/
+X-CCFDDL-CONFERENCE:ISPA 2021
+X-CCFDDL-ID:ispa21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230915T235959
+DTEND;TZID="UTC-12:00":20230916T000059
+DTSTAMP:20261011T030854Z
+UID:653cfe0c-7c86-5130-9dec-9ec81bfe74f3
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ 会议时间: December 22-24\, 2023\n📍
+  会议地点: Wuhan\, China (Hybrid)\n⏰ 原始截止时间 (AoE): 2023-
+ 09-15 23:59:59\n分类: 计算机体系结构/并行与分布计算/存储
+ 系统 (DS)\nCCF C\, CORE C\n会议官网: http://www.ieee-hust-ncc.org/20
+ 23/ISPA/index.html\nDBLP索引: https://dblp.org/db/conf/ispa
+LOCATION:Wuhan\, China (Hybrid)
+URL:http://www.ieee-hust-ncc.org/2023/ISPA/index.html
+X-CCFDDL-CONFERENCE:ISPA 2023
+X-CCFDDL-ID:ispa23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240722T235959
+DTEND;TZID="UTC-12:00":20240723T000059
+DTSTAMP:20261011T030854Z
+UID:d9ff352f-8c96-52e9-a907-11ac34312a30
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ 会议时间: October 30-November 1\, 202
+ 4\n📍 会议地点: Kaifeng\, China\n⏰ 原始截止时间 (AoE): 2024-
+ 07-22 23:59:59\n分类: 计算机体系结构/并行与分布计算/存储
+ 系统 (DS)\nCCF C\, CORE C\n会议官网: https://www.ieee-ispa.org/2024/
+ ispa/\nDBLP索引: https://dblp.org/db/conf/ispa
+LOCATION:Kaifeng\, China
+URL:https://www.ieee-ispa.org/2024/ispa/
+X-CCFDDL-CONFERENCE:ISPA 2024
+X-CCFDDL-ID:ispa24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250731T235959
+DTEND;TZID="UTC-12:00":20250801T000059
+DTSTAMP:20261011T030854Z
+UID:0b1f94dd-2a3e-5b63-85a7-6ab1ab119a65
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ 会议时间: October 10-12\, 2025\n📍 
+ 会议地点: Shenyang\, China\n⏰ 原始截止时间 (AoE): 2025-07-31 2
+ 3:59:59\n分类: 计算机体系结构/并行与分布计算/存储系统 
+ (DS)\nCCF C\, CORE C\n会议官网: https://www.ieee-ai-for-science.org/20
+ 25/ispa/\nDBLP索引: https://dblp.org/db/conf/ispa
+LOCATION:Shenyang\, China
+URL:https://www.ieee-ai-for-science.org/2025/ispa/
+X-CCFDDL-CONFERENCE:ISPA 2025
+X-CCFDDL-ID:ispa25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260930T235959
+DTEND;TZID="UTC-12:00":20261001T000059
+DTSTAMP:20261011T030854Z
+UID:0b28891d-e9db-5aec-b460-2bf327a0c0e2
+DESCRIPTION:IEEE International Symposium on Parallel and Distributed Proce
+ ssing with Applications\n🗓️ 会议时间: December 27-30\, 2026\n📍
+  会议地点: Kuala Lumpur\, Malaysia\n⏰ 原始截止时间 (AoE): 2026
+ -09-30 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCCF C\, CORE C\n会议官网: https://ieee-ai-for-science.
+ org/2026/ispa/\nDBLP索引: https://dblp.org/db/conf/ispa
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://ieee-ai-for-science.org/2026/ispa/
+X-CCFDDL-CONFERENCE:ISPA 2026
+X-CCFDDL-ID:ispa26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220920T235959
+DTEND;TZID="UTC-12:00":20220921T000059
+DTSTAMP:20261011T030854Z
+UID:2c7c251f-3504-57a1-8bf8-2d63dff84c66
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 7-9\, 202
+ 2\n📍 会议地点: Sendai\, Japan (Hybrid)\n⏰ 原始截止时间 (AoE
+ ): 2022-09-20 23:59:59\n分类: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCORE C\n会议官网: https://www.hpc.is.tohoku.ac.
+ jp/pdcat2022/\nDBLP索引: https://dblp.org/db/conf/pdcat
+LOCATION:Sendai\, Japan (Hybrid)
+URL:https://www.hpc.is.tohoku.ac.jp/pdcat2022/
+X-CCFDDL-CONFERENCE:PDCAT 2022
+X-CCFDDL-ID:pdcat2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220930T235959
+DTEND;TZID="UTC-12:00":20221001T000059
+DTSTAMP:20261011T030854Z
+UID:205ea594-a082-518c-8c61-97b360c975f9
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 7-9\, 202
+ 2\n📍 会议地点: Sendai\, Japan (Hybrid)\n⏰ 原始截止时间 (AoE
+ ): 2022-09-30 23:59:59\n分类: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCORE C\n会议官网: https://www.hpc.is.tohoku.ac.
+ jp/pdcat2022/\nDBLP索引: https://dblp.org/db/conf/pdcat
+LOCATION:Sendai\, Japan (Hybrid)
+URL:https://www.hpc.is.tohoku.ac.jp/pdcat2022/
+X-CCFDDL-CONFERENCE:PDCAT 2022
+X-CCFDDL-ID:pdcat2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240930T235959
+DTEND;TZID="UTC-12:00":20241001T000059
+DTSTAMP:20261011T030854Z
+UID:0cc246c0-3a29-5d96-b933-c1950fd1d721
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 14-15\, 2
+ 024\n📍 会议地点: Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2
+ 024-09-30 23:59:59\n分类: 计算机体系结构/并行与分布计算/
+ 存储系统 (DS)\nCORE C\n会议官网: https://hpcc.siat.ac.cn/meeting/p
+ dcat2024/index.html\nDBLP索引: https://dblp.org/db/conf/pdcat
+LOCATION:Hong Kong\, China
+URL:https://hpcc.siat.ac.cn/meeting/pdcat2024/index.html
+X-CCFDDL-CONFERENCE:PDCAT 2024
+X-CCFDDL-ID:pdcat2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20261011T030854Z
+UID:f7be4312-7e1e-5f79-8049-cc80b689f45b
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: November 22-23\, 2
+ 025\n📍 会议地点: Gold Coast\, Australia (Hybrid)\n⏰ 原始截止
+ 时间 (AoE): 2025-08-15 23:59:59\n分类: 计算机体系结构/并行与
+ 分布计算/存储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.o
+ rg/2025/\nDBLP索引: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia (Hybrid)
+URL:https://www.pd-cat.org/2025/
+X-CCFDDL-CONFERENCE:PDCAT 2025
+X-CCFDDL-ID:pdcat2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 Deadline [First Cycle]
+DTSTART;TZID="UTC-12:00":20260921T235959
+DTEND;TZID="UTC-12:00":20260922T000059
+DTSTAMP:20261011T030854Z
+UID:e54873c8-e235-5786-a55d-12496ecf117a
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 4-6\, 202
+ 6\n📍 会议地点: Changsha\, China\n⏰ 原始截止时间 (AoE): 2026
+ -09-21 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+X-CCFDDL-CONFERENCE:PDCAT 2026
+X-CCFDDL-ID:pdcat2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 Deadline [Second Cycle]
+DTSTART;TZID="UTC-12:00":20261020T235959
+DTEND;TZID="UTC-12:00":20261021T000059
+DTSTAMP:20261011T030854Z
+UID:9e110a48-505c-50f8-8a3a-e1460eb215fe
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ 会议时间: December 4-6\, 202
+ 6\n📍 会议地点: Changsha\, China\n⏰ 原始截止时间 (AoE): 2026
+ -10-20 23:59:59\n分类: 计算机体系结构/并行与分布计算/存
+ 储系统 (DS)\nCORE C\n会议官网: https://www.pd-cat.org/2026/\nDBLP
+ 索引: https://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+X-CCFDDL-CONFERENCE:PDCAT 2026
+X-CCFDDL-ID:pdcat2026
+END:VEVENT
+END:VCALENDAR

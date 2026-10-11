@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-10:00
+TZOFFSETFROM:-1000
+TZOFFSETTO:-1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2021 Abstract Deadline [Paper registration]
+DTSTART;TZID="UTC-10:00":20210127T235959
+DTEND;TZID="UTC-10:00":20210128T000059
+DTSTAMP:20261011T030847Z
+UID:dbf26b93-a045-5b57-868f-0bc2aac71ee2
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: July 12-20\, 2021\n📍 会议地点: Online\n⏰ 原始截
+ 止时间 (UTC-10): 2021-01-27 23:59:59\n分类: 计算机科学理论 (CT
+ )\nCORE B\, THCPL B\n会议官网: http://2021.ieee-isit.org/\nDBLP索引:
+  https://dblp.org/db/conf/isit
+LOCATION:Online
+URL:http://2021.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2021
+X-CCFDDL-ID:isit21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2021 Deadline [Paper registration]
+DTSTART;TZID="UTC-10:00":20210203T235959
+DTEND;TZID="UTC-10:00":20210204T000059
+DTSTAMP:20261011T030847Z
+UID:003380cf-8b9a-56dc-9bdb-614d10e9e34f
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: July 12-20\, 2021\n📍 会议地点: Online\n⏰ 原始截
+ 止时间 (UTC-10): 2021-02-03 23:59:59\n分类: 计算机科学理论 (CT
+ )\nCORE B\, THCPL B\n会议官网: http://2021.ieee-isit.org/\nDBLP索引:
+  https://dblp.org/db/conf/isit
+LOCATION:Online
+URL:http://2021.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2021
+X-CCFDDL-ID:isit21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2022 Deadline
+DTSTART;TZID="UTC-05:00":20220206T235959
+DTEND;TZID="UTC-05:00":20220207T000059
+DTSTAMP:20261011T030847Z
+UID:dc33614b-341f-5b47-9ae8-e7f8b0528d41
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 27 - July 1\, 2022\n📍 会议地点: Espoo\, Finland
+ \n⏰ 原始截止时间 (UTC-5): 2022-02-06 23:59:59\n分类: 计算机
+ 科学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://www.isit2022.or
+ g/\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Espoo\, Finland
+URL:https://www.isit2022.org/
+X-CCFDDL-CONFERENCE:ISIT 2022
+X-CCFDDL-ID:isit22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2023 Deadline [Virtual track]
+DTSTART;TZID="UTC+08:00":20230103T235959
+DTEND;TZID="UTC+08:00":20230104T000059
+DTSTAMP:20261011T030847Z
+UID:62f13845-fa0c-5586-8ccd-d4d2befe8040
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: TBD\n📍 会议地点: Taipei\, Taiwan\n⏰ 原始截止时
+ 间 (UTC+8): 2023-01-03 23:59:59\n分类: 计算机科学理论 (CT)\nCORE
+  B\, THCPL B\n会议官网: https://isit2023.org/\nDBLP索引: https://dbl
+ p.org/db/conf/isit
+LOCATION:Taipei\, Taiwan
+URL:https://isit2023.org/
+X-CCFDDL-CONFERENCE:ISIT 2023
+X-CCFDDL-ID:isit23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2023 Deadline [In-person track]
+DTSTART;TZID="UTC+08:00":20230205T235959
+DTEND;TZID="UTC+08:00":20230206T000059
+DTSTAMP:20261011T030847Z
+UID:1a5d5847-b0be-55f9-8321-6b520beca18a
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: TBD\n📍 会议地点: Taipei\, Taiwan\n⏰ 原始截止时
+ 间 (UTC+8): 2023-02-05 23:59:59\n分类: 计算机科学理论 (CT)\nCORE
+  B\, THCPL B\n会议官网: https://isit2023.org/\nDBLP索引: https://dbl
+ p.org/db/conf/isit
+LOCATION:Taipei\, Taiwan
+URL:https://isit2023.org/
+X-CCFDDL-CONFERENCE:ISIT 2023
+X-CCFDDL-ID:isit23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISIT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240129T235959
+DTEND;TZID="UTC-12:00":20240130T000059
+DTSTAMP:20261011T030847Z
+UID:e2898dd9-f63f-5a5f-b29f-9a4e9308c7bf
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: July 8-12\, 2024\n📍 会议地点: Athens\, Greece\n⏰ 
+ 原始截止时间 (AoE): 2024-01-29 23:59:59\n分类: 计算机科学理
+ 论 (CT)\nCORE B\, THCPL B\n会议官网: https://2024.ieee-isit.org/\nDBL
+ P索引: https://dblp.org/db/conf/isit
+LOCATION:Athens\, Greece
+URL:https://2024.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2024
+X-CCFDDL-ID:isit24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250122T235959
+DTEND;TZID="UTC-12:00":20250123T000059
+DTSTAMP:20261011T030847Z
+UID:dcf8ea2a-6d8a-5580-8b24-9c94b5a4e119
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 23-27\, 2025\n📍 会议地点: Ann Arbor\, Michigan\,
+  USA\n⏰ 原始截止时间 (AoE): 2025-01-22 23:59:59\n分类: 计算机
+ 科学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2025.ieee-isit.
+ org/\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://2025.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2025
+X-CCFDDL-ID:isit25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260116T235959
+DTEND;TZID="UTC-12:00":20260117T000059
+DTSTAMP:20261011T030847Z
+UID:8595aa1f-c031-5c2a-b071-1b3d016e4891
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 28 - July 3\, 2026\n📍 会议地点: Guangzhou\, Chin
+ a\n⏰ 原始截止时间 (AoE): 2026-01-16 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2026.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Guangzhou\, China
+URL:https://2026.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2026
+X-CCFDDL-ID:isit26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270110T235959
+DTEND;TZID="UTC-12:00":20270111T000059
+DTSTAMP:20261011T030847Z
+UID:f5656f75-897f-526b-a3dd-3563fff77af4
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 27 - July 2\, 2027\n📍 会议地点: Sorrento\, Italy
+ \n⏰ 原始截止时间 (AoE): 2027-01-10 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2027.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Sorrento\, Italy
+URL:https://2027.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2027
+X-CCFDDL-ID:isit27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISIT 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270327T235959
+DTEND;TZID="UTC-12:00":20270328T000059
+DTSTAMP:20261011T030847Z
+UID:4a12371f-922e-5276-9dcc-a1df482005cd
+DESCRIPTION:IEEE International Symposium on Information Theory\n🗓️ 
+ 会议时间: June 27 - July 2\, 2027\n📍 会议地点: Sorrento\, Italy
+ \n⏰ 原始截止时间 (AoE): 2027-03-27 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCORE B\, THCPL B\n会议官网: https://2027.ieee-isit.org
+ /\nDBLP索引: https://dblp.org/db/conf/isit
+LOCATION:Sorrento\, Italy
+URL:https://2027.ieee-isit.org/
+X-CCFDDL-CONFERENCE:ISIT 2027
+X-CCFDDL-ID:isit27
+END:VEVENT
+END:VCALENDAR

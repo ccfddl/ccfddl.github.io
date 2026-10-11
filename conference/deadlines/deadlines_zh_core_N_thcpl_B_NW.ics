@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HotNets 2021 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20210618T180000
+DTEND;TZID="UTC-04:00":20210618T180100
+DTSTAMP:20261011T030900Z
+UID:e8ca773c-b8eb-5ffa-a75f-3e33a24cba5a
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 10-12\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 
+ (UTC-4): 2021-06-18 18:00:00\n分类: 计算机网络 (NW)\nCCF C\, THCPL 
+ B\n会议官网: https://conferences.sigcomm.org/hotnets/2021/\nDBLP索引
+ : https://dblp.org/db/conf/hotnets
+LOCATION:Virtual
+URL:https://conferences.sigcomm.org/hotnets/2021/
+X-CCFDDL-CONFERENCE:HotNets 2021
+X-CCFDDL-ID:hotnets21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2021 Deadline
+DTSTART;TZID="UTC-04:00":20210625T180000
+DTEND;TZID="UTC-04:00":20210625T180100
+DTSTAMP:20261011T030900Z
+UID:62237bf9-b11a-58d4-ad9c-ffd47cae82d7
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 10-12\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止时间 
+ (UTC-4): 2021-06-25 18:00:00\n分类: 计算机网络 (NW)\nCCF C\, THCPL 
+ B\n会议官网: https://conferences.sigcomm.org/hotnets/2021/\nDBLP索引
+ : https://dblp.org/db/conf/hotnets
+LOCATION:Virtual
+URL:https://conferences.sigcomm.org/hotnets/2021/
+X-CCFDDL-CONFERENCE:HotNets 2021
+X-CCFDDL-ID:hotnets21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2022 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20220616T180000
+DTEND;TZID="UTC-04:00":20220616T180100
+DTSTAMP:20261011T030900Z
+UID:154c68bc-18f7-5670-ae80-5a697175217d
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 14-15\, 2022\n📍 会议地点: Austin\, Texas\, USA\n⏰ 原始
+ 截止时间 (UTC-4): 2022-06-16 18:00:00\n分类: 计算机网络 (NW)\nC
+ CF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotnets/2022
+ /\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Austin\, Texas\, USA
+URL:https://conferences.sigcomm.org/hotnets/2022/
+X-CCFDDL-CONFERENCE:HotNets 2022
+X-CCFDDL-ID:hotnets22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2022 Deadline
+DTSTART;TZID="UTC-04:00":20220623T180000
+DTEND;TZID="UTC-04:00":20220623T180100
+DTSTAMP:20261011T030900Z
+UID:c5deefc6-883b-5d2a-a6eb-cb32795c3912
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 14-15\, 2022\n📍 会议地点: Austin\, Texas\, USA\n⏰ 原始
+ 截止时间 (UTC-4): 2022-06-23 18:00:00\n分类: 计算机网络 (NW)\nC
+ CF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotnets/2022
+ /\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Austin\, Texas\, USA
+URL:https://conferences.sigcomm.org/hotnets/2022/
+X-CCFDDL-CONFERENCE:HotNets 2022
+X-CCFDDL-ID:hotnets22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2023 Deadline
+DTSTART;TZID="UTC-04:00":20230630T175959
+DTEND;TZID="UTC-04:00":20230630T180059
+DTSTAMP:20261011T030900Z
+UID:6578b95d-273d-5acb-9189-5c7b71e11e2f
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 28-29\, 2023\n📍 会议地点: Cambridge\, Massachusetts\, USA
+ \n⏰ 原始截止时间 (UTC-4): 2023-06-30 17:59:59\n分类: 计算机
+ 网络 (NW)\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.or
+ g/hotnets/2023/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Cambridge\, Massachusetts\, USA
+URL:https://conferences.sigcomm.org/hotnets/2023/
+X-CCFDDL-CONFERENCE:HotNets 2023
+X-CCFDDL-ID:hotnets23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:HotNets 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240627T235959
+DTEND;TZID="UTC-12:00":20240628T000059
+DTSTAMP:20261011T030900Z
+UID:27806097-7fb9-5d19-90c2-f1ff95050aca
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 18-19\, 2024\n📍 会议地点: Irvine\, California\, USA\n⏰ 
+ 原始截止时间 (AoE): 2024-06-27 23:59:59\n分类: 计算机网络 (NW
+ )\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotnets/
+ 2024/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Irvine\, California\, USA
+URL:https://conferences.sigcomm.org/hotnets/2024/
+X-CCFDDL-CONFERENCE:HotNets 2024
+X-CCFDDL-ID:hotnets24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250709T235959
+DTEND;TZID="UTC-12:00":20250710T000059
+DTSTAMP:20261011T030900Z
+UID:4465122a-4100-57c5-9d7e-3793f2351a27
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 17-18\, 2025\n📍 会议地点: College Park\, Maryland\, USA\n
+ ⏰ 原始截止时间 (AoE): 2025-07-09 23:59:59\n分类: 计算机网络
+  (NW)\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotn
+ ets/2025/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:College Park\, Maryland\, USA
+URL:https://conferences.sigcomm.org/hotnets/2025/
+X-CCFDDL-CONFERENCE:HotNets 2025
+X-CCFDDL-ID:hotnets25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2026 Abstract Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20260716T235958
+DTEND;TZID="UTC-12:00":20260717T000058
+DTSTAMP:20261011T030900Z
+UID:d6a31f3a-8786-5670-bb70-4edf70fe7207
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 16-17\, 2026\n📍 会议地点: Salt Lake City\, Utah\, USA\n⏰
+  原始截止时间 (UTC-12): 2026-07-16 23:59:58\n分类: 计算机网络
+  (NW)\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotn
+ ets/2026/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://conferences.sigcomm.org/hotnets/2026/
+X-CCFDDL-CONFERENCE:HotNets 2026
+X-CCFDDL-ID:hotnets26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotNets 2026 Deadline [Registration / full paper]
+DTSTART;TZID="UTC-12:00":20260716T235959
+DTEND;TZID="UTC-12:00":20260717T000059
+DTSTAMP:20261011T030900Z
+UID:af1f0bad-5218-55a6-9bb3-48def328f62c
+DESCRIPTION:ACM Workshop on Hot Topics in Networks\n🗓️ 会议时间: 
+ November 16-17\, 2026\n📍 会议地点: Salt Lake City\, Utah\, USA\n⏰
+  原始截止时间 (UTC-12): 2026-07-16 23:59:59\n分类: 计算机网络
+  (NW)\nCCF C\, THCPL B\n会议官网: https://conferences.sigcomm.org/hotn
+ ets/2026/\nDBLP索引: https://dblp.org/db/conf/hotnets
+LOCATION:Salt Lake City\, Utah\, USA
+URL:https://conferences.sigcomm.org/hotnets/2026/
+X-CCFDDL-CONFERENCE:HotNets 2026
+X-CCFDDL-ID:hotnets26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201030T235959
+DTEND;TZID="UTC-12:00":20201031T000059
+DTSTAMP:20261011T030900Z
+UID:c5af3613-6ab3-5e9f-8b22-d1a58dca1aa0
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: June 15-23\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止
+ 时间 (AoE): 2020-10-30 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, T
+ HCPL B\n会议官网: https://icc2021.ieee-icc.org/\nDBLP索引: https://d
+ blp.org/db/conf/icc
+LOCATION:Virtual
+URL:https://icc2021.ieee-icc.org/
+X-CCFDDL-CONFERENCE:ICC 2021
+X-CCFDDL-ID:icc21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211114T235959
+DTEND;TZID="UTC-12:00":20211115T000059
+DTSTAMP:20261011T030900Z
+UID:f96cd942-4242-5e68-b03f-3577eee703fe
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 17-19\, 2022\n📍 会议地点: Seoul\, South Korea / Hybr
+ id\n⏰ 原始截止时间 (AoE): 2021-11-14 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF C\, THCPL B\n会议官网: https://icc2022.ieee-icc.org/
+ \nDBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Seoul\, South Korea / Hybrid
+URL:https://icc2022.ieee-icc.org/
+X-CCFDDL-CONFERENCE:ICC 2022
+X-CCFDDL-ID:icc22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221113T235959
+DTEND;TZID="UTC-12:00":20221114T000059
+DTSTAMP:20261011T030900Z
+UID:2541d5d8-577b-569d-a67f-e6983d71965e
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 29-31\, 2023\n📍 会议地点: Rome\, Italy\n⏰ 原始
+ 截止时间 (AoE): 2022-11-13 23:59:59\n分类: 计算机网络 (NW)\nCCF
+  C\, THCPL B\n会议官网: https://icc2023.ieee-icc.org/\nDBLP索引: htt
+ ps://dblp.org/db/conf/icc
+LOCATION:Rome\, Italy
+URL:https://icc2023.ieee-icc.org/
+X-CCFDDL-CONFERENCE:ICC 2023
+X-CCFDDL-ID:icc23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2024 Deadline
+DTSTART;TZID="UTC-04:00":20231112T235959
+DTEND;TZID="UTC-04:00":20231113T000059
+DTSTAMP:20261011T030900Z
+UID:6470d0fd-0a0b-5be2-b4bb-431652cb5f93
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: June 10-12\, 2024\n📍 会议地点: Denver\, CO\, USA\n⏰ 
+ 原始截止时间 (UTC-4): 2023-11-12 23:59:59\n分类: 计算机网络 (
+ NW)\nCCF C\, THCPL B\n会议官网: https://icc2024.ieee-icc.org/\nDBLP索
+ 引: https://dblp.org/db/conf/icc
+LOCATION:Denver\, CO\, USA
+URL:https://icc2024.ieee-icc.org/
+X-CCFDDL-CONFERENCE:ICC 2024
+X-CCFDDL-ID:icc24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241108T235959
+DTEND;TZID="UTC-12:00":20241109T000059
+DTSTAMP:20261011T030900Z
+UID:a8343b3c-64d6-5387-8dbe-81d4fc8b85ed
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: June 9-11\, 2025\n📍 会议地点: Palais des congrès de Mon
+ tréal in Montreal\, Quebec\, Canada\n⏰ 原始截止时间 (AoE): 2024-1
+ 1-08 23:59:59\n分类: 计算机网络 (NW)\nCCF C\, THCPL B\n会议官网
+ : https://icc2025.ieee-icc.org\nDBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Palais des congrès de Montréal in Montreal\, Quebec\, Canada
+URL:https://icc2025.ieee-icc.org
+X-CCFDDL-CONFERENCE:ICC 2025
+X-CCFDDL-ID:icc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251110T235959
+DTEND;TZID="UTC-12:00":20251111T000059
+DTSTAMP:20261011T030900Z
+UID:633ce16d-60eb-5e8c-9286-c2fc63f6c3ea
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 24-28\, 2026\n📍 会议地点: Glasgow\, Scotland\, UK\n
+ ⏰ 原始截止时间 (AoE): 2025-11-10 23:59:59\n分类: 计算机网络
+  (NW)\nCCF C\, THCPL B\n会议官网: https://icc2026.ieee-icc.org\nDBLP
+ 索引: https://dblp.org/db/conf/icc
+LOCATION:Glasgow\, Scotland\, UK
+URL:https://icc2026.ieee-icc.org
+X-CCFDDL-CONFERENCE:ICC 2026
+X-CCFDDL-ID:icc26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICC 2027 Deadline
+DTSTART;TZID="UTC-07:00":20261016T235959
+DTEND;TZID="UTC-07:00":20261017T000059
+DTSTAMP:20261011T030900Z
+UID:20074bc0-becd-5cdb-b6fa-6afb3d4fd7a0
+DESCRIPTION:IEEE International Conference on Communications\n🗓️ 会
+ 议时间: May 30 - June 3\, 2027\n📍 会议地点: Washington\, DC\, US
+ A\n⏰ 原始截止时间 (UTC-7): 2026-10-16 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF C\, THCPL B\n会议官网: https://icc2027.ieee-icc.org\n
+ DBLP索引: https://dblp.org/db/conf/icc
+LOCATION:Washington\, DC\, USA
+URL:https://icc2027.ieee-icc.org
+X-CCFDDL-CONFERENCE:ICC 2027
+X-CCFDDL-ID:icc27
+END:VEVENT
+END:VCALENDAR

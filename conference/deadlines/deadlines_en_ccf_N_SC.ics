@@ -1,0 +1,511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CNS 2021 Deadline
+DTSTART;TZID="UTC-04:00":20210617T235959
+DTEND;TZID="UTC-04:00":20210618T000059
+DTSTAMP:20261011T031011Z
+UID:56a19cf1-1fa3-582e-84f4-9dda7ec2991a
+DESCRIPTION:IEEE Conference on Communications and Network Security\n🗓
+ ️ Date: October 4-5\, 2021\n📍 Location: Online\n⏰ Original Deadline
+  (UTC-4): 2021-06-17 23:59:59\nCategory: 网络与信息安全 (SC)\nConfe
+ rence Website: https://cns2021.ieee-cns.org/\nDBLP Index: https://dblp.org
+ /db/conf/cns
+LOCATION:Online
+URL:https://cns2021.ieee-cns.org/
+X-CCFDDL-CONFERENCE:CNS 2021
+X-CCFDDL-ID:cns21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CNS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220610T235959
+DTEND;TZID="UTC-12:00":20220611T000059
+DTSTAMP:20261011T031011Z
+UID:6dc16f9a-ecc4-529c-9d32-274f81295b79
+DESCRIPTION:IEEE Conference on Communications and Network Security\n🗓
+ ️ Date: October 3-4\, 2022\n📍 Location: Austin\, TX\, USA (Hybrid)\n
+ ⏰ Original Deadline (AoE): 2022-06-10 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nConference Website: https://cns2022.ieee-cns.org/\nDBLP In
+ dex: https://dblp.org/db/conf/cns
+LOCATION:Austin\, TX\, USA (Hybrid)
+URL:https://cns2022.ieee-cns.org/
+X-CCFDDL-CONFERENCE:CNS 2022
+X-CCFDDL-ID:cns22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CNS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230618T235959
+DTEND;TZID="UTC-12:00":20230619T000059
+DTSTAMP:20261011T031011Z
+UID:4a586098-a7f3-5b14-a965-08d102b32f73
+DESCRIPTION:IEEE Conference on Communications and Network Security\n🗓
+ ️ Date: October 2-4\, 2023\n📍 Location: Orlando\, FL\, USA\n⏰ Origi
+ nal Deadline (AoE): 2023-06-18 23:59:59\nCategory: 网络与信息安全 (
+ SC)\nConference Website: https://cns2023.ieee-cns.org/\nDBLP Index: https:
+ //dblp.org/db/conf/cns
+LOCATION:Orlando\, FL\, USA
+URL:https://cns2023.ieee-cns.org/
+X-CCFDDL-CONFERENCE:CNS 2023
+X-CCFDDL-ID:cns23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CNS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240624T235959
+DTEND;TZID="UTC-12:00":20240625T000059
+DTSTAMP:20261011T031011Z
+UID:b3073c54-4fc7-5d48-85ad-6a82412a4087
+DESCRIPTION:IEEE Conference on Communications and Network Security\n🗓
+ ️ Date: September 30-October 2\, 2024\n📍 Location: Taipei\, Taiwan\n
+ ⏰ Original Deadline (AoE): 2024-06-24 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nConference Website: https://cns2024.ieee-cns.org/\nDBLP In
+ dex: https://dblp.org/db/conf/cns
+LOCATION:Taipei\, Taiwan
+URL:https://cns2024.ieee-cns.org/
+X-CCFDDL-CONFERENCE:CNS 2024
+X-CCFDDL-ID:cns24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CNS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250530T235959
+DTEND;TZID="UTC-12:00":20250531T000059
+DTSTAMP:20261011T031011Z
+UID:80203af0-041c-5b0a-b678-087ffabcd8b7
+DESCRIPTION:IEEE Conference on Communications and Network Security\n🗓
+ ️ Date: September 8-10\, 2025\n📍 Location: Avignon\, France\n⏰ Orig
+ inal Deadline (AoE): 2025-05-30 23:59:59\nCategory: 网络与信息安全 
+ (SC)\nConference Website: https://cns2025.ieee-cns.org/\nDBLP Index: https
+ ://dblp.org/db/conf/cns
+LOCATION:Avignon\, France
+URL:https://cns2025.ieee-cns.org/
+X-CCFDDL-CONFERENCE:CNS 2025
+X-CCFDDL-ID:cns25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CNS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260518T235959
+DTEND;TZID="UTC-12:00":20260519T000059
+DTSTAMP:20261011T031011Z
+UID:8aa7e441-b314-5133-9c89-c3526ce25dd2
+DESCRIPTION:IEEE Conference on Communications and Network Security\n🗓
+ ️ Date: September 14-16\, 2026\n📍 Location: Newark\, Delaware\, USA\n
+ ⏰ Original Deadline (AoE): 2026-05-18 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nConference Website: https://cns2026.ieee-cns.org/\nDBLP In
+ dex: https://dblp.org/db/conf/cns
+LOCATION:Newark\, Delaware\, USA
+URL:https://cns2026.ieee-cns.org/
+X-CCFDDL-CONFERENCE:CNS 2026
+X-CCFDDL-ID:cns26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2021 Deadline
+DTSTART:20210907T115900Z
+DTEND:20210907T120000Z
+DTSTAMP:20261011T031011Z
+UID:38f14ec6-3cf1-5b0f-b148-31211529ddb2
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 13-15\, 2021\n📍 Location: Jaipur\, India\n⏰ Original Deadli
+ ne (UTC): 2021-09-07 11:59:00\nCategory: 网络与信息安全 (SC)\nConfe
+ rence Website: https://indocrypt2021.lnmiit.ac.in/\nDBLP Index: https://db
+ lp.org/db/conf/indocrypt
+LOCATION:Jaipur\, India
+URL:https://indocrypt2021.lnmiit.ac.in/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2021
+X-CCFDDL-ID:indocrypt21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220901T235959
+DTEND;TZID="UTC-12:00":20220902T000059
+DTSTAMP:20261011T031011Z
+UID:0e5b305e-b9e4-589e-bf47-91e3925391a8
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 12-14\, 2022\n📍 Location: Kolkata\, India\n⏰ Original Deadl
+ ine (UTC-12): 2022-09-01 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ onference Website: https://www.tcgcrest.org/indocrypt-2022/\nDBLP Index: h
+ ttps://dblp.org/db/conf/indocrypt
+LOCATION:Kolkata\, India
+URL:https://www.tcgcrest.org/indocrypt-2022/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2022
+X-CCFDDL-ID:indocrypt22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220907T235959
+DTEND;TZID="UTC-12:00":20220908T000059
+DTSTAMP:20261011T031011Z
+UID:21a10192-75aa-588a-aa72-d84125407ca8
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 12-14\, 2022\n📍 Location: Kolkata\, India\n⏰ Original Deadl
+ ine (UTC-12): 2022-09-07 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ onference Website: https://www.tcgcrest.org/indocrypt-2022/\nDBLP Index: h
+ ttps://dblp.org/db/conf/indocrypt
+LOCATION:Kolkata\, India
+URL:https://www.tcgcrest.org/indocrypt-2022/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2022
+X-CCFDDL-ID:indocrypt22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230911T235959
+DTEND;TZID="UTC-12:00":20230912T000059
+DTSTAMP:20261011T031011Z
+UID:87655936-7ead-5834-8abd-f195f98c95f3
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 10-13\, 2023\n📍 Location: BITS Pilani Goa\, India\n⏰ Origin
+ al Deadline (UTC-12): 2023-09-11 23:59:59\nCategory: 网络与信息安全
+  (SC)\nConference Website: https://crsind.in/indocrypt2023/\nDBLP Index: h
+ ttps://dblp.org/db/conf/indocrypt
+LOCATION:BITS Pilani Goa\, India
+URL:https://crsind.in/indocrypt2023/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2023
+X-CCFDDL-ID:indocrypt23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230911T235959
+DTEND;TZID="UTC-12:00":20230912T000059
+DTSTAMP:20261011T031011Z
+UID:44291ab5-a208-50cc-9316-65e61aba7cd0
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 10-13\, 2023\n📍 Location: BITS Pilani Goa\, India\n⏰ Origin
+ al Deadline (UTC-12): 2023-09-11 23:59:59\nCategory: 网络与信息安全
+  (SC)\nConference Website: https://crsind.in/indocrypt2023/\nDBLP Index: h
+ ttps://dblp.org/db/conf/indocrypt
+LOCATION:BITS Pilani Goa\, India
+URL:https://crsind.in/indocrypt2023/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2023
+X-CCFDDL-ID:indocrypt23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240920T235959
+DTEND;TZID="UTC-12:00":20240921T000059
+DTSTAMP:20261011T031011Z
+UID:3d64332e-a6bd-538d-94f1-a794e7344883
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 19-21\, 2024\n📍 Location: Chennai\, India\n⏰ Original Deadl
+ ine (UTC-12): 2024-09-20 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ onference Website: https://setsindia.in/indocrypt2024/indocrypt\nDBLP Inde
+ x: https://dblp.org/db/conf/indocrypt
+LOCATION:Chennai\, India
+URL:https://setsindia.in/indocrypt2024/indocrypt
+X-CCFDDL-CONFERENCE:INDOCRYPT 2024
+X-CCFDDL-ID:indocrypt24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250910T235959
+DTEND;TZID="UTC-12:00":20250911T000059
+DTSTAMP:20261011T031011Z
+UID:29ea8d93-8db6-5280-be72-8a18a444a483
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 14-17\, 2025\n📍 Location: IIIT Bhubaneswar\, Odisha\, India\n
+ ⏰ Original Deadline (UTC-12): 2025-09-10 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nConference Website: https://www.indocrypt2025.in/\nDBLP
+  Index: https://dblp.org/db/conf/indocrypt
+LOCATION:IIIT Bhubaneswar\, Odisha\, India
+URL:https://www.indocrypt2025.in/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2025
+X-CCFDDL-ID:indocrypt25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDOCRYPT 2026 Deadline [Extended submission deadline]
+DTSTART;TZID="UTC-12:00":20260827T235959
+DTEND;TZID="UTC-12:00":20260828T000059
+DTSTAMP:20261011T031011Z
+UID:45697a35-9511-57e9-a86f-d165582098de
+DESCRIPTION:International Conference on Cryptology in India\n🗓️ Date:
+  December 13-16\, 2026\n📍 Location: Bengaluru\, India\n⏰ Original Dea
+ dline (AoE): 2026-08-27 23:59:59\nCategory: 网络与信息安全 (SC)\nCo
+ nference Website: https://indocrypt2026.cdacb.in/\nDBLP Index: https://dbl
+ p.org/db/conf/indocrypt
+LOCATION:Bengaluru\, India
+URL:https://indocrypt2026.cdacb.in/
+X-CCFDDL-CONFERENCE:INDOCRYPT 2026
+X-CCFDDL-ID:indocrypt26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211101T235959
+DTEND;TZID="UTC-12:00":20211102T000059
+DTSTAMP:20261011T031011Z
+UID:e32168c0-d440-55e2-9d67-c4cb7c9e5334
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: April 26-28\, 2022\n📍 Location: Budapest\, Hungary / Hybrid\n⏰
+  Original Deadline (AoE): 2021-11-01 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nCORE B\, THCPL B\nConference Website: https://noms2022.ieee-n
+ oms.org/\nDBLP Index: https://dblp.org/db/conf/noms
+LOCATION:Budapest\, Hungary / Hybrid
+URL:https://noms2022.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2022
+X-CCFDDL-ID:noms22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221021T235959
+DTEND;TZID="UTC-12:00":20221022T000059
+DTSTAMP:20261011T031011Z
+UID:ee2b9f6a-1165-5405-ae76-f639fcbc90f4
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 9-11\, 2023\n📍 Location: Miami\, FL\, USA\n⏰ Original Dead
+ line (AoE): 2022-10-21 23:59:59\nCategory: 网络与信息安全 (SC)\nCOR
+ E B\, THCPL B\nConference Website: https://noms2023.ieee-noms.org/\nDBLP I
+ ndex: https://dblp.org/db/conf/noms
+LOCATION:Miami\, FL\, USA
+URL:https://noms2023.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2023
+X-CCFDDL-ID:noms23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231027T235959
+DTEND;TZID="UTC-12:00":20231028T000059
+DTSTAMP:20261011T031011Z
+UID:087a4d75-1293-57fb-9458-1c26f638c78f
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 7-9\, 2024\n📍 Location: Seoul\, South Korea\n⏰ Original De
+ adline (AoE): 2023-10-27 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ ORE B\, THCPL B\nConference Website: https://noms2024.ieee-noms.org/\nDBLP
+  Index: https://dblp.org/db/conf/noms
+LOCATION:Seoul\, South Korea
+URL:https://noms2024.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2024
+X-CCFDDL-ID:noms24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241025T235959
+DTEND;TZID="UTC-12:00":20241026T000059
+DTSTAMP:20261011T031011Z
+UID:1dc55986-351a-55ea-ade7-877de44734ed
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 13-15\, 2025\n📍 Location: Honolulu\, HI\, USA\n⏰ Original 
+ Deadline (AoE): 2024-10-25 23:59:59\nCategory: 网络与信息安全 (SC)
+ \nCORE B\, THCPL B\nConference Website: https://noms2025.ieee-noms.org/\nD
+ BLP Index: https://dblp.org/db/conf/noms
+LOCATION:Honolulu\, HI\, USA
+URL:https://noms2025.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2025
+X-CCFDDL-ID:noms25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251110T235959
+DTEND;TZID="UTC-12:00":20251111T000059
+DTSTAMP:20261011T031011Z
+UID:fbe1ddd0-172b-590c-8aca-8c22f34e6a06
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 18-22\, 2026\n📍 Location: Rome\, Italy\n⏰ Original Deadlin
+ e (AoE): 2025-11-10 23:59:59\nCategory: 网络与信息安全 (SC)\nCORE B
+ \, THCPL B\nConference Website: https://noms2026.ieee-noms.org/\nDBLP Inde
+ x: https://dblp.org/db/conf/noms
+LOCATION:Rome\, Italy
+URL:https://noms2026.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2026
+X-CCFDDL-ID:noms26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOMS 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261109T235959
+DTEND;TZID="UTC-12:00":20261110T000059
+DTSTAMP:20261011T031011Z
+UID:a257f86f-3790-5c09-bdd9-76a86dbd50fe
+DESCRIPTION:IEEE/IFIP Network Operations and Management Symposium\n🗓️
+  Date: May 10-14\, 2027\n📍 Location: Montreal\, Canada\n⏰ Original De
+ adline (AoE): 2026-11-09 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ ORE B\, THCPL B\nConference Website: https://noms2027.ieee-noms.org/\nDBLP
+  Index: https://dblp.org/db/conf/noms
+LOCATION:Montreal\, Canada
+URL:https://noms2027.ieee-noms.org/
+X-CCFDDL-CONFERENCE:NOMS 2027
+X-CCFDDL-ID:noms27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220822T235959
+DTEND;TZID="UTC-12:00":20220823T000059
+DTSTAMP:20261011T031011Z
+UID:3b64916e-052f-56f4-a199-ddbda7074209
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: February 8-10\, 2023\n📍 Location: Raleigh\, North Carolin
+ a\, USA\n⏰ Original Deadline (UTC-12): 2022-08-22 23:59:59\nCategory: 
+ 网络与信息安全 (SC)\nConference Website: https://satml.org/2023/\nD
+ BLP Index: https://dblp.org/db/conf/satml
+LOCATION:Raleigh\, North Carolina\, USA
+URL:https://satml.org/2023/
+X-CCFDDL-CONFERENCE:SATML 2023
+X-CCFDDL-ID:satml23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2023 Deadline
+DTSTART;TZID="UTC-12:00":20220901T235959
+DTEND;TZID="UTC-12:00":20220902T000059
+DTSTAMP:20261011T031011Z
+UID:35699a00-62e8-5197-91aa-971176c6d829
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: February 8-10\, 2023\n📍 Location: Raleigh\, North Carolin
+ a\, USA\n⏰ Original Deadline (UTC-12): 2022-09-01 23:59:59\nCategory: 
+ 网络与信息安全 (SC)\nConference Website: https://satml.org/2023/\nD
+ BLP Index: https://dblp.org/db/conf/satml
+LOCATION:Raleigh\, North Carolina\, USA
+URL:https://satml.org/2023/
+X-CCFDDL-CONFERENCE:SATML 2023
+X-CCFDDL-ID:satml23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20231004T235959
+DTEND;TZID="UTC-12:00":20231005T000059
+DTSTAMP:20261011T031011Z
+UID:1cc203a5-e4b1-5ec9-b316-f107c0fb7c5f
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: April 9-11\, 2024\n📍 Location: Toronto\, Canada\n⏰ Orig
+ inal Deadline (UTC-12): 2023-10-04 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nConference Website: https://satml.org/2024/\nDBLP Index: https:/
+ /dblp.org/db/conf/satml
+LOCATION:Toronto\, Canada
+URL:https://satml.org/2024/
+X-CCFDDL-CONFERENCE:SATML 2024
+X-CCFDDL-ID:satml24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231011T235959
+DTEND;TZID="UTC-12:00":20231012T000059
+DTSTAMP:20261011T031011Z
+UID:2487b2a3-2d5c-5330-9c36-b98f6ed338fc
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: April 9-11\, 2024\n📍 Location: Toronto\, Canada\n⏰ Orig
+ inal Deadline (UTC-12): 2023-10-11 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nConference Website: https://satml.org/2024/\nDBLP Index: https:/
+ /dblp.org/db/conf/satml
+LOCATION:Toronto\, Canada
+URL:https://satml.org/2024/
+X-CCFDDL-CONFERENCE:SATML 2024
+X-CCFDDL-ID:satml24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240927T235959
+DTEND;TZID="UTC-12:00":20240928T000059
+DTSTAMP:20261011T031011Z
+UID:57ad3a0d-4b52-5d97-9594-22876faf66fd
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: April 9-11\, 2025\n📍 Location: Copenhagen\, Denmark\n⏰ 
+ Original Deadline (UTC-12): 2024-09-27 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nConference Website: https://satml.org/2025/\nDBLP Index: http
+ s://dblp.org/db/conf/satml
+LOCATION:Copenhagen\, Denmark
+URL:https://satml.org/2025/
+X-CCFDDL-CONFERENCE:SATML 2025
+X-CCFDDL-ID:satml25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2026 Deadline
+DTSTART;TZID="UTC-12:00":20250924T235959
+DTEND;TZID="UTC-12:00":20250925T000059
+DTSTAMP:20261011T031011Z
+UID:0e736625-2a47-5208-ad71-2297d706969c
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: March 23-25\, 2026\n📍 Location: Munich\, Germany\n⏰ Ori
+ ginal Deadline (UTC-12): 2025-09-24 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nConference Website: https://www.satml.org\nDBLP Index: https://d
+ blp.org/db/conf/satml
+LOCATION:Munich\, Germany
+URL:https://www.satml.org
+X-CCFDDL-CONFERENCE:SATML 2026
+X-CCFDDL-ID:satml26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260922T235959
+DTEND;TZID="UTC-12:00":20260923T000059
+DTSTAMP:20261011T031011Z
+UID:b3429a00-8b5d-5514-96c6-cbd25d4192b3
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: May 2027 (exact dates TBD)\n📍 Location: Reykjavik\, Icela
+ nd\n⏰ Original Deadline (UTC-12): 2026-09-22 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nConference Website: https://satml.org/\nDBLP Index: 
+ https://dblp.org/db/conf/satml
+LOCATION:Reykjavik\, Iceland
+URL:https://satml.org/
+X-CCFDDL-CONFERENCE:SATML 2027
+X-CCFDDL-ID:satml27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2027 Deadline
+DTSTART;TZID="UTC-12:00":20260929T235959
+DTEND;TZID="UTC-12:00":20260930T000059
+DTSTAMP:20261011T031011Z
+UID:b397ff68-90e0-5421-968f-f77d4127ad06
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: May 2027 (exact dates TBD)\n📍 Location: Reykjavik\, Icela
+ nd\n⏰ Original Deadline (UTC-12): 2026-09-29 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nConference Website: https://satml.org/\nDBLP Index: 
+ https://dblp.org/db/conf/satml
+LOCATION:Reykjavik\, Iceland
+URL:https://satml.org/
+X-CCFDDL-CONFERENCE:SATML 2027
+X-CCFDDL-ID:satml27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2027 Rebuttal Submission
+DTSTART;TZID="UTC-12:00":20261209T235959
+DTEND;TZID="UTC-12:00":20261210T000059
+DTSTAMP:20261011T031011Z
+UID:a694e321-60fd-5a64-a485-0bb1d32655e9
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: May 2027 (exact dates TBD)\n📍 Location: Reykjavik\, Icela
+ nd\n⏰ Original Deadline (UTC-12): 2026-12-09 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nConference Website: https://satml.org/\nDBLP Index: 
+ https://dblp.org/db/conf/satml
+LOCATION:Reykjavik\, Iceland
+URL:https://satml.org/
+X-CCFDDL-CONFERENCE:SATML 2027
+X-CCFDDL-ID:satml27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATML 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270201T235959
+DTEND;TZID="UTC-12:00":20270202T000059
+DTSTAMP:20261011T031011Z
+UID:ee758d80-e029-58dc-8fb9-c5cd5dc7a3a4
+DESCRIPTION:IEEE Conference on Secure and Trustworthy Machine Learning\n
+ 🗓️ Date: May 2027 (exact dates TBD)\n📍 Location: Reykjavik\, Icela
+ nd\n⏰ Original Deadline (UTC-12): 2027-02-01 23:59:59\nCategory: 网络
+ 与信息安全 (SC)\nConference Website: https://satml.org/\nDBLP Index: 
+ https://dblp.org/db/conf/satml
+LOCATION:Reykjavik\, Iceland
+URL:https://satml.org/
+X-CCFDDL-CONFERENCE:SATML 2027
+X-CCFDDL-ID:satml27
+END:VEVENT
+END:VCALENDAR

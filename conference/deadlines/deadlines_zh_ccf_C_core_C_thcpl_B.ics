@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2021 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20210226T235959
+DTEND;TZID="UTC-12:00":20210227T000059
+DTSTAMP:20261011T030905Z
+UID:d03e1e1a-d150-51bc-9221-19a2228cbde7
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 22-25\, 2021\n📍 会议地点: Virtual\n⏰ 
+ 原始截止时间 (AoE): 2021-02-26 23:59:59\n分类: 网络与信息安
+ 全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.ihmmsec.org/
+ \nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Virtual
+URL:https://www.ihmmsec.org/
+X-CCFDDL-CONFERENCE:IH&MMSec 2021
+X-CCFDDL-ID:ih&mmsec21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220227T235959
+DTEND;TZID="UTC-12:00":20220228T000059
+DTSTAMP:20261011T030905Z
+UID:4d197939-984f-55b7-abf0-93cb26de7807
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: TBD\n📍 会议地点: Santa Barbara\, CA\, USA\n
+ ⏰ 原始截止时间 (AoE): 2022-02-27 23:59:59\n分类: 网络与信息
+ 安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://easychair.org
+ /cfp/ihmmsec22\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Santa Barbara\, CA\, USA
+URL:https://easychair.org/cfp/ihmmsec22
+X-CCFDDL-CONFERENCE:IH&MMSec 2022
+X-CCFDDL-ID:ih&mmsec22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230305T235959
+DTEND;TZID="UTC-12:00":20230306T000059
+DTSTAMP:20261011T030905Z
+UID:7a288895-786b-5462-bb89-f2eb5ac0e9fb
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: TBD\n📍 会议地点: Chicago\, IL\, USA\n⏰ 原
+ 始截止时间 (AoE): 2023-03-05 23:59:59\n分类: 网络与信息安全 
+ (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://easychair.org/cfp/ih
+ mmsec23\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Chicago\, IL\, USA
+URL:https://easychair.org/cfp/ihmmsec23
+X-CCFDDL-CONFERENCE:IH&MMSec 2023
+X-CCFDDL-ID:ih&mmsec23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2024 Deadline [Paper Submission Deadline]
+DTSTART;TZID="UTC-12:00":20240229T235959
+DTEND;TZID="UTC-12:00":20240301T000059
+DTSTAMP:20261011T030905Z
+UID:24ef6ab3-c806-5a6c-991e-fddae841891c
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 24-26\, 2024\n📍 会议地点: Baiona\, Spain
+ \n⏰ 原始截止时间 (AoE): 2024-02-29 23:59:59\n分类: 网络与信
+ 息安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.ihmmse
+ c.org/\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Baiona\, Spain
+URL:https://www.ihmmsec.org/
+X-CCFDDL-CONFERENCE:IH&MMSec 2024
+X-CCFDDL-ID:ih&mmsec24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2025 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20250228T235959
+DTEND;TZID="UTC-12:00":20250301T000059
+DTSTAMP:20261011T030905Z
+UID:ece22d41-4183-5f2f-80bd-6bc292a6c87e
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 18-20\, 2025\n📍 会议地点: San Jose\, CA
+ \, USA\n⏰ 原始截止时间 (AoE): 2025-02-28 23:59:59\n分类: 网络
+ 与信息安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.
+ ihmmsec.org/cms/home/index.html\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:San Jose\, CA\, USA
+URL:https://www.ihmmsec.org/cms/home/index.html
+X-CCFDDL-CONFERENCE:IH&MMSec 2025
+X-CCFDDL-ID:ih&mmsec25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IH&MMSec 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260302T235959
+DTEND;TZID="UTC-12:00":20260303T000059
+DTSTAMP:20261011T030905Z
+UID:cbb64e02-d4d8-52c4-8cc8-de8c345731f6
+DESCRIPTION:ACM Workshop on Information Hiding and Multimedia Security\n
+ 🗓️ 会议时间: June 17-19\, 2026\n📍 会议地点: Florence\, Ita
+ ly\n⏰ 原始截止时间 (AoE): 2026-03-02 23:59:59\n分类: 网络与
+ 信息安全 (SC)\nCCF C\, CORE C\, THCPL B\n会议官网: https://www.ihm
+ msec.org/cms/home/home2026.html\nDBLP索引: https://dblp.org/db/conf/ih
+LOCATION:Florence\, Italy
+URL:https://www.ihmmsec.org/cms/home/home2026.html
+X-CCFDDL-CONFERENCE:IH&MMSec 2026
+X-CCFDDL-ID:ih&mmsec26
+END:VEVENT
+END:VCALENDAR

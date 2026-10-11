@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISAAC 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210705T235959
+DTEND;TZID="UTC-12:00":20210706T000059
+DTSTAMP:20261011T030847Z
+UID:48f3fe73-48bb-59a4-9d72-98674602224c
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 6-8\, 2021\n📍 会议地点: Fukuoka\, Japan (Hy
+ brid)\n⏰ 原始截止时间 (AoE): 2021-07-05 23:59:59\n分类: 计算
+ 机科学理论 (CT)\nCCF C\, CORE B\n会议官网: https://tcs.inf.kyushu
+ -u.ac.jp/isaac2021/\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Fukuoka\, Japan (Hybrid)
+URL:https://tcs.inf.kyushu-u.ac.jp/isaac2021/
+X-CCFDDL-CONFERENCE:ISAAC 2021
+X-CCFDDL-ID:isaac21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220627T235959
+DTEND;TZID="UTC-12:00":20220628T000059
+DTSTAMP:20261011T030847Z
+UID:3b89b950-f0f1-52c1-a911-e759e6d900ec
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 19-21\, 2022\n📍 会议地点: Seoul\, Korea (Hy
+ brid)\n⏰ 原始截止时间 (AoE): 2022-06-27 23:59:59\n分类: 计算
+ 机科学理论 (CT)\nCCF C\, CORE B\n会议官网: http://isa.hanyang.ac.
+ kr/isaac2022/\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Seoul\, Korea (Hybrid)
+URL:http://isa.hanyang.ac.kr/isaac2022/
+X-CCFDDL-CONFERENCE:ISAAC 2022
+X-CCFDDL-ID:isaac22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230630T235959
+DTEND;TZID="UTC-12:00":20230701T000059
+DTSTAMP:20261011T030847Z
+UID:f259bd7f-e3db-56b6-87a5-da36b0c9e171
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 4-6\, 2023\n📍 会议地点: Kyoto\, Japan\n⏰ 
+ 原始截止时间 (AoE): 2023-06-30 23:59:59\n分类: 计算机科学理
+ 论 (CT)\nCCF C\, CORE B\n会议官网: https://www.kurims.kyoto-u.ac.jp/i
+ saac/isaac2023/index.html\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Kyoto\, Japan
+URL:https://www.kurims.kyoto-u.ac.jp/isaac/isaac2023/index.html
+X-CCFDDL-CONFERENCE:ISAAC 2023
+X-CCFDDL-ID:isaac23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240628T235959
+DTEND;TZID="UTC-12:00":20240629T000059
+DTSTAMP:20261011T030847Z
+UID:8df9d42e-152a-5d9b-9e11-e34cc030be78
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 9-11\, 2024\n📍 会议地点: Sydney\, Australia
+ \n⏰ 原始截止时间 (AoE): 2024-06-28 23:59:59\n分类: 计算机科
+ 学理论 (CT)\nCCF C\, CORE B\n会议官网: https://sites.google.com/vie
+ w/isaac2024/\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Sydney\, Australia
+URL:https://sites.google.com/view/isaac2024/
+X-CCFDDL-CONFERENCE:ISAAC 2024
+X-CCFDDL-ID:isaac24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250630T235959
+DTEND;TZID="UTC-12:00":20250701T000059
+DTSTAMP:20261011T030847Z
+UID:90e5e54b-bd50-5281-adbc-0176d9014fdd
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 8-10\, 2025\n📍 会议地点: Tainan\, Taiwan\n
+ ⏰ 原始截止时间 (AoE): 2025-06-30 23:59:59\n分类: 计算机科学
+ 理论 (CT)\nCCF C\, CORE B\n会议官网: https://isaac2025.csie.ncku.edu
+ .tw/\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Tainan\, Taiwan
+URL:https://isaac2025.csie.ncku.edu.tw/
+X-CCFDDL-CONFERENCE:ISAAC 2025
+X-CCFDDL-ID:isaac25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISAAC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260629T235959
+DTEND;TZID="UTC-12:00":20260630T000059
+DTSTAMP:20261011T030847Z
+UID:bf213b3a-3729-5c71-8653-626d634e8e2d
+DESCRIPTION:International Symposium on Algorithms and Computation\n🗓️
+  会议时间: December 7-9\, 2026\n📍 会议地点: Hangzhou\, China\n
+ ⏰ 原始截止时间 (AoE): 2026-06-29 23:59:59\n分类: 计算机科学
+ 理论 (CT)\nCCF C\, CORE B\n会议官网: https://www.algo-door.com/isaac
+ 2026/index.html\nDBLP索引: https://dblp.org/db/conf/isaac
+LOCATION:Hangzhou\, China
+URL:https://www.algo-door.com/isaac2026/index.html
+X-CCFDDL-CONFERENCE:ISAAC 2026
+X-CCFDDL-ID:isaac26
+END:VEVENT
+END:VCALENDAR

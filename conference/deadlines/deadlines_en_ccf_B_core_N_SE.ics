@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ETAPS 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201015T235959
+DTEND;TZID="UTC-12:00":20201016T000059
+DTSTAMP:20261011T031014Z
+UID:663d12d9-2339-5a4b-ba63-7e647c47016e
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: March 29-April 1\, 2021\n📍 Location: Virtual\n⏰ Origi
+ nal Deadline (AoE): 2020-10-15 23:59:59\nCategory: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https://
+ etaps.org/2021/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Virtual
+URL:https://etaps.org/2021/
+X-CCFDDL-CONFERENCE:ETAPS 2021
+X-CCFDDL-ID:etaps21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211014T235959
+DTEND;TZID="UTC-12:00":20211015T000059
+DTSTAMP:20261011T031014Z
+UID:b89c33a3-09c0-5807-89ab-f4d9e8012880
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 4-7\, 2022\n📍 Location: Munich\, Germany\n⏰ Ori
+ ginal Deadline (AoE): 2021-10-14 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2022/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Munich\, Germany
+URL:https://etaps.org/2022/
+X-CCFDDL-CONFERENCE:ETAPS 2022
+X-CCFDDL-ID:etaps22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221013T235959
+DTEND;TZID="UTC-12:00":20221014T000059
+DTSTAMP:20261011T031014Z
+UID:b45e9024-fc47-51a6-9293-5dc8e6dc88ad
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 24-27\, 2023\n📍 Location: Paris\, France\n⏰ Ori
+ ginal Deadline (AoE): 2022-10-13 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2023/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Paris\, France
+URL:https://etaps.org/2023/
+X-CCFDDL-CONFERENCE:ETAPS 2023
+X-CCFDDL-ID:etaps23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2024 Deadline [October 16 updates only]
+DTSTART;TZID="UTC-12:00":20231012T235959
+DTEND;TZID="UTC-12:00":20231013T000059
+DTSTAMP:20261011T031014Z
+UID:6becb986-e5b7-58ca-89a0-c0b3c9888ba8
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 8-11\, 2024\n📍 Location: Luxembourg City\, Luxemb
+ ourg\n⏰ Original Deadline (AoE): 2023-10-12 23:59:59\nCategory: 软件
+ 工程/系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference W
+ ebsite: https://etaps.org/2024/\nDBLP Index: https://dblp.org/db/conf/etap
+ s
+LOCATION:Luxembourg City\, Luxembourg
+URL:https://etaps.org/2024/
+X-CCFDDL-CONFERENCE:ETAPS 2024
+X-CCFDDL-ID:etaps24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2025 Deadline [ESOP round 1]
+DTSTART;TZID="UTC-12:00":20240530T235959
+DTEND;TZID="UTC-12:00":20240531T000059
+DTSTAMP:20261011T031014Z
+UID:979663b1-ed95-5e52-aae3-6b232b2454ed
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: May 5-8\, 2025\n📍 Location: Hamilton\, Canada\n⏰ Orig
+ inal Deadline (AoE): 2024-05-30 23:59:59\nCategory: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https://
+ etaps.org/2025/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Hamilton\, Canada
+URL:https://etaps.org/2025/
+X-CCFDDL-CONFERENCE:ETAPS 2025
+X-CCFDDL-ID:etaps25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2025 Deadline [ESOP round 2\, FASE\, FoSSaCS\, TACAS\; Octob
+ er 14 updates only]
+DTSTART;TZID="UTC-12:00":20241010T235959
+DTEND;TZID="UTC-12:00":20241011T000059
+DTSTAMP:20261011T031014Z
+UID:34b178a7-2bb6-5b57-b622-3dcfa2c6079b
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: May 5-8\, 2025\n📍 Location: Hamilton\, Canada\n⏰ Orig
+ inal Deadline (AoE): 2024-10-10 23:59:59\nCategory: 软件工程/系统软
+ 件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https://
+ etaps.org/2025/\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Hamilton\, Canada
+URL:https://etaps.org/2025/
+X-CCFDDL-CONFERENCE:ETAPS 2025
+X-CCFDDL-ID:etaps25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2026 Deadline [ESOP round 1]
+DTSTART;TZID="UTC-12:00":20250603T235959
+DTEND;TZID="UTC-12:00":20250604T000059
+DTSTAMP:20261011T031014Z
+UID:dcf22d7e-889f-59ad-87f3-3fa41a6938b0
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 13-16\, 2026\n📍 Location: Torino\, Italy\n⏰ Ori
+ ginal Deadline (AoE): 2025-06-03 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2026\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Torino\, Italy
+URL:https://etaps.org/2026
+X-CCFDDL-CONFERENCE:ETAPS 2026
+X-CCFDDL-ID:etaps26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2026 Deadline [ESOP round 2\, FASE\, FoSSaCS\, TACAS]
+DTSTART;TZID="UTC-12:00":20251016T235959
+DTEND;TZID="UTC-12:00":20251017T000059
+DTSTAMP:20261011T031014Z
+UID:b113a6c3-4b1e-595d-bbf8-99657cc9d38e
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 13-16\, 2026\n📍 Location: Torino\, Italy\n⏰ Ori
+ ginal Deadline (AoE): 2025-10-16 23:59:59\nCategory: 软件工程/系统
+ 软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website: https
+ ://etaps.org/2026\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Torino\, Italy
+URL:https://etaps.org/2026
+X-CCFDDL-CONFERENCE:ETAPS 2026
+X-CCFDDL-ID:etaps26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2027 Deadline [ESOP round 1]
+DTSTART;TZID="UTC-12:00":20260528T235959
+DTEND;TZID="UTC-12:00":20260529T000059
+DTSTAMP:20261011T031015Z
+UID:6ba88942-0cbf-56ab-b9cd-82932e8ca8bd
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 10-15\, 2027\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2026-05-28 23:59:59\nCategory: 软件工程/
+ 系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website:
+  https://etaps.org/2027\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Copenhagen\, Denmark
+URL:https://etaps.org/2027
+X-CCFDDL-CONFERENCE:ETAPS 2027
+X-CCFDDL-ID:etaps27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2027 Rebuttal Submission [ESOP round 1]
+DTSTART;TZID="UTC-12:00":20260722T235959
+DTEND;TZID="UTC-12:00":20260723T000059
+DTSTAMP:20261011T031015Z
+UID:f17c99da-1c15-5fe5-a04f-9c4e6ea76850
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 10-15\, 2027\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2026-07-22 23:59:59\nCategory: 软件工程/
+ 系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website:
+  https://etaps.org/2027\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Copenhagen\, Denmark
+URL:https://etaps.org/2027
+X-CCFDDL-CONFERENCE:ETAPS 2027
+X-CCFDDL-ID:etaps27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2027 Final Decisions [ESOP round 1]
+DTSTART;TZID="UTC-12:00":20260806T235959
+DTEND;TZID="UTC-12:00":20260807T000059
+DTSTAMP:20261011T031015Z
+UID:bf8067f3-0062-5efa-9b05-9e0523b6845f
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 10-15\, 2027\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2026-08-06 23:59:59\nCategory: 软件工程/
+ 系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website:
+  https://etaps.org/2027\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Copenhagen\, Denmark
+URL:https://etaps.org/2027
+X-CCFDDL-CONFERENCE:ETAPS 2027
+X-CCFDDL-ID:etaps27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2027 Deadline [ESOP round 2\, FoSSaCS\, TACAS\, iFS]
+DTSTART;TZID="UTC-12:00":20261015T235959
+DTEND;TZID="UTC-12:00":20261016T000059
+DTSTAMP:20261011T031015Z
+UID:8c7db79a-eb30-5f41-aa87-a5d424ef81b2
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 10-15\, 2027\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2026-10-15 23:59:59\nCategory: 软件工程/
+ 系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website:
+  https://etaps.org/2027\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Copenhagen\, Denmark
+URL:https://etaps.org/2027
+X-CCFDDL-CONFERENCE:ETAPS 2027
+X-CCFDDL-ID:etaps27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETAPS 2027 Final Decisions [ESOP round 2\, FoSSaCS\, TACAS\, iFS]
+DTSTART;TZID="UTC-12:00":20261222T235959
+DTEND;TZID="UTC-12:00":20261223T000059
+DTSTAMP:20261011T031015Z
+UID:b54c38fc-d2d3-5699-a99f-761826a06704
+DESCRIPTION:European Joint Conferences on Theory and Practice of Software
+ \n🗓️ Date: April 10-15\, 2027\n📍 Location: Copenhagen\, Denmark\n
+ ⏰ Original Deadline (AoE): 2026-12-22 23:59:59\nCategory: 软件工程/
+ 系统软件/程序设计语言 (SE)\nCCF B\, THCPL B\nConference Website:
+  https://etaps.org/2027\nDBLP Index: https://dblp.org/db/conf/etaps
+LOCATION:Copenhagen\, Denmark
+URL:https://etaps.org/2027
+X-CCFDDL-CONFERENCE:ETAPS 2027
+X-CCFDDL-ID:etaps27
+END:VEVENT
+END:VCALENDAR

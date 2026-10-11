@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:PDCAT 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220920T235959
+DTEND;TZID="UTC-12:00":20220921T000059
+DTSTAMP:20261011T031001Z
+UID:2c7c251f-3504-57a1-8bf8-2d63dff84c66
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: December 7-9\, 2022\n📍 
+ Location: Sendai\, Japan (Hybrid)\n⏰ Original Deadline (AoE): 2022-09-20
+  23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCORE C\nConference Website: https://www.hpc.is.tohoku.ac.jp/pdca
+ t2022/\nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Sendai\, Japan (Hybrid)
+URL:https://www.hpc.is.tohoku.ac.jp/pdcat2022/
+X-CCFDDL-CONFERENCE:PDCAT 2022
+X-CCFDDL-ID:pdcat2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220930T235959
+DTEND;TZID="UTC-12:00":20221001T000059
+DTSTAMP:20261011T031001Z
+UID:205ea594-a082-518c-8c61-97b360c975f9
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: December 7-9\, 2022\n📍 
+ Location: Sendai\, Japan (Hybrid)\n⏰ Original Deadline (AoE): 2022-09-30
+  23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCORE C\nConference Website: https://www.hpc.is.tohoku.ac.jp/pdca
+ t2022/\nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Sendai\, Japan (Hybrid)
+URL:https://www.hpc.is.tohoku.ac.jp/pdcat2022/
+X-CCFDDL-CONFERENCE:PDCAT 2022
+X-CCFDDL-ID:pdcat2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240930T235959
+DTEND;TZID="UTC-12:00":20241001T000059
+DTSTAMP:20261011T031001Z
+UID:0cc246c0-3a29-5d96-b933-c1950fd1d721
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: December 14-15\, 2024\n
+ 📍 Location: Hong Kong\, China\n⏰ Original Deadline (AoE): 2024-09-30 
+ 23:59:59\nCategory: 计算机体系结构/并行与分布计算/存储系
+ 统 (DS)\nCORE C\nConference Website: https://hpcc.siat.ac.cn/meeting/pdca
+ t2024/index.html\nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Hong Kong\, China
+URL:https://hpcc.siat.ac.cn/meeting/pdcat2024/index.html
+X-CCFDDL-CONFERENCE:PDCAT 2024
+X-CCFDDL-ID:pdcat2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250815T235959
+DTEND;TZID="UTC-12:00":20250816T000059
+DTSTAMP:20261011T031001Z
+UID:f7be4312-7e1e-5f79-8049-cc80b689f45b
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: November 22-23\, 2025\n
+ 📍 Location: Gold Coast\, Australia (Hybrid)\n⏰ Original Deadline (AoE
+ ): 2025-08-15 23:59:59\nCategory: 计算机体系结构/并行与分布计
+ 算/存储系统 (DS)\nCORE C\nConference Website: https://www.pd-cat.org/
+ 2025/\nDBLP Index: https://dblp.org/db/conf/pdcat
+LOCATION:Gold Coast\, Australia (Hybrid)
+URL:https://www.pd-cat.org/2025/
+X-CCFDDL-CONFERENCE:PDCAT 2025
+X-CCFDDL-ID:pdcat2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 Deadline [First Cycle]
+DTSTART;TZID="UTC-12:00":20260921T235959
+DTEND;TZID="UTC-12:00":20260922T000059
+DTSTAMP:20261011T031001Z
+UID:e54873c8-e235-5786-a55d-12496ecf117a
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: December 4-6\, 2026\n📍 
+ Location: Changsha\, China\n⏰ Original Deadline (AoE): 2026-09-21 23:59:
+ 59\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS
+ )\nCORE C\nConference Website: https://www.pd-cat.org/2026/\nDBLP Index: h
+ ttps://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+X-CCFDDL-CONFERENCE:PDCAT 2026
+X-CCFDDL-ID:pdcat2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDCAT 2026 Deadline [Second Cycle]
+DTSTART;TZID="UTC-12:00":20261020T235959
+DTEND;TZID="UTC-12:00":20261021T000059
+DTSTAMP:20261011T031001Z
+UID:9e110a48-505c-50f8-8a3a-e1460eb215fe
+DESCRIPTION:International Conference on Parallel and Distributed Computing
+ \, Applications and Technologies\n🗓️ Date: December 4-6\, 2026\n📍 
+ Location: Changsha\, China\n⏰ Original Deadline (AoE): 2026-10-20 23:59:
+ 59\nCategory: 计算机体系结构/并行与分布计算/存储系统 (DS
+ )\nCORE C\nConference Website: https://www.pd-cat.org/2026/\nDBLP Index: h
+ ttps://dblp.org/db/conf/pdcat
+LOCATION:Changsha\, China
+URL:https://www.pd-cat.org/2026/
+X-CCFDDL-CONFERENCE:PDCAT 2026
+X-CCFDDL-ID:pdcat2026
+END:VEVENT
+END:VCALENDAR

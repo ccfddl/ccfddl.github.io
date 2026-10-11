@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECAI 2022 Abstract Deadline [Joint IJCAI-ECAI]
+DTSTART;TZID="UTC+01:00":20220108T125900
+DTEND;TZID="UTC+01:00":20220108T130000
+DTSTAMP:20261011T030945Z
+UID:0b40314d-2123-5aa5-b86e-33183d402119
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ July 25-29\, 2022\n📍 Location: Vienna\, Austria\n⏰ Original Deadline 
+ (UTC+1): 2022-01-08 12:59:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A
+ \nConference Website: https://ijcai-22.org/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Vienna\, Austria
+URL:https://ijcai-22.org/
+X-CCFDDL-CONFERENCE:ECAI 2022
+X-CCFDDL-ID:ecai22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2022 Deadline [Joint IJCAI-ECAI]
+DTSTART;TZID="UTC+01:00":20220114T235959
+DTEND;TZID="UTC+01:00":20220115T000059
+DTSTAMP:20261011T030945Z
+UID:bc5a19c5-fe17-5bdb-999d-a8f6d1640860
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ July 25-29\, 2022\n📍 Location: Vienna\, Austria\n⏰ Original Deadline 
+ (UTC+1): 2022-01-14 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A
+ \nConference Website: https://ijcai-22.org/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Vienna\, Austria
+URL:https://ijcai-22.org/
+X-CCFDDL-CONFERENCE:ECAI 2022
+X-CCFDDL-ID:ecai22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECAI 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230502T235959
+DTEND;TZID="UTC-12:00":20230503T000059
+DTSTAMP:20261011T030945Z
+UID:571c0190-7c2e-5924-b4fa-ce8612c1fb04
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-4\, 2023\n📍 Location: Kraków\, Poland\n⏰ Original Deadline
+  (UTC-12): 2023-05-02 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ A\nConference Website: https://ecai2023.eu/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Kraków\, Poland
+URL:https://ecai2023.eu/
+X-CCFDDL-CONFERENCE:ECAI 2023
+X-CCFDDL-ID:ecai23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230508T235959
+DTEND;TZID="UTC-12:00":20230509T000059
+DTSTAMP:20261011T030945Z
+UID:cbafb94f-e0ba-521b-b73a-397727ee8bc1
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-4\, 2023\n📍 Location: Kraków\, Poland\n⏰ Original Deadline
+  (UTC-12): 2023-05-08 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ A\nConference Website: https://ecai2023.eu/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Kraków\, Poland
+URL:https://ecai2023.eu/
+X-CCFDDL-CONFERENCE:ECAI 2023
+X-CCFDDL-ID:ecai23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240419T235959
+DTEND;TZID="UTC-12:00":20240420T000059
+DTSTAMP:20261011T030945Z
+UID:8507daf2-b86d-56ca-81a6-40fdd5560f1b
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 21-24\, 2024\n📍 Location: Santiago de Compostela\n⏰ Original 
+ Deadline (UTC-12): 2024-04-19 23:59:59\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A\nConference Website: https://www.ecai2024.eu/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Santiago de Compostela
+URL:https://www.ecai2024.eu/
+X-CCFDDL-CONFERENCE:ECAI 2024
+X-CCFDDL-ID:ecai24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240425T235959
+DTEND;TZID="UTC-12:00":20240426T000059
+DTSTAMP:20261011T030945Z
+UID:b9b6ddc8-1dc3-551d-97f1-17a8936aa9a8
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 21-24\, 2024\n📍 Location: Santiago de Compostela\n⏰ Original 
+ Deadline (UTC-12): 2024-04-25 23:59:59\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A\nConference Website: https://www.ecai2024.eu/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Santiago de Compostela
+URL:https://www.ecai2024.eu/
+X-CCFDDL-CONFERENCE:ECAI 2024
+X-CCFDDL-ID:ecai24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250429T235959
+DTEND;TZID="UTC-12:00":20250430T000059
+DTSTAMP:20261011T030945Z
+UID:ac6da7da-16ae-5456-9413-898c7960eec8
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 27-30\, 2025\n📍 Location: Bologna\, ITALY\n⏰ Original Deadlin
+ e (UTC-12): 2025-04-29 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://ecai2025.org/deadlines/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+X-CCFDDL-CONFERENCE:ECAI 2025
+X-CCFDDL-ID:ecai25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250506T235959
+DTEND;TZID="UTC-12:00":20250507T000059
+DTSTAMP:20261011T030945Z
+UID:6d755e93-2b9b-51e0-957f-226524e50bcd
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 27-30\, 2025\n📍 Location: Bologna\, ITALY\n⏰ Original Deadlin
+ e (UTC-12): 2025-05-06 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://ecai2025.org/deadlines/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+X-CCFDDL-CONFERENCE:ECAI 2025
+X-CCFDDL-ID:ecai25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260112T235959
+DTEND;TZID="UTC-12:00":20260113T000059
+DTSTAMP:20261011T030945Z
+UID:db7363bf-afaa-50f1-ad7a-4e52466298dd
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ August 18-21\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadlin
+ e (UTC-12): 2026-01-12 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://2026.ijcai.org/\nDBLP Index: https://dblp.
+ org/db/conf/ecai
+LOCATION:Bremen\, Germany
+URL:https://2026.ijcai.org/
+X-CCFDDL-CONFERENCE:ECAI 2026
+X-CCFDDL-ID:ecai26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20261011T030945Z
+UID:6bcf0db2-a4f6-5de4-80f3-c7c75f8986d7
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ August 18-21\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadlin
+ e (UTC-12): 2026-01-19 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://2026.ijcai.org/\nDBLP Index: https://dblp.
+ org/db/conf/ecai
+LOCATION:Bremen\, Germany
+URL:https://2026.ijcai.org/
+X-CCFDDL-CONFERENCE:ECAI 2026
+X-CCFDDL-ID:ecai26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270414T235959
+DTEND;TZID="UTC-12:00":20270415T000059
+DTSTAMP:20261011T030945Z
+UID:dc7b2ed5-24cf-5d63-b359-9608f7d717b2
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-7\, 2027\n📍 Location: Athens\, Greece\n⏰ Original Deadline 
+ (AoE): 2027-04-14 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nC
+ onference Website: https://ecai2027.org/\nDBLP Index: https://dblp.org/db/
+ conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+X-CCFDDL-CONFERENCE:ECAI 2027
+X-CCFDDL-ID:ecai27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 Rebuttal Submission
+DTSTART;TZID="UTC-12:00":20270618T235959
+DTEND;TZID="UTC-12:00":20270619T000059
+DTSTAMP:20261011T030945Z
+UID:86a6e12a-4c5b-5b00-a815-47e5c2d284a9
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-7\, 2027\n📍 Location: Athens\, Greece\n⏰ Original Deadline 
+ (AoE): 2027-06-18 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nC
+ onference Website: https://ecai2027.org/\nDBLP Index: https://dblp.org/db/
+ conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+X-CCFDDL-CONFERENCE:ECAI 2027
+X-CCFDDL-ID:ecai27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270715T235959
+DTEND;TZID="UTC-12:00":20270716T000059
+DTSTAMP:20261011T030945Z
+UID:fb319e26-5bd7-5310-8dea-442865fb0b36
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-7\, 2027\n📍 Location: Athens\, Greece\n⏰ Original Deadline 
+ (AoE): 2027-07-15 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nC
+ onference Website: https://ecai2027.org/\nDBLP Index: https://dblp.org/db/
+ conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+X-CCFDDL-CONFERENCE:ECAI 2027
+X-CCFDDL-ID:ecai27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220413T235959
+DTEND;TZID="UTC-12:00":20220414T000059
+DTSTAMP:20261011T030945Z
+UID:4e3275f9-e760-50fe-a114-99ff4babc849
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ Date: September 12-14\, 2022\n📍 Location: Dortmund\, German
+ y\n⏰ Original Deadline (AoE): 2022-04-13 23:59:59\nCategory: 人工智
+ 能 (AI)\nCCF B\, CORE A\nConference Website: https://easychair.org/cfp/PP
+ SN2022\nDBLP Index: https://dblp.org/db/conf/ppsn
+LOCATION:Dortmund\, Germany
+URL:https://easychair.org/cfp/PPSN2022
+X-CCFDDL-CONFERENCE:PPSN 2022
+X-CCFDDL-ID:ppsn22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240418T235959
+DTEND;TZID="UTC-12:00":20240419T000059
+DTSTAMP:20261011T030945Z
+UID:84170d88-9586-5de3-bc3e-6f7a19c3adb2
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ Date: September 16-18\, 2024\n📍 Location: University of App
+ lied Sciences Upper Austria\, Softwarepark Hagenberg\, Austria\n⏰ Origin
+ al Deadline (UTC-12): 2024-04-18 23:59:59\nCategory: 人工智能 (AI)\nCC
+ F B\, CORE A\nConference Website: https://ppsn2024.fh-ooe.at/\nDBLP Index:
+  https://dblp.org/db/conf/ppsn
+LOCATION:University of Applied Sciences Upper Austria\, Softwarepark Hagen
+ berg\, Austria
+URL:https://ppsn2024.fh-ooe.at/
+X-CCFDDL-CONFERENCE:PPSN 2024
+X-CCFDDL-ID:ppsn24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260328T235959
+DTEND;TZID="UTC-12:00":20260329T000059
+DTSTAMP:20261011T030945Z
+UID:b277f995-d964-587a-b26d-a24d2535b083
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ Date: August 31-September 2\, 2026\n📍 Location: University 
+ of Trento\, Trento\, Italy\n⏰ Original Deadline (AoE): 2026-03-28 23:59:
+ 59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nConference Website: https
+ ://ppsn2026.disi.unitn.it/\nDBLP Index: https://dblp.org/db/conf/ppsn
+LOCATION:University of Trento\, Trento\, Italy
+URL:https://ppsn2026.disi.unitn.it/
+X-CCFDDL-CONFERENCE:PPSN 2026
+X-CCFDDL-ID:ppsn26
+END:VEVENT
+END:VCALENDAR

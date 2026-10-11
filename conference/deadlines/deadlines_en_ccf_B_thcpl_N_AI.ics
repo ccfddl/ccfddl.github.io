@@ -1,0 +1,641 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+01:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+01:00
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0100
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECAI 2022 Abstract Deadline [Joint IJCAI-ECAI]
+DTSTART;TZID="UTC+01:00":20220108T125900
+DTEND;TZID="UTC+01:00":20220108T130000
+DTSTAMP:20261011T030945Z
+UID:0b40314d-2123-5aa5-b86e-33183d402119
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ July 25-29\, 2022\n📍 Location: Vienna\, Austria\n⏰ Original Deadline 
+ (UTC+1): 2022-01-08 12:59:00\nCategory: 人工智能 (AI)\nCCF B\, CORE A
+ \nConference Website: https://ijcai-22.org/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Vienna\, Austria
+URL:https://ijcai-22.org/
+X-CCFDDL-CONFERENCE:ECAI 2022
+X-CCFDDL-ID:ecai22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2022 Deadline [Joint IJCAI-ECAI]
+DTSTART;TZID="UTC+01:00":20220114T235959
+DTEND;TZID="UTC+01:00":20220115T000059
+DTSTAMP:20261011T030945Z
+UID:bc5a19c5-fe17-5bdb-999d-a8f6d1640860
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ July 25-29\, 2022\n📍 Location: Vienna\, Austria\n⏰ Original Deadline 
+ (UTC+1): 2022-01-14 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A
+ \nConference Website: https://ijcai-22.org/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Vienna\, Austria
+URL:https://ijcai-22.org/
+X-CCFDDL-CONFERENCE:ECAI 2022
+X-CCFDDL-ID:ecai22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECAI 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230502T235959
+DTEND;TZID="UTC-12:00":20230503T000059
+DTSTAMP:20261011T030945Z
+UID:571c0190-7c2e-5924-b4fa-ce8612c1fb04
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-4\, 2023\n📍 Location: Kraków\, Poland\n⏰ Original Deadline
+  (UTC-12): 2023-05-02 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ A\nConference Website: https://ecai2023.eu/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Kraków\, Poland
+URL:https://ecai2023.eu/
+X-CCFDDL-CONFERENCE:ECAI 2023
+X-CCFDDL-ID:ecai23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230508T235959
+DTEND;TZID="UTC-12:00":20230509T000059
+DTSTAMP:20261011T030945Z
+UID:cbafb94f-e0ba-521b-b73a-397727ee8bc1
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-4\, 2023\n📍 Location: Kraków\, Poland\n⏰ Original Deadline
+  (UTC-12): 2023-05-08 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ A\nConference Website: https://ecai2023.eu/\nDBLP Index: https://dblp.org/
+ db/conf/ecai
+LOCATION:Kraków\, Poland
+URL:https://ecai2023.eu/
+X-CCFDDL-CONFERENCE:ECAI 2023
+X-CCFDDL-ID:ecai23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240419T235959
+DTEND;TZID="UTC-12:00":20240420T000059
+DTSTAMP:20261011T030945Z
+UID:8507daf2-b86d-56ca-81a6-40fdd5560f1b
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 21-24\, 2024\n📍 Location: Santiago de Compostela\n⏰ Original 
+ Deadline (UTC-12): 2024-04-19 23:59:59\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A\nConference Website: https://www.ecai2024.eu/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Santiago de Compostela
+URL:https://www.ecai2024.eu/
+X-CCFDDL-CONFERENCE:ECAI 2024
+X-CCFDDL-ID:ecai24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240425T235959
+DTEND;TZID="UTC-12:00":20240426T000059
+DTSTAMP:20261011T030945Z
+UID:b9b6ddc8-1dc3-551d-97f1-17a8936aa9a8
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 21-24\, 2024\n📍 Location: Santiago de Compostela\n⏰ Original 
+ Deadline (UTC-12): 2024-04-25 23:59:59\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE A\nConference Website: https://www.ecai2024.eu/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Santiago de Compostela
+URL:https://www.ecai2024.eu/
+X-CCFDDL-CONFERENCE:ECAI 2024
+X-CCFDDL-ID:ecai24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250429T235959
+DTEND;TZID="UTC-12:00":20250430T000059
+DTSTAMP:20261011T030945Z
+UID:ac6da7da-16ae-5456-9413-898c7960eec8
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 27-30\, 2025\n📍 Location: Bologna\, ITALY\n⏰ Original Deadlin
+ e (UTC-12): 2025-04-29 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://ecai2025.org/deadlines/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+X-CCFDDL-CONFERENCE:ECAI 2025
+X-CCFDDL-ID:ecai25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250506T235959
+DTEND;TZID="UTC-12:00":20250507T000059
+DTSTAMP:20261011T030945Z
+UID:6d755e93-2b9b-51e0-957f-226524e50bcd
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 27-30\, 2025\n📍 Location: Bologna\, ITALY\n⏰ Original Deadlin
+ e (UTC-12): 2025-05-06 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://ecai2025.org/deadlines/\nDBLP Index: https
+ ://dblp.org/db/conf/ecai
+LOCATION:Bologna\, ITALY
+URL:https://ecai2025.org/deadlines/
+X-CCFDDL-CONFERENCE:ECAI 2025
+X-CCFDDL-ID:ecai25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260112T235959
+DTEND;TZID="UTC-12:00":20260113T000059
+DTSTAMP:20261011T030945Z
+UID:db7363bf-afaa-50f1-ad7a-4e52466298dd
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ August 18-21\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadlin
+ e (UTC-12): 2026-01-12 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://2026.ijcai.org/\nDBLP Index: https://dblp.
+ org/db/conf/ecai
+LOCATION:Bremen\, Germany
+URL:https://2026.ijcai.org/
+X-CCFDDL-CONFERENCE:ECAI 2026
+X-CCFDDL-ID:ecai26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260119T235959
+DTEND;TZID="UTC-12:00":20260120T000059
+DTSTAMP:20261011T030945Z
+UID:6bcf0db2-a4f6-5de4-80f3-c7c75f8986d7
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ August 18-21\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadlin
+ e (UTC-12): 2026-01-19 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  A\nConference Website: https://2026.ijcai.org/\nDBLP Index: https://dblp.
+ org/db/conf/ecai
+LOCATION:Bremen\, Germany
+URL:https://2026.ijcai.org/
+X-CCFDDL-CONFERENCE:ECAI 2026
+X-CCFDDL-ID:ecai26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 Deadline
+DTSTART;TZID="UTC-12:00":20270414T235959
+DTEND;TZID="UTC-12:00":20270415T000059
+DTSTAMP:20261011T030945Z
+UID:dc7b2ed5-24cf-5d63-b359-9608f7d717b2
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-7\, 2027\n📍 Location: Athens\, Greece\n⏰ Original Deadline 
+ (AoE): 2027-04-14 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nC
+ onference Website: https://ecai2027.org/\nDBLP Index: https://dblp.org/db/
+ conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+X-CCFDDL-CONFERENCE:ECAI 2027
+X-CCFDDL-ID:ecai27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 Rebuttal Submission
+DTSTART;TZID="UTC-12:00":20270618T235959
+DTEND;TZID="UTC-12:00":20270619T000059
+DTSTAMP:20261011T030945Z
+UID:86a6e12a-4c5b-5b00-a815-47e5c2d284a9
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-7\, 2027\n📍 Location: Athens\, Greece\n⏰ Original Deadline 
+ (AoE): 2027-06-18 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nC
+ onference Website: https://ecai2027.org/\nDBLP Index: https://dblp.org/db/
+ conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+X-CCFDDL-CONFERENCE:ECAI 2027
+X-CCFDDL-ID:ecai27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECAI 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270715T235959
+DTEND;TZID="UTC-12:00":20270716T000059
+DTSTAMP:20261011T030945Z
+UID:fb319e26-5bd7-5310-8dea-442865fb0b36
+DESCRIPTION:European Conference on Artificial Intelligence\n🗓️ Date: 
+ October 2-7\, 2027\n📍 Location: Athens\, Greece\n⏰ Original Deadline 
+ (AoE): 2027-07-15 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nC
+ onference Website: https://ecai2027.org/\nDBLP Index: https://dblp.org/db/
+ conf/ecai
+LOCATION:Athens\, Greece
+URL:https://ecai2027.org/
+X-CCFDDL-CONFERENCE:ECAI 2027
+X-CCFDDL-ID:ecai27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210505T235959
+DTEND;TZID="UTC-12:00":20210506T000059
+DTSTAMP:20261011T030945Z
+UID:c231e588-97f1-5ee1-9b27-486c0096d0d6
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : September 13-16\, 2021\n📍 Location: Virtual\n⏰ Original Deadline (A
+ oE): 2021-05-05 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE C\nCon
+ ference Website: https://www.iccbr.org/iccbr21/\nDBLP Index: https://dblp.
+ org/db/conf/iccbr
+LOCATION:Virtual
+URL:https://www.iccbr.org/iccbr21/
+X-CCFDDL-CONFERENCE:ICCBR 2021
+X-CCFDDL-ID:iccbr2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220501T235959
+DTEND;TZID="UTC-12:00":20220502T000059
+DTSTAMP:20261011T030945Z
+UID:cde6e948-5333-54f1-aa6c-7c851bbfd32d
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : September 13-15\, 2022\n📍 Location: Nancy\, France\n⏰ Original Dead
+ line (AoE): 2022-05-01 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE
+  C\nConference Website: https://iccbr2022.loria.fr/\nDBLP Index: https://d
+ blp.org/db/conf/iccbr
+LOCATION:Nancy\, France
+URL:https://iccbr2022.loria.fr/
+X-CCFDDL-CONFERENCE:ICCBR 2022
+X-CCFDDL-ID:iccbr2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230424T235959
+DTEND;TZID="UTC-12:00":20230425T000059
+DTSTAMP:20261011T030945Z
+UID:d5e2a7bd-22a1-532f-9144-8678d3ae41a2
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : July 18-20\, 2023\n📍 Location: Aberdeen\, Scotland\, UK\n⏰ Original
+  Deadline (AoE): 2023-04-24 23:59:59\nCategory: 人工智能 (AI)\nCCF B\,
+  CORE C\nConference Website: https://www.iccbr2023.org/\nDBLP Index: https
+ ://dblp.org/db/conf/iccbr
+LOCATION:Aberdeen\, Scotland\, UK
+URL:https://www.iccbr2023.org/
+X-CCFDDL-CONFERENCE:ICCBR 2023
+X-CCFDDL-ID:iccbr2023
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-06:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-06:00
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 Deadline [Early Submission]
+DTSTART;TZID="UTC-06:00":20240226T000000
+DTEND;TZID="UTC-06:00":20240226T000100
+DTSTAMP:20261011T030945Z
+UID:e411d7cd-d928-5a79-a373-778511e63802
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : July 2-4\, 2024\n📍 Location: Merida\, Yucatan\, Mexico\n⏰ Original 
+ Deadline (UTC-6): 2024-02-26 00:00:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE C\nConference Website: https://link.springer.com/book/10.1007/978-
+ 3-031-63646-2\nDBLP Index: https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://link.springer.com/book/10.1007/978-3-031-63646-2
+X-CCFDDL-CONFERENCE:ICCBR 2024
+X-CCFDDL-ID:iccbr2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2024 Deadline [Late Submission]
+DTSTART;TZID="UTC-06:00":20240402T000000
+DTEND;TZID="UTC-06:00":20240402T000100
+DTSTAMP:20261011T030945Z
+UID:bd11593c-b944-5dc5-a961-e9a4ce873d46
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : July 2-4\, 2024\n📍 Location: Merida\, Yucatan\, Mexico\n⏰ Original 
+ Deadline (UTC-6): 2024-04-02 00:00:00\nCategory: 人工智能 (AI)\nCCF B
+ \, CORE C\nConference Website: https://link.springer.com/book/10.1007/978-
+ 3-031-63646-2\nDBLP Index: https://dblp.org/db/conf/iccbr
+LOCATION:Merida\, Yucatan\, Mexico
+URL:https://link.springer.com/book/10.1007/978-3-031-63646-2
+X-CCFDDL-CONFERENCE:ICCBR 2024
+X-CCFDDL-ID:iccbr2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2025 Deadline [Early submission]
+DTSTART;TZID="UTC-12:00":20250226T235959
+DTEND;TZID="UTC-12:00":20250227T000059
+DTSTAMP:20261011T030945Z
+UID:611d3bdd-7e15-5e67-ae5c-ef70ae89e84e
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : July 1-3\, 2025\n📍 Location: Biarritz\, France\n⏰ Original Deadline
+  (AoE): 2025-02-26 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE C\n
+ Conference Website: https://2025.iccbr.org/\nDBLP Index: https://dblp.org/
+ db/conf/iccbr
+LOCATION:Biarritz\, France
+URL:https://2025.iccbr.org/
+X-CCFDDL-CONFERENCE:ICCBR 2025
+X-CCFDDL-ID:iccbr2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2025 Abstract Deadline [Late submission]
+DTSTART;TZID="UTC-12:00":20250316T235959
+DTEND;TZID="UTC-12:00":20250317T000059
+DTSTAMP:20261011T030945Z
+UID:3bf78f7f-bb43-531f-bdee-f821c1311e99
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : July 1-3\, 2025\n📍 Location: Biarritz\, France\n⏰ Original Deadline
+  (AoE): 2025-03-16 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE C\n
+ Conference Website: https://2025.iccbr.org/\nDBLP Index: https://dblp.org/
+ db/conf/iccbr
+LOCATION:Biarritz\, France
+URL:https://2025.iccbr.org/
+X-CCFDDL-CONFERENCE:ICCBR 2025
+X-CCFDDL-ID:iccbr2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2025 Deadline [Late submission]
+DTSTART;TZID="UTC-12:00":20250316T235959
+DTEND;TZID="UTC-12:00":20250317T000059
+DTSTAMP:20261011T030945Z
+UID:dd3f6960-52a7-5449-858c-828e8441fd05
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : July 1-3\, 2025\n📍 Location: Biarritz\, France\n⏰ Original Deadline
+  (AoE): 2025-03-16 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE C\n
+ Conference Website: https://2025.iccbr.org/\nDBLP Index: https://dblp.org/
+ db/conf/iccbr
+LOCATION:Biarritz\, France
+URL:https://2025.iccbr.org/
+X-CCFDDL-CONFERENCE:ICCBR 2025
+X-CCFDDL-ID:iccbr2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260320T235959
+DTEND;TZID="UTC-12:00":20260321T000059
+DTSTAMP:20261011T030945Z
+UID:7c5b3d05-b60d-5335-b251-afc67cbde197
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : August 13-16\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadl
+ ine (AoE): 2026-03-20 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ C\nConference Website: https://2026.iccbr.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+X-CCFDDL-CONFERENCE:ICCBR 2026
+X-CCFDDL-ID:iccbr2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICCBR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260327T235959
+DTEND;TZID="UTC-12:00":20260328T000059
+DTSTAMP:20261011T030945Z
+UID:a6d82bd6-4829-5cbc-8034-9c2c42d93d3c
+DESCRIPTION:International Conference on Case-Based Reasoning\n🗓️ Date
+ : August 13-16\, 2026\n📍 Location: Bremen\, Germany\n⏰ Original Deadl
+ ine (AoE): 2026-03-27 23:59:59\nCategory: 人工智能 (AI)\nCCF B\, CORE 
+ C\nConference Website: https://2026.iccbr.org/\nDBLP Index: https://dblp.o
+ rg/db/conf/iccbr
+LOCATION:Bremen\, Germany
+URL:https://2026.iccbr.org/
+X-CCFDDL-CONFERENCE:ICCBR 2026
+X-CCFDDL-ID:iccbr2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2021 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20210324T235959
+DTEND;TZID="UTC-12:00":20210325T000059
+DTSTAMP:20261011T030945Z
+UID:e6984bf4-9b54-5180-8fc4-9b5b80ac8977
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: November 8-12\, 2021\n📍 Location: Vir
+ tual\n⏰ Original Deadline (UTC-12): 2021-03-24 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/KR2021
+ /\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Virtual
+URL:https://kr.org/KR2021/
+X-CCFDDL-CONFERENCE:KR 2021
+X-CCFDDL-ID:krd21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210331T235959
+DTEND;TZID="UTC-12:00":20210401T000059
+DTSTAMP:20261011T030945Z
+UID:08f4dbfa-e444-59d6-82f4-620a35890e49
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: November 8-12\, 2021\n📍 Location: Vir
+ tual\n⏰ Original Deadline (UTC-12): 2021-03-31 23:59:59\nCategory: 人
+ 工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/KR2021
+ /\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Virtual
+URL:https://kr.org/KR2021/
+X-CCFDDL-CONFERENCE:KR 2021
+X-CCFDDL-ID:krd21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220202T235959
+DTEND;TZID="UTC-12:00":20220203T000059
+DTSTAMP:20261011T030945Z
+UID:b4f6db58-e492-5919-9613-e4e05344a820
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: August 2-5\, 2022\n📍 Location: Haifa
+ \, Israel\n⏰ Original Deadline (UTC-12): 2022-02-02 23:59:59\nCategory: 
+ 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/KR2
+ 022/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Haifa\, Israel
+URL:https://kr.org/KR2022/
+X-CCFDDL-CONFERENCE:KR 2022
+X-CCFDDL-ID:krd22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220211T235959
+DTEND;TZID="UTC-12:00":20220212T000059
+DTSTAMP:20261011T030945Z
+UID:7cec31fc-ab97-548b-98fd-249b4bc69f08
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: August 2-5\, 2022\n📍 Location: Haifa
+ \, Israel\n⏰ Original Deadline (UTC-12): 2022-02-11 23:59:59\nCategory: 
+ 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/KR2
+ 022/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Haifa\, Israel
+URL:https://kr.org/KR2022/
+X-CCFDDL-CONFERENCE:KR 2022
+X-CCFDDL-ID:krd22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230303T235959
+DTEND;TZID="UTC-12:00":20230304T000059
+DTSTAMP:20261011T030945Z
+UID:6c2ce845-f9a1-5b7b-b39e-eee1e8d5c27e
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: September 5-8\, 2023\n📍 Location: Rho
+ des\, Greece\n⏰ Original Deadline (UTC-12): 2023-03-03 23:59:59\nCategor
+ y: 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/
+ KR2023/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Rhodes\, Greece
+URL:https://kr.org/KR2023/
+X-CCFDDL-CONFERENCE:KR 2023
+X-CCFDDL-ID:krd23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230314T235959
+DTEND;TZID="UTC-12:00":20230315T000059
+DTSTAMP:20261011T030945Z
+UID:db11aa58-9236-5618-90fb-9e023af69459
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: September 5-8\, 2023\n📍 Location: Rho
+ des\, Greece\n⏰ Original Deadline (UTC-12): 2023-03-14 23:59:59\nCategor
+ y: 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/
+ KR2023/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Rhodes\, Greece
+URL:https://kr.org/KR2023/
+X-CCFDDL-CONFERENCE:KR 2023
+X-CCFDDL-ID:krd23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240424T235959
+DTEND;TZID="UTC-12:00":20240425T000059
+DTSTAMP:20261011T030945Z
+UID:059d3262-cd91-58da-977f-5960f80e2561
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: November 5-8\, 2024\n📍 Location: Hano
+ i\, Vietnam\n⏰ Original Deadline (UTC-12): 2024-04-24 23:59:59\nCategory
+ : 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/K
+ R2024/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Hanoi\, Vietnam
+URL:https://kr.org/KR2024/
+X-CCFDDL-CONFERENCE:KR 2024
+X-CCFDDL-ID:krd24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240501T235959
+DTEND;TZID="UTC-12:00":20240502T000059
+DTSTAMP:20261011T030945Z
+UID:23f7e309-5d9c-5bd2-9ae5-20c3bdc9fa7c
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: November 5-8\, 2024\n📍 Location: Hano
+ i\, Vietnam\n⏰ Original Deadline (UTC-12): 2024-05-01 23:59:59\nCategory
+ : 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/K
+ R2024/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Hanoi\, Vietnam
+URL:https://kr.org/KR2024/
+X-CCFDDL-CONFERENCE:KR 2024
+X-CCFDDL-ID:krd24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250507T235959
+DTEND;TZID="UTC-12:00":20250508T000059
+DTSTAMP:20261011T030945Z
+UID:5f3da16c-17e9-551b-b2e8-3b9b8606271a
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: November 14-17\, 2025\n📍 Location: Me
+ lbourne\, Australia\n⏰ Original Deadline (UTC-12): 2025-05-07 23:59:59\n
+ Category: 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://
+ kr.org/KR2025/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Melbourne\, Australia
+URL:https://kr.org/KR2025/
+X-CCFDDL-CONFERENCE:KR 2025
+X-CCFDDL-ID:krd25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250512T235959
+DTEND;TZID="UTC-12:00":20250513T000059
+DTSTAMP:20261011T030945Z
+UID:a386bf66-cb9f-594b-acb6-0491de59a487
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: November 14-17\, 2025\n📍 Location: Me
+ lbourne\, Australia\n⏰ Original Deadline (UTC-12): 2025-05-12 23:59:59\n
+ Category: 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://
+ kr.org/KR2025/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Melbourne\, Australia
+URL:https://kr.org/KR2025/
+X-CCFDDL-CONFERENCE:KR 2025
+X-CCFDDL-ID:krd25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260208T235959
+DTEND;TZID="UTC-12:00":20260209T000059
+DTSTAMP:20261011T030945Z
+UID:68e51cae-de7d-5ec2-bef0-96df9f47496d
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: July 20-23\, 2026\n📍 Location: Lisbon
+ \, Portugal\n⏰ Original Deadline (UTC-12): 2026-02-08 23:59:59\nCategory
+ : 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/K
+ R2026/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Lisbon\, Portugal
+URL:https://kr.org/KR2026/
+X-CCFDDL-CONFERENCE:KR 2026
+X-CCFDDL-ID:krd26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260213T235959
+DTEND;TZID="UTC-12:00":20260214T000059
+DTSTAMP:20261011T030945Z
+UID:3dede2b8-2853-53e0-a69f-41df9a4a9665
+DESCRIPTION:International Conference on Principles of Knowledge Representa
+ tion and Reasoning\n🗓️ Date: July 20-23\, 2026\n📍 Location: Lisbon
+ \, Portugal\n⏰ Original Deadline (UTC-12): 2026-02-13 23:59:59\nCategory
+ : 人工智能 (AI)\nCCF B\, CORE A*\nConference Website: https://kr.org/K
+ R2026/\nDBLP Index: https://dblp.org/db/conf/kr
+LOCATION:Lisbon\, Portugal
+URL:https://kr.org/KR2026/
+X-CCFDDL-CONFERENCE:KR 2026
+X-CCFDDL-ID:krd26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220413T235959
+DTEND;TZID="UTC-12:00":20220414T000059
+DTSTAMP:20261011T030945Z
+UID:4e3275f9-e760-50fe-a114-99ff4babc849
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ Date: September 12-14\, 2022\n📍 Location: Dortmund\, German
+ y\n⏰ Original Deadline (AoE): 2022-04-13 23:59:59\nCategory: 人工智
+ 能 (AI)\nCCF B\, CORE A\nConference Website: https://easychair.org/cfp/PP
+ SN2022\nDBLP Index: https://dblp.org/db/conf/ppsn
+LOCATION:Dortmund\, Germany
+URL:https://easychair.org/cfp/PPSN2022
+X-CCFDDL-CONFERENCE:PPSN 2022
+X-CCFDDL-ID:ppsn22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240418T235959
+DTEND;TZID="UTC-12:00":20240419T000059
+DTSTAMP:20261011T030945Z
+UID:84170d88-9586-5de3-bc3e-6f7a19c3adb2
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ Date: September 16-18\, 2024\n📍 Location: University of App
+ lied Sciences Upper Austria\, Softwarepark Hagenberg\, Austria\n⏰ Origin
+ al Deadline (UTC-12): 2024-04-18 23:59:59\nCategory: 人工智能 (AI)\nCC
+ F B\, CORE A\nConference Website: https://ppsn2024.fh-ooe.at/\nDBLP Index:
+  https://dblp.org/db/conf/ppsn
+LOCATION:University of Applied Sciences Upper Austria\, Softwarepark Hagen
+ berg\, Austria
+URL:https://ppsn2024.fh-ooe.at/
+X-CCFDDL-CONFERENCE:PPSN 2024
+X-CCFDDL-ID:ppsn24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPSN 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260328T235959
+DTEND;TZID="UTC-12:00":20260329T000059
+DTSTAMP:20261011T030945Z
+UID:b277f995-d964-587a-b26d-a24d2535b083
+DESCRIPTION:International Conference on Parallel Problem Solving From Natu
+ re\n🗓️ Date: August 31-September 2\, 2026\n📍 Location: University 
+ of Trento\, Trento\, Italy\n⏰ Original Deadline (AoE): 2026-03-28 23:59:
+ 59\nCategory: 人工智能 (AI)\nCCF B\, CORE A\nConference Website: https
+ ://ppsn2026.disi.unitn.it/\nDBLP Index: https://dblp.org/db/conf/ppsn
+LOCATION:University of Trento\, Trento\, Italy
+URL:https://ppsn2026.disi.unitn.it/
+X-CCFDDL-CONFERENCE:PPSN 2026
+X-CCFDDL-ID:ppsn26
+END:VEVENT
+END:VCALENDAR

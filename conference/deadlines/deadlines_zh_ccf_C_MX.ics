@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:AFT 2019 Deadline
+DTSTART;TZID="UTC-12:00":20190524T235959
+DTEND;TZID="UTC-12:00":20190525T000059
+DTSTAMP:20261011T030857Z
+UID:4854ca65-68d9-5586-b5e2-1ebc3af57049
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Octo
+ ber 21-23\, 2019\n📍 会议地点: Zurich\, Switzerland\n⏰ 原始截
+ 止时间 (UTC-12): 2019-05-24 23:59:59\n分类: 交叉/综合/新兴 (MX)
+ \nCCF C\, CORE B\n会议官网: https://aft.ifca.ai/aft19/index.html\nDBLP
+ 索引: https://dblp.org/db/conf/aft
+LOCATION:Zurich\, Switzerland
+URL:https://aft.ifca.ai/aft19/index.html
+X-CCFDDL-CONFERENCE:AFT 2019
+X-CCFDDL-ID:aft19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2020 Deadline
+DTSTART;TZID="UTC-12:00":20200611T235959
+DTEND;TZID="UTC-12:00":20200612T000059
+DTSTAMP:20261011T030857Z
+UID:e1c604fb-9b20-5944-8427-a9620e40ce5d
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Octo
+ ber 21-23\, 2020\n📍 会议地点: Online\n⏰ 原始截止时间 (UTC-1
+ 2): 2020-06-11 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE B
+ \n会议官网: https://aft.ifca.ai/aft20/index.html\nDBLP索引: https://
+ dblp.org/db/conf/aft
+LOCATION:Online
+URL:https://aft.ifca.ai/aft20/index.html
+X-CCFDDL-CONFERENCE:AFT 2020
+X-CCFDDL-ID:aft20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210527T235959
+DTEND;TZID="UTC-12:00":20210528T000059
+DTSTAMP:20261011T030857Z
+UID:5e739962-1cc6-5f7f-b561-9b75b37b174b
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Sept
+ ember 26-28\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间 (UTC
+ -12): 2021-05-27 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE
+  B\n会议官网: https://aft.ifca.ai/aft21/index.html\nDBLP索引: https:
+ //dblp.org/db/conf/aft
+LOCATION:Online
+URL:https://aft.ifca.ai/aft21/index.html
+X-CCFDDL-CONFERENCE:AFT 2021
+X-CCFDDL-ID:aft21
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:AFT 2022 Deadline
+DTSTART;TZID="UTC-07:00":20220513T235959
+DTEND;TZID="UTC-07:00":20220514T000059
+DTSTAMP:20261011T030857Z
+UID:e456d58c-32dd-51f3-ae89-0e528ba93fa6
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Sept
+ ember 19-21\, 2022\n📍 会议地点: Cambridge\, MA\, USA\n⏰ 原始截
+ 止时间 (UTC-7): 2022-05-13 23:59:59\n分类: 交叉/综合/新兴 (MX)
+ \nCCF C\, CORE B\n会议官网: https://aft.ifca.ai/aft22/index.html\nDBLP
+ 索引: https://dblp.org/db/conf/aft
+LOCATION:Cambridge\, MA\, USA
+URL:https://aft.ifca.ai/aft22/index.html
+X-CCFDDL-CONFERENCE:AFT 2022
+X-CCFDDL-ID:aft22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230615T235959
+DTEND;TZID="UTC-12:00":20230616T000059
+DTSTAMP:20261011T030857Z
+UID:4cab119d-d9d8-57d0-b056-ea739d600c0f
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Octo
+ ber 23-25\, 2023\n📍 会议地点: Princeton\, NJ\, USA\n⏰ 原始截
+ 止时间 (UTC-12): 2023-06-15 23:59:59\n分类: 交叉/综合/新兴 (MX)
+ \nCCF C\, CORE B\n会议官网: https://aft.ifca.ai/aft23/index.html\nDBLP
+ 索引: https://dblp.org/db/conf/aft
+LOCATION:Princeton\, NJ\, USA
+URL:https://aft.ifca.ai/aft23/index.html
+X-CCFDDL-CONFERENCE:AFT 2023
+X-CCFDDL-ID:aft23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240515T235959
+DTEND;TZID="UTC-12:00":20240516T000059
+DTSTAMP:20261011T030857Z
+UID:ac68970d-0f4b-5bf5-865b-42d3ba16be60
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Sept
+ ember 23-25\, 2024\n📍 会议地点: Vienna\, Austria\n⏰ 原始截止
+ 时间 (UTC-12): 2024-05-15 23:59:59\n分类: 交叉/综合/新兴 (MX)\nC
+ CF C\, CORE B\n会议官网: https://aft.ifca.ai/aft24/index.html\nDBLP索
+ 引: https://dblp.org/db/conf/aft
+LOCATION:Vienna\, Austria
+URL:https://aft.ifca.ai/aft24/index.html
+X-CCFDDL-CONFERENCE:AFT 2024
+X-CCFDDL-ID:aft24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240522T235959
+DTEND;TZID="UTC-12:00":20240523T000059
+DTSTAMP:20261011T030857Z
+UID:b2e5969a-7c56-57a6-9219-d85130bb945a
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Sept
+ ember 23-25\, 2024\n📍 会议地点: Vienna\, Austria\n⏰ 原始截止
+ 时间 (UTC-12): 2024-05-22 23:59:59\n分类: 交叉/综合/新兴 (MX)\nC
+ CF C\, CORE B\n会议官网: https://aft.ifca.ai/aft24/index.html\nDBLP索
+ 引: https://dblp.org/db/conf/aft
+LOCATION:Vienna\, Austria
+URL:https://aft.ifca.ai/aft24/index.html
+X-CCFDDL-CONFERENCE:AFT 2024
+X-CCFDDL-ID:aft24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250528T235959
+DTEND;TZID="UTC-12:00":20250529T000059
+DTSTAMP:20261011T030857Z
+UID:fe7a6a21-2ab2-5cb4-89ab-5023ceb0cf38
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Octo
+ ber 8-10\, 2025\n📍 会议地点: Pittsburgh\, PA\, USA\n⏰ 原始截
+ 止时间 (UTC-12): 2025-05-28 23:59:59\n分类: 交叉/综合/新兴 (MX)
+ \nCCF C\, CORE B\n会议官网: https://aft.ifca.ai/aft25/index.html\nDBLP
+ 索引: https://dblp.org/db/conf/aft
+LOCATION:Pittsburgh\, PA\, USA
+URL:https://aft.ifca.ai/aft25/index.html
+X-CCFDDL-CONFERENCE:AFT 2025
+X-CCFDDL-ID:aft25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260520T235959
+DTEND;TZID="UTC-12:00":20260521T000059
+DTSTAMP:20261011T030857Z
+UID:d976e663-7aec-5447-a70d-08bdf32abaea
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Octo
+ ber 7-9\, 2026\n📍 会议地点: London\, UK\n⏰ 原始截止时间 (UT
+ C-12): 2026-05-20 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E B\n会议官网: https://aft.ifca.ai/aft26/index.html\nDBLP索引: https
+ ://dblp.org/db/conf/aft
+LOCATION:London\, UK
+URL:https://aft.ifca.ai/aft26/index.html
+X-CCFDDL-CONFERENCE:AFT 2026
+X-CCFDDL-ID:aft26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFT 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260527T235959
+DTEND;TZID="UTC-12:00":20260528T000059
+DTSTAMP:20261011T030857Z
+UID:06b1d6ac-89a0-5e7b-b345-5629d6eeca8b
+DESCRIPTION:Advances in Financial Technologies\n🗓️ 会议时间: Octo
+ ber 7-9\, 2026\n📍 会议地点: London\, UK\n⏰ 原始截止时间 (UT
+ C-12): 2026-05-27 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E B\n会议官网: https://aft.ifca.ai/aft26/index.html\nDBLP索引: https
+ ://dblp.org/db/conf/aft
+LOCATION:London\, UK
+URL:https://aft.ifca.ai/aft26/index.html
+X-CCFDDL-CONFERENCE:AFT 2026
+X-CCFDDL-ID:aft26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APBC 2025 Deadline
+DTSTART:20250715T235959Z
+DTEND:20250716T000059Z
+DTSTAMP:20261011T030857Z
+UID:aad44767-9eb5-5fd0-a692-1b34ae7a1104
+DESCRIPTION:Asia Pacific Bioinformatics Conference\n🗓️ 会议时间: 
+ September 19-22\, 2025\n📍 会议地点: Nanjing， China\n⏰ 原始截
+ 止时间 (UTC+0): 2025-07-15 23:59:59\n分类: 交叉/综合/新兴 (MX)
+ \nCCF C\, CORE B\n会议官网: https://bioinfo.nuaa.edu.cn/apbc2025/main.
+ psp\nDBLP索引: https://dblp.org/db/conf/apbc
+LOCATION:Nanjing， China
+URL:https://bioinfo.nuaa.edu.cn/apbc2025/main.psp
+X-CCFDDL-CONFERENCE:APBC 2025
+X-CCFDDL-ID:apbc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APBC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260717T235959
+DTEND;TZID="UTC-12:00":20260718T000059
+DTSTAMP:20261011T030857Z
+UID:0f787a87-4360-5ba8-b12e-72f532c1a0ae
+DESCRIPTION:Asia Pacific Bioinformatics Conference\n🗓️ 会议时间: 
+ October 22-24\, 2026\n📍 会议地点: Hsinchu\, Taiwan， China\n⏰ 
+ 原始截止时间 (AoE): 2026-07-17 23:59:59\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF C\, CORE B\n会议官网: https://www.apbc2026.com/home\nDBL
+ P索引: https://dblp.org/db/conf/apbc
+LOCATION:Hsinchu\, Taiwan， China
+URL:https://www.apbc2026.com/home
+X-CCFDDL-CONFERENCE:APBC 2026
+X-CCFDDL-ID:apbc26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210905T235959
+DTEND;TZID="UTC-12:00":20210906T000059
+DTSTAMP:20261011T030857Z
+UID:79162e4b-4b23-5d9d-b5ce-6eb507ba0746
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ 会议时
+ 间: December 15-18\, 2021\n📍 会议地点: Virtual\n⏰ 原始截止
+ 时间 (AoE): 2021-09-05 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF 
+ C\, CORE B\n会议官网: https://bigdataieee.org/BigData2021/\nDBLP索引
+ : https://dblp.org/db/conf/bigdataconf
+LOCATION:Virtual
+URL:https://bigdataieee.org/BigData2021/
+X-CCFDDL-CONFERENCE:BigData 2021
+X-CCFDDL-ID:bigdata21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220903T235959
+DTEND;TZID="UTC-12:00":20220904T000059
+DTSTAMP:20261011T030857Z
+UID:42afc0d5-5b16-593e-875e-55e8071202f1
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ 会议时
+ 间: December 18-20\, 2022\n📍 会议地点: Osaka\, Japan\n⏰ 原始
+ 截止时间 (AoE): 2022-09-03 23:59:59\n分类: 交叉/综合/新兴 (MX)
+ \nCCF C\, CORE B\n会议官网: https://bigdataieee.org/BigData2022/\nDBLP
+ 索引: https://dblp.org/db/conf/bigdataconf
+LOCATION:Osaka\, Japan
+URL:https://bigdataieee.org/BigData2022/
+X-CCFDDL-CONFERENCE:BigData 2022
+X-CCFDDL-ID:bigdata22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230903T235959
+DTEND;TZID="UTC-12:00":20230904T000059
+DTSTAMP:20261011T030857Z
+UID:f2c33421-8ea5-5586-8cc4-d1ca5bd9621a
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ 会议时
+ 间: December 15-18\, 2023\n📍 会议地点: Sorrento\, Italy\n⏰ 原
+ 始截止时间 (AoE): 2023-09-03 23:59:59\n分类: 交叉/综合/新兴 (
+ MX)\nCCF C\, CORE B\n会议官网: https://bigdataieee.org/BigData2023/\nD
+ BLP索引: https://dblp.org/db/conf/bigdataconf
+LOCATION:Sorrento\, Italy
+URL:https://bigdataieee.org/BigData2023/
+X-CCFDDL-CONFERENCE:BigData 2023
+X-CCFDDL-ID:bigdata23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240908T235959
+DTEND;TZID="UTC-12:00":20240909T000059
+DTSTAMP:20261011T030857Z
+UID:aa610530-314d-5660-bcb8-834569b30ee5
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ 会议时
+ 间: December 16-18\, 2024\n📍 会议地点: Washington DC\, USA\n⏰ 
+ 原始截止时间 (AoE): 2024-09-08 23:59:59\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF C\, CORE B\n会议官网: https://bigdataieee.org/BigData202
+ 4/\nDBLP索引: https://dblp.org/db/conf/bigdataconf
+LOCATION:Washington DC\, USA
+URL:https://bigdataieee.org/BigData2024/
+X-CCFDDL-CONFERENCE:BigData 2024
+X-CCFDDL-ID:bigdata24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250829T235959
+DTEND;TZID="UTC-12:00":20250830T000059
+DTSTAMP:20261011T030857Z
+UID:e8b462e8-2ad1-5670-8a34-d97edbef21d9
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ 会议时
+ 间: December 9-11\, 2025\n📍 会议地点: Macau SAR\, China\n⏰ 原
+ 始截止时间 (AoE): 2025-08-29 23:59:59\n分类: 交叉/综合/新兴 (
+ MX)\nCCF C\, CORE B\n会议官网: https://conferences.cis.um.edu.mo/ieeeb
+ igdata2025/\nDBLP索引: https://dblp.org/db/conf/bigdataconf
+LOCATION:Macau SAR\, China
+URL:https://conferences.cis.um.edu.mo/ieeebigdata2025/
+X-CCFDDL-CONFERENCE:BigData 2025
+X-CCFDDL-ID:bigdata25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BigData 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260821T235959
+DTEND;TZID="UTC-12:00":20260822T000059
+DTSTAMP:20261011T030857Z
+UID:a8e59153-87f1-5294-83ce-341c46617828
+DESCRIPTION:IEEE International Conference on Big Data\n🗓️ 会议时
+ 间: December 14-17\, 2026\n📍 会议地点: Phoenix\, Arizona\, United 
+ State\n⏰ 原始截止时间 (AoE): 2026-08-21 23:59:59\n分类: 交叉/
+ 综合/新兴 (MX)\nCCF C\, CORE B\n会议官网: https://bigdataieee.org/
+ BigData2026/\nDBLP索引: https://dblp.org/db/conf/bigdataconf
+LOCATION:Phoenix\, Arizona\, United State
+URL:https://bigdataieee.org/BigData2026/
+X-CCFDDL-CONFERENCE:BigData 2026
+X-CCFDDL-ID:bigdata26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2021 Deadline [Optional early submission]
+DTSTART:20210301T050000Z
+DTEND:20210301T050100Z
+DTSTAMP:20261011T030857Z
+UID:1cf844fd-b107-520c-9b05-85ab5c139645
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: September 6-11\, 2021\n📍 会议地点: Virtual\n⏰ 原始
+ 截止时间 (UTC+0): 2021-03-01 05:00:00\n分类: 交叉/综合/新兴 (M
+ X)\nCCF C\, CORE B\, THCPL B\n会议官网: https://conferences.computer.o
+ rg/cloud/2021/\nDBLP索引: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Virtual
+URL:https://conferences.computer.org/cloud/2021/
+X-CCFDDL-CONFERENCE:Cloud 2021
+X-CCFDDL-ID:cloud21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2021 Deadline [Normal submission]
+DTSTART:20210430T050000Z
+DTEND:20210430T050100Z
+DTSTAMP:20261011T030857Z
+UID:5b28ea6b-589d-5704-8e70-434ecb78357e
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: September 6-11\, 2021\n📍 会议地点: Virtual\n⏰ 原始
+ 截止时间 (UTC+0): 2021-04-30 05:00:00\n分类: 交叉/综合/新兴 (M
+ X)\nCCF C\, CORE B\, THCPL B\n会议官网: https://conferences.computer.o
+ rg/cloud/2021/\nDBLP索引: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Virtual
+URL:https://conferences.computer.org/cloud/2021/
+X-CCFDDL-CONFERENCE:Cloud 2021
+X-CCFDDL-ID:cloud21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2022 Abstract Deadline [Abstract optional\; full required]
+DTSTART;TZID="UTC-12:00":20220322T235959
+DTEND;TZID="UTC-12:00":20220323T000059
+DTSTAMP:20261011T030857Z
+UID:7a39d31f-fb2a-5e33-95c8-930f58207034
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: July 11-15\, 2022\n📍 会议地点: Barcelona\, Spain (Hybrid
+ )\n⏰ 原始截止时间 (AoE): 2022-03-22 23:59:59\n分类: 交叉/综
+ 合/新兴 (MX)\nCCF C\, CORE B\, THCPL B\n会议官网: https://conferenc
+ es.computer.org/cloud/2022/\nDBLP索引: https://dblp.org/db/conf/IEEEclou
+ d
+LOCATION:Barcelona\, Spain (Hybrid)
+URL:https://conferences.computer.org/cloud/2022/
+X-CCFDDL-CONFERENCE:Cloud 2022
+X-CCFDDL-ID:cloud22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2022 Deadline [Abstract optional\; full required]
+DTSTART;TZID="UTC-12:00":20220401T235959
+DTEND;TZID="UTC-12:00":20220402T000059
+DTSTAMP:20261011T030857Z
+UID:89d2565f-c2b2-581a-aa55-a81d5e3421d3
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: July 11-15\, 2022\n📍 会议地点: Barcelona\, Spain (Hybrid
+ )\n⏰ 原始截止时间 (AoE): 2022-04-01 23:59:59\n分类: 交叉/综
+ 合/新兴 (MX)\nCCF C\, CORE B\, THCPL B\n会议官网: https://conferenc
+ es.computer.org/cloud/2022/\nDBLP索引: https://dblp.org/db/conf/IEEEclou
+ d
+LOCATION:Barcelona\, Spain (Hybrid)
+URL:https://conferences.computer.org/cloud/2022/
+X-CCFDDL-CONFERENCE:Cloud 2022
+X-CCFDDL-ID:cloud22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230325T235959
+DTEND;TZID="UTC-12:00":20230326T000059
+DTSTAMP:20261011T030857Z
+UID:91e860f7-29cd-5824-9047-be2894918bc1
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: July 3-8\, 2023\n📍 会议地点: Chicago\, USA (Hybrid)\n⏰
+  原始截止时间 (AoE): 2023-03-25 23:59:59\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF C\, CORE B\, THCPL B\n会议官网: https://conferences.comp
+ uter.org/cloud/2023/\nDBLP索引: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Chicago\, USA (Hybrid)
+URL:https://conferences.computer.org/cloud/2023/
+X-CCFDDL-CONFERENCE:Cloud 2023
+X-CCFDDL-ID:cloud23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240331T235959
+DTEND;TZID="UTC-12:00":20240401T000059
+DTSTAMP:20261011T030857Z
+UID:07f1f540-626d-5d5e-8e67-f2da372c7d37
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: July 8-11\, 2024\n📍 会议地点: Shenzhen\, China\n⏰ 原
+ 始截止时间 (AoE): 2024-03-31 23:59:59\n分类: 交叉/综合/新兴 (
+ MX)\nCCF C\, CORE B\, THCPL B\n会议官网: https://cloud.conferences.com
+ puter.org/2024/\nDBLP索引: https://dblp.org/db/conf/IEEEcloud
+LOCATION:Shenzhen\, China
+URL:https://cloud.conferences.computer.org/2024/
+X-CCFDDL-CONFERENCE:Cloud 2024
+X-CCFDDL-ID:cloud24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250310T230000
+DTEND;TZID="UTC-12:00":20250310T230100
+DTSTAMP:20261011T030857Z
+UID:de58c889-95dc-5edb-a9c3-8f3cc84517e8
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: July 8-11\, 2025\n📍 会议地点: Helsinki\, Finland\n⏰ 
+ 原始截止时间 (AoE): 2025-03-10 23:00:00\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF C\, CORE B\, THCPL B\n会议官网: https://services.confere
+ nces.computer.org/2025/cloud/\nDBLP索引: https://dblp.org/db/conf/IEEEcl
+ oud
+LOCATION:Helsinki\, Finland
+URL:https://services.conferences.computer.org/2025/cloud/
+X-CCFDDL-CONFERENCE:Cloud 2025
+X-CCFDDL-ID:cloud25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260322T230000
+DTEND;TZID="UTC-12:00":20260322T230100
+DTSTAMP:20261011T030857Z
+UID:a10efd5b-2bec-535b-bfd6-2b0a5ca4d948
+DESCRIPTION:IEEE International Conference on Cloud Computing\n🗓️ 会
+ 议时间: July 13-17\, 2026\n📍 会议地点: Sydney\, Australia\n⏰ 
+ 原始截止时间 (AoE): 2026-03-22 23:00:00\n分类: 交叉/综合/新
+ 兴 (MX)\nCCF C\, CORE B\, THCPL B\n会议官网: https://services.confere
+ nces.computer.org/2026/cloud/\nDBLP索引: https://dblp.org/db/conf/IEEEcl
+ oud
+LOCATION:Sydney\, Australia
+URL:https://services.conferences.computer.org/2026/cloud/
+X-CCFDDL-CONFERENCE:Cloud 2026
+X-CCFDDL-ID:cloud26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICIC 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240411T120000
+DTEND;TZID="UTC+08:00":20240411T120100
+DTSTAMP:20261011T030857Z
+UID:bff0c47e-8010-5315-a3ea-0753c0886cb9
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ 会
+ 议时间: August 5-8\, 2024\n📍 会议地点: Tianjin\, China\n⏰ 原
+ 始截止时间 (UTC+8): 2024-04-11 12:00:00\n分类: 交叉/综合/新兴
+  (MX)\nCCF C\n会议官网: http://www.ic-icc.cn/2024/index.htm\nDBLP索
+ 引: https://dblp.org/db/conf/icic
+LOCATION:Tianjin\, China
+URL:http://www.ic-icc.cn/2024/index.htm
+X-CCFDDL-CONFERENCE:ICIC 2024
+X-CCFDDL-ID:icic24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICIC 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250410T120000
+DTEND;TZID="UTC+08:00":20250410T120100
+DTSTAMP:20261011T030857Z
+UID:eae4876f-7c1a-5ac9-aa5b-caf87dd0ef1b
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ 会
+ 议时间: July 26-29\, 2025\n📍 会议地点: Ningbo\, China\n⏰ 原
+ 始截止时间 (UTC+8): 2025-04-10 12:00:00\n分类: 交叉/综合/新兴
+  (MX)\nCCF C\n会议官网: http://www.ic-icc.cn/2025/index.php\nDBLP索
+ 引: https://dblp.org/db/conf/icic
+LOCATION:Ningbo\, China
+URL:http://www.ic-icc.cn/2025/index.php
+X-CCFDDL-CONFERENCE:ICIC 2025
+X-CCFDDL-ID:icic25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICIC 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260404T120000
+DTEND;TZID="UTC+08:00":20260404T120100
+DTSTAMP:20261011T030857Z
+UID:13478dbc-ae80-5d64-940b-5dfb3343cfe8
+DESCRIPTION:International Conference on Intelligent Computing\n🗓️ 会
+ 议时间: July 22-26\, 2026\n📍 会议地点: Toronto\, Canada (Hybrid)
+ \n⏰ 原始截止时间 (UTC+8): 2026-04-04 12:00:00\n分类: 交叉/综
+ 合/新兴 (MX)\nCCF C\n会议官网: http://www.ic-icc.cn/2026/\nDBLP索
+ 引: https://dblp.org/db/conf/icic
+LOCATION:Toronto\, Canada (Hybrid)
+URL:http://www.ic-icc.cn/2026/
+X-CCFDDL-CONFERENCE:ICIC 2026
+X-CCFDDL-ID:icic26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISBRA 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220808T235959
+DTEND;TZID="UTC-12:00":20220809T000059
+DTSTAMP:20261011T030857Z
+UID:cac1341a-f5a8-557d-a4ca-22df1c2c51e9
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: November 15-17\, 2022\n📍 会议地点: Hai
+ fa\, Israel (Hybrid)\n⏰ 原始截止时间 (AoE): 2022-08-08 23:59:59\n
+ 分类: 交叉/综合/新兴 (MX)\nCCF C\n会议官网: https://mangul-lab
+ -usc.github.io/ISBRA22/\nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Haifa\, Israel (Hybrid)
+URL:https://mangul-lab-usc.github.io/ISBRA22/
+X-CCFDDL-CONFERENCE:ISBRA 2022
+X-CCFDDL-ID:isbra2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISBRA 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230712T235959
+DTEND;TZID="UTC-12:00":20230713T000059
+DTSTAMP:20261011T030857Z
+UID:addc9690-a0bb-55c7-9bb0-95d82e07bf76
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: October 10-12\, 2023\n📍 会议地点: Wroc
+ ław\, Poland\n⏰ 原始截止时间 (AoE): 2023-07-12 23:59:59\n分类: 
+ 交叉/综合/新兴 (MX)\nCCF C\n会议官网: https://mangul-lab-usc.git
+ hub.io/ISBRA23/\nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Wrocław\, Poland
+URL:https://mangul-lab-usc.github.io/ISBRA23/
+X-CCFDDL-CONFERENCE:ISBRA 2023
+X-CCFDDL-ID:isbra2023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISBRA 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240408T235959
+DTEND;TZID="UTC-12:00":20240409T000059
+DTSTAMP:20261011T030857Z
+UID:9ab4b920-53e0-5634-8630-85fb4ad31225
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: July 20-21\, 2024\n📍 会议地点: Kunming
+ \, China\n⏰ 原始截止时间 (AoE): 2024-04-08 23:59:59\n分类: 交
+ 叉/综合/新兴 (MX)\nCCF C\n会议官网: https://bio.csu.edu.cn/ISBRA2
+ 024/ISBRA2024_Home.html\nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Kunming\, China
+URL:https://bio.csu.edu.cn/ISBRA2024/ISBRA2024_Home.html
+X-CCFDDL-CONFERENCE:ISBRA 2024
+X-CCFDDL-ID:isbra2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISBRA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250401T235959
+DTEND;TZID="UTC-12:00":20250402T000059
+DTSTAMP:20261011T030857Z
+UID:2ae19035-a06f-533a-854f-d641f3f69a4d
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: August 4-5\, 2025\n📍 会议地点: Helsink
+ i\, Finland (Hybrid)\n⏰ 原始截止时间 (AoE): 2025-04-01 23:59:59\n
+ 分类: 交叉/综合/新兴 (MX)\nCCF C\n会议官网: https://www.helsin
+ ki.fi/en/conferences/isbra2025\nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Helsinki\, Finland (Hybrid)
+URL:https://www.helsinki.fi/en/conferences/isbra2025
+X-CCFDDL-CONFERENCE:ISBRA 2025
+X-CCFDDL-ID:isbra25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISBRA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260322T235959
+DTEND;TZID="UTC-12:00":20260323T000059
+DTSTAMP:20261011T030857Z
+UID:b2071c1b-1816-5233-b844-a8a376a89734
+DESCRIPTION:International Symposium on Bioinformatics Research and Applica
+ tions\n🗓️ 会议时间: July 22-24\, 2026\n📍 会议地点: Macau\,
+  China\n⏰ 原始截止时间 (AoE): 2026-03-22 23:59:59\n分类: 交叉/
+ 综合/新兴 (MX)\nCCF C\n会议官网: https://isbra2026.scimeeting.cn/
+ \nDBLP索引: https://dblp.org/db/conf/isbra
+LOCATION:Macau\, China
+URL:https://isbra2026.scimeeting.cn/
+X-CCFDDL-CONFERENCE:ISBRA 2026
+X-CCFDDL-ID:isbra26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2021 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20210527T235959
+DTEND;TZID="UTC-07:00":20210528T000059
+DTSTAMP:20261011T030857Z
+UID:1e40285a-35fd-5055-92b2-57a757316196
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 2-5\, 2021\n📍 
+ 会议地点: Virtual\n⏰ 原始截止时间 (UTC-7): 2021-05-27 23:59:59
+ \n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议官网: https:/
+ /sigspatial2021.sigspatial.org/\nDBLP索引: https://dblp.org/db/conf/sigs
+ patial
+LOCATION:Virtual
+URL:https://sigspatial2021.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2021
+X-CCFDDL-ID:sigspatial21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2021 Deadline
+DTSTART;TZID="UTC-07:00":20210610T235959
+DTEND;TZID="UTC-07:00":20210611T000059
+DTSTAMP:20261011T030857Z
+UID:6b6e8062-d316-5bec-8d47-1a431394ab35
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 2-5\, 2021\n📍 
+ 会议地点: Virtual\n⏰ 原始截止时间 (UTC-7): 2021-06-10 23:59:59
+ \n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议官网: https:/
+ /sigspatial2021.sigspatial.org/\nDBLP索引: https://dblp.org/db/conf/sigs
+ patial
+LOCATION:Virtual
+URL:https://sigspatial2021.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2021
+X-CCFDDL-ID:sigspatial21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2022 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20220610T235959
+DTEND;TZID="UTC-07:00":20220611T000059
+DTSTAMP:20261011T030857Z
+UID:04ea5fd5-db0c-5799-8931-8b7fef11878c
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 2-4\, 2022\n📍 
+ 会议地点: Seattle\, Washington\, USA\n⏰ 原始截止时间 (UTC-7): 
+ 2022-06-10 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n
+ 会议官网: https://sigspatial2022.sigspatial.org/\nDBLP索引: https://
+ dblp.org/db/conf/sigspatial
+LOCATION:Seattle\, Washington\, USA
+URL:https://sigspatial2022.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2022
+X-CCFDDL-ID:sigspatial22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2022 Deadline
+DTSTART;TZID="UTC-07:00":20220617T235959
+DTEND;TZID="UTC-07:00":20220618T000059
+DTSTAMP:20261011T030857Z
+UID:6c0b40c5-1184-59cc-8fe6-4b86eb170368
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 2-4\, 2022\n📍 
+ 会议地点: Seattle\, Washington\, USA\n⏰ 原始截止时间 (UTC-7): 
+ 2022-06-17 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n
+ 会议官网: https://sigspatial2022.sigspatial.org/\nDBLP索引: https://
+ dblp.org/db/conf/sigspatial
+LOCATION:Seattle\, Washington\, USA
+URL:https://sigspatial2022.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2022
+X-CCFDDL-ID:sigspatial22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2023 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20230609T235959
+DTEND;TZID="UTC-07:00":20230610T000059
+DTSTAMP:20261011T030857Z
+UID:61785c83-7eaa-5fdf-9407-aaf7327dbaca
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 14-16\, 2023\n📍
+  会议地点: Hamburg\, Germany\n⏰ 原始截止时间 (UTC-7): 2023-06-
+ 09 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议官
+ 网: http://sigspatial2023.sigspatial.org/\nDBLP索引: https://dblp.org/d
+ b/conf/sigspatial
+LOCATION:Hamburg\, Germany
+URL:http://sigspatial2023.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2023
+X-CCFDDL-ID:sigspatial23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2023 Deadline
+DTSTART;TZID="UTC-07:00":20230623T235959
+DTEND;TZID="UTC-07:00":20230624T000059
+DTSTAMP:20261011T030857Z
+UID:c21c31d7-db1a-5192-8bdb-714cf44e7341
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 14-16\, 2023\n📍
+  会议地点: Hamburg\, Germany\n⏰ 原始截止时间 (UTC-7): 2023-06-
+ 23 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议官
+ 网: http://sigspatial2023.sigspatial.org/\nDBLP索引: https://dblp.org/d
+ b/conf/sigspatial
+LOCATION:Hamburg\, Germany
+URL:http://sigspatial2023.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2023
+X-CCFDDL-ID:sigspatial23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2024 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20240531T235959
+DTEND;TZID="UTC-07:00":20240601T000059
+DTSTAMP:20261011T030857Z
+UID:61f3eb0b-ae49-5c96-8e10-4e32e391a21f
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: October 30 - November 1\, 2
+ 024\n📍 会议地点: Atlanta\, Georgia\, USA\n⏰ 原始截止时间 (U
+ TC-7): 2024-05-31 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E A\n会议官网: https://sigspatial2024.sigspatial.org/\nDBLP索引: htt
+ ps://dblp.org/db/conf/sigspatial
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://sigspatial2024.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2024
+X-CCFDDL-ID:sigspatial24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2024 Deadline
+DTSTART;TZID="UTC-07:00":20240607T235959
+DTEND;TZID="UTC-07:00":20240608T000059
+DTSTAMP:20261011T030857Z
+UID:0cda754b-3629-5443-9e6c-e2cb47bdc8e7
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: October 30 - November 1\, 2
+ 024\n📍 会议地点: Atlanta\, Georgia\, USA\n⏰ 原始截止时间 (U
+ TC-7): 2024-06-07 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, COR
+ E A\n会议官网: https://sigspatial2024.sigspatial.org/\nDBLP索引: htt
+ ps://dblp.org/db/conf/sigspatial
+LOCATION:Atlanta\, Georgia\, USA
+URL:https://sigspatial2024.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2024
+X-CCFDDL-ID:sigspatial24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2025 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20250530T235959
+DTEND;TZID="UTC-07:00":20250531T000059
+DTSTAMP:20261011T030857Z
+UID:3c9b7cf2-052d-5c42-bb49-6f8dc8a9fb80
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 4-6\, 2025\n📍 
+ 会议地点: Minneapolis\, MN\, USA\n⏰ 原始截止时间 (UTC-7): 2025
+ -05-30 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2025.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Minneapolis\, MN\, USA
+URL:https://sigspatial2025.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2025
+X-CCFDDL-ID:sigspatial25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2025 Deadline
+DTSTART;TZID="UTC-07:00":20250606T235959
+DTEND;TZID="UTC-07:00":20250607T000059
+DTSTAMP:20261011T030857Z
+UID:ab156ab0-da9e-5fbc-9517-8f62ad09dcf4
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 4-6\, 2025\n📍 
+ 会议地点: Minneapolis\, MN\, USA\n⏰ 原始截止时间 (UTC-7): 2025
+ -06-06 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2025.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Minneapolis\, MN\, USA
+URL:https://sigspatial2025.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2025
+X-CCFDDL-ID:sigspatial25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2026 Abstract Deadline
+DTSTART;TZID="UTC-07:00":20260529T235959
+DTEND;TZID="UTC-07:00":20260530T000059
+DTSTAMP:20261011T030857Z
+UID:1680ccc9-20ba-50de-ae6c-55e1a7c814ed
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 3-6\, 2026\n📍 
+ 会议地点: Riverside\, CA\, USA\n⏰ 原始截止时间 (UTC-7): 2026-0
+ 5-29 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2026.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Riverside\, CA\, USA
+URL:https://sigspatial2026.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2026
+X-CCFDDL-ID:sigspatial26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGSPATIAL 2026 Deadline
+DTSTART;TZID="UTC-07:00":20260605T235959
+DTEND;TZID="UTC-07:00":20260606T000059
+DTSTAMP:20261011T030857Z
+UID:31c02876-a226-5dd3-8e56-80ddcdc1f8a1
+DESCRIPTION:ACM SIGSPATIAL International Conference on Advances in Geograp
+ hic Information Systems\n🗓️ 会议时间: November 3-6\, 2026\n📍 
+ 会议地点: Riverside\, CA\, USA\n⏰ 原始截止时间 (UTC-7): 2026-0
+ 6-05 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE A\n会议
+ 官网: https://sigspatial2026.sigspatial.org/\nDBLP索引: https://dblp.o
+ rg/db/conf/sigspatial
+LOCATION:Riverside\, CA\, USA
+URL:https://sigspatial2026.sigspatial.org/
+X-CCFDDL-CONFERENCE:SIGSPATIAL 2026
+X-CCFDDL-ID:sigspatial26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230415T235959
+DTEND;TZID="UTC-12:00":20230416T000059
+DTSTAMP:20261011T030857Z
+UID:c7025c76-6194-5c85-a622-45b35b954ae6
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ 会议时间: October 1-4\, 2023\n📍 会议地点: Sheraton 
+ Waikiki\, Honolulu\, Hawaii\, USA (Hybrid)\n⏰ 原始截止时间 (AoE): 
+ 2023-04-15 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\n
+ 会议官网: https://ieeesmc2023.org/\nDBLP索引: https://dblp.org/db/co
+ nf/smc
+LOCATION:Sheraton Waikiki\, Honolulu\, Hawaii\, USA (Hybrid)
+URL:https://ieeesmc2023.org/
+X-CCFDDL-CONFERENCE:SMC 2023
+X-CCFDDL-ID:smc23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240430T235959
+DTEND;TZID="UTC-12:00":20240501T000059
+DTSTAMP:20261011T030857Z
+UID:73897df1-eb1c-5e7b-9299-e9f31b2448d3
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ 会议时间: October 7-10\, 2024\n📍 会议地点: Borneo C
+ onvention Centre Kuching\, Sarawak\, Malaysia\n⏰ 原始截止时间 (AoE
+ ): 2024-04-30 23:59:59\n分类: 交叉/综合/新兴 (MX)\nCCF C\, CORE B
+ \n会议官网: https://www.ieeesmc2024.org/\nDBLP索引: https://dblp.org
+ /db/conf/smc
+LOCATION:Borneo Convention Centre Kuching\, Sarawak\, Malaysia
+URL:https://www.ieeesmc2024.org/
+X-CCFDDL-CONFERENCE:SMC 2024
+X-CCFDDL-ID:smc24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250504T235959
+DTEND;TZID="UTC+08:00":20250505T000059
+DTSTAMP:20261011T030857Z
+UID:08a6843c-f2de-5c40-ab23-769cf3717a41
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ 会议时间: October 6-8\, 2025\n📍 会议地点: Vienna\, 
+ Austria (Hybrid)\n⏰ 原始截止时间 (UTC+8): 2025-05-04 23:59:59\n分
+ 类: 交叉/综合/新兴 (MX)\nCCF C\, CORE B\n会议官网: https://www.
+ ieeesmc2025.org/\nDBLP索引: https://dblp.org/db/conf/smc
+LOCATION:Vienna\, Austria (Hybrid)
+URL:https://www.ieeesmc2025.org/
+X-CCFDDL-CONFERENCE:SMC 2025
+X-CCFDDL-ID:smc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMC 2026 Deadline
+DTSTART;TZID="UTC-07:00":20260503T235959
+DTEND;TZID="UTC-07:00":20260504T000059
+DTSTAMP:20261011T030858Z
+UID:2d992c2f-0ba2-5f0a-b807-496fb5d83e80
+DESCRIPTION:IEEE International Conference on Systems\, Man\, and Cyberneti
+ cs\n🗓️ 会议时间: October 4-7\, 2026\n📍 会议地点: Bellevue
+ \, WA\, USA\n⏰ 原始截止时间 (UTC-7): 2026-05-03 23:59:59\n分类: 
+ 交叉/综合/新兴 (MX)\nCCF C\, CORE B\n会议官网: https://www.ieees
+ mc2026.org/\nDBLP索引: https://dblp.org/db/conf/smc
+LOCATION:Bellevue\, WA\, USA
+URL:https://www.ieeesmc2026.org/
+X-CCFDDL-CONFERENCE:SMC 2026
+X-CCFDDL-ID:smc26
+END:VEVENT
+END:VCALENDAR

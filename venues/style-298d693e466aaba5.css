@@ -1,0 +1,120 @@
+/* Matches the main site's header, conference cards and detail dialog. */
+:root{--color-primary:#409eff;--color-text-primary:#2c3e50;--color-text-secondary:#666;--color-border-light:#ebeef5}
+.detail-page *, main *, .header-main *, .breadcrumb *{box-sizing:border-box}
+body.detail-page{margin:0}
+body{background:#faf9f7;color:var(--color-text-primary);font-family:"PingFang SC","Microsoft YaHei","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}
+a{color:var(--color-primary);text-decoration:underline;text-decoration-color:currentColor}
+a:hover{color:#d9554f}
+.detail-page .home{max-width:1240px;margin:0 auto;padding:0 20px;font-family:"Roboto Mono","SF Mono",Monaco,monospace;-webkit-font-smoothing:antialiased}
+.site-header{padding-top:8px}
+.header-main{position:relative;display:flex;align-items:center;flex-wrap:wrap;gap:7px;min-height:36px;padding-right:250px;font-size:16px}
+.header-x-link:focus-visible{outline:2px solid currentColor;outline-offset:2px}
+.header-github{display:flex;align-items:center;gap:6px}
+.title{display:inline-flex;align-items:baseline;color:var(--color-text-primary);font-size:29px;line-height:1;text-decoration:none;border-bottom:2px solid currentColor;white-space:nowrap}
+.title:hover{color:var(--color-text-primary)}
+.title-accent{color:#d9554f;font-style:italic}
+.github-star-link,.header-x-link{display:inline-flex;align-items:center;gap:6px;height:28px;padding:0 9px;border:1px solid #d9d3cb;border-radius:8px;background:#fff;box-shadow:0 1px 2px rgba(63,55,47,.05);color:#3f4751;font-size:13px;font-weight:600;line-height:1;text-decoration:none;white-space:nowrap}
+.github-star-link:hover,.header-x-link:hover{border-color:#bfc8d1;background:#f7f9fb;color:#29394b}
+.github-star-link svg,.header-x-link svg{width:16px;height:16px}
+.github-star-count{margin-left:1px;padding-left:7px;border-left:1px solid #e3ded8;color:#4d5966;font-variant-numeric:tabular-nums;font-weight:600}
+.header-auth{position:absolute;top:4px;right:0;display:flex;align-items:center}
+.github-login-button{display:inline-flex;align-items:center;justify-content:center;gap:6px;height:28px;padding:0 10px;border:1px solid #d9d3cb;border-radius:8px;background:#fff;color:#3f4751;font-size:12px;line-height:1;text-decoration:none;white-space:nowrap}
+.github-login-button:hover{border-color:#bfc8d1;background:#f7f9fb;color:#29394b;text-decoration:none}
+.github-login-button svg{width:16px;height:16px}
+.github-account-menu{position:relative;font-size:12px}
+.github-account-trigger{display:flex;align-items:center;gap:8px;height:32px;padding:3px 10px 3px 4px;border:1px solid #d9d3cb;border-radius:9px;background:#fff;color:#3f4751;cursor:pointer;list-style:none}
+.github-account-trigger::-webkit-details-marker{display:none}
+.github-account-trigger img{width:24px;height:24px;border-radius:50%}
+.github-account-name{max-width:145px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.github-account-options{position:absolute;z-index:10;top:calc(100% + 6px);right:0;display:grid;min-width:132px;padding:4px;border:1px solid #d9d3cb;border-radius:9px;background:#fff;box-shadow:0 8px 22px rgba(44,62,80,.13)}
+.github-account-options a,.github-account-options button{display:block;padding:8px 10px;border:0;border-radius:6px;background:transparent;color:#3f4751;font:inherit;font-size:14px;font-weight:600;text-align:left;text-decoration:none;white-space:nowrap;cursor:pointer}
+.github-account-options a:hover,.github-account-options button:hover{background:#f5f7fa}
+.subtitle{display:inline-block;margin:3px 0 0;padding-top:7px;color:var(--color-text-secondary);font-size:16px;line-height:20px}
+.subtitle a{color:inherit}
+.directory-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:10px;min-height:46px;padding:4px 0 10px;border-bottom:1px solid #e8e3dc}
+.detail-toolbar{margin-top:12px;padding-top:12px;border-top:1px solid #e8e3dc}
+.detail-toolbar .toolbar-clock{display:inline-flex;align-items:center;flex-wrap:wrap;gap:4px 8px;color:#666;font-size:14px;white-space:nowrap}
+.detail-toolbar .toolbar-clock-value{color:#666;font-variant-numeric:tabular-nums;font-weight:500}
+.detail-toolbar .toolbar-timezone{display:inline-flex;align-items:center;gap:0;line-height:1.4}
+.detail-toolbar .toolbar-timezone-picker{display:inline-flex;align-items:center;cursor:pointer}
+.detail-toolbar .toolbar-timezone select{max-width:190px;padding:0 0 0 2px;border:0;appearance:none;background:transparent;color:#666;font:inherit;cursor:pointer}
+.detail-toolbar .toolbar-timezone-arrow{position:relative;top:-1px;margin-left:3px;font-size:12px;line-height:1;pointer-events:none}
+.detail-toolbar .toolbar-timezone>span:last-child{margin-left:3px}
+.directory-categories{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}.directory-controls-loading{font-size:14px;color:#666}
+[hidden]{display:none!important}
+main{padding:18px 0 8px}
+.breadcrumb{display:flex;flex-wrap:wrap;align-items:center;gap:9px;margin:12px 0 0;color:#697583;font-size:12px}
+.breadcrumb a{color:#5c7185;text-decoration:none}
+.breadcrumb a:hover{text-decoration:underline;color:var(--color-primary)}
+.detail-card{width:min(100%,520px);margin:0 auto;padding:18px 20px;border:1px solid #e5ded6;border-radius:8px;background:#fffdfa;color:#334155;font-size:14px;line-height:20px;box-shadow:0 1px 2px rgba(80,67,51,.04)}
+.conference-edition-notice{width:min(100%,520px);margin:0 auto 12px;padding:12px 16px;border:1px solid #d9d3cb;border-radius:8px;background:#f7f3ee;color:#5f6873;font-size:14px;line-height:1.6;overflow-wrap:anywhere}
+.conference-edition-notice a{display:block;font-weight:600}
+.detail-content{padding:0 2px 2px}
+.conference-detail-heading{display:flex;align-items:center;gap:10px}
+.conference-detail-title{min-width:0;margin:0;color:#292d33;font-size:27px;font-weight:500;line-height:1.15}
+.conference-detail-title-text{min-width:0;overflow-wrap:anywhere}
+.conference-detail-star-count{display:inline-flex;flex:none;align-items:center;gap:4px;padding:3px 7px;border:1px solid #e1dbd3;border-radius:999px;background:#f7f3ee;color:#5f6873;font-size:12px;font-variant-numeric:tabular-nums;font-weight:600;line-height:1}
+.conference-detail-star-count svg{color:#e6a23c}
+.conference-detail-description{margin:4px 0 14px;color:#67727e;font-size:15px}
+.conference-detail-acceptance{margin:-7px 0 12px;color:#75808b;font-size:12px;white-space:pre-wrap}
+.conference-detail-dblp{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;margin-left:5px;border-radius:4px;vertical-align:-4px}
+.conference-detail-dblp img{width:14px;height:14px;object-fit:contain}
+.conference-detail-section{margin:0 0 14px;color:#334155;font-size:13px;line-height:1.45}
+.conference-detail-label{display:block;margin:0 0 5px;color:#697583;font-size:11px;font-weight:500;letter-spacing:.18em;line-height:inherit}
+.conference-detail-deadline{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-top:6px;padding:9px 10px;border:1px solid #e6e1da;border-radius:7px;background:#fffdfa;color:#4d5b69}
+.conference-detail-deadline.is-next{border-color:#9dbbd5;background:#edf5fc;color:#274862}
+.conference-detail-deadline.is-passed{color:#77828d}
+.conference-detail-deadline-main{min-width:0}
+.conference-detail-deadline-name{font-weight:600}
+.conference-detail-deadline-name small{margin-left:8px;color:#637d93;font-size:10px;letter-spacing:.12em}
+.conference-detail-deadline-date{margin-top:2px;color:#6d7883;font-size:11px}
+.conference-detail-deadline-status{flex:none;font-weight:600;white-space:nowrap}
+.conference-detail-deadline.is-passed .conference-detail-deadline-status{color:#808a94}
+.timezone{color:#6d7883}
+.conference-detail-note{margin:6px 0 12px;padding:7px 9px;border-left:2px solid #83a9cc;background:#f2f7fc;color:#566575;font-size:12px}
+.conference-detail-next{display:flex;flex-direction:column;align-items:flex-start;gap:4px;margin:2px 0 12px;padding:10px 12px;border:1px solid #e6e0d8;border-radius:8px;background:#fffefa;box-shadow:0 1px 2px rgba(80,67,51,.04)}
+.conference-detail-next strong{display:block;width:100%;color:#666;font-size:20px;font-weight:700;line-height:1.25}
+.conference-detail-next .countdown-detailed-value{display:block;font-size:clamp(18px,4vw,24px);font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:.01em;line-height:1.2;white-space:nowrap}
+.conference-detail-next .countdown-urgent,.conference-detail-deadline-status.countdown-urgent{color:#f56c6c}
+.conference-detail-next .countdown-warning,.conference-detail-deadline-status.countdown-warning{color:#e6a23c}
+.conference-detail-next .countdown-normal,.conference-detail-deadline-status.countdown-normal{color:#67c23a}
+.conference-detail-next .timezone{font-size:13px;font-weight:400}
+.conference-detail-timeline{margin:5px 0 16px;padding:0 0 2px}
+.conference-detail-timeline-track{position:relative;height:34px;margin:0 12px}
+.conference-detail-timeline-line{position:absolute;top:25px;right:0;left:0;height:3px;border-radius:999px;background:#d9dfe5}
+.conference-detail-timeline-markers{position:absolute;inset:0}
+.conference-detail-timeline-marker{position:absolute;top:21px;width:9px;height:9px;margin-left:-4px;border:2px solid #6f9fca;border-radius:50%;background:#fffefa}
+.conference-detail-timeline-marker.is-abstract{border-radius:2px}
+.conference-detail-timeline-marker.is-passed{border-color:#ccc}
+.conference-detail-timeline-marker.is-now{top:19px;width:13px;height:13px;margin-left:-6px;border-color:#e6a23c;box-shadow:0 0 0 3px rgba(230,162,60,.16)}
+.conference-detail-timeline-marker.is-now::after{position:absolute;bottom:17px;left:50%;transform:translateX(-50%);color:#8a929b;content:"NOW";font-size:9px;font-weight:600;letter-spacing:.08em}
+.conference-detail-timeline-range{display:flex;justify-content:space-between;gap:12px;margin:2px 12px 0;color:#87919c;font-size:10px;font-variant-numeric:tabular-nums}
+.hint{margin:10px 0 0;color:#87919c;font-size:11px}
+.conference-detail-tags{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0}
+.conference-detail-tags span,.conference-detail-actions a{display:inline-block;padding:5px 8px;border:0;border-radius:4px;background:#f3f0ec;color:#586573;font-size:12px;text-decoration:none}
+.conference-detail-actions{display:flex;flex-wrap:wrap;align-items:center;gap:6px;padding:10px 0 2px;border-top:1px solid #e6e1da}
+.conference-detail-actions .conference-detail-website{margin-right:auto;padding-left:0;background:transparent;color:#356d9e}
+.conference-detail-actions .conference-detail-calendar-link{display:inline-flex;flex:none;align-items:center;gap:5px;padding:5px 8px;border:0;border-radius:4px;background:#f3f0ec;color:#586573;font:12px "Roboto Mono","SF Mono",Monaco,monospace;text-decoration:none;white-space:nowrap;cursor:pointer}
+.conference-detail-calendar-link img{display:block;width:16px;height:16px;flex:none;object-fit:contain}
+.conference-detail-actions a:hover{color:#24557e}
+.conference-detail-calendar-events{display:grid;gap:5px;max-height:180px;margin-top:8px;overflow-y:auto}
+.conference-detail-calendar-events a{display:block;padding:6px 8px;border:1px solid #e6e1da;border-radius:5px;color:#356d9e;font-size:11px;line-height:1.4;text-decoration:none}
+.conference-detail-calendar-events a:hover{background:#f3f8fc}
+.editions{width:min(100%,520px);margin:24px auto 0}
+.editions h2,.directory-section h2{margin:0 0 10px;color:#334155;font-size:16px;font-weight:500}
+.edition-list{display:flex;flex-wrap:wrap;gap:8px;margin:0;padding:0;list-style:none}
+.edition-list a{display:block;padding:6px 9px;border:1px solid #e6e0d8;border-radius:6px;background:#fffefa;color:#356d9e;font-size:12px;text-decoration:none}
+.edition-list a:hover{border-color:#9dbbd5;background:#edf5fc}
+.directory-section{margin:0 0 25px;padding-top:14px;border-top:1px solid #e8e3dc}
+.directory-section:first-of-type{padding-top:0;border-top:0}
+.directory-section:last-of-type{margin-bottom:0}
+.directory-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:0;padding:0;list-style:none}
+.directory-list li{display:flex;min-width:0}
+.directory-list a{display:flex;align-items:center;width:100%;padding:9px 10px;border:1px solid #e6e0d8;border-radius:8px;background:#fffefa;color:#334155;font-size:13px;text-decoration:none;box-shadow:0 1px 2px rgba(80,67,51,.04)}
+.directory-list a:hover{color:#409eff;border-color:#b8d2e8}
+.directory-empty{margin:14px 0;color:#697583;font-size:14px}
+.footer{display:flex;align-items:center;min-height:20px;padding:8px 0 16px;color:#666;font-size:14px;line-height:20px}
+.footer-text{display:flex;align-items:center;gap:14px;min-width:0}
+.footer-credit{min-width:0}
+.footer a{color:#666}
+@media(max-width:600px){.detail-page .home{padding:0 16px}.header-main{display:grid;grid-template-columns:minmax(0,1fr) auto;padding-right:0}.header-main .title{grid-column:1/-1;grid-row:1}.header-github{grid-column:1;grid-row:2;justify-self:start}.header-x-link{justify-content:center;width:30px;padding:0}.header-x-link span{display:none}.header-auth{position:static;grid-column:2;grid-row:2;justify-self:end}.github-login-button span{display:none}.github-login-button{width:30px;padding:0}.title{font-size:24px}.detail-toolbar{align-items:flex-start}.detail-card{padding:18px 16px}.conference-detail-title{font-size:24px}.footer-text{font-size:14px;text-align:center}}

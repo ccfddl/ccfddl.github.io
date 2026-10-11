@@ -1,0 +1,1561 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ACISP 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210225T235959
+DTEND;TZID="UTC-12:00":20210226T000059
+DTSTAMP:20261011T031007Z
+UID:7c8c7949-32e8-5552-895c-afebe121bc27
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: December 1-3\, 2021\n📍 Location: Virtual\n⏰ Original De
+ adline (AoE): 2021-02-25 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ CF C\nConference Website: https://data61dsslab.github.io/acisp2021/\nDBLP 
+ Index: https://dblp.org/db/conf/acisp
+LOCATION:Virtual
+URL:https://data61dsslab.github.io/acisp2021/
+X-CCFDDL-CONFERENCE:ACISP 2021
+X-CCFDDL-ID:acisp21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220221T235959
+DTEND;TZID="UTC-12:00":20220222T000059
+DTSTAMP:20261011T031007Z
+UID:59728f51-bc51-5df6-ab1d-d39b805dfd18
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: November 28-30\, 2022\n📍 Location: Wollongong\, Australia
+ \n⏰ Original Deadline (AoE): 2022-02-21 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF C\nConference Website: https://uow-ic2.github.io/acisp
+ 2022/\nDBLP Index: https://dblp.org/db/conf/acisp
+LOCATION:Wollongong\, Australia
+URL:https://uow-ic2.github.io/acisp2022/
+X-CCFDDL-CONFERENCE:ACISP 2022
+X-CCFDDL-ID:acisp22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230213T235959
+DTEND;TZID="UTC-12:00":20230214T000059
+DTSTAMP:20261011T031007Z
+UID:1274bf79-080d-5596-9160-413143d3c8b3
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 5-7\, 2023\n📍 Location: Brisbane\, Australia\n⏰ Or
+ iginal Deadline (AoE): 2023-02-13 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.qut.edu.au/about/faculty-
+ of-science/school-of-computer-science/acisp\nDBLP Index: https://dblp.org/
+ db/conf/acisp
+LOCATION:Brisbane\, Australia
+URL:https://www.qut.edu.au/about/faculty-of-science/school-of-computer-sci
+ ence/acisp
+X-CCFDDL-CONFERENCE:ACISP 2023
+X-CCFDDL-ID:acisp23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+10:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+10:00
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ACISP 2024 Deadline [Round 1]
+DTSTART;TZID="UTC+10:00":20231106T235959
+DTEND;TZID="UTC+10:00":20231107T000059
+DTSTAMP:20261011T031007Z
+UID:932e1b85-ba91-5572-8af0-a451d2c116c3
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 15-17\, 2024\n📍 Location: Australia\n⏰ Original De
+ adline (UTC+10): 2023-11-06 23:59:59\nCategory: 网络与信息安全 (SC)
+ \nCCF C\nConference Website: https://web.archive.org/web/20240807053657/ht
+ tps://www.acisp24.com/\nDBLP Index: https://dblp.org/db/conf/acisp
+LOCATION:Australia
+URL:https://web.archive.org/web/20240807053657/https://www.acisp24.com/
+X-CCFDDL-CONFERENCE:ACISP 2024
+X-CCFDDL-ID:acisp24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2024 Deadline [Round 2]
+DTSTART;TZID="UTC+10:00":20240219T235959
+DTEND;TZID="UTC+10:00":20240220T000059
+DTSTAMP:20261011T031007Z
+UID:c5af2c67-93b9-5055-8b40-0b38eedaf81d
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 15-17\, 2024\n📍 Location: Australia\n⏰ Original De
+ adline (UTC+10): 2024-02-19 23:59:59\nCategory: 网络与信息安全 (SC)
+ \nCCF C\nConference Website: https://web.archive.org/web/20240807053657/ht
+ tps://www.acisp24.com/\nDBLP Index: https://dblp.org/db/conf/acisp
+LOCATION:Australia
+URL:https://web.archive.org/web/20240807053657/https://www.acisp24.com/
+X-CCFDDL-CONFERENCE:ACISP 2024
+X-CCFDDL-ID:acisp24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2025 Deadline [Round 1]
+DTSTART;TZID="UTC-12:00":20241106T235959
+DTEND;TZID="UTC-12:00":20241107T000059
+DTSTAMP:20261011T031007Z
+UID:5ff19dbe-751d-5904-b290-478435fd6b8c
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 14-16\, 2025\n📍 Location: Wollongong\, Australia\n
+ ⏰ Original Deadline (AoE): 2024-11-06 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF C\nConference Website: https://uow-ic2.github.io/acisp
+ 2025/\nDBLP Index: https://dblp.org/db/conf/acisp
+LOCATION:Wollongong\, Australia
+URL:https://uow-ic2.github.io/acisp2025/
+X-CCFDDL-CONFERENCE:ACISP 2025
+X-CCFDDL-ID:acisp25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2026 Deadline [Round 1]
+DTSTART;TZID="UTC-12:00":20251127T235959
+DTEND;TZID="UTC-12:00":20251128T000059
+DTSTAMP:20261011T031007Z
+UID:a292d3cf-81a0-553d-8ef5-41914efbebb5
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 7-9\, 2026\n📍 Location: Perth\, Australia\n⏰ Origi
+ nal Deadline (AoE): 2025-11-27 23:59:59\nCategory: 网络与信息安全 (
+ SC)\nCCF C\nConference Website: https://acisp-conference.github.io/acisp20
+ 26/index.html\nDBLP Index: https://dblp.org/db/conf/acisp
+LOCATION:Perth\, Australia
+URL:https://acisp-conference.github.io/acisp2026/index.html
+X-CCFDDL-CONFERENCE:ACISP 2026
+X-CCFDDL-ID:acisp26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2026 Deadline [Round 2]
+DTSTART;TZID="UTC-12:00":20260226T235959
+DTEND;TZID="UTC-12:00":20260227T000059
+DTSTAMP:20261011T031007Z
+UID:ef4bc318-caad-5baf-a3e8-e10144197db7
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 7-9\, 2026\n📍 Location: Perth\, Australia\n⏰ Origi
+ nal Deadline (AoE): 2026-02-26 23:59:59\nCategory: 网络与信息安全 (
+ SC)\nCCF C\nConference Website: https://acisp-conference.github.io/acisp20
+ 26/index.html\nDBLP Index: https://dblp.org/db/conf/acisp
+LOCATION:Perth\, Australia
+URL:https://acisp-conference.github.io/acisp2026/index.html
+X-CCFDDL-CONFERENCE:ACISP 2026
+X-CCFDDL-ID:acisp26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2027 Deadline [1st round Deadline]
+DTSTART;TZID="UTC-12:00":20261130T235959
+DTEND;TZID="UTC-12:00":20261201T000059
+DTSTAMP:20261011T031007Z
+UID:c5f5f896-75c5-5249-8d84-41970f1e440f
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 7-10\, 2027\n📍 Location: Melbourne\, Australia\n⏰ 
+ Original Deadline (AoE): 2026-11-30 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://acisp.org/\nDBLP Index: https
+ ://dblp.org/db/conf/acisp
+LOCATION:Melbourne\, Australia
+URL:https://acisp.org/
+X-CCFDDL-CONFERENCE:ACISP 2027
+X-CCFDDL-ID:acisp27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACISP 2027 Deadline [2nd round Deadline]
+DTSTART;TZID="UTC-12:00":20270301T235959
+DTEND;TZID="UTC-12:00":20270302T000059
+DTSTAMP:20261011T031007Z
+UID:e7122a6e-6814-5bde-a65d-b4e0adddef06
+DESCRIPTION:Australasia Conference on Information Security and Privacy\n
+ 🗓️ Date: July 7-10\, 2027\n📍 Location: Melbourne\, Australia\n⏰ 
+ Original Deadline (AoE): 2027-03-01 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://acisp.org/\nDBLP Index: https
+ ://dblp.org/db/conf/acisp
+LOCATION:Melbourne\, Australia
+URL:https://acisp.org/
+X-CCFDDL-CONFERENCE:ACISP 2027
+X-CCFDDL-ID:acisp27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlockSys 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210320T235959
+DTEND;TZID="UTC-12:00":20210321T000059
+DTSTAMP:20261011T031007Z
+UID:07ffb3e7-d8ed-57c8-8eae-2a40b9187689
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: TBD\n📍 Location: Guangzhou
+ \, China\n⏰ Original Deadline (AoE): 2021-03-20 23:59:59\nCategory: 网
+ 络与信息安全 (SC)\nCCF C\nConference Website: http://blocksys.info/2
+ 021/\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Guangzhou\, China
+URL:http://blocksys.info/2021/
+X-CCFDDL-CONFERENCE:BlockSys 2021
+X-CCFDDL-ID:blocksys21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlockSys 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220430T235959
+DTEND;TZID="UTC-12:00":20220501T000059
+DTSTAMP:20261011T031007Z
+UID:6b38e832-f995-5031-b26c-07815fcd3882
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: August 4-5\, 2022\n📍 Locati
+ on: Chengdu\, China\n⏰ Original Deadline (AoE): 2022-04-30 23:59:59\nCat
+ egory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://bloc
+ ksys.info/2022/\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Chengdu\, China
+URL:https://blocksys.info/2022/
+X-CCFDDL-CONFERENCE:BlockSys 2022
+X-CCFDDL-ID:blocksys22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlockSys 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230415T235959
+DTEND;TZID="UTC-12:00":20230416T000059
+DTSTAMP:20261011T031007Z
+UID:99cf7a2c-c172-5d60-a20f-d6342864eca4
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: August 8-10\, 2023\n📍 Locat
+ ion: Haikou\, China\n⏰ Original Deadline (AoE): 2023-04-15 23:59:59\nCat
+ egory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://easy
+ chair.org/cfp/BlockSys2023\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Haikou\, China
+URL:https://easychair.org/cfp/BlockSys2023
+X-CCFDDL-CONFERENCE:BlockSys 2023
+X-CCFDDL-ID:blocksys23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlockSys 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240512T235959
+DTEND;TZID="UTC-12:00":20240513T000059
+DTSTAMP:20261011T031007Z
+UID:d4eb9d1e-3e8b-586b-8675-bfdddaf1cd19
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: July 12-14\, 2024\n📍 Locati
+ on: Hangzhou\, China\n⏰ Original Deadline (AoE): 2024-05-12 23:59:59\nCa
+ tegory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://blo
+ cksys.info/2024/\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Hangzhou\, China
+URL:https://blocksys.info/2024/
+X-CCFDDL-CONFERENCE:BlockSys 2024
+X-CCFDDL-ID:blocksys24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlockSys 2025 Deadline [1st Round]
+DTSTART;TZID="UTC-12:00":20241201T235959
+DTEND;TZID="UTC-12:00":20241202T000059
+DTSTAMP:20261011T031007Z
+UID:727caadf-17c2-555d-8278-d94c8029d7cc
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: May 30-31\, 2025\n📍 Locatio
+ n: Zhuhai\, China\n⏰ Original Deadline (AoE): 2024-12-01 23:59:59\nCateg
+ ory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://blocks
+ ys.info/2025/\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Zhuhai\, China
+URL:https://blocksys.info/2025/
+X-CCFDDL-CONFERENCE:BlockSys 2025
+X-CCFDDL-ID:blocksys25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BlockSys 2025 Deadline [2nd Round]
+DTSTART;TZID="UTC-12:00":20250301T235959
+DTEND;TZID="UTC-12:00":20250302T000059
+DTSTAMP:20261011T031007Z
+UID:df70046b-d48c-5459-a388-7827f15ffc61
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: May 30-31\, 2025\n📍 Locatio
+ n: Zhuhai\, China\n⏰ Original Deadline (AoE): 2025-03-01 23:59:59\nCateg
+ ory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://blocks
+ ys.info/2025/\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Zhuhai\, China
+URL:https://blocksys.info/2025/
+X-CCFDDL-CONFERENCE:BlockSys 2025
+X-CCFDDL-ID:blocksys25
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:BlockSys 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260420T235959
+DTEND;TZID="UTC+08:00":20260421T000059
+DTSTAMP:20261011T031007Z
+UID:3ba7648d-a79a-5af1-b63b-621467f1e5f2
+DESCRIPTION:International Conference on Blockchain\, Artificial Intelligen
+ ce\, and Trustworthy Systems\n🗓️ Date: July 29-31\, 2026\n📍 Locati
+ on: Chengdu\, China\n⏰ Original Deadline (UTC+8): 2026-04-20 23:59:59\nC
+ ategory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://bl
+ ocksys.info/2026/\nDBLP Index: https://dblp.org/db/conf/blocksys
+LOCATION:Chengdu\, China
+URL:https://blocksys.info/2026/
+X-CCFDDL-CONFERENCE:BlockSys 2026
+X-CCFDDL-ID:blocksys2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2021 Abstract Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20201004T235959
+DTEND;TZID="UTC-12:00":20201005T000059
+DTSTAMP:20261011T031007Z
+UID:e03bc9dc-5729-5dea-afb8-64746ecbec3b
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: April 26-28\, 2021\n📍 Location: Virtual\n⏰ Original Dea
+ dline (AoE): 2020-10-04 23:59:59\nCategory: 网络与信息安全 (SC)\nCC
+ F C\nConference Website: https://www.codaspy.org/2021/\nDBLP Index: https:
+ //dblp.org/db/conf/codaspy
+LOCATION:Virtual
+URL:https://www.codaspy.org/2021/
+X-CCFDDL-CONFERENCE:CODASPY 2021
+X-CCFDDL-ID:codaspy21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2021 Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20201011T235959
+DTEND;TZID="UTC-12:00":20201012T000059
+DTSTAMP:20261011T031007Z
+UID:360dbcd5-b923-5789-845c-c7e1076a972f
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: April 26-28\, 2021\n📍 Location: Virtual\n⏰ Original Dea
+ dline (AoE): 2020-10-11 23:59:59\nCategory: 网络与信息安全 (SC)\nCC
+ F C\nConference Website: https://www.codaspy.org/2021/\nDBLP Index: https:
+ //dblp.org/db/conf/codaspy
+LOCATION:Virtual
+URL:https://www.codaspy.org/2021/
+X-CCFDDL-CONFERENCE:CODASPY 2021
+X-CCFDDL-ID:codaspy21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2022 Abstract Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20211008T235959
+DTEND;TZID="UTC-12:00":20211009T000059
+DTSTAMP:20261011T031007Z
+UID:32c75c21-3f88-57f0-9e1c-4a5bbf19a4aa
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: April 25-27\, 2022\n📍 Location: Baltimore-Washington DC A
+ rea\, USA (hybrid)\n⏰ Original Deadline (AoE): 2021-10-08 23:59:59\nCate
+ gory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://www.c
+ odaspy.org/2022/\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Baltimore-Washington DC Area\, USA (hybrid)
+URL:https://www.codaspy.org/2022/
+X-CCFDDL-CONFERENCE:CODASPY 2022
+X-CCFDDL-ID:codaspy22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2022 Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20211015T235959
+DTEND;TZID="UTC-12:00":20211016T000059
+DTSTAMP:20261011T031007Z
+UID:7a67724f-0ef9-513c-ad6e-7bd7a046a5af
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: April 25-27\, 2022\n📍 Location: Baltimore-Washington DC A
+ rea\, USA (hybrid)\n⏰ Original Deadline (AoE): 2021-10-15 23:59:59\nCate
+ gory: 网络与信息安全 (SC)\nCCF C\nConference Website: https://www.c
+ odaspy.org/2022/\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Baltimore-Washington DC Area\, USA (hybrid)
+URL:https://www.codaspy.org/2022/
+X-CCFDDL-CONFERENCE:CODASPY 2022
+X-CCFDDL-ID:codaspy22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2023 Deadline [Regular research paper (extended)\; separat
+ e abstract deadline withdrawn in official CFP]
+DTSTART;TZID="UTC-12:00":20221017T235959
+DTEND;TZID="UTC-12:00":20221018T000059
+DTSTAMP:20261011T031007Z
+UID:6224d205-a8a1-51b4-88f7-74ba88d3e795
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: April 24-26\, 2023\n📍 Location: Charlotte\, NC\, USA\n⏰
+  Original Deadline (AoE): 2022-10-17 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2023/\nDBL
+ P Index: https://dblp.org/db/conf/codaspy
+LOCATION:Charlotte\, NC\, USA
+URL:https://www.codaspy.org/2023/
+X-CCFDDL-CONFERENCE:CODASPY 2023
+X-CCFDDL-ID:codaspy23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2024 Abstract Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20231222T235959
+DTEND;TZID="UTC-12:00":20231223T000059
+DTSTAMP:20261011T031007Z
+UID:d8555090-bc79-517f-96da-e40553dd82ae
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 19-21\, 2024\n📍 Location: Porto\, Portugal\n⏰ Orig
+ inal Deadline (AoE): 2023-12-22 23:59:59\nCategory: 网络与信息安全 
+ (SC)\nCCF C\nConference Website: https://www.codaspy.org/2024/\nDBLP Index
+ : https://dblp.org/db/conf/codaspy
+LOCATION:Porto\, Portugal
+URL:https://www.codaspy.org/2024/
+X-CCFDDL-CONFERENCE:CODASPY 2024
+X-CCFDDL-ID:codaspy24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2024 Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20231229T235959
+DTEND;TZID="UTC-12:00":20231230T000059
+DTSTAMP:20261011T031007Z
+UID:4978238d-b3c0-5f3d-8602-89d9d32b36bf
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 19-21\, 2024\n📍 Location: Porto\, Portugal\n⏰ Orig
+ inal Deadline (AoE): 2023-12-29 23:59:59\nCategory: 网络与信息安全 
+ (SC)\nCCF C\nConference Website: https://www.codaspy.org/2024/\nDBLP Index
+ : https://dblp.org/db/conf/codaspy
+LOCATION:Porto\, Portugal
+URL:https://www.codaspy.org/2024/
+X-CCFDDL-CONFERENCE:CODASPY 2024
+X-CCFDDL-ID:codaspy24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2025 Abstract Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20241209T235959
+DTEND;TZID="UTC-12:00":20241210T000059
+DTSTAMP:20261011T031007Z
+UID:55c9cc8d-12d7-550a-b08d-b60e99ec12f2
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 4-6\, 2025\n📍 Location: Pittsburgh\, PA\, USA\n⏰ O
+ riginal Deadline (AoE): 2024-12-09 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2025/\nDBLP I
+ ndex: https://dblp.org/db/conf/codaspy
+LOCATION:Pittsburgh\, PA\, USA
+URL:https://www.codaspy.org/2025/
+X-CCFDDL-CONFERENCE:CODASPY 2025
+X-CCFDDL-ID:codaspy25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2025 Deadline [Regular research paper (extended)]
+DTSTART;TZID="UTC-12:00":20241216T235959
+DTEND;TZID="UTC-12:00":20241217T000059
+DTSTAMP:20261011T031007Z
+UID:37b60401-6c28-5a64-83e0-7de0a76d69b8
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 4-6\, 2025\n📍 Location: Pittsburgh\, PA\, USA\n⏰ O
+ riginal Deadline (AoE): 2024-12-16 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2025/\nDBLP I
+ ndex: https://dblp.org/db/conf/codaspy
+LOCATION:Pittsburgh\, PA\, USA
+URL:https://www.codaspy.org/2025/
+X-CCFDDL-CONFERENCE:CODASPY 2025
+X-CCFDDL-ID:codaspy25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20251226T235959
+DTEND;TZID="UTC-12:00":20251227T000059
+DTSTAMP:20261011T031007Z
+UID:2c6cda0b-9e5c-5075-b69c-c243f8a8504b
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 23-25\, 2026\n📍 Location: Frankfurt am Main\, German
+ y\n⏰ Original Deadline (AoE): 2025-12-26 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2026
+ /\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Frankfurt am Main\, Germany
+URL:https://www.codaspy.org/2026/
+X-CCFDDL-CONFERENCE:CODASPY 2026
+X-CCFDDL-ID:codaspy2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260102T235959
+DTEND;TZID="UTC-12:00":20260103T000059
+DTSTAMP:20261011T031007Z
+UID:7bd3733f-c439-54ab-bb40-4b791aae9c26
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 23-25\, 2026\n📍 Location: Frankfurt am Main\, German
+ y\n⏰ Original Deadline (AoE): 2026-01-02 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2026
+ /\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Frankfurt am Main\, Germany
+URL:https://www.codaspy.org/2026/
+X-CCFDDL-CONFERENCE:CODASPY 2026
+X-CCFDDL-ID:codaspy2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2027 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20261116T235959
+DTEND;TZID="UTC-12:00":20261117T000059
+DTSTAMP:20261011T031007Z
+UID:5b904363-0ca4-51fb-ac98-e2b630fd8d4e
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 14-17\, 2027\n📍 Location: Fort Collins\, Colorado\, 
+ USA\n⏰ Original Deadline (AoE): 2026-11-16 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2027
+ /\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+X-CCFDDL-CONFERENCE:CODASPY 2027
+X-CCFDDL-ID:codaspy2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261123T235959
+DTEND;TZID="UTC-12:00":20261124T000059
+DTSTAMP:20261011T031007Z
+UID:f3c89fae-0053-5148-a1fa-6faf59d26db3
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 14-17\, 2027\n📍 Location: Fort Collins\, Colorado\, 
+ USA\n⏰ Original Deadline (AoE): 2026-11-23 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2027
+ /\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+X-CCFDDL-CONFERENCE:CODASPY 2027
+X-CCFDDL-ID:codaspy2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2027 Rebuttal Submission
+DTSTART;TZID="UTC-12:00":20270122T235959
+DTEND;TZID="UTC-12:00":20270123T000059
+DTSTAMP:20261011T031007Z
+UID:5e2196eb-c0d8-522b-ba44-9a3a0d699f84
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 14-17\, 2027\n📍 Location: Fort Collins\, Colorado\, 
+ USA\n⏰ Original Deadline (AoE): 2027-01-22 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2027
+ /\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+X-CCFDDL-CONFERENCE:CODASPY 2027
+X-CCFDDL-ID:codaspy2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CODASPY 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270125T235959
+DTEND;TZID="UTC-12:00":20270126T000059
+DTSTAMP:20261011T031007Z
+UID:596bff44-2d8a-53b2-a742-38c161b6f7b8
+DESCRIPTION:ACM Conference on Data and Application Security and Privacy\n
+ 🗓️ Date: June 14-17\, 2027\n📍 Location: Fort Collins\, Colorado\, 
+ USA\n⏰ Original Deadline (AoE): 2027-01-25 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.codaspy.org/2027
+ /\nDBLP Index: https://dblp.org/db/conf/codaspy
+LOCATION:Fort Collins\, Colorado\, USA
+URL:https://www.codaspy.org/2027/
+X-CCFDDL-CONFERENCE:CODASPY 2027
+X-CCFDDL-ID:codaspy2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCloud 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210420T235959
+DTEND;TZID="UTC-12:00":20210421T000059
+DTSTAMP:20261011T031007Z
+UID:3bf6adc0-0a4c-57c4-a48a-a4938dc5f9ee
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Comp
+ uting\n🗓️ Date: June 26-27\, 2021\n📍 Location: Online\n⏰ Origina
+ l Deadline (AoE): 2021-04-20 23:59:59\nCategory: 网络与信息安全 (SC
+ )\nCCF C\nConference Website: https://www.cloud-conf.net/cscloud/2021/cscl
+ oud/\nDBLP Index: https://dblp.org/db/conf/cscloud
+LOCATION:Online
+URL:https://www.cloud-conf.net/cscloud/2021/cscloud/
+X-CCFDDL-CONFERENCE:CSCloud 2021
+X-CCFDDL-ID:cscloud2021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCloud 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220415T235959
+DTEND;TZID="UTC-12:00":20220416T000059
+DTSTAMP:20261011T031007Z
+UID:0d797fb3-08b7-55e1-8a86-dcda8c26598d
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Comp
+ uting\n🗓️ Date: June 25-26\, 2022\n📍 Location: Online\n⏰ Origina
+ l Deadline (AoE): 2022-04-15 23:59:59\nCategory: 网络与信息安全 (SC
+ )\nCCF C\nConference Website: https://www.cloud-conf.net/cscloud/2022/cscl
+ oud/\nDBLP Index: https://dblp.org/db/conf/cscloud
+LOCATION:Online
+URL:https://www.cloud-conf.net/cscloud/2022/cscloud/
+X-CCFDDL-CONFERENCE:CSCloud 2022
+X-CCFDDL-ID:cscloud2022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCloud 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240505T235959
+DTEND;TZID="UTC-12:00":20240506T000059
+DTSTAMP:20261011T031007Z
+UID:5e8aeddc-3e39-5520-b36c-ad9b451fe58f
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Comp
+ uting\n🗓️ Date: June 29\, 2024\n📍 Location: Shanghai\, China (Hybr
+ id)\n⏰ Original Deadline (AoE): 2024-05-05 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.cloud-conf.net/c
+ scloud/2024/cscloud/\nDBLP Index: https://dblp.org/db/conf/cscloud
+LOCATION:Shanghai\, China (Hybrid)
+URL:https://www.cloud-conf.net/cscloud/2024/cscloud/
+X-CCFDDL-CONFERENCE:CSCloud 2024
+X-CCFDDL-ID:cscloud2024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCloud 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250908T235959
+DTEND;TZID="UTC-12:00":20250909T000059
+DTSTAMP:20261011T031007Z
+UID:a09202dd-780d-5666-9064-13ecff9077d6
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Comp
+ uting\n🗓️ Date: November 8-9\, 2025\n📍 Location: New York City\, U
+ SA (Hybrid)\n⏰ Original Deadline (AoE): 2025-09-08 23:59:59\nCategory: 
+ 网络与信息安全 (SC)\nCCF C\nConference Website: https://www.cloud-c
+ onf.net/cscloud/2025/cscloud/\nDBLP Index: https://dblp.org/db/conf/csclou
+ d
+LOCATION:New York City\, USA (Hybrid)
+URL:https://www.cloud-conf.net/cscloud/2025/cscloud/
+X-CCFDDL-CONFERENCE:CSCloud 2025
+X-CCFDDL-ID:cscloud2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCloud 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260915T235959
+DTEND;TZID="UTC-12:00":20260916T000059
+DTSTAMP:20261011T031007Z
+UID:2a1c7963-01bc-5f60-9c1b-29a6f914f217
+DESCRIPTION:IEEE International Conference on Cyber Security and Cloud Comp
+ uting\n🗓️ Date: December 19-21\, 2026\n📍 Location: Shanghai\, Chin
+ a\n⏰ Original Deadline (AoE): 2026-09-15 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.cloud-conf.net/c
+ scloud/2026/cscloud/\nDBLP Index: https://dblp.org/db/conf/cscloud
+LOCATION:Shanghai\, China
+URL:https://www.cloud-conf.net/cscloud/2026/cscloud/
+X-CCFDDL-CONFERENCE:CSCloud 2026
+X-CCFDDL-ID:cscloud2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2021 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20200131T235959
+DTEND;TZID="UTC-12:00":20200201T000059
+DTSTAMP:20261011T031007Z
+UID:a03f75b6-c0ce-5daf-856d-2cdda7ed491b
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  January 27-29\, 2021\n📍 Location: Online\n⏰ Original Deadline (AoE):
+  2020-01-31 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConfere
+ nce Website: https://dfrws.org/conferences/dfrws-apac-2021/\nDBLP Index: h
+ ttps://dblp.org/db/conf/di
+LOCATION:Online
+URL:https://dfrws.org/conferences/dfrws-apac-2021/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2021
+X-CCFDDL-ID:dfrws-apac21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2021 Deadline
+DTSTART;TZID="UTC-12:00":20200316T235959
+DTEND;TZID="UTC-12:00":20200317T000059
+DTSTAMP:20261011T031007Z
+UID:6acbf8b3-4bc3-5e6d-965a-eab6be69262d
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  January 27-29\, 2021\n📍 Location: Online\n⏰ Original Deadline (AoE):
+  2020-03-16 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConfere
+ nce Website: https://dfrws.org/conferences/dfrws-apac-2021/\nDBLP Index: h
+ ttps://dblp.org/db/conf/di
+LOCATION:Online
+URL:https://dfrws.org/conferences/dfrws-apac-2021/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2021
+X-CCFDDL-ID:dfrws-apac21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220516T235959
+DTEND;TZID="UTC-12:00":20220517T000059
+DTSTAMP:20261011T031007Z
+UID:f585ba7d-be59-5b5e-a32c-0638c5c11a4e
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  September 28-30\, 2022\n📍 Location: Adelaide\, Australia (Hybrid)\n⏰
+  Original Deadline (AoE): 2022-05-16 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nCCF C\nConference Website: https://dfrws.org/conferences/dfrw
+ s-apac-2022/\nDBLP Index: https://dblp.org/db/conf/di
+LOCATION:Adelaide\, Australia (Hybrid)
+URL:https://dfrws.org/conferences/dfrws-apac-2022/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2022
+X-CCFDDL-ID:dfrws-apac22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230515T235959
+DTEND;TZID="UTC-12:00":20230516T000059
+DTSTAMP:20261011T031007Z
+UID:a743e0a2-2bed-5d7c-93b1-5c21e5abe588
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  October 18-20\, 2023\n📍 Location: Singapore and Hong Kong\n⏰ Origina
+ l Deadline (AoE): 2023-05-15 23:59:59\nCategory: 网络与信息安全 (SC
+ )\nCCF C\nConference Website: https://dfrws.org/conferences/dfrws-apac-202
+ 3/\nDBLP Index: https://dblp.org/db/conf/di
+LOCATION:Singapore and Hong Kong
+URL:https://dfrws.org/conferences/dfrws-apac-2023/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2023
+X-CCFDDL-ID:dfrws-apac23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240527T235959
+DTEND;TZID="UTC-12:00":20240528T000059
+DTSTAMP:20261011T031007Z
+UID:e024c61e-6b41-5670-ba88-0a9c2419a684
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  October 22-24\, 2024\n📍 Location: Brisbane\, Australia\n⏰ Original D
+ eadline (AoE): 2024-05-27 23:59:59\nCategory: 网络与信息安全 (SC)\n
+ CCF C\nConference Website: https://dfrws.org/conferences/dfrws-apac-2024/
+ \nDBLP Index: https://dblp.org/db/conf/di
+LOCATION:Brisbane\, Australia
+URL:https://dfrws.org/conferences/dfrws-apac-2024/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2024
+X-CCFDDL-ID:dfrws-apac24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240603T235959
+DTEND;TZID="UTC-12:00":20240604T000059
+DTSTAMP:20261011T031007Z
+UID:c140d188-b73e-50d8-acfb-2fbc17df2262
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  October 22-24\, 2024\n📍 Location: Brisbane\, Australia\n⏰ Original D
+ eadline (AoE): 2024-06-03 23:59:59\nCategory: 网络与信息安全 (SC)\n
+ CCF C\nConference Website: https://dfrws.org/conferences/dfrws-apac-2024/
+ \nDBLP Index: https://dblp.org/db/conf/di
+LOCATION:Brisbane\, Australia
+URL:https://dfrws.org/conferences/dfrws-apac-2024/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2024
+X-CCFDDL-ID:dfrws-apac24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250523T235959
+DTEND;TZID="UTC-12:00":20250524T000059
+DTSTAMP:20261011T031007Z
+UID:cdfc0939-a9f3-584d-8bf4-f3af92a5cd47
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  November 10-12\, 2025\n📍 Location: Seoul\, South Korea\n⏰ Original D
+ eadline (AoE): 2025-05-23 23:59:59\nCategory: 网络与信息安全 (SC)\n
+ CCF C\nConference Website: https://dfrws.org/conferences/dfrws-apac-2025/
+ \nDBLP Index: https://dblp.org/db/conf/di
+LOCATION:Seoul\, South Korea
+URL:https://dfrws.org/conferences/dfrws-apac-2025/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2025
+X-CCFDDL-ID:dfrws-apac25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260529T235959
+DTEND;TZID="UTC-12:00":20260530T000059
+DTSTAMP:20261011T031007Z
+UID:a98c8db0-7262-52a0-a3c9-0b116fe125a3
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  October 19-22\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (Ao
+ E): 2026-05-29 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConf
+ erence Website: https://dfrws.org/conferences/dfrws-apac-2026/\nDBLP Index
+ : https://dblp.org/db/conf/di
+LOCATION:Singapore
+URL:https://dfrws.org/conferences/dfrws-apac-2026/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2026
+X-CCFDDL-ID:dfrws-apac26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS APAC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260605T235959
+DTEND;TZID="UTC-12:00":20260606T000059
+DTSTAMP:20261011T031007Z
+UID:de22c269-3f6d-58a8-bca5-055a507683d7
+DESCRIPTION:Digital Forensic Research Workshop Asia Pacific\n🗓️ Date:
+  October 19-22\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (Ao
+ E): 2026-06-05 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConf
+ erence Website: https://dfrws.org/conferences/dfrws-apac-2026/\nDBLP Index
+ : https://dblp.org/db/conf/di
+LOCATION:Singapore
+URL:https://dfrws.org/conferences/dfrws-apac-2026/
+X-CCFDDL-CONFERENCE:DFRWS APAC 2026
+X-CCFDDL-ID:dfrws-apac26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201014T235959
+DTEND;TZID="UTC-12:00":20201015T000059
+DTSTAMP:20261011T031007Z
+UID:6d445ba6-b817-52c9-b2f4-2077e422f467
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: TBD\n📍 Lo
+ cation: Online\n⏰ Original Deadline (AoE): 2020-10-14 23:59:59\nCategory
+ : 网络与信息安全 (SC)\nCCF C\nConference Website: https://dfrws.org
+ /conferences/dfrws-eu-2021/\nDBLP Index: https://dblp.org/db/conf/dfrws
+LOCATION:Online
+URL:https://dfrws.org/conferences/dfrws-eu-2021/
+X-CCFDDL-CONFERENCE:DFRWS 2021
+X-CCFDDL-ID:dfrws21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211015T235959
+DTEND;TZID="UTC-12:00":20211016T000059
+DTSTAMP:20261011T031007Z
+UID:b60f160a-d5df-50f2-a3dd-f783bd65bd97
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: TBD\n📍 Lo
+ cation: Oxford\, UK (Hybrid)\n⏰ Original Deadline (AoE): 2021-10-15 23:5
+ 9:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConference Website: htt
+ ps://dfrws.org/conferences/dfrws-eu-2022/\nDBLP Index: https://dblp.org/db
+ /conf/dfrws
+LOCATION:Oxford\, UK (Hybrid)
+URL:https://dfrws.org/conferences/dfrws-eu-2022/
+X-CCFDDL-CONFERENCE:DFRWS 2022
+X-CCFDDL-ID:dfrws22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20221010T235959
+DTEND;TZID="UTC-12:00":20221011T000059
+DTSTAMP:20261011T031007Z
+UID:cd0f9ef1-ab9e-5f09-8b15-5e5341a292df
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 22-23
+ \, 2023\n📍 Location: Bonn\, Germany (Hybrid)\n⏰ Original Deadline (Ao
+ E): 2022-10-10 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConf
+ erence Website: https://dfrws.org/conferences/dfrws-eu-2023/\nDBLP Index: 
+ https://dblp.org/db/conf/dfrws
+LOCATION:Bonn\, Germany (Hybrid)
+URL:https://dfrws.org/conferences/dfrws-eu-2023/
+X-CCFDDL-CONFERENCE:DFRWS 2023
+X-CCFDDL-ID:dfrws23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221017T235959
+DTEND;TZID="UTC-12:00":20221018T000059
+DTSTAMP:20261011T031007Z
+UID:dcbc4cd8-e597-5d9e-a60c-e69f18161b30
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 22-23
+ \, 2023\n📍 Location: Bonn\, Germany (Hybrid)\n⏰ Original Deadline (Ao
+ E): 2022-10-17 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConf
+ erence Website: https://dfrws.org/conferences/dfrws-eu-2023/\nDBLP Index: 
+ https://dblp.org/db/conf/dfrws
+LOCATION:Bonn\, Germany (Hybrid)
+URL:https://dfrws.org/conferences/dfrws-eu-2023/
+X-CCFDDL-CONFERENCE:DFRWS 2023
+X-CCFDDL-ID:dfrws23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20231005T235959
+DTEND;TZID="UTC-12:00":20231006T000059
+DTSTAMP:20261011T031007Z
+UID:1b657fe3-bfaf-5907-960a-d39a40383263
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 20-21
+ \, 2024\n📍 Location: Zaragoza\, Spain (Hybrid)\n⏰ Original Deadline (
+ AoE): 2023-10-05 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nCo
+ nference Website: https://dfrws.org/conferences/dfrws-eu-2024/\nDBLP Index
+ : https://dblp.org/db/conf/dfrws
+LOCATION:Zaragoza\, Spain (Hybrid)
+URL:https://dfrws.org/conferences/dfrws-eu-2024/
+X-CCFDDL-CONFERENCE:DFRWS 2024
+X-CCFDDL-ID:dfrws24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231012T235959
+DTEND;TZID="UTC-12:00":20231013T000059
+DTSTAMP:20261011T031007Z
+UID:82468ebe-fa8f-57da-894a-9f10b0391a93
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 20-21
+ \, 2024\n📍 Location: Zaragoza\, Spain (Hybrid)\n⏰ Original Deadline (
+ AoE): 2023-10-12 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nCo
+ nference Website: https://dfrws.org/conferences/dfrws-eu-2024/\nDBLP Index
+ : https://dblp.org/db/conf/dfrws
+LOCATION:Zaragoza\, Spain (Hybrid)
+URL:https://dfrws.org/conferences/dfrws-eu-2024/
+X-CCFDDL-CONFERENCE:DFRWS 2024
+X-CCFDDL-ID:dfrws24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20241004T235959
+DTEND;TZID="UTC-12:00":20241005T000059
+DTSTAMP:20261011T031007Z
+UID:e0f0dc6e-1ca5-55ec-a354-11ed481a2270
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: April 1-4\, 
+ 2025\n📍 Location: Brno\, Czech Republic\n⏰ Original Deadline (AoE): 2
+ 024-10-04 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConferenc
+ e Website: https://dfrws.org/conferences/dfrws-eu-2025/\nDBLP Index: https
+ ://dblp.org/db/conf/dfrws
+LOCATION:Brno\, Czech Republic
+URL:https://dfrws.org/conferences/dfrws-eu-2025/
+X-CCFDDL-CONFERENCE:DFRWS 2025
+X-CCFDDL-ID:dfrws25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241011T235959
+DTEND;TZID="UTC-12:00":20241012T000059
+DTSTAMP:20261011T031007Z
+UID:9b28e3d9-125e-5b8a-87d3-f3a9ab928058
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: April 1-4\, 
+ 2025\n📍 Location: Brno\, Czech Republic\n⏰ Original Deadline (AoE): 2
+ 024-10-11 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConferenc
+ e Website: https://dfrws.org/conferences/dfrws-eu-2025/\nDBLP Index: https
+ ://dblp.org/db/conf/dfrws
+LOCATION:Brno\, Czech Republic
+URL:https://dfrws.org/conferences/dfrws-eu-2025/
+X-CCFDDL-CONFERENCE:DFRWS 2025
+X-CCFDDL-ID:dfrws25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20251003T235959
+DTEND;TZID="UTC-12:00":20251004T000059
+DTSTAMP:20261011T031007Z
+UID:a26927a6-d5a6-5632-be56-8887727d703f
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 24-27
+ \, 2026\n📍 Location: Linköping\, Sweden\n⏰ Original Deadline (AoE): 
+ 2025-10-03 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConferen
+ ce Website: https://dfrws.org/conferences/dfrws-eu-2026/\nDBLP Index: http
+ s://dblp.org/db/conf/dfrws
+LOCATION:Linköping\, Sweden
+URL:https://dfrws.org/conferences/dfrws-eu-2026/
+X-CCFDDL-CONFERENCE:DFRWS 2026
+X-CCFDDL-ID:dfrws26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251010T235959
+DTEND;TZID="UTC-12:00":20251011T000059
+DTSTAMP:20261011T031007Z
+UID:2b6e7a16-7953-5387-8fc5-938a4cbc35cd
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 24-27
+ \, 2026\n📍 Location: Linköping\, Sweden\n⏰ Original Deadline (AoE): 
+ 2025-10-10 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConferen
+ ce Website: https://dfrws.org/conferences/dfrws-eu-2026/\nDBLP Index: http
+ s://dblp.org/db/conf/dfrws
+LOCATION:Linköping\, Sweden
+URL:https://dfrws.org/conferences/dfrws-eu-2026/
+X-CCFDDL-CONFERENCE:DFRWS 2026
+X-CCFDDL-ID:dfrws26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2027 Abstract Deadline [Extended deadlines]
+DTSTART;TZID="UTC-12:00":20261002T235959
+DTEND;TZID="UTC-12:00":20261003T000059
+DTSTAMP:20261011T031007Z
+UID:cbf7e2ef-9688-536c-bd06-5db46666a0b5
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 30 - A
+ pril 2\, 2027\n📍 Location: Edinburgh\, Scotland\n⏰ Original Deadline 
+ (AoE): 2026-10-02 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nC
+ onference Website: https://dfrws.org/conferences/dfceurope2027/\nDBLP Inde
+ x: https://dblp.org/db/conf/dfrws
+LOCATION:Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+X-CCFDDL-CONFERENCE:DFRWS 2027
+X-CCFDDL-ID:dfrws27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2027 Deadline [Extended deadlines]
+DTSTART;TZID="UTC-12:00":20261009T235959
+DTEND;TZID="UTC-12:00":20261010T000059
+DTSTAMP:20261011T031007Z
+UID:869eadfa-651a-595e-b334-0a8fa69153eb
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 30 - A
+ pril 2\, 2027\n📍 Location: Edinburgh\, Scotland\n⏰ Original Deadline 
+ (AoE): 2026-10-09 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nC
+ onference Website: https://dfrws.org/conferences/dfceurope2027/\nDBLP Inde
+ x: https://dblp.org/db/conf/dfrws
+LOCATION:Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+X-CCFDDL-CONFERENCE:DFRWS 2027
+X-CCFDDL-ID:dfrws27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DFRWS 2027 Final Decisions [Extended deadlines]
+DTSTART;TZID="UTC-12:00":20261204T235959
+DTEND;TZID="UTC-12:00":20261205T000059
+DTSTAMP:20261011T031007Z
+UID:ac060ecb-c08e-5a35-b13e-a0b3c4a68bf2
+DESCRIPTION:Digital Forensic Research Workshop\n🗓️ Date: March 30 - A
+ pril 2\, 2027\n📍 Location: Edinburgh\, Scotland\n⏰ Original Deadline 
+ (AoE): 2026-12-04 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nC
+ onference Website: https://dfrws.org/conferences/dfceurope2027/\nDBLP Inde
+ x: https://dblp.org/db/conf/dfrws
+LOCATION:Edinburgh\, Scotland
+URL:https://dfrws.org/conferences/dfceurope2027/
+X-CCFDDL-CONFERENCE:DFRWS 2027
+X-CCFDDL-ID:dfrws27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HotSec 2021 Deadline [Extended]
+DTSTART;TZID="UTC-12:00":20211012T235959
+DTEND;TZID="UTC-12:00":20211013T000059
+DTSTAMP:20261011T031007Z
+UID:9c48ddfa-a931-5d7f-9840-668719b99d0f
+DESCRIPTION:USENIX Workshop on Hot Topics in Security\n🗓️ Date: Exten
+ ded\n📍 Location: Vancouver\, British Columbia\, Canada\n⏰ Original De
+ adline (AoE): 2021-10-12 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ CF C\nConference Website: https://www.usenix.org/conferences/byname/158\nD
+ BLP Index: https://dblp.org/db/conf/events
+LOCATION:Vancouver\, British Columbia\, Canada
+URL:https://www.usenix.org/conferences/byname/158
+X-CCFDDL-CONFERENCE:HotSec 2021
+X-CCFDDL-ID:hotsec21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2021 Deadline [Main Track Full Paper Submission deadline]
+DTSTART;TZID="UTC-12:00":20210616T235959
+DTEND;TZID="UTC-12:00":20210617T000059
+DTSTAMP:20261011T031007Z
+UID:7941f650-0326-5f16-8070-646367c85dc7
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: December 7-9\, 2021\n📍 Location: Singapore\, Singapore\n
+ ⏰ Original Deadline (UTC-12): 2021-06-16 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferenc
+ es.org/2021/\nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:Singapore\, Singapore
+URL:https://icdf2c.eai-conferences.org/2021/
+X-CCFDDL-CONFERENCE:ICDF2C 2021
+X-CCFDDL-ID:icdf2c21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220715T235959
+DTEND;TZID="UTC-12:00":20220716T000059
+DTSTAMP:20261011T031007Z
+UID:0d30ea7e-6e56-5981-bbbf-b03494350048
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: November 17-18\, 2022\n📍 Location: Boston\, MA\, USA\n⏰
+  Original Deadline (AoE): 2022-07-15 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferences.org
+ /2022/\nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:Boston\, MA\, USA
+URL:https://icdf2c.eai-conferences.org/2022/
+X-CCFDDL-CONFERENCE:ICDF2C 2022
+X-CCFDDL-ID:icdf2c22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230415T235959
+DTEND;TZID="UTC-12:00":20230416T000059
+DTSTAMP:20261011T031007Z
+UID:992b06a3-28b7-560d-82fe-a4cf89b449f7
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: November 30-December 1\, 2023\n📍 Location: New York City
+ \, NY\, USA\n⏰ Original Deadline (AoE): 2023-04-15 23:59:59\nCategory: 
+ 网络与信息安全 (SC)\nCCF C\nConference Website: https://icdf2c.eai-
+ conferences.org/2023/\nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:New York City\, NY\, USA
+URL:https://icdf2c.eai-conferences.org/2023/
+X-CCFDDL-CONFERENCE:ICDF2C 2023
+X-CCFDDL-ID:icdf2c23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240515T235959
+DTEND;TZID="UTC-12:00":20240516T000059
+DTSTAMP:20261011T031007Z
+UID:3361bd2f-2f11-5bbe-b0ae-b620c1a0eadd
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: October 9-10\, 2024\n📍 Location: Dubrovnik\, Croatia\n⏰
+  Original Deadline (UTC-12): 2024-05-15 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferences.
+ org/2024/\nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:Dubrovnik\, Croatia
+URL:https://icdf2c.eai-conferences.org/2024/
+X-CCFDDL-CONFERENCE:ICDF2C 2024
+X-CCFDDL-ID:icdf2c24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2025 Deadline [Main track]
+DTSTART;TZID="UTC-12:00":20250531T235959
+DTEND;TZID="UTC-12:00":20250601T000059
+DTSTAMP:20261011T031007Z
+UID:d7006f76-0c89-5bca-8990-8867023a9068
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: November 17-19\, 2025\n📍 Location: Miami\, Florida\, USA
+ \n⏰ Original Deadline (UTC-12): 2025-05-31 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferenc
+ es.org/2025/\nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:Miami\, Florida\, USA
+URL:https://icdf2c.eai-conferences.org/2025/
+X-CCFDDL-CONFERENCE:ICDF2C 2025
+X-CCFDDL-ID:icdf2c25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2026 Deadline [Main track]
+DTSTART;TZID="UTC-12:00":20260120T235959
+DTEND;TZID="UTC-12:00":20260121T000059
+DTSTAMP:20261011T031007Z
+UID:29d0606f-f5e0-55fc-9db2-520ffb43a931
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: September 8-10\, 2026\n📍 Location: Reykjavik\, Iceland\n
+ ⏰ Original Deadline (UTC-12): 2026-01-20 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferenc
+ es.org/2026/\nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:Reykjavik\, Iceland
+URL:https://icdf2c.eai-conferences.org/2026/
+X-CCFDDL-CONFERENCE:ICDF2C 2026
+X-CCFDDL-ID:icdf2c26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2027 Deadline [Full Paper Submission deadline]
+DTSTART;TZID="UTC-12:00":20261215T235959
+DTEND;TZID="UTC-12:00":20261216T000059
+DTSTAMP:20261011T031007Z
+UID:95c94c47-8abd-524c-acec-7eb852e8b1fe
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: June 25-27\, 2027\n📍 Location: New York\, USA\n⏰ Origin
+ al Deadline (UTC-12): 2026-12-15 23:59:59\nCategory: 网络与信息安全
+  (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferences.org/2027/
+ \nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:New York\, USA
+URL:https://icdf2c.eai-conferences.org/2027/
+X-CCFDDL-CONFERENCE:ICDF2C 2027
+X-CCFDDL-ID:icdf2c27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICDF2C 2027 Final Decisions [Full Paper Submission deadline]
+DTSTART;TZID="UTC-12:00":20270218T235959
+DTEND;TZID="UTC-12:00":20270219T000059
+DTSTAMP:20261011T031007Z
+UID:712b4172-0efa-5e4a-ba4f-e5f9c07715e2
+DESCRIPTION:International Conference on Digital Forensics & Cyber Crime\n
+ 🗓️ Date: June 25-27\, 2027\n📍 Location: New York\, USA\n⏰ Origin
+ al Deadline (UTC-12): 2027-02-18 23:59:59\nCategory: 网络与信息安全
+  (SC)\nCCF C\nConference Website: https://icdf2c.eai-conferences.org/2027/
+ \nDBLP Index: https://dblp.org/db/conf/icdf2c
+LOCATION:New York\, USA
+URL:https://icdf2c.eai-conferences.org/2027/
+X-CCFDDL-CONFERENCE:ICDF2C 2027
+X-CCFDDL-ID:icdf2c27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201018T235959
+DTEND;TZID="UTC-12:00":20201019T000059
+DTSTAMP:20261011T031007Z
+UID:099287a5-9815-5f9b-81ae-32ff788bfdd8
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: February 1-2\, 2021\n📍 Location: Virtual\n⏰ Original De
+ adline (AoE): 2020-10-18 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ CF C\nConference Website: https://www.ifip119.org/Conferences/\nDBLP Index
+ : https://dblp.org/db/conf/NO DBLP
+LOCATION:Virtual
+URL:https://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2021
+X-CCFDDL-ID:ifip119'21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211112T235959
+DTEND;TZID="UTC-12:00":20211113T000059
+DTSTAMP:20261011T031007Z
+UID:2e995579-1dd7-5555-97dc-4c86f22e48d5
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 3-4\, 2022\n📍 Location: Virtual\n⏰ Original Dea
+ dline (AoE): 2021-11-12 23:59:59\nCategory: 网络与信息安全 (SC)\nCC
+ F C\nConference Website: http://www.ifip119.org/Conferences/\nDBLP Index: 
+ https://dblp.org/db/conf/NO DBLP
+LOCATION:Virtual
+URL:http://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2022
+X-CCFDDL-ID:ifip119'22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221115T235959
+DTEND;TZID="UTC-12:00":20221116T000059
+DTSTAMP:20261011T031007Z
+UID:96f55ee4-83cb-529a-aa45-74daaa34273f
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 30-31\, 2023\n📍 Location: Arlington\, Virginia\, 
+ USA\n⏰ Original Deadline (AoE): 2022-11-15 23:59:59\nCategory: 网络与
+ 信息安全 (SC)\nCCF C\nConference Website: https://www.ifip119.org/Conf
+ erences/\nDBLP Index: https://dblp.org/db/conf/NO DBLP
+LOCATION:Arlington\, Virginia\, USA
+URL:https://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2023
+X-CCFDDL-ID:ifip119'23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231031T235959
+DTEND;TZID="UTC-12:00":20231101T000059
+DTSTAMP:20261011T031007Z
+UID:80717e5d-ea06-58a7-865c-3c83cdc0a879
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 4-5\, 2024\n📍 Location: New Delhi\, India\n⏰ Or
+ iginal Deadline (AoE): 2023-10-31 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.ifip119.org/Conferences/
+ \nDBLP Index: https://dblp.org/db/conf/NO DBLP
+LOCATION:New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2024
+X-CCFDDL-ID:ifip119'24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2025 Deadline
+DTSTART;TZID="UTC-12:00":20240930T235959
+DTEND;TZID="UTC-12:00":20241001T000059
+DTSTAMP:20261011T031008Z
+UID:f522a33c-99a5-5e5c-a401-0ef08658fcba
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 6-7\, 2025\n📍 Location: New Delhi\, India\n⏰ Or
+ iginal Deadline (AoE): 2024-09-30 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.ifip119.org/Conferences/
+ \nDBLP Index: https://dblp.org/db/conf/NO DBLP
+LOCATION:New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2025
+X-CCFDDL-ID:ifip119'25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251031T235959
+DTEND;TZID="UTC-12:00":20251101T000059
+DTSTAMP:20261011T031008Z
+UID:010afd95-5302-5366-ae47-36f38a91d861
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 5 - 6\, 2026\n📍 Location: New Delhi\, India\n⏰ 
+ Original Deadline (AoE): 2025-10-31 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: http://www.ifip119.org/Conferences/\n
+ DBLP Index: https://dblp.org/db/conf/NO DBLP
+LOCATION:New Delhi\, India
+URL:http://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2026
+X-CCFDDL-ID:ifip119'26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2027 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20261010T235959
+DTEND;TZID="UTC-12:00":20261011T000059
+DTSTAMP:20261011T031008Z
+UID:ece22a8d-f147-5bf9-9e5e-4e2f42954083
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 7 - 8\, 2027\n📍 Location: New Delhi\, India\n⏰ 
+ Original Deadline (AoE): 2026-10-10 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.ifip119.org/Conferences/
+ \nDBLP Index: https://dblp.org/db/conf/NO DBLP
+LOCATION:New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2027
+X-CCFDDL-ID:ifip119'27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFIP WG 11.9 2027 Final Decisions [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20261110T235959
+DTEND;TZID="UTC-12:00":20261111T000059
+DTSTAMP:20261011T031008Z
+UID:cfc50a5b-21ee-5459-879b-a0efd05d49c7
+DESCRIPTION:IFIP WG 11.9 International Conference on Digital Forensics\n
+ 🗓️ Date: January 7 - 8\, 2027\n📍 Location: New Delhi\, India\n⏰ 
+ Original Deadline (AoE): 2026-11-10 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\nConference Website: https://www.ifip119.org/Conferences/
+ \nDBLP Index: https://dblp.org/db/conf/NO DBLP
+LOCATION:New Delhi\, India
+URL:https://www.ifip119.org/Conferences/
+X-CCFDDL-CONFERENCE:IFIP WG 11.9 2027
+X-CCFDDL-ID:ifip119'27
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:INSCRYPT 2021 Deadline
+DTSTART;TZID="UTC-04:00":20210610T235959
+DTEND;TZID="UTC-04:00":20210611T000059
+DTSTAMP:20261011T031008Z
+UID:0c2b084f-52c3-58f9-b786-5adfde465ca1
+DESCRIPTION:International Conference on Information Security and Cryptolog
+ y\n🗓️ Date: TBD\n📍 Location: Online\n⏰ Original Deadline (UTC-4)
+ : 2021-06-10 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConfer
+ ence Website: https://cst.qd.sdu.edu.cn/inscrypt_2021/\nDBLP Index: https:
+ //dblp.org/db/conf/cisc
+LOCATION:Online
+URL:https://cst.qd.sdu.edu.cn/inscrypt_2021/
+X-CCFDDL-CONFERENCE:INSCRYPT 2021
+X-CCFDDL-ID:inscrypt21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSCRYPT 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220901T235959
+DTEND;TZID="UTC-12:00":20220902T000059
+DTSTAMP:20261011T031008Z
+UID:6a0d5c06-711e-5c62-b09f-53769e766fb5
+DESCRIPTION:International Conference on Information Security and Cryptolog
+ y\n🗓️ Date: TBD\n📍 Location: Online\n⏰ Original Deadline (AoE): 
+ 2022-09-01 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConferen
+ ce Website: https://www.sklois.cn/inscrypt2022/\nDBLP Index: https://dblp.
+ org/db/conf/cisc
+LOCATION:Online
+URL:https://www.sklois.cn/inscrypt2022/
+X-CCFDDL-CONFERENCE:INSCRYPT 2022
+X-CCFDDL-ID:inscrypt22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSCRYPT 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240905T235959
+DTEND;TZID="UTC-12:00":20240906T000059
+DTSTAMP:20261011T031008Z
+UID:31893405-d1ec-5436-b4a0-e629152c002b
+DESCRIPTION:International Conference on Information Security and Cryptolog
+ y\n🗓️ Date: December 14-16\, 2024\n📍 Location: Kunming\, China\n
+ ⏰ Original Deadline (AoE): 2024-09-05 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF C\nConference Website: https://inscrypt2024.github.io/
+ \nDBLP Index: https://dblp.org/db/conf/cisc
+LOCATION:Kunming\, China
+URL:https://inscrypt2024.github.io/
+X-CCFDDL-CONFERENCE:INSCRYPT 2024
+X-CCFDDL-ID:inscrypt24
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:INSCRYPT 2025 Deadline [1st Round]
+DTSTART;TZID="UTC-08:00":20250415T235959
+DTEND;TZID="UTC-08:00":20250416T000059
+DTSTAMP:20261011T031008Z
+UID:d13d8434-6fc3-5b6d-b1f6-e19c68d280e0
+DESCRIPTION:International Conference on Information Security and Cryptolog
+ y\n🗓️ Date: October 19-22\, 2025\n📍 Location: Xi'an\, China\n⏰ O
+ riginal Deadline (UTC-8): 2025-04-15 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nCCF C\nConference Website: https://inscrypt2025.xidian.edu.cn
+ /\nDBLP Index: https://dblp.org/db/conf/cisc
+LOCATION:Xi'an\, China
+URL:https://inscrypt2025.xidian.edu.cn/
+X-CCFDDL-CONFERENCE:INSCRYPT 2025
+X-CCFDDL-ID:inscrypt25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSCRYPT 2025 Deadline [2nd Round]
+DTSTART;TZID="UTC-08:00":20250630T235959
+DTEND;TZID="UTC-08:00":20250701T000059
+DTSTAMP:20261011T031008Z
+UID:b671ddd7-224e-5018-87a8-157628b88807
+DESCRIPTION:International Conference on Information Security and Cryptolog
+ y\n🗓️ Date: October 19-22\, 2025\n📍 Location: Xi'an\, China\n⏰ O
+ riginal Deadline (UTC-8): 2025-06-30 23:59:59\nCategory: 网络与信息
+ 安全 (SC)\nCCF C\nConference Website: https://inscrypt2025.xidian.edu.cn
+ /\nDBLP Index: https://dblp.org/db/conf/cisc
+LOCATION:Xi'an\, China
+URL:https://inscrypt2025.xidian.edu.cn/
+X-CCFDDL-CONFERENCE:INSCRYPT 2025
+X-CCFDDL-ID:inscrypt25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INSCRYPT 2026 Deadline [1st Round]
+DTSTART;TZID="UTC-12:00":20260508T235959
+DTEND;TZID="UTC-12:00":20260509T000059
+DTSTAMP:20261011T031008Z
+UID:8f2f758e-4c21-5059-818b-608ef8554a93
+DESCRIPTION:International Conference on Information Security and Cryptolog
+ y\n🗓️ Date: Nov 07-09\, 2026\n📍 Location: Hong Kong SAR\, China\n
+ ⏰ Original Deadline (AoE): 2026-05-08 23:59:59\nCategory: 网络与信
+ 息安全 (SC)\nCCF C\nConference Website: https://inscrypt2026.comp.polyu
+ .edu.hk\nDBLP Index: https://dblp.org/db/conf/cisc
+LOCATION:Hong Kong SAR\, China
+URL:https://inscrypt2026.comp.polyu.edu.hk
+X-CCFDDL-CONFERENCE:INSCRYPT 2026
+X-CCFDDL-ID:inscrypt26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ISC 2021 Deadline
+DTSTART:20210723T235959Z
+DTEND:20210724T000059Z
+DTSTAMP:20261011T031008Z
+UID:567f51a8-cb54-50d2-8f80-48e08de3dd81
+DESCRIPTION:Information Security Conference\n🗓️ Date: November 9 - 13
+ \, 2021\n📍 Location: Online\n⏰ Original Deadline (UTC): 2021-07-23 23
+ :59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConference Website: h
+ ttps://isc2021.petra.ac.id/\nDBLP Index: https://dblp.org/db/conf/isw
+LOCATION:Online
+URL:https://isc2021.petra.ac.id/
+X-CCFDDL-CONFERENCE:ISC 2021
+X-CCFDDL-ID:isc21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISC 2022 Deadline
+DTSTART:20220805T235959Z
+DTEND:20220806T000059Z
+DTSTAMP:20261011T031008Z
+UID:41a306af-a961-557a-84bd-d5eff3efd081
+DESCRIPTION:Information Security Conference\n🗓️ Date: TBD\n📍 Locat
+ ion: Bali\, Indonesia (Hybrid)\n⏰ Original Deadline (UTC): 2022-08-05 23
+ :59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConference Website: h
+ ttps://isc2022.petra.ac.id/\nDBLP Index: https://dblp.org/db/conf/isw
+LOCATION:Bali\, Indonesia (Hybrid)
+URL:https://isc2022.petra.ac.id/
+X-CCFDDL-CONFERENCE:ISC 2022
+X-CCFDDL-ID:isc22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230803T235959
+DTEND;TZID="UTC-12:00":20230804T000059
+DTSTAMP:20261011T031008Z
+UID:37911a1a-dcc6-5a08-9d77-5af517bff964
+DESCRIPTION:Information Security Conference\n🗓️ Date: November 15-17
+ \, 2023\n📍 Location: Groningen\, Netherlands\n⏰ Original Deadline (UT
+ C-12): 2023-08-03 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nC
+ onference Website: https://isc23.cs.rug.nl/\nDBLP Index: https://dblp.org/
+ db/conf/isw
+LOCATION:Groningen\, Netherlands
+URL:https://isc23.cs.rug.nl/
+X-CCFDDL-CONFERENCE:ISC 2023
+X-CCFDDL-ID:isc23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISC 2024 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20240613T235959
+DTEND;TZID="UTC-12:00":20240614T000059
+DTSTAMP:20261011T031008Z
+UID:4d69c82d-61f6-5045-8012-7b2a6ba07ef9
+DESCRIPTION:Information Security Conference\n🗓️ Date: Oct 23 - 25\, 2
+ 024\n📍 Location: VA\, USA\n⏰ Original Deadline (AoE): 2024-06-13 23:5
+ 9:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConference Website: htt
+ ps://isc24.cs.gmu.edu/\nDBLP Index: https://dblp.org/db/conf/isw
+LOCATION:VA\, USA
+URL:https://isc24.cs.gmu.edu/
+X-CCFDDL-CONFERENCE:ISC 2024
+X-CCFDDL-ID:isc24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250611T235959
+DTEND;TZID="UTC-12:00":20250612T000059
+DTSTAMP:20261011T031008Z
+UID:860251b9-19b2-5067-a5b3-e8198667bf5f
+DESCRIPTION:Information Security Conference\n🗓️ Date: October 20-22\,
+  2025\n📍 Location: Seoul\, South Korea\n⏰ Original Deadline (AoE): 20
+ 25-06-11 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConference
+  Website: https://isc25.skku.edu/\nDBLP Index: https://dblp.org/db/conf/is
+ w
+LOCATION:Seoul\, South Korea
+URL:https://isc25.skku.edu/
+X-CCFDDL-CONFERENCE:ISC 2025
+X-CCFDDL-ID:isc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260702T235959
+DTEND;TZID="UTC-12:00":20260703T000059
+DTSTAMP:20261011T031008Z
+UID:9f279158-b473-5d0e-a9fd-a5cf2188ad3f
+DESCRIPTION:Information Security Conference\n🗓️ Date: October 28-30\,
+  2026\n📍 Location: Rennes\, France\n⏰ Original Deadline (AoE): 2026-0
+ 7-02 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\nConference Web
+ site: https://isc2026.github.io/\nDBLP Index: https://dblp.org/db/conf/isw
+LOCATION:Rennes\, France
+URL:https://isc2026.github.io/
+X-CCFDDL-CONFERENCE:ISC 2026
+X-CCFDDL-ID:isc26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2021 Deadline [Submission Deadline]
+DTSTART;TZID="UTC-12:00":20210215T235959
+DTEND;TZID="UTC-12:00":20210216T000059
+DTSTAMP:20261011T031008Z
+UID:c334c804-caae-5d6b-940f-0efa879995a0
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ Da
+ te: June 22-24\, 2021\n📍 Location: Oslo\, Norway\n⏰ Original Deadline
+  (AoE): 2021-02-15 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C\,
+  THCPL B\nConference Website: https://ifipsec.org/2021/\nDBLP Index: https
+ ://dblp.org/db/conf/sec
+LOCATION:Oslo\, Norway
+URL:https://ifipsec.org/2021/
+X-CCFDDL-CONFERENCE:SEC 2021
+X-CCFDDL-ID:sec21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220203T235959
+DTEND;TZID="UTC-12:00":20220204T000059
+DTSTAMP:20261011T031008Z
+UID:5e6255c5-b49f-5826-b2d0-a2e2428a94a3
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ Da
+ te: June 13-15\, 2022\n📍 Location: Copenhagen\, Denmark (Hybrid)\n⏰ O
+ riginal Deadline (AoE): 2022-02-03 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\, THCPL B\nConference Website: https://ifipsec2022.compute
+ .dtu.dk/\nDBLP Index: https://dblp.org/db/conf/sec
+LOCATION:Copenhagen\, Denmark (Hybrid)
+URL:https://ifipsec2022.compute.dtu.dk/
+X-CCFDDL-CONFERENCE:SEC 2022
+X-CCFDDL-ID:sec22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230312T235959
+DTEND;TZID="UTC-12:00":20230313T000059
+DTSTAMP:20261011T031008Z
+UID:485b32d2-29eb-538e-816f-e98d0bc5f8fa
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ Da
+ te: June 14-16\, 2023\n📍 Location: Poznan\, Poland\n⏰ Original Deadli
+ ne (AoE): 2023-03-12 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C
+ \, THCPL B\nConference Website: https://ifipsec2023.psnc.pl/\nDBLP Index: 
+ https://dblp.org/db/conf/sec
+LOCATION:Poznan\, Poland
+URL:https://ifipsec2023.psnc.pl/
+X-CCFDDL-CONFERENCE:SEC 2023
+X-CCFDDL-ID:sec23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240301T235959
+DTEND;TZID="UTC-12:00":20240302T000059
+DTSTAMP:20261011T031008Z
+UID:627c1e9b-a08c-50f8-88cf-ce044465f570
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ Da
+ te: June 12-14\, 2024\n📍 Location: Edinburgh\, UK\n⏰ Original Deadlin
+ e (AoE): 2024-03-01 23:59:59\nCategory: 网络与信息安全 (SC)\nCCF C
+ \, THCPL B\nConference Website: https://history.ifipsec.org/archive/2024/
+ \nDBLP Index: https://dblp.org/db/conf/sec
+LOCATION:Edinburgh\, UK
+URL:https://history.ifipsec.org/archive/2024/
+X-CCFDDL-CONFERENCE:SEC 2024
+X-CCFDDL-ID:sec24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2025 Deadline [Submission deadline]
+DTSTART;TZID="UTC-12:00":20250120T235959
+DTEND;TZID="UTC-12:00":20250121T000059
+DTSTAMP:20261011T031008Z
+UID:f65f10d1-eb6e-5ac0-acf5-c9d5533a7a1b
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ Da
+ te: May 21-23\, 2025\n📍 Location: Hotel City\, Maribor\, Slovenia\n⏰ 
+ Original Deadline (AoE): 2025-01-20 23:59:59\nCategory: 网络与信息安
+ 全 (SC)\nCCF C\, THCPL B\nConference Website: https://sec2025.um.si/\nDBL
+ P Index: https://dblp.org/db/conf/sec
+LOCATION:Hotel City\, Maribor\, Slovenia
+URL:https://sec2025.um.si/
+X-CCFDDL-CONFERENCE:SEC 2025
+X-CCFDDL-ID:sec25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEC 2026 Deadline [Submission deadline]
+DTSTART;TZID="UTC-12:00":20251219T235959
+DTEND;TZID="UTC-12:00":20251220T000059
+DTSTAMP:20261011T031008Z
+UID:e7f42399-7818-5ffa-a14f-c4eb7097249d
+DESCRIPTION:IFIP International Information Security Conference\n🗓️ Da
+ te: June 09 - 11\, 2026\n📍 Location: Perth\, Australia\n⏰ Original De
+ adline (AoE): 2025-12-19 23:59:59\nCategory: 网络与信息安全 (SC)\nC
+ CF C\, THCPL B\nConference Website: https://ifipsec.org/index.html\nDBLP I
+ ndex: https://dblp.org/db/conf/sec
+LOCATION:Perth\, Australia
+URL:https://ifipsec.org/index.html
+X-CCFDDL-CONFERENCE:SEC 2026
+X-CCFDDL-ID:sec26
+END:VEVENT
+END:VCALENDAR

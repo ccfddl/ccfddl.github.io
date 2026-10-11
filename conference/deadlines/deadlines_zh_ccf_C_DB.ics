@@ -1,0 +1,962 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ADMA 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210815T235959
+DTEND;TZID="UTC-12:00":20210816T000059
+DTSTAMP:20261011T030847Z
+UID:6843662e-2e1a-5551-9eb1-978e2e15a873
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: February 2-4\, 2022\n📍 会议地点: Onl
+ ine\n⏰ 原始截止时间 (AoE): 2021-08-15 23:59:59\n分类: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://adma
+ 21.webflow.io/\nDBLP索引: https://dblp.org/db/conf/adma
+LOCATION:Online
+URL:https://adma21.webflow.io/
+X-CCFDDL-CONFERENCE:ADMA 2021
+X-CCFDDL-ID:adma21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADMA 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220715T235959
+DTEND;TZID="UTC-12:00":20220716T000059
+DTSTAMP:20261011T030847Z
+UID:e058f1b5-cd6a-50d0-ba99-a46bb21e4d00
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: November 28-30\, 2022\n📍 会议地点: B
+ risbane\, Australia / Online\n⏰ 原始截止时间 (AoE): 2022-07-15 23:
+ 59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n
+ 会议官网: https://adma2022.uqcloud.net/\nDBLP索引: https://dblp.org/
+ db/conf/adma
+LOCATION:Brisbane\, Australia / Online
+URL:https://adma2022.uqcloud.net/
+X-CCFDDL-CONFERENCE:ADMA 2022
+X-CCFDDL-ID:adma22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ADMA 2023 Deadline
+DTSTART;TZID="UTC-07:00":20230430T235959
+DTEND;TZID="UTC-07:00":20230501T000059
+DTSTAMP:20261011T030847Z
+UID:74984a5b-51bd-5458-a910-d4fcc87e8710
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: August 21-22\, 2023\n📍 会议地点: She
+ nyang\, China\n⏰ 原始截止时间 (UTC-7): 2023-04-30 23:59:59\n分类
+ : 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: 
+ https://adma2023.uqcloud.net/index.html\nDBLP索引: https://dblp.org/db/c
+ onf/adma
+LOCATION:Shenyang\, China
+URL:https://adma2023.uqcloud.net/index.html
+X-CCFDDL-CONFERENCE:ADMA 2023
+X-CCFDDL-ID:adma23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADMA 2024 Deadline [Early track]
+DTSTART;TZID="UTC-12:00":20240315T235959
+DTEND;TZID="UTC-12:00":20240316T000059
+DTSTAMP:20261011T030847Z
+UID:545b3e61-5ce8-5dd1-9fc8-26b3e31e5481
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: December 3 - 5\, 2024\n📍 会议地点: S
+ ydney\, Australia / Online\n⏰ 原始截止时间 (AoE): 2024-03-15 23:59
+ :59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会
+ 议官网: https://adma2024.github.io\nDBLP索引: https://dblp.org/db/con
+ f/adma
+LOCATION:Sydney\, Australia / Online
+URL:https://adma2024.github.io
+X-CCFDDL-CONFERENCE:ADMA 2024
+X-CCFDDL-ID:adma24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADMA 2024 Deadline [Main track]
+DTSTART;TZID="UTC-12:00":20240705T235959
+DTEND;TZID="UTC-12:00":20240706T000059
+DTSTAMP:20261011T030847Z
+UID:a554f1c0-83c0-543a-834e-6dc756ef1fce
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: December 3 - 5\, 2024\n📍 会议地点: S
+ ydney\, Australia / Online\n⏰ 原始截止时间 (AoE): 2024-07-05 23:59
+ :59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会
+ 议官网: https://adma2024.github.io\nDBLP索引: https://dblp.org/db/con
+ f/adma
+LOCATION:Sydney\, Australia / Online
+URL:https://adma2024.github.io
+X-CCFDDL-CONFERENCE:ADMA 2024
+X-CCFDDL-ID:adma24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADMA 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250605T235959
+DTEND;TZID="UTC-12:00":20250606T000059
+DTSTAMP:20261011T030847Z
+UID:4b01b138-27ec-5b35-b2c6-5cdb2dadb909
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: October 22 - 24\, 2025\n📍 会议地点: 
+ Kyoto\, Japan\n⏰ 原始截止时间 (AoE): 2025-06-05 23:59:59\n分类: 
+ 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: ht
+ tps://adma2025.github.io\nDBLP索引: https://dblp.org/db/conf/adma
+LOCATION:Kyoto\, Japan
+URL:https://adma2025.github.io
+X-CCFDDL-CONFERENCE:ADMA 2025
+X-CCFDDL-ID:adma25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADMA 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260717T235959
+DTEND;TZID="UTC-12:00":20260718T000059
+DTSTAMP:20261011T030847Z
+UID:90715cff-0132-5ac2-88e4-dfce274f7849
+DESCRIPTION:The International Conference on Advanced Data Mining and Appli
+ cations\n🗓️ 会议时间: November 13 - 15\, 2026\n📍 会议地点:
+  Hong Kong\, China\n⏰ 原始截止时间 (AoE): 2026-07-17 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官
+ 网: https://adma2026.github.io/\nDBLP索引: https://dblp.org/db/conf/adm
+ a
+LOCATION:Hong Kong\, China
+URL:https://adma2026.github.io/
+X-CCFDDL-CONFERENCE:ADMA 2026
+X-CCFDDL-ID:adma26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2021 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20210331T235959
+DTEND;TZID="UTC-12:00":20210401T000059
+DTSTAMP:20261011T030847Z
+UID:c356fe50-19d6-535f-8f4d-f16cb59bfa5b
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: TBD\n📍 会议地点: Guangzhou\, China\n⏰ 原
+ 始截止时间 (AoE): 2021-03-31 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://tc.ccf.org.cn/tc
+ is/qkjhy/2021-03-12/730450.shtml\nDBLP索引: https://dblp.org/db/conf/APW
+ eb
+LOCATION:Guangzhou\, China
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2021-03-12/730450.shtml
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2021
+X-CCFDDL-ID:apweb21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210331T235959
+DTEND;TZID="UTC-12:00":20210401T000059
+DTSTAMP:20261011T030847Z
+UID:d2686450-8660-5d79-910c-383c0fbc45b1
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: TBD\n📍 会议地点: Guangzhou\, China\n⏰ 原
+ 始截止时间 (AoE): 2021-03-31 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://tc.ccf.org.cn/tc
+ is/qkjhy/2021-03-12/730450.shtml\nDBLP索引: https://dblp.org/db/conf/APW
+ eb
+LOCATION:Guangzhou\, China
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2021-03-12/730450.shtml
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2021
+X-CCFDDL-ID:apweb21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220329T235959
+DTEND;TZID="UTC-12:00":20220330T000059
+DTSTAMP:20261011T030847Z
+UID:b6e66783-47fa-5956-a116-0163dfef333c
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: TBD\n📍 会议地点: Nanjing\, China\n⏰ 原
+ 始截止时间 (AoE): 2022-03-29 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://tc.ccf.org.cn/tc
+ is/xwdt/2022-03-16/761566.shtml\nDBLP索引: https://dblp.org/db/conf/APWe
+ b
+LOCATION:Nanjing\, China
+URL:https://tc.ccf.org.cn/tcis/xwdt/2022-03-16/761566.shtml
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2022
+X-CCFDDL-ID:apweb22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220405T235959
+DTEND;TZID="UTC-12:00":20220406T000059
+DTSTAMP:20261011T030847Z
+UID:41f71ca0-48e0-5fce-8e72-982328c919b0
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: TBD\n📍 会议地点: Nanjing\, China\n⏰ 原
+ 始截止时间 (AoE): 2022-04-05 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://tc.ccf.org.cn/tc
+ is/xwdt/2022-03-16/761566.shtml\nDBLP索引: https://dblp.org/db/conf/APWe
+ b
+LOCATION:Nanjing\, China
+URL:https://tc.ccf.org.cn/tcis/xwdt/2022-03-16/761566.shtml
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2022
+X-CCFDDL-ID:apweb22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2023 Abstract Deadline [First round]
+DTSTART;TZID="UTC-08:00":20230313T235959
+DTEND;TZID="UTC-08:00":20230314T000059
+DTSTAMP:20261011T030847Z
+UID:670308f9-a8e5-5623-b394-d49ccc48e99f
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: October 7-8\, 2023\n📍 会议地点: Wuhan\, Chi
+ na\n⏰ 原始截止时间 (UTC-8): 2023-03-13 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://web
+ .archive.org/web/20230927013851/http://www.apweb-waim2023.com/\nDBLP索引
+ : https://dblp.org/db/conf/APWeb
+LOCATION:Wuhan\, China
+URL:https://web.archive.org/web/20230927013851/http://www.apweb-waim2023.c
+ om/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2023
+X-CCFDDL-ID:apweb23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2023 Deadline [First round]
+DTSTART;TZID="UTC-08:00":20230320T235959
+DTEND;TZID="UTC-08:00":20230321T000059
+DTSTAMP:20261011T030847Z
+UID:a9c7c119-ea69-5238-91e9-4ed4fbfef660
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: October 7-8\, 2023\n📍 会议地点: Wuhan\, Chi
+ na\n⏰ 原始截止时间 (UTC-8): 2023-03-20 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://web
+ .archive.org/web/20230927013851/http://www.apweb-waim2023.com/\nDBLP索引
+ : https://dblp.org/db/conf/APWeb
+LOCATION:Wuhan\, China
+URL:https://web.archive.org/web/20230927013851/http://www.apweb-waim2023.c
+ om/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2023
+X-CCFDDL-ID:apweb23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2023 Abstract Deadline [Second round]
+DTSTART;TZID="UTC-08:00":20230603T235959
+DTEND;TZID="UTC-08:00":20230604T000059
+DTSTAMP:20261011T030847Z
+UID:cbb0c2c1-f15f-5d71-b944-4c92a7beb827
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: October 7-8\, 2023\n📍 会议地点: Wuhan\, Chi
+ na\n⏰ 原始截止时间 (UTC-8): 2023-06-03 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://web
+ .archive.org/web/20230927013851/http://www.apweb-waim2023.com/\nDBLP索引
+ : https://dblp.org/db/conf/APWeb
+LOCATION:Wuhan\, China
+URL:https://web.archive.org/web/20230927013851/http://www.apweb-waim2023.c
+ om/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2023
+X-CCFDDL-ID:apweb23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2023 Deadline [Second round]
+DTSTART;TZID="UTC-08:00":20230610T235959
+DTEND;TZID="UTC-08:00":20230611T000059
+DTSTAMP:20261011T030847Z
+UID:7d720e5a-ca14-5481-926f-98c914033653
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: October 7-8\, 2023\n📍 会议地点: Wuhan\, Chi
+ na\n⏰ 原始截止时间 (UTC-8): 2023-06-10 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https://web
+ .archive.org/web/20230927013851/http://www.apweb-waim2023.com/\nDBLP索引
+ : https://dblp.org/db/conf/APWeb
+LOCATION:Wuhan\, China
+URL:https://web.archive.org/web/20230927013851/http://www.apweb-waim2023.c
+ om/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2023
+X-CCFDDL-ID:apweb23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2024 Deadline [first round]
+DTSTART;TZID="UTC-12:00":20240320T235959
+DTEND;TZID="UTC-12:00":20240321T000059
+DTSTAMP:20261011T030847Z
+UID:7763e13b-5cff-5d53-b2c2-11f72d0efb38
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: August 30 - September 1\, 2024\n📍 会议地点:
+  Jinhua\, China\n⏰ 原始截止时间 (UTC-12): 2024-03-20 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官
+ 网: https://apweb2024.zjnu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/
+ APWeb
+LOCATION:Jinhua\, China
+URL:https://apweb2024.zjnu.edu.cn/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2024
+X-CCFDDL-ID:apweb24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2024 Deadline [second round]
+DTSTART;TZID="UTC-12:00":20240523T235959
+DTEND;TZID="UTC-12:00":20240524T000059
+DTSTAMP:20261011T030847Z
+UID:4ea84eb0-05ba-5750-8250-94c5d5227b32
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: August 30 - September 1\, 2024\n📍 会议地点:
+  Jinhua\, China\n⏰ 原始截止时间 (UTC-12): 2024-05-23 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官
+ 网: https://apweb2024.zjnu.edu.cn/\nDBLP索引: https://dblp.org/db/conf/
+ APWeb
+LOCATION:Jinhua\, China
+URL:https://apweb2024.zjnu.edu.cn/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2024
+X-CCFDDL-ID:apweb24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2025 Deadline [first round]
+DTSTART;TZID="UTC-07:00":20250309T235959
+DTEND;TZID="UTC-07:00":20250310T000059
+DTSTAMP:20261011T030847Z
+UID:f25b3e8c-64dc-5591-9fc0-e013db30ef34
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: August 29-30\, 2025\n📍 会议地点: Shenyang\,
+  China\n⏰ 原始截止时间 (UTC-7): 2025-03-09 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https
+ ://apweb2025.sau.edu.cn/\nDBLP索引: https://dblp.org/db/conf/APWeb
+LOCATION:Shenyang\, China
+URL:https://apweb2025.sau.edu.cn/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2025
+X-CCFDDL-ID:apweb25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2025 Deadline [second round]
+DTSTART;TZID="UTC-07:00":20250518T235959
+DTEND;TZID="UTC-07:00":20250519T000059
+DTSTAMP:20261011T030847Z
+UID:af31f690-0e99-5238-a532-977894cb6904
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: August 29-30\, 2025\n📍 会议地点: Shenyang\,
+  China\n⏰ 原始截止时间 (UTC-7): 2025-05-18 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官网: https
+ ://apweb2025.sau.edu.cn/\nDBLP索引: https://dblp.org/db/conf/APWeb
+LOCATION:Shenyang\, China
+URL:https://apweb2025.sau.edu.cn/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2025
+X-CCFDDL-ID:apweb25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2026 Deadline [first round]
+DTSTART;TZID="UTC-12:00":20260331T235959
+DTEND;TZID="UTC-12:00":20260401T000059
+DTSTAMP:20261011T030847Z
+UID:eebd4f1e-cd5b-5b50-9790-6c542a30f75c
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: September 7-9\, 2026\n📍 会议地点: Danang\, 
+ Vietnam / Online\n⏰ 原始截止时间 (AoE): 2026-03-31 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官
+ 网: https://conferences.sigappfr.org/apweb2026/\nDBLP索引: https://dblp
+ .org/db/conf/APWeb
+LOCATION:Danang\, Vietnam / Online
+URL:https://conferences.sigappfr.org/apweb2026/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2026
+X-CCFDDL-ID:apweb26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APWeb-WAIM 2026 Deadline [second round]
+DTSTART;TZID="UTC-12:00":20260524T235959
+DTEND;TZID="UTC-12:00":20260525T000059
+DTSTAMP:20261011T030847Z
+UID:ff6440fc-b910-58e0-905d-6535f15069f3
+DESCRIPTION:APWeb-WAIM joint international conference on Web and Big Data
+ \n🗓️ 会议时间: September 7-9\, 2026\n📍 会议地点: Danang\, 
+ Vietnam / Online\n⏰ 原始截止时间 (AoE): 2026-05-24 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE C\n会议官
+ 网: https://conferences.sigappfr.org/apweb2026/\nDBLP索引: https://dblp
+ .org/db/conf/APWeb
+LOCATION:Danang\, Vietnam / Online
+URL:https://conferences.sigappfr.org/apweb2026/
+X-CCFDDL-CONFERENCE:APWeb-WAIM 2026
+X-CCFDDL-ID:apweb26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2021 Deadline
+DTSTART;TZID="UTC-12:00":20201015T235959
+DTEND;TZID="UTC-12:00":20201016T000059
+DTSTAMP:20261011T030847Z
+UID:d42dae89-acb2-5f4a-a732-1f1ca7e004a8
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 29-31\, 2021\n📍 会议地点: Online\n⏰ 原始截止时
+ 间 (AoE): 2020-10-15 23:59:59\n分类: 数据库/数据挖掘/内容检
+ 索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://www.ecir2021.eu/
+ \nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Online
+URL:https://www.ecir2021.eu/
+X-CCFDDL-CONFERENCE:ECIR 2021
+X-CCFDDL-ID:ecir21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2022 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20210930T235959
+DTEND;TZID="UTC-12:00":20211001T000059
+DTSTAMP:20261011T030847Z
+UID:7f83c089-bfdc-50f1-874b-b49f45f9ea7b
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: April 11-13\, 2022\n📍 会议地点: Stavanger\, Norway (with re
+ mote attendance)\n⏰ 原始截止时间 (AoE): 2021-09-30 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n
+ 会议官网: https://ecir2022.org/\nDBLP索引: https://dblp.org/db/conf/
+ ecir
+LOCATION:Stavanger\, Norway (with remote attendance)
+URL:https://ecir2022.org/
+X-CCFDDL-CONFERENCE:ECIR 2022
+X-CCFDDL-ID:ecir22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2022 Deadline
+DTSTART;TZID="UTC-12:00":20211007T235959
+DTEND;TZID="UTC-12:00":20211008T000059
+DTSTAMP:20261011T030847Z
+UID:b6a70db9-8f9b-556b-bd55-03c0d76e50de
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: April 11-13\, 2022\n📍 会议地点: Stavanger\, Norway (with re
+ mote attendance)\n⏰ 原始截止时间 (AoE): 2021-10-07 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n
+ 会议官网: https://ecir2022.org/\nDBLP索引: https://dblp.org/db/conf/
+ ecir
+LOCATION:Stavanger\, Norway (with remote attendance)
+URL:https://ecir2022.org/
+X-CCFDDL-CONFERENCE:ECIR 2022
+X-CCFDDL-ID:ecir22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2023 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20220930T235959
+DTEND;TZID="UTC-12:00":20221001T000059
+DTSTAMP:20261011T030847Z
+UID:b4205364-58e1-584e-8b3b-09f573609454
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 31\, 2023 (virtual)\; April 3-5\, 2023 (in person)\n📍 会
+ 议地点: Dublin\, Ireland / Online\n⏰ 原始截止时间 (AoE): 2022-0
+ 9-30 23:59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, C
+ ORE A\, THCPL B\n会议官网: https://ecir2023.org/\nDBLP索引: https://
+ dblp.org/db/conf/ecir
+LOCATION:Dublin\, Ireland / Online
+URL:https://ecir2023.org/
+X-CCFDDL-CONFERENCE:ECIR 2023
+X-CCFDDL-ID:ecir23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2023 Deadline
+DTSTART;TZID="UTC-12:00":20221007T235959
+DTEND;TZID="UTC-12:00":20221008T000059
+DTSTAMP:20261011T030847Z
+UID:f445ef15-c2c5-5bd6-a9da-aa05e4726771
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 31\, 2023 (virtual)\; April 3-5\, 2023 (in person)\n📍 会
+ 议地点: Dublin\, Ireland / Online\n⏰ 原始截止时间 (AoE): 2022-1
+ 0-07 23:59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, C
+ ORE A\, THCPL B\n会议官网: https://ecir2023.org/\nDBLP索引: https://
+ dblp.org/db/conf/ecir
+LOCATION:Dublin\, Ireland / Online
+URL:https://ecir2023.org/
+X-CCFDDL-CONFERENCE:ECIR 2023
+X-CCFDDL-ID:ecir23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20230927T235959
+DTEND;TZID="UTC-12:00":20230928T000059
+DTSTAMP:20261011T030847Z
+UID:d1af2766-045f-5131-a2ff-a5b76e327a10
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 25-27\, 2024\n📍 会议地点: Glasgow\, Scotland\n⏰ 原
+ 始截止时间 (AoE): 2023-09-27 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://www.ec
+ ir2024.org/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Glasgow\, Scotland
+URL:https://www.ecir2024.org/
+X-CCFDDL-CONFERENCE:ECIR 2024
+X-CCFDDL-ID:ecir24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2024 Deadline
+DTSTART;TZID="UTC-12:00":20231004T235959
+DTEND;TZID="UTC-12:00":20231005T000059
+DTSTAMP:20261011T030847Z
+UID:516f96f2-30cd-5efa-9480-801267442373
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 25-27\, 2024\n📍 会议地点: Glasgow\, Scotland\n⏰ 原
+ 始截止时间 (AoE): 2023-10-04 23:59:59\n分类: 数据库/数据挖掘
+ /内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://www.ec
+ ir2024.org/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Glasgow\, Scotland
+URL:https://www.ecir2024.org/
+X-CCFDDL-CONFERENCE:ECIR 2024
+X-CCFDDL-ID:ecir24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20241009T235959
+DTEND;TZID="UTC-12:00":20241010T000059
+DTSTAMP:20261011T030847Z
+UID:73ed3768-bf46-506a-baf3-8006237c55b2
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: April 7-9\, 2025\n📍 会议地点: Lucca\, Italy\n⏰ 原始截
+ 止时间 (UTC-12): 2024-10-09 23:59:59\n分类: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://ecir202
+ 5.eu/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Lucca\, Italy
+URL:https://ecir2025.eu/
+X-CCFDDL-CONFERENCE:ECIR 2025
+X-CCFDDL-ID:ecir25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2025 Deadline
+DTSTART;TZID="UTC-12:00":20241016T235959
+DTEND;TZID="UTC-12:00":20241017T000059
+DTSTAMP:20261011T030847Z
+UID:173a4967-92dc-5cc8-84c5-d1027ba455bc
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: April 7-9\, 2025\n📍 会议地点: Lucca\, Italy\n⏰ 原始截
+ 止时间 (UTC-12): 2024-10-16 23:59:59\n分类: 数据库/数据挖掘/
+ 内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://ecir202
+ 5.eu/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Lucca\, Italy
+URL:https://ecir2025.eu/
+X-CCFDDL-CONFERENCE:ECIR 2025
+X-CCFDDL-ID:ecir25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250925T235959
+DTEND;TZID="UTC-12:00":20250926T000059
+DTSTAMP:20261011T030847Z
+UID:81a3b491-5ee0-5a39-821a-4d7d49c72a98
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 30 - April 01\, 2026\n📍 会议地点: Delft\, The Netherl
+ ands\n⏰ 原始截止时间 (AoE): 2025-09-25 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: h
+ ttps://ecir2026.eu/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Delft\, The Netherlands
+URL:https://ecir2026.eu/
+X-CCFDDL-CONFERENCE:ECIR 2026
+X-CCFDDL-ID:ecir26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251002T235959
+DTEND;TZID="UTC-12:00":20251003T000059
+DTSTAMP:20261011T030847Z
+UID:c4aaa26c-3805-57d2-bb8c-62c7e21a5fad
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 30 - April 01\, 2026\n📍 会议地点: Delft\, The Netherl
+ ands\n⏰ 原始截止时间 (AoE): 2025-10-02 23:59:59\n分类: 数据库
+ /数据挖掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: h
+ ttps://ecir2026.eu/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Delft\, The Netherlands
+URL:https://ecir2026.eu/
+X-CCFDDL-CONFERENCE:ECIR 2026
+X-CCFDDL-ID:ecir26
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ECIR 2027 Abstract Deadline
+DTSTART:20260922T115959Z
+DTEND:20260922T120059Z
+DTSTAMP:20261011T030847Z
+UID:7fde50e6-f883-5b91-b40f-176167fa6167
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 21-25\, 2027\n📍 会议地点: Southampton\, UK\n⏰ 原
+ 始截止时间 (UTC+0): 2026-09-22 11:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://eci
+ r2027.co.uk/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Southampton\, UK
+URL:https://ecir2027.co.uk/
+X-CCFDDL-CONFERENCE:ECIR 2027
+X-CCFDDL-ID:ecir27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2027 Deadline
+DTSTART:20261006T115959Z
+DTEND:20261006T120059Z
+DTSTAMP:20261011T030847Z
+UID:508237f8-31c8-5954-820a-3ca74016ea98
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 21-25\, 2027\n📍 会议地点: Southampton\, UK\n⏰ 原
+ 始截止时间 (UTC+0): 2026-10-06 11:59:59\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://eci
+ r2027.co.uk/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Southampton\, UK
+URL:https://ecir2027.co.uk/
+X-CCFDDL-CONFERENCE:ECIR 2027
+X-CCFDDL-ID:ecir27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECIR 2027 Final Decisions
+DTSTART:20261208T115900Z
+DTEND:20261208T120000Z
+DTSTAMP:20261011T030847Z
+UID:7a76f2fb-accc-58a7-96fb-f1252e6de8f9
+DESCRIPTION:European Conference on Information Retrieval\n🗓️ 会议
+ 时间: March 21-25\, 2027\n📍 会议地点: Southampton\, UK\n⏰ 原
+ 始截止时间 (UTC+0): 2026-12-08 11:59:00\n分类: 数据库/数据挖
+ 掘/内容检索 (DB)\nCCF C\, CORE A\, THCPL B\n会议官网: https://eci
+ r2027.co.uk/\nDBLP索引: https://dblp.org/db/conf/ecir
+LOCATION:Southampton\, UK
+URL:https://ecir2027.co.uk/
+X-CCFDDL-CONFERENCE:ECIR 2027
+X-CCFDDL-ID:ecir27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2021 Abstract Deadline
+DTSTART;TZID="UTC-08:00":20201207T235959
+DTEND;TZID="UTC-08:00":20201208T000059
+DTSTAMP:20261011T030847Z
+UID:0c1a11fb-22ac-557e-ac61-e93896d4df5b
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: May 12-14\, 2021\n📍 会议地点: Online\n⏰ 
+ 原始截止时间 (UTC-8): 2020-12-07 23:59:59\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https://web.archiv
+ e.org/web/20210506055903/https://www.pakdd2021.org/Call/calls\nDBLP索引:
+  https://dblp.org/db/conf/pakdd
+LOCATION:Online
+URL:https://web.archive.org/web/20210506055903/https://www.pakdd2021.org/C
+ all/calls
+X-CCFDDL-CONFERENCE:PAKDD 2021
+X-CCFDDL-ID:pakdd21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2021 Deadline
+DTSTART;TZID="UTC-08:00":20201207T235959
+DTEND;TZID="UTC-08:00":20201208T000059
+DTSTAMP:20261011T030847Z
+UID:e8dc9947-3a30-52d8-8775-c735ccf61939
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: May 12-14\, 2021\n📍 会议地点: Online\n⏰ 
+ 原始截止时间 (UTC-8): 2020-12-07 23:59:59\n分类: 数据库/数据
+ 挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https://web.archiv
+ e.org/web/20210506055903/https://www.pakdd2021.org/Call/calls\nDBLP索引:
+  https://dblp.org/db/conf/pakdd
+LOCATION:Online
+URL:https://web.archive.org/web/20210506055903/https://www.pakdd2021.org/C
+ all/calls
+X-CCFDDL-CONFERENCE:PAKDD 2021
+X-CCFDDL-ID:pakdd21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2022 Deadline
+DTSTART;TZID="UTC-08:00":20211115T235959
+DTEND;TZID="UTC-08:00":20211116T000059
+DTSTAMP:20261011T030847Z
+UID:55e1070a-869b-5877-b100-e7cd5af704a9
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: May 17-19\, 2022\n📍 会议地点: Chengdu\, Chi
+ na / Online\n⏰ 原始截止时间 (UTC-8): 2021-11-15 23:59:59\n分类: 
+ 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: ht
+ tps://www.pakdd.net/\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Chengdu\, China / Online
+URL:https://www.pakdd.net/
+X-CCFDDL-CONFERENCE:PAKDD 2022
+X-CCFDDL-ID:pakdd22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2023 Deadline
+DTSTART;TZID="UTC-08:00":20221207T235959
+DTEND;TZID="UTC-08:00":20221208T000059
+DTSTAMP:20261011T030847Z
+UID:cd075065-1854-51b1-ad4d-35f56e3ebab2
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: May 26-28\, 2023\n📍 会议地点: Osaka\, Japan
+ \n⏰ 原始截止时间 (UTC-8): 2022-12-07 23:59:59\n分类: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https://pakd
+ d23.pakdd.org/\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Osaka\, Japan
+URL:https://pakdd23.pakdd.org/
+X-CCFDDL-CONFERENCE:PAKDD 2023
+X-CCFDDL-ID:pakdd23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2024 Deadline
+DTSTART;TZID="UTC-08:00":20231129T235959
+DTEND;TZID="UTC-08:00":20231130T000059
+DTSTAMP:20261011T030847Z
+UID:9bb7cba6-8093-53b1-9f24-af7c6cf70c42
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: May 8-10\, 2024\n📍 会议地点: Taipei\, Taiwa
+ n\n⏰ 原始截止时间 (UTC-8): 2023-11-29 23:59:59\n分类: 数据库/
+ 数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https://pakd
+ d2024.org\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Taipei\, Taiwan
+URL:https://pakdd2024.org
+X-CCFDDL-CONFERENCE:PAKDD 2024
+X-CCFDDL-ID:pakdd24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2025 Deadline
+DTSTART;TZID="UTC-08:00":20241214T235959
+DTEND;TZID="UTC-08:00":20241215T000059
+DTSTAMP:20261011T030847Z
+UID:e4587751-0b95-505f-87fe-9d0df997a6c6
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: June 11-13\, 2025\n📍 会议地点: Sydney\, Aus
+ tralia\n⏰ 原始截止时间 (UTC-8): 2024-12-14 23:59:59\n分类: 数
+ 据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https
+ ://pakdd2025.org\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Sydney\, Australia
+URL:https://pakdd2025.org
+X-CCFDDL-CONFERENCE:PAKDD 2025
+X-CCFDDL-ID:pakdd25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2026 Deadline
+DTSTART;TZID="UTC-08:00":20251125T235959
+DTEND;TZID="UTC-08:00":20251126T000059
+DTSTAMP:20261011T030847Z
+UID:ea298690-5486-5495-bade-26640c5fbefd
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: June 9-12\, 2026\n📍 会议地点: Hong Kong\, C
+ hina\n⏰ 原始截止时间 (UTC-8): 2025-11-25 23:59:59\n分类: 数据
+ 库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官网: https://
+ www.pakdd2026.org/\nDBLP索引: https://dblp.org/db/conf/pakdd
+LOCATION:Hong Kong\, China
+URL:https://www.pakdd2026.org/
+X-CCFDDL-CONFERENCE:PAKDD 2026
+X-CCFDDL-ID:pakdd26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2027 Deadline
+DTSTART;TZID="UTC-12:00":20261120T235959
+DTEND;TZID="UTC-12:00":20261121T000059
+DTSTAMP:20261011T030847Z
+UID:b2cde859-20b4-5523-8221-c510f8306987
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: June 29-July 2\, 2027\n📍 会议地点: Wellingt
+ on\, New Zealand\n⏰ 原始截止时间 (AoE): 2026-11-20 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官
+ 网: https://www.pakdd2027.org/\nDBLP索引: https://dblp.org/db/conf/pakd
+ d
+LOCATION:Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
+X-CCFDDL-CONFERENCE:PAKDD 2027
+X-CCFDDL-ID:pakdd27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAKDD 2027 Final Decisions
+DTSTART;TZID="UTC-12:00":20270226T235959
+DTEND;TZID="UTC-12:00":20270227T000059
+DTSTAMP:20261011T030847Z
+UID:9c8e218d-a1a0-51b1-ab0c-b3f04f35d4a0
+DESCRIPTION:Pacific-Asia Conference on Knowledge Discovery and Data Mining
+ \n🗓️ 会议时间: June 29-July 2\, 2027\n📍 会议地点: Wellingt
+ on\, New Zealand\n⏰ 原始截止时间 (AoE): 2027-02-26 23:59:59\n分
+ 类: 数据库/数据挖掘/内容检索 (DB)\nCCF C\, CORE B\n会议官
+ 网: https://www.pakdd2027.org/\nDBLP索引: https://dblp.org/db/conf/pakd
+ d
+LOCATION:Wellington\, New Zealand
+URL:https://www.pakdd2027.org/
+X-CCFDDL-CONFERENCE:PAKDD 2027
+X-CCFDDL-ID:pakdd27
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WISA 2021 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20210522T235959
+DTEND;TZID="UTC+08:00":20210523T000059
+DTSTAMP:20261011T030847Z
+UID:0e20cd28-04e6-562e-a019-f981df9bdf1b
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : December 11-12\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间
+  (UTC+8): 2021-05-22 23:59:59\n分类: 数据库/数据挖掘/内容检索
+  (DB)\nCCF C\n会议官网: https://tc.ccf.org.cn/tcis/xwdt/2021-05-08/730
+ 448.shtml\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Online
+URL:https://tc.ccf.org.cn/tcis/xwdt/2021-05-08/730448.shtml
+X-CCFDDL-CONFERENCE:WISA 2021
+X-CCFDDL-ID:wisa21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2021 Deadline
+DTSTART;TZID="UTC+08:00":20210522T235959
+DTEND;TZID="UTC+08:00":20210523T000059
+DTSTAMP:20261011T030847Z
+UID:f6c0b4a7-127a-5d49-9270-c2c62831c684
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : December 11-12\, 2021\n📍 会议地点: Online\n⏰ 原始截止时间
+  (UTC+8): 2021-05-22 23:59:59\n分类: 数据库/数据挖掘/内容检索
+  (DB)\nCCF C\n会议官网: https://tc.ccf.org.cn/tcis/xwdt/2021-05-08/730
+ 448.shtml\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Online
+URL:https://tc.ccf.org.cn/tcis/xwdt/2021-05-08/730448.shtml
+X-CCFDDL-CONFERENCE:WISA 2021
+X-CCFDDL-ID:wisa21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2022 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20220522T235959
+DTEND;TZID="UTC+08:00":20220523T000059
+DTSTAMP:20261011T030847Z
+UID:53c6d35e-2c70-59d1-bf17-51fb0397de93
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : December 3-4\, 2022\n📍 会议地点: Online\n⏰ 原始截止时间 (
+ UTC+8): 2022-05-22 23:59:59\n分类: 数据库/数据挖掘/内容检索 (
+ DB)\nCCF C\n会议官网: https://tc.ccf.org.cn/tcis/qkjhy/2022-04-30/7615
+ 81.shtml\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Online
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2022-04-30/761581.shtml
+X-CCFDDL-CONFERENCE:WISA 2022
+X-CCFDDL-ID:wisa22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2022 Deadline
+DTSTART;TZID="UTC+08:00":20220522T235959
+DTEND;TZID="UTC+08:00":20220523T000059
+DTSTAMP:20261011T030847Z
+UID:aad229e3-a6d1-536a-b608-a37ec1d0f7a9
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : December 3-4\, 2022\n📍 会议地点: Online\n⏰ 原始截止时间 (
+ UTC+8): 2022-05-22 23:59:59\n分类: 数据库/数据挖掘/内容检索 (
+ DB)\nCCF C\n会议官网: https://tc.ccf.org.cn/tcis/qkjhy/2022-04-30/7615
+ 81.shtml\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Online
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2022-04-30/761581.shtml
+X-CCFDDL-CONFERENCE:WISA 2022
+X-CCFDDL-ID:wisa22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2023 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20230522T235959
+DTEND;TZID="UTC+08:00":20230523T000059
+DTSTAMP:20261011T030847Z
+UID:24ee9abf-e2da-51e0-b069-0e14c750e6fc
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : TBD\n📍 会议地点: Chengdu\, China\n⏰ 原始截止时间 (UTC+8):
+  2023-05-22 23:59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCC
+ F C\n会议官网: https://tc.ccf.org.cn/tcis/qkjhy/2023-05-08/794114.shtm
+ l\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Chengdu\, China
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2023-05-08/794114.shtml
+X-CCFDDL-CONFERENCE:WISA 2023
+X-CCFDDL-ID:wisa23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230522T235959
+DTEND;TZID="UTC+08:00":20230523T000059
+DTSTAMP:20261011T030847Z
+UID:98b7c215-8967-51c9-8812-90b4dc453400
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : TBD\n📍 会议地点: Chengdu\, China\n⏰ 原始截止时间 (UTC+8):
+  2023-05-22 23:59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nCC
+ F C\n会议官网: https://tc.ccf.org.cn/tcis/qkjhy/2023-05-08/794114.shtm
+ l\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Chengdu\, China
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2023-05-08/794114.shtml
+X-CCFDDL-CONFERENCE:WISA 2023
+X-CCFDDL-ID:wisa23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2024 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20240415T235959
+DTEND;TZID="UTC+08:00":20240416T000059
+DTSTAMP:20261011T030847Z
+UID:4f90f4b0-6952-526f-92ad-1efd9d7167b4
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : TBD\n📍 会议地点: Yinchuan\, China\n⏰ 原始截止时间 (UTC+8)
+ : 2024-04-15 23:59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nC
+ CF C\n会议官网: https://tc.ccf.org.cn/tcis/qkjhy/2024-02-07/823461.sht
+ ml\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Yinchuan\, China
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2024-02-07/823461.shtml
+X-CCFDDL-CONFERENCE:WISA 2024
+X-CCFDDL-ID:wisa24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240422T235959
+DTEND;TZID="UTC+08:00":20240423T000059
+DTSTAMP:20261011T030847Z
+UID:b6d3c7c0-cf2d-5b0c-8ff8-7720b7817e07
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : TBD\n📍 会议地点: Yinchuan\, China\n⏰ 原始截止时间 (UTC+8)
+ : 2024-04-22 23:59:59\n分类: 数据库/数据挖掘/内容检索 (DB)\nC
+ CF C\n会议官网: https://tc.ccf.org.cn/tcis/qkjhy/2024-02-07/823461.sht
+ ml\nDBLP索引: https://dblp.org/db/conf/wisa
+LOCATION:Yinchuan\, China
+URL:https://tc.ccf.org.cn/tcis/qkjhy/2024-02-07/823461.shtml
+X-CCFDDL-CONFERENCE:WISA 2024
+X-CCFDDL-ID:wisa24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2025 Deadline [Abstract dates conflict]
+DTSTART;TZID="UTC+08:00":20250615T235959
+DTEND;TZID="UTC+08:00":20250616T000059
+DTSTAMP:20261011T030847Z
+UID:53decb9f-3b4e-5c11-8d1f-0e83dbd4b3b4
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : November 1-2\, 2025\n📍 会议地点: Xi'an\, China\n⏰ 原始截止
+ 时间 (UTC+8): 2025-06-15 23:59:59\n分类: 数据库/数据挖掘/内容
+ 检索 (DB)\nCCF C\n会议官网: https://conf.ccf.org.cn/web/html7/index.
+ html?globalId=m1368277325078204416174626433566&type=1\nDBLP索引: https:/
+ /dblp.org/db/conf/wisa
+LOCATION:Xi'an\, China
+URL:https://conf.ccf.org.cn/web/html7/index.html?globalId=m136827732507820
+ 4416174626433566&type=1
+X-CCFDDL-CONFERENCE:WISA 2025
+X-CCFDDL-ID:wisa25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2026 Abstract Deadline
+DTSTART;TZID="UTC+08:00":20260518T235959
+DTEND;TZID="UTC+08:00":20260519T000059
+DTSTAMP:20261011T030847Z
+UID:38ac13ae-f7a0-5a8c-8947-9355f1b92c64
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : August 07-09\, 2026\n📍 会议地点: Kunming\, China\n⏰ 原始截
+ 止时间 (UTC+8): 2026-05-18 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF C\n会议官网: https://conf.ccf.org.cn/WISA2026\nDBL
+ P索引: https://dblp.org/db/conf/wisa
+LOCATION:Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
+X-CCFDDL-CONFERENCE:WISA 2026
+X-CCFDDL-ID:wisa2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISA 2026 Deadline
+DTSTART;TZID="UTC+08:00":20260518T235959
+DTEND;TZID="UTC+08:00":20260519T000059
+DTSTAMP:20261011T030847Z
+UID:30472953-d8d5-5a50-9ee4-77395ccf6d2f
+DESCRIPTION:Web Information Systems and Applications\n🗓️ 会议时间
+ : August 07-09\, 2026\n📍 会议地点: Kunming\, China\n⏰ 原始截
+ 止时间 (UTC+8): 2026-05-18 23:59:59\n分类: 数据库/数据挖掘/内
+ 容检索 (DB)\nCCF C\n会议官网: https://conf.ccf.org.cn/WISA2026\nDBL
+ P索引: https://dblp.org/db/conf/wisa
+LOCATION:Kunming\, China
+URL:https://conf.ccf.org.cn/WISA2026
+X-CCFDDL-CONFERENCE:WISA 2026
+X-CCFDDL-ID:wisa2026
+END:VEVENT
+END:VCALENDAR

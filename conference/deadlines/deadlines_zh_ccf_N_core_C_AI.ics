@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-05:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-05:00
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICMLA 2022 Deadline [Main Conference Papers DDL.]
+DTSTART;TZID="UTC-05:00":20220718T235959
+DTEND;TZID="UTC-05:00":20220719T000059
+DTSTAMP:20261011T030840Z
+UID:ee8f5183-df34-5921-b9ff-86faee3e7b3b
+DESCRIPTION:International Conference on Machine Learning and Applications
+ \n🗓️ 会议时间: December 12-14\, 2022\n📍 会议地点: Atlantis
+  Hotel\, Bahamas\n⏰ 原始截止时间 (UTC-5): 2022-07-18 23:59:59\n分
+ 类: 人工智能 (AI)\nCORE C\n会议官网: https://www.icmla-conference
+ .org/icmla22/\nDBLP索引: https://dblp.org/db/conf/icmla
+LOCATION:Atlantis Hotel\, Bahamas
+URL:https://www.icmla-conference.org/icmla22/
+X-CCFDDL-CONFERENCE:ICMLA 2022
+X-CCFDDL-ID:icmla22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-07:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-07:00
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICMLA 2023 Deadline [Main Conference Papers DDL.]
+DTSTART;TZID="UTC-07:00":20230731T235959
+DTEND;TZID="UTC-07:00":20230801T000059
+DTSTAMP:20261011T030840Z
+UID:32b60f42-035c-547d-9bbd-aac7466cc7e1
+DESCRIPTION:International Conference on Machine Learning and Applications
+ \n🗓️ 会议时间: December 15-17\, 2023\n📍 会议地点: Hyatt Re
+ gency Jacksonville Riverfront\, Florida\, USA\n⏰ 原始截止时间 (PT)
+ : 2023-07-31 23:59:59\n分类: 人工智能 (AI)\nCORE C\n会议官网: ht
+ tps://www.icmla-conference.org/icmla23/\nDBLP索引: https://dblp.org/db/c
+ onf/icmla
+LOCATION:Hyatt Regency Jacksonville Riverfront\, Florida\, USA
+URL:https://www.icmla-conference.org/icmla23/
+X-CCFDDL-CONFERENCE:ICMLA 2023
+X-CCFDDL-ID:icmla23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMLA 2024 Deadline [Main Conference Papers DDL.]
+DTSTART;TZID="UTC-07:00":20240731T235959
+DTEND;TZID="UTC-07:00":20240801T000059
+DTSTAMP:20261011T030840Z
+UID:b883dd27-a319-5a74-b451-f202724e60d4
+DESCRIPTION:International Conference on Machine Learning and Applications
+ \n🗓️ 会议时间: December 18-20\, 2024\n📍 会议地点: Hyatt Re
+ gency Coral Gables\, Miami\, Florida\, USA\n⏰ 原始截止时间 (PT): 2
+ 024-07-31 23:59:59\n分类: 人工智能 (AI)\nCORE C\n会议官网: https
+ ://www.icmla-conference.org/icmla24/\nDBLP索引: https://dblp.org/db/conf
+ /icmla
+LOCATION:Hyatt Regency Coral Gables\, Miami\, Florida\, USA
+URL:https://www.icmla-conference.org/icmla24/
+X-CCFDDL-CONFERENCE:ICMLA 2024
+X-CCFDDL-ID:icmla24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMLA 2025 Deadline [Main Conference Papers DDL.]
+DTSTART;TZID="UTC-07:00":20250728T235959
+DTEND;TZID="UTC-07:00":20250729T000059
+DTSTAMP:20261011T030840Z
+UID:ef18349b-cb3c-529f-bc81-c4d7a1cf3ffa
+DESCRIPTION:International Conference on Machine Learning and Applications
+ \n🗓️ 会议时间: December 3-5\, 2025\n📍 会议地点: Boca Raton
+  Marriot at Boca Center\, Florida\, USA\n⏰ 原始截止时间 (PT): 2025
+ -07-28 23:59:59\n分类: 人工智能 (AI)\nCORE C\n会议官网: https://
+ www.icmla-conference.org/icmla25/\nDBLP索引: https://dblp.org/db/conf/ic
+ mla
+LOCATION:Boca Raton Marriot at Boca Center\, Florida\, USA
+URL:https://www.icmla-conference.org/icmla25/
+X-CCFDDL-CONFERENCE:ICMLA 2025
+X-CCFDDL-ID:icmla25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICMLA 2026 Deadline [Main Conference Papers DDL.]
+DTSTART;TZID="UTC-07:00":20260531T235959
+DTEND;TZID="UTC-07:00":20260601T000059
+DTSTAMP:20261011T030840Z
+UID:a7ba20c2-a971-539d-8020-77c451f16f00
+DESCRIPTION:International Conference on Machine Learning and Applications
+ \n🗓️ 会议时间: October 5-7\, 2026\n📍 会议地点: Oakland Cen
+ ter\, Rochester\, Michigan\, USA\n⏰ 原始截止时间 (PT): 2026-05-31 
+ 23:59:59\n分类: 人工智能 (AI)\nCORE C\n会议官网: https://www.icm
+ la-conference.org/icmla26/\nDBLP索引: https://dblp.org/db/conf/icmla
+LOCATION:Oakland Center\, Rochester\, Michigan\, USA
+URL:https://www.icmla-conference.org/icmla26/
+X-CCFDDL-CONFERENCE:ICMLA 2026
+X-CCFDDL-ID:icmla26
+END:VEVENT
+END:VCALENDAR

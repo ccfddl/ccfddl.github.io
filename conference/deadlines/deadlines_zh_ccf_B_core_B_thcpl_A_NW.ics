@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-04:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-04:00
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0400
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICNP 2021 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20210517T200000
+DTEND;TZID="UTC-04:00":20210517T200100
+DTSTAMP:20261011T030900Z
+UID:771a6c33-0719-5eea-86d8-65d6ead61813
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: November 2-5\, 2021\n📍 会议地点: Virtual\n⏰ 原始
+ 截止时间 (UTC-4): 2021-05-17 20:00:00\n分类: 计算机网络 (NW)\nC
+ CF B\, CORE B\, THCPL A\n会议官网: https://icnp21.cs.ucr.edu/index.htm
+ l\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Virtual
+URL:https://icnp21.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2021
+X-CCFDDL-ID:icnp21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2021 Deadline
+DTSTART;TZID="UTC-04:00":20210524T200000
+DTEND;TZID="UTC-04:00":20210524T200100
+DTSTAMP:20261011T030900Z
+UID:b12b6e1a-17a0-5ed0-81cd-1b6147cd53f3
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: November 2-5\, 2021\n📍 会议地点: Virtual\n⏰ 原始
+ 截止时间 (UTC-4): 2021-05-24 20:00:00\n分类: 计算机网络 (NW)\nC
+ CF B\, CORE B\, THCPL A\n会议官网: https://icnp21.cs.ucr.edu/index.htm
+ l\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Virtual
+URL:https://icnp21.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2021
+X-CCFDDL-ID:icnp21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2022 Abstract Deadline
+DTSTART;TZID="UTC-04:00":20220519T200000
+DTEND;TZID="UTC-04:00":20220519T200100
+DTSTAMP:20261011T030900Z
+UID:d6bf0e42-532a-5c7a-9707-8ba810bd7ba5
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 31-November 2\, 2022\n📍 会议地点: Lexington\,
+  Kentucky\, USA\n⏰ 原始截止时间 (UTC-4): 2022-05-19 20:00:00\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https:/
+ /icnp22.cs.ucr.edu/index.html\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Lexington\, Kentucky\, USA
+URL:https://icnp22.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2022
+X-CCFDDL-ID:icnp22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2022 Deadline
+DTSTART;TZID="UTC-04:00":20220526T200000
+DTEND;TZID="UTC-04:00":20220526T200100
+DTSTAMP:20261011T030900Z
+UID:aaa65b04-a7b9-530a-8c5c-1f3cc44e056a
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 31-November 2\, 2022\n📍 会议地点: Lexington\,
+  Kentucky\, USA\n⏰ 原始截止时间 (UTC-4): 2022-05-26 20:00:00\n分
+ 类: 计算机网络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https:/
+ /icnp22.cs.ucr.edu/index.html\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Lexington\, Kentucky\, USA
+URL:https://icnp22.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2022
+X-CCFDDL-ID:icnp22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2023 Abstract Deadline [Full clock: CFP 20:00 vs system 23:59
+ :59 EDT]
+DTSTART;TZID="UTC-04:00":20230524T235959
+DTEND;TZID="UTC-04:00":20230525T000059
+DTSTAMP:20261011T030900Z
+UID:cdce31c5-abde-5240-bd48-2f92da8eaa54
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 11-13\, 2023\n📍 会议地点: Reykjavik\, Iceland
+ \n⏰ 原始截止时间 (UTC-4): 2023-05-24 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://icnp23.cs.ucr
+ .edu/index.html\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Reykjavik\, Iceland
+URL:https://icnp23.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2023
+X-CCFDDL-ID:icnp23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICNP 2024 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20240517T235959
+DTEND;TZID="UTC-12:00":20240518T000059
+DTSTAMP:20261011T030900Z
+UID:97be9a59-6fe5-57b0-b10e-4a08df474134
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 29-31\, 2024\n📍 会议地点: Charleroi\, Belgium
+ \n⏰ 原始截止时间 (AoE): 2024-05-17 23:59:59\n分类: 计算机网
+ 络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://icnp24.cs.ucr.ed
+ u/index.html\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Charleroi\, Belgium
+URL:https://icnp24.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2024
+X-CCFDDL-ID:icnp24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240524T235959
+DTEND;TZID="UTC-12:00":20240525T000059
+DTSTAMP:20261011T030900Z
+UID:8b29edb1-7d9e-529d-8b89-c20690ded960
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 29-31\, 2024\n📍 会议地点: Charleroi\, Belgium
+ \n⏰ 原始截止时间 (AoE): 2024-05-24 23:59:59\n分类: 计算机网
+ 络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://icnp24.cs.ucr.ed
+ u/index.html\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Charleroi\, Belgium
+URL:https://icnp24.cs.ucr.edu/index.html
+X-CCFDDL-CONFERENCE:ICNP 2024
+X-CCFDDL-ID:icnp24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2025 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20250509T235959
+DTEND;TZID="UTC-12:00":20250510T000059
+DTSTAMP:20261011T030900Z
+UID:f6ed4c65-aee0-5d50-9757-49ef134db2bd
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: September 23-25\, 2025\n📍 会议地点: Seoul\, South Kor
+ ea\n⏰ 原始截止时间 (AoE): 2025-05-09 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://ieeeicnp2025.
+ pages.dev/\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Seoul\, South Korea
+URL:https://ieeeicnp2025.pages.dev/
+X-CCFDDL-CONFERENCE:ICNP 2025
+X-CCFDDL-ID:icnp25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250516T235959
+DTEND;TZID="UTC-12:00":20250517T000059
+DTSTAMP:20261011T030900Z
+UID:94566735-a393-5a0a-a366-674af521b9db
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: September 23-25\, 2025\n📍 会议地点: Seoul\, South Kor
+ ea\n⏰ 原始截止时间 (AoE): 2025-05-16 23:59:59\n分类: 计算机
+ 网络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://ieeeicnp2025.
+ pages.dev/\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Seoul\, South Korea
+URL:https://ieeeicnp2025.pages.dev/
+X-CCFDDL-CONFERENCE:ICNP 2025
+X-CCFDDL-ID:icnp25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2026 Abstract Deadline
+DTSTART;TZID="UTC-12:00":20260515T235959
+DTEND;TZID="UTC-12:00":20260516T000059
+DTSTAMP:20261011T030900Z
+UID:76520f8e-e9ac-574e-aacc-7252db076567
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 6-8\, 2026\n📍 会议地点: Tempe\, Arizona\, USA
+ \n⏰ 原始截止时间 (AoE): 2026-05-15 23:59:59\n分类: 计算机网
+ 络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://icnp26.cs.ucr.ed
+ u/\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Tempe\, Arizona\, USA
+URL:https://icnp26.cs.ucr.edu/
+X-CCFDDL-CONFERENCE:ICNP 2026
+X-CCFDDL-ID:icnp26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICNP 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260522T235959
+DTEND;TZID="UTC-12:00":20260523T000059
+DTSTAMP:20261011T030900Z
+UID:1799d064-be5a-5425-8a58-d1bfe57553cf
+DESCRIPTION:IEEE International Conference on Network Protocols\n🗓️ 
+ 会议时间: October 6-8\, 2026\n📍 会议地点: Tempe\, Arizona\, USA
+ \n⏰ 原始截止时间 (AoE): 2026-05-22 23:59:59\n分类: 计算机网
+ 络 (NW)\nCCF B\, CORE B\, THCPL A\n会议官网: https://icnp26.cs.ucr.ed
+ u/\nDBLP索引: https://dblp.org/db/conf/icnp
+LOCATION:Tempe\, Arizona\, USA
+URL:https://icnp26.cs.ucr.edu/
+X-CCFDDL-CONFERENCE:ICNP 2026
+X-CCFDDL-ID:icnp26
+END:VEVENT
+END:VCALENDAR

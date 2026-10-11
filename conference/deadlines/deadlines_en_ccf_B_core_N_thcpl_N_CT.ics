@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CCC 2021 Deadline
+DTSTART;TZID="UTC-08:00":20210215T170000
+DTEND;TZID="UTC-08:00":20210215T170100
+DTSTAMP:20261011T030952Z
+UID:789101a5-faf9-5957-b76f-bbb1a784faf0
+DESCRIPTION:Computational Complexity Conference\n🗓️ Date: July 20-22
+ \, 2021\n📍 Location: Online\n⏰ Original Deadline (UTC-8): 2021-02-15 
+ 17:00:00\nCategory: 计算机科学理论 (CT)\nCCF B\nConference Website:
+  https://computationalcomplexity.org/Archive/2021/cfp.html\nDBLP Index: ht
+ tps://dblp.org/db/conf/coco
+LOCATION:Online
+URL:https://computationalcomplexity.org/Archive/2021/cfp.html
+X-CCFDDL-CONFERENCE:CCC 2021
+X-CCFDDL-ID:ccc21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCC 2022 Deadline
+DTSTART;TZID="UTC-08:00":20220214T170000
+DTEND;TZID="UTC-08:00":20220214T170100
+DTSTAMP:20261011T030952Z
+UID:44327500-6cb5-5cd4-9477-22d1da99f713
+DESCRIPTION:Computational Complexity Conference\n🗓️ Date: July 20-23
+ \, 2022\n📍 Location: Philadelphia\, Pennsylvania\, USA\n⏰ Original De
+ adline (UTC-8): 2022-02-14 17:00:00\nCategory: 计算机科学理论 (CT)
+ \nCCF B\nConference Website: https://computationalcomplexity.org/Archive/2
+ 022/cfp.html\nDBLP Index: https://dblp.org/db/conf/coco
+LOCATION:Philadelphia\, Pennsylvania\, USA
+URL:https://computationalcomplexity.org/Archive/2022/cfp.html
+X-CCFDDL-CONFERENCE:CCC 2022
+X-CCFDDL-ID:ccc22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CCC 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230210T235959
+DTEND;TZID="UTC-12:00":20230211T000059
+DTSTAMP:20261011T030953Z
+UID:30078184-9348-54cd-9b36-959785104a83
+DESCRIPTION:Computational Complexity Conference\n🗓️ Date: July 17-20
+ \, 2023\n📍 Location: Warwick\, UK\n⏰ Original Deadline (AoE): 2023-02
+ -10 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nConference Webs
+ ite: https://computationalcomplexity.org/Archive/2023/cfp.html\nDBLP Index
+ : https://dblp.org/db/conf/coco
+LOCATION:Warwick\, UK
+URL:https://computationalcomplexity.org/Archive/2023/cfp.html
+X-CCFDDL-CONFERENCE:CCC 2023
+X-CCFDDL-ID:ccc23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCC 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240216T235959
+DTEND;TZID="UTC-12:00":20240217T000059
+DTSTAMP:20261011T030953Z
+UID:362bf496-1e66-5a1e-a13b-91f80111b945
+DESCRIPTION:Computational Complexity Conference\n🗓️ Date: July 22-25
+ \, 2024\n📍 Location: Ann Arbor\, Michigan\, USA\n⏰ Original Deadline 
+ (AoE): 2024-02-16 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nC
+ onference Website: https://computationalcomplexity.org/Archive/2024/cfp.ht
+ ml\nDBLP Index: https://dblp.org/db/conf/coco
+LOCATION:Ann Arbor\, Michigan\, USA
+URL:https://computationalcomplexity.org/Archive/2024/cfp.html
+X-CCFDDL-CONFERENCE:CCC 2024
+X-CCFDDL-ID:ccc24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCC 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250207T235959
+DTEND;TZID="UTC-12:00":20250208T000059
+DTSTAMP:20261011T030953Z
+UID:71c89bba-8c37-5506-9c37-8bfae78701f3
+DESCRIPTION:Computational Complexity Conference\n🗓️ Date: August 5-8
+ \, 2025\n📍 Location: Toronto\, Canada\n⏰ Original Deadline (AoE): 202
+ 5-02-07 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nConference 
+ Website: https://computationalcomplexity.org/Archive/2025/cfp.html\nDBLP I
+ ndex: https://dblp.org/db/conf/coco
+LOCATION:Toronto\, Canada
+URL:https://computationalcomplexity.org/Archive/2025/cfp.html
+X-CCFDDL-CONFERENCE:CCC 2025
+X-CCFDDL-ID:ccc25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCC 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260206T235959
+DTEND;TZID="UTC-12:00":20260207T000059
+DTSTAMP:20261011T030953Z
+UID:ef4f7766-bfe9-5949-8bfe-a0f4779edd11
+DESCRIPTION:Computational Complexity Conference\n🗓️ Date: August 3-6
+ \, 2026\n📍 Location: Lisbon\, Portugal\n⏰ Original Deadline (AoE): 20
+ 26-02-06 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nConference
+  Website: https://computationalcomplexity.org/Archive/2026/cfp.html\nDBLP 
+ Index: https://dblp.org/db/conf/coco
+LOCATION:Lisbon\, Portugal
+URL:https://computationalcomplexity.org/Archive/2026/cfp.html
+X-CCFDDL-CONFERENCE:CCC 2026
+X-CCFDDL-ID:ccc26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210630T235959
+DTEND;TZID="UTC-12:00":20210701T000059
+DTSTAMP:20261011T030953Z
+UID:7bc64d4c-6fa8-57cf-af26-87c2b570cefd
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: October 25-26\, 2021\n📍 Location: Tainan\, Taiwan\n⏰ Original D
+ eadline (AoE): 2021-06-30 23:59:59\nCategory: 计算机科学理论 (CT)\n
+ CCF B\nConference Website: http://cocoon-conference.org/2021/\nDBLP Index:
+  https://dblp.org/db/conf/cocoon
+LOCATION:Tainan\, Taiwan
+URL:http://cocoon-conference.org/2021/
+X-CCFDDL-CONFERENCE:COCOON 2021
+X-CCFDDL-ID:cocoon21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220630T235959
+DTEND;TZID="UTC-12:00":20220701T000059
+DTSTAMP:20261011T030953Z
+UID:a11fce7e-6ede-5711-b0c9-6ecbf3d4d861
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: October 22-23\, 2022\n📍 Location: Online / Shenzhen\, China (form
+ at unconfirmed)\n⏰ Original Deadline (AoE): 2022-06-30 23:59:59\nCategor
+ y: 计算机科学理论 (CT)\nCCF B\nConference Website: http://cocoon-co
+ nference.org/2022/\nDBLP Index: https://dblp.org/db/conf/cocoon
+LOCATION:Online / Shenzhen\, China (format unconfirmed)
+URL:http://cocoon-conference.org/2022/
+X-CCFDDL-CONFERENCE:COCOON 2022
+X-CCFDDL-ID:cocoon22
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+02:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+02:00
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:COCOON 2023 Deadline
+DTSTART;TZID="UTC+02:00":20230630T235959
+DTEND;TZID="UTC+02:00":20230701T000059
+DTSTAMP:20261011T030953Z
+UID:b5e7a17c-96ac-53ea-bbf3-3e0cc6c87e46
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: December 15-17\, 2023\n📍 Location: Honolulu\, Hawaii\, USA\n⏰ O
+ riginal Deadline (UTC+2): 2023-06-30 23:59:59\nCategory: 计算机科学
+ 理论 (CT)\nCCF B\nConference Website: https://theory.utdallas.edu/COCOON
+ 2023/index.html\nDBLP Index: https://dblp.org/db/conf/cocoon
+LOCATION:Honolulu\, Hawaii\, USA
+URL:https://theory.utdallas.edu/COCOON2023/index.html
+X-CCFDDL-CONFERENCE:COCOON 2023
+X-CCFDDL-ID:cocoon23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240408T235959
+DTEND;TZID="UTC-12:00":20240409T000059
+DTSTAMP:20261011T030953Z
+UID:009dc068-398c-5672-b69f-aadc286d4e83
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: August 23-25\, 2024\n📍 Location: Shanghai\, China\n⏰ Original D
+ eadline (AoE): 2024-04-08 23:59:59\nCategory: 计算机科学理论 (CT)\n
+ CCF B\nConference Website: https://anl.sjtu.edu.cn/cocoon2024/\nDBLP Index
+ : https://dblp.org/db/conf/cocoon
+LOCATION:Shanghai\, China
+URL:https://anl.sjtu.edu.cn/cocoon2024/
+X-CCFDDL-CONFERENCE:COCOON 2024
+X-CCFDDL-ID:cocoon24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250305T235959
+DTEND;TZID="UTC-12:00":20250306T000059
+DTSTAMP:20261011T030953Z
+UID:00aa09b7-03a8-58f3-a6c0-809e3da18ccd
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: August 15-17\, 2025\n📍 Location: Chengdu\, China\n⏰ Original De
+ adline (AoE): 2025-03-05 23:59:59\nCategory: 计算机科学理论 (CT)\nC
+ CF B\nConference Website: https://tcsuestc.com/cocoon2025\nDBLP Index: htt
+ ps://dblp.org/db/conf/cocoon
+LOCATION:Chengdu\, China
+URL:https://tcsuestc.com/cocoon2025
+X-CCFDDL-CONFERENCE:COCOON 2025
+X-CCFDDL-ID:cocoon25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COCOON 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260304T235959
+DTEND;TZID="UTC-12:00":20260305T000059
+DTSTAMP:20261011T030953Z
+UID:1a341de9-12bc-59db-9d80-e80a6a2da05b
+DESCRIPTION:International Computing and Combinatorics Conference\n🗓️ 
+ Date: July 23-25\, 2026\n📍 Location: Singapore\n⏰ Original Deadline (
+ AoE): 2026-03-04 23:59:59\nCategory: 计算机科学理论 (CT)\nCCF B\nCo
+ nference Website: https://event.ntu.edu.sg/cocoon2026\nDBLP Index: https:/
+ /dblp.org/db/conf/cocoon
+LOCATION:Singapore
+URL:https://event.ntu.edu.sg/cocoon2026
+X-CCFDDL-CONFERENCE:COCOON 2026
+X-CCFDDL-ID:cocoon26
+END:VEVENT
+END:VCALENDAR

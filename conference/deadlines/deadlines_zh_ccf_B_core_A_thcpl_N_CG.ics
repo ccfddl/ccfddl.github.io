@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC-08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-08:00
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2021 Deadline
+DTSTART;TZID="UTC-08:00":20201213T235959
+DTEND;TZID="UTC-08:00":20201214T000059
+DTSTAMP:20261011T030843Z
+UID:295c2052-61cb-58ea-9ab3-3e98d5f257f0
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 6-8\, 2021\n📍 会议地点: Online\n⏰ 原始
+ 截止时间 (UTC-8): 2020-12-13 23:59:59\n分类: 计算机图形学与
+ 多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://2021.ieeeicme.org/20
+ 21.ieeeicme.org/index.html\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Online
+URL:https://2021.ieeeicme.org/2021.ieeeicme.org/index.html
+X-CCFDDL-CONFERENCE:ICME 2021
+X-CCFDDL-ID:icme21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2022 Deadline
+DTSTART;TZID="UTC-08:00":20211222T235959
+DTEND;TZID="UTC-08:00":20211223T000059
+DTSTAMP:20261011T030843Z
+UID:a9bd7517-d2c8-55b0-ae12-d55e7473f7df
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 19-21\, 2022\n📍 会议地点: Taipei\, Taiwan\, 
+ China\n⏰ 原始截止时间 (UTC-8): 2021-12-22 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: http://2022.i
+ eeeicme.org/paper.html\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Taipei\, Taiwan\, China
+URL:http://2022.ieeeicme.org/paper.html
+X-CCFDDL-CONFERENCE:ICME 2022
+X-CCFDDL-ID:icme22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2023 Deadline
+DTSTART;TZID="UTC-08:00":20221222T235959
+DTEND;TZID="UTC-08:00":20221223T000059
+DTSTAMP:20261011T030843Z
+UID:2ce74228-2bff-5bae-819d-fca589046bc2
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 11-14\, 2023\n📍 会议地点: Brisbane\, Austral
+ ia\n⏰ 原始截止时间 (UTC-8): 2022-12-22 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://www.2023
+ .ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Brisbane\, Australia
+URL:https://www.2023.ieeeicme.org/
+X-CCFDDL-CONFERENCE:ICME 2023
+X-CCFDDL-ID:icme23
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC+00:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+00:00
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2024 Deadline
+DTSTART:20231230T235959Z
+DTEND:20231231T000059Z
+DTSTAMP:20261011T030844Z
+UID:24701d6c-4982-578f-ba03-c1e6792c9c3f
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 16-18\, 2024\n📍 会议地点: Niagara Falls\, ON
+ \, Canada\n⏰ 原始截止时间 (UTC+0): 2023-12-30 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https:/
+ /2024.ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Niagara Falls\, ON\, Canada
+URL:https://2024.ieeeicme.org/
+X-CCFDDL-CONFERENCE:ICME 2024
+X-CCFDDL-ID:icme24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICME 2025 Deadline
+DTSTART:20241223T235959Z
+DTEND:20241224T000059Z
+DTSTAMP:20261011T030844Z
+UID:d15d323e-3986-59a7-8336-c34baa4b91f7
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: June 30 - July 4\, 2025\n📍 会议地点: Nantes\, Fra
+ nce\n⏰ 原始截止时间 (UTC+0): 2024-12-23 23:59:59\n分类: 计算
+ 机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://2025.
+ ieeeicme.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Nantes\, France
+URL:https://2025.ieeeicme.org/
+X-CCFDDL-CONFERENCE:ICME 2025
+X-CCFDDL-ID:icme25
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:ICME 2026 Deadline
+DTSTART;TZID="UTC-12:00":20251231T235959
+DTEND;TZID="UTC-12:00":20260101T000059
+DTSTAMP:20261011T030844Z
+UID:07ed4d9b-c718-5e25-bbe0-aedca1c0c044
+DESCRIPTION:The IEEE International Conference on Multimedia & Expo\n🗓
+ ️ 会议时间: July 5-9\, 2026\n📍 会议地点: Bangkok\, Thailand\n
+ ⏰ 原始截止时间 (UTC-12): 2025-12-31 23:59:59\n分类: 计算机图
+ 形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://2026.ieeeic
+ me.org/\nDBLP索引: https://dblp.org/db/conf/icme
+LOCATION:Bangkok\, Thailand
+URL:https://2026.ieeeicme.org/
+X-CCFDDL-CONFERENCE:ICME 2026
+X-CCFDDL-ID:icme26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2021 Deadline
+DTSTART;TZID="UTC-12:00":20210326T235959
+DTEND;TZID="UTC-12:00":20210327T000059
+DTSTAMP:20261011T030844Z
+UID:8208ca47-4125-518a-92ef-f6b84c4122cf
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 31 - September 3\, 2021\n📍 会议地
+ 点: Brno\, Czech Republic and Online\n⏰ 原始截止时间 (UTC-12): 20
+ 21-03-26 23:59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, CO
+ RE A\n会议官网: https://www.interspeech2021.org/\nDBLP索引: https://
+ dblp.org/db/conf/interspeech
+LOCATION:Brno\, Czech Republic and Online
+URL:https://www.interspeech2021.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2021
+X-CCFDDL-ID:interspeech21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2022 Deadline
+DTSTART;TZID="UTC-12:00":20220321T235959
+DTEND;TZID="UTC-12:00":20220322T000059
+DTSTAMP:20261011T030844Z
+UID:f378c736-f2ad-59f4-846a-eeead3cb8c24
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 19-22\, 2022\n📍 会议地点: Inche
+ on\, South Korea and Online\n⏰ 原始截止时间 (UTC-12): 2022-03-21 2
+ 3:59:59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会
+ 议官网: https://www.interspeech2022.org/\nDBLP索引: https://dblp.org/
+ db/conf/interspeech
+LOCATION:Incheon\, South Korea and Online
+URL:https://www.interspeech2022.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2022
+X-CCFDDL-ID:interspeech22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2023 Deadline
+DTSTART;TZID="UTC-12:00":20230301T235959
+DTEND;TZID="UTC-12:00":20230302T000059
+DTSTAMP:20261011T030844Z
+UID:fe6778d9-30cb-59a9-b3d8-f7c42c4948ef
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 21-24\, 2023\n📍 会议地点: Dublin\,
+  Ireland\n⏰ 原始截止时间 (UTC-12): 2023-03-01 23:59:59\n分类: 
+ 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https:/
+ /www.interspeech2023.org/\nDBLP索引: https://dblp.org/db/conf/interspeec
+ h
+LOCATION:Dublin\, Ireland
+URL:https://www.interspeech2023.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2023
+X-CCFDDL-ID:interspeech23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2024 Deadline
+DTSTART;TZID="UTC-12:00":20240302T235959
+DTEND;TZID="UTC-12:00":20240303T000059
+DTSTAMP:20261011T030844Z
+UID:c52a10d7-3f1c-575b-a0e0-bbec0f151707
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 2-5\, 2024\n📍 会议地点: Greece
+ \n⏰ 原始截止时间 (UTC-12): 2024-03-02 23:59:59\n分类: 计算机
+ 图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: https://www.inte
+ rspeech2024.org/\nDBLP索引: https://dblp.org/db/conf/interspeech
+LOCATION:Greece
+URL:https://www.interspeech2024.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2024
+X-CCFDDL-ID:interspeech24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2025 Deadline
+DTSTART;TZID="UTC-12:00":20250212T235959
+DTEND;TZID="UTC-12:00":20250213T000059
+DTSTAMP:20261011T030844Z
+UID:8bd8c060-9878-5b6f-b026-c39511abaed2
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 18-21\, 2025\n📍 会议地点: Rotterda
+ m\, Netherlands\n⏰ 原始截止时间 (UTC-12): 2025-02-12 23:59:59\n分
+ 类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官网: ht
+ tps://www.interspeech2025.org/home\nDBLP索引: https://dblp.org/db/conf/i
+ nterspeech
+LOCATION:Rotterdam\, Netherlands
+URL:https://www.interspeech2025.org/home
+X-CCFDDL-CONFERENCE:InterSpeech 2025
+X-CCFDDL-ID:interspeech25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260225T235959
+DTEND;TZID="UTC-12:00":20260226T000059
+DTSTAMP:20261011T030844Z
+UID:4004a53f-8157-5e34-8153-9d6ebd10a749
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: September 28 - October 1\, 2026\n📍 会议地
+ 点: Sydney\, Australia\n⏰ 原始截止时间 (AoE): 2026-02-25 23:59:59
+ \n分类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议官
+ 网: https://interspeech2026.org/\nDBLP索引: https://dblp.org/db/conf/in
+ terspeech
+LOCATION:Sydney\, Australia
+URL:https://interspeech2026.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2026
+X-CCFDDL-ID:interspeech26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2027 Deadline
+DTSTART:20270209T235959Z
+DTEND:20270210T000059Z
+DTSTAMP:20261011T030844Z
+UID:d2bcbbc3-3d91-57ea-bd57-4c329c0df661
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 29 - September 2\, 2027\n📍 会议地
+ 点: São Paulo\, Brazil\n⏰ 原始截止时间 (UTC+0): 2027-02-09 23:59
+ :59\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议
+ 官网: https://interspeech2027.org/\nDBLP索引: https://dblp.org/db/conf
+ /interspeech
+LOCATION:São Paulo\, Brazil
+URL:https://interspeech2027.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2027
+X-CCFDDL-ID:interspeech27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:InterSpeech 2027 Final Decisions
+DTSTART:20270603T115900Z
+DTEND:20270603T120000Z
+DTSTAMP:20261011T030844Z
+UID:4754dd5e-188e-5015-b344-0f309d828155
+DESCRIPTION:Conference of the International Speech Communication Associati
+ on\n🗓️ 会议时间: August 29 - September 2\, 2027\n📍 会议地
+ 点: São Paulo\, Brazil\n⏰ 原始截止时间 (UTC+0): 2027-06-03 11:59
+ :00\n分类: 计算机图形学与多媒体 (CG)\nCCF B\, CORE A\n会议
+ 官网: https://interspeech2027.org/\nDBLP索引: https://dblp.org/db/conf
+ /interspeech
+LOCATION:São Paulo\, Brazil
+URL:https://interspeech2027.org/
+X-CCFDDL-CONFERENCE:InterSpeech 2027
+X-CCFDDL-ID:interspeech27
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//会议截止日历//ccfddl.com//
+BEGIN:VTIMEZONE
+TZID:UTC+08:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC+08:00
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2023 Deadline
+DTSTART;TZID="UTC+08:00":20230201T235959
+DTEND;TZID="UTC+08:00":20230202T000059
+DTSTAMP:20261011T031004Z
+UID:f8f22093-6053-5120-b5ba-9479782fbc76
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 27-29\, 2023\n📍 Location: Sydney\, Australia (Hybrid)\n⏰ Origin
+ al Deadline (UTC+8): 2023-02-01 23:59:59\nCategory: 交叉/综合/新兴 (
+ MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciencesociety.o
+ rg/cogsci-2023/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Sydney\, Australia (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2023/
+X-CCFDDL-CONFERENCE:CogSci 2023
+X-CCFDDL-ID:cogsci23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2024 Deadline
+DTSTART;TZID="UTC+08:00":20240201T235959
+DTEND;TZID="UTC+08:00":20240202T000059
+DTSTAMP:20261011T031004Z
+UID:b70a9a9e-f2cd-5b0b-a6a4-98bc158e60ae
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 25-27\, 2024\n📍 Location: Rotterdam\, Netherlands (Hybrid)\n⏰ O
+ riginal Deadline (UTC+8): 2024-02-01 23:59:59\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciencesoci
+ ety.org/cogsci-2024/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rotterdam\, Netherlands (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2024/
+X-CCFDDL-CONFERENCE:CogSci 2024
+X-CCFDDL-ID:cogsci24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CogSci 2025 Deadline
+DTSTART;TZID="UTC+08:00":20250201T235959
+DTEND;TZID="UTC+08:00":20250202T000059
+DTSTAMP:20261011T031004Z
+UID:63724181-5d5a-55ed-9a19-586aee66e88e
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 31-August 2\, 2025\n📍 Location: San Francisco\, USA (Hybrid)\n⏰
+  Original Deadline (UTC+8): 2025-02-01 23:59:59\nCategory: 交叉/综合/
+ 新兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciences
+ ociety.org/cogsci-2025/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:San Francisco\, USA (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2025/
+X-CCFDDL-CONFERENCE:CogSci 2025
+X-CCFDDL-ID:cogsci25
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC-12:00
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC-12:00
+TZOFFSETFROM:-1200
+TZOFFSETTO:-1200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:CogSci 2026 Deadline
+DTSTART;TZID="UTC-12:00":20260202T235959
+DTEND;TZID="UTC-12:00":20260203T000059
+DTSTAMP:20261011T031004Z
+UID:1a8e837a-6b23-5fc9-bc8d-663015f49d9e
+DESCRIPTION:Annual Meeting of the Cognitive Science Society\n🗓️ Date:
+  July 23-25\, 2026\n📍 Location: Rio de Janeiro\, Brazil (Hybrid)\n⏰ O
+ riginal Deadline (AoE): 2026-02-02 23:59:59\nCategory: 交叉/综合/新
+ 兴 (MX)\nCCF B\, CORE B\nConference Website: https://cognitivesciencesoci
+ ety.org/cogsci-2026/\nDBLP Index: https://dblp.org/db/conf/cogsci
+LOCATION:Rio de Janeiro\, Brazil (Hybrid)
+URL:https://cognitivesciencesociety.org/cogsci-2026/
+X-CCFDDL-CONFERENCE:CogSci 2026
+X-CCFDDL-ID:cogsci26
+END:VEVENT
+END:VCALENDAR
